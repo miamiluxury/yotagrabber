@@ -2,32 +2,31 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x2,Supersonic Red,67675,0.0,67675.0,At dealer,False,Available,7SVAAAAA0RX002520,Modern Toyota,NC
 2024,Capstone 4x2,Midnight Black Metallic,78265,4085.0,82350.0,At dealer,False,Available,7SVAAAAA0RX003098,Fred Haas Toyota World,TX
 2024,Platinum 4x2,Celestial Silver Metallic,73865,12696.0,86561.0,At dealer,False,Available,7SVAAAAA0RX003103,Alamo Toyota,TX
+2024,Limited 4x2,Supersonic Red,67675,0.0,67675.0,Factory to port,False,Available,7SVAAAAA0RX003165,AutoNation Toyota Gulf Freeway,TX
 2024,Limited 4x2,Wind Chill Pearl,67675,0.0,67675.0,At dealer,True,Available,7SVAAAAA0RX003182,Gray-Daniels Toyota,MS
-2024,SR5 4x2,Ice Cap,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA0RX04B502,Mike Erdman Toyota,FL
+2024,SR5 4x2,Ice Cap,61275,0.0,61275.0,Factory to port,False,DealerHold,7SVAAAAA0RX04B502,Tuscaloosa Toyota,AL
 2024,Capstone 4x2,Magnetic Gray Metallic,78265,0.0,78265.0,Factory to port,False,Available,7SVAAAAA0RX04D623,AutoNation Toyota Weston,FL
 2024,Platinum 4x2,Midnight Black Metallic,73865,0.0,73865.0,Factory to port,False,DealerHold,7SVAAAAA0RX09A053,Courtesy Toyota,FL
-2024,Platinum 4x2,Celestial Silver Metallic,73865,0.0,73865.0,At dealer,False,Available,7SVAAAAA1RX002882,AutoNation Toyota Gulf Freeway,TX
-2024,Limited 4x2,Magnetic Gray Metallic,67675,1098.0,68773.0,At dealer,False,Available,7SVAAAAA1RX003112,Toyota of Cedar Park,TX
-2024,Platinum 4x2,Wind Chill Pearl,73865,0.0,73865.0,At dealer,False,DealerHold,7SVAAAAA1RX003160,Springhill Toyota,AL
+2024,Limited 4x2,Magnetic Gray Metallic,67675,0.0,67675.0,At dealer,False,Available,7SVAAAAA1RX003112,AutoNation Toyota Corpus Christi,TX
 2024,Platinum 4x2,Celestial Silver Metallic,73865,2910.0,76775.0,At dealer,False,Available,7SVAAAAA1RX003174,Cannon Toyota,MS
 2024,Limited 4x2,Supersonic Red,67675,0.0,67675.0,Factory to port,False,Available,7SVAAAAA1RX003207,Toyota of Easley,SC
-2024,Capstone 4x2,Midnight Black Metallic,78265,6979.0,85244.0,Factory to port,False,Available,7SVAAAAA1RX003210,Joe Myers Toyota,TX
+2024,Capstone 4x2,Midnight Black Metallic,78265,2980.0,81245.0,Port to dealer,False,Available,7SVAAAAA1RX003210,Joe Myers Toyota,TX
 2024,Capstone 4x2,Magnetic Gray Metallic,77865,0.0,77865.0,At dealer,False,Available,7SVAAAAA2RX002969,Kirk Toyota,MS
-2024,Capstone 4x2,Midnight Black Metallic,78265,0.0,78265.0,Factory to port,False,Available,7SVAAAAA2RX003085,Springhill Toyota,AL
+2024,Capstone 4x2,Midnight Black Metallic,78265,0.0,78265.0,At dealer,False,Available,7SVAAAAA2RX003085,Springhill Toyota,AL
 2024,Limited 4x2,Smoked Mesquite,67675,0.0,67675.0,At dealer,False,Available,7SVAAAAA2RX003118,Gregg Orr Toyota,AR
-2024,Capstone 4x2,Blueprint,78265,0.0,78265.0,At dealer,False,Available,7SVAAAAA2RX003135,Bill Penney Toyota,AL
 2024,Limited 4x2,Supersonic Red,67675,0.0,67675.0,At dealer,False,DealerHold,7SVAAAAA2RX003183,Family Toyota of Burleson,TX
 2024,Capstone 4x2,Wind Chill Pearl,78265,0.0,78265.0,Factory to port,False,DealerHold,7SVAAAAA2RX003197,Lakeland Toyota,FL
 2024,Limited 4x2,Smoked Mesquite,67675,0.0,67675.0,Factory to port,False,Available,7SVAAAAA2RX003216,Franklin Toyota,GA
+2024,SR5 4x2,Midnight Black Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA2RX08A009,Tuscaloosa Toyota,AL
 2024,Platinum 4x2,Wind Chill Pearl,73865,0.0,73865.0,Factory to port,False,Available,7SVAAAAA2RX09B379,TeamOne Toyota of Gadsden,AL
 2024,Platinum 4x2,Wind Chill Pearl,73865,0.0,73865.0,Factory to port,False,Available,7SVAAAAA2RX09C080,Serra Toyota,AL
 2024,Platinum 4x2,Magnetic Gray Metallic,73465,13493.0,86958.0,At dealer,False,Available,7SVAAAAA3RX002656,Keating Toyota,TX
 2024,Limited 4x2,Supersonic Red,67275,0.0,67275.0,At dealer,False,Available,7SVAAAAA3RX002754,Butler Toyota,GA
 2024,Capstone 4x2,Blueprint,77865,0.0,77865.0,At dealer,False,Available,7SVAAAAA3RX002981,Supreme Toyota of Hammond,LA
-2024,Platinum 4x2,Celestial Silver Metallic,73865,0.0,73865.0,At dealer,False,Available,7SVAAAAA3RX003046,Jim Norton Toyota,OK
+2024,Platinum 4x2,Celestial Silver Metallic,73865,2895.0,76760.0,At dealer,False,Available,7SVAAAAA3RX003046,Jim Norton Toyota,OK
 2024,Platinum 4x2,Supersonic Red,73865,0.0,73865.0,Factory to port,False,Available,7SVAAAAA3RX003063,J. Allen Toyota,MS
 2024,Capstone 4x2,Celestial Silver Metallic,78265,1098.0,79363.0,At dealer,False,Available,7SVAAAAA3RX003158,Toyota of Cedar Park,TX
-2024,Platinum 4x2,Celestial Silver Metallic,73865,0.0,73865.0,Port to dealer,False,DealerHold,7SVAAAAA3RX003192,Pat Lobb Toyota of McKinney,TX
+2024,Platinum 4x2,Celestial Silver Metallic,73865,0.0,73865.0,At dealer,False,DealerHold,7SVAAAAA3RX003192,Pat Lobb Toyota of McKinney,TX
 2024,Capstone 4x2,Supersonic Red,78265,0.0,78265.0,Factory to port,False,DealerHold,7SVAAAAA3RX04B560,Germain Toyota of Naples,FL
 2024,Capstone 4x2,Wind Chill Pearl,78265,0.0,78265.0,Factory to port,True,Available,7SVAAAAA3RX06B873,Toyota of New Orleans,LA
 2024,SR5 4x2,Celestial Silver Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA3RX06D655,Lowe Toyota of Warner Robins,GA
@@ -54,31 +53,31 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x2,Celestial Silver Metallic,73865,1495.0,75360.0,At dealer,False,DealerHold,7SVAAAAA6RX003056,Post Oak Toyota,OK
 2024,Limited 4x2,Magnetic Gray Metallic,67675,2895.0,70570.0,At dealer,False,Available,7SVAAAAA6RX003140,Jim Norton Toyota,OK
 2024,Limited 4x2,Blueprint,67675,0.0,67675.0,At dealer,False,Available,7SVAAAAA6RX003154,Mike Shaw Toyota,TX
-2024,Platinum 4x2,Wind Chill Pearl,73865,0.0,73865.0,Factory to port,False,DealerHold,7SVAAAAA6RX003185,Northshore Toyota,LA
+2024,Platinum 4x2,Wind Chill Pearl,73865,0.0,73865.0,Port to dealer,False,DealerHold,7SVAAAAA6RX003185,Northshore Toyota,LA
 2024,Capstone 4x2,Midnight Black Metallic,78265,0.0,78265.0,Factory to port,False,Available,7SVAAAAA6RX003204,Toyota of Fort Walton Beach,FL
 2024,Capstone 4x2,Celestial Silver Metallic,78265,0.0,78265.0,Factory to port,True,DealerHold,7SVAAAAA6RX05B595,Panama City Toyota,FL
 2024,SR5 4x2,Magnetic Gray Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA6RX06B916,Courtesy Toyota,FL
-2024,Capstone 4x2,Celestial Silver Metallic,78265,0.0,78265.0,Factory to port,False,Available,7SVAAAAA6RX07B295,Tuscaloosa Toyota,AL
+2024,Capstone 4x2,Celestial Silver Metallic,78265,0.0,78265.0,Factory to port,False,Available,7SVAAAAA6RX07B295,Mike Erdman Toyota,FL
 2024,SR5 4x2,Midnight Black Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA6RX08A563,Clearwater Toyota,FL
 2024,Platinum 4x2,Supersonic Red,73465,0.0,73465.0,At dealer,False,,7SVAAAAA7RX002966,Mark Jacobson Toyota,NC
 2024,Capstone 4x2,Celestial Silver Metallic,78265,0.0,78265.0,At dealer,False,Available,7SVAAAAA7RX003096,AutoNation Toyota Corpus Christi,TX
 2024,Platinum 4x2,Blueprint,73865,1098.0,74963.0,At dealer,False,Available,7SVAAAAA7RX003132,Toyota of Cedar Park,TX
 2024,Capstone 4x2,Magnetic Gray Metallic,78265,0.0,78265.0,At dealer,False,Available,7SVAAAAA7RX003146,Texas Toyota of Grapevine,TX
 2024,Platinum 4x2,Wind Chill Pearl,73865,1895.0,75760.0,At dealer,True,Available,7SVAAAAA7RX003180,Don McGill Toyota,TX
-2024,Platinum 4x2,Midnight Black Metallic,73865,0.0,73865.0,Factory to port,False,Available,7SVAAAAA7RX003194,Stewart Toyota,TX
+2024,Platinum 4x2,Midnight Black Metallic,73865,0.0,73865.0,Port to dealer,False,Available,7SVAAAAA7RX003194,Stewart Toyota,TX
 2024,SR5 4x2,Magnetic Gray Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA7RX06D304,Coggin Toyota at the Avenues,FL
 2024,Platinum 4x2,Celestial Silver Metallic,73865,0.0,73865.0,Factory to port,False,DealerHold,7SVAAAAA7RX07A429,Courtesy Toyota,FL
 2024,Limited 4x2,Midnight Black Metallic,67675,0.0,67675.0,Factory to port,False,Available,7SVAAAAA7RX08A636,"Riverside Toyota, Inc.",GA
-2024,Capstone 4x2,Midnight Black Metallic,78265,0.0,78265.0,At dealer,False,Available,7SVAAAAA8RX003091,Kirk Toyota,MS
+2024,Capstone 4x2,Midnight Black Metallic,78265,0.0,78265.0,At dealer,True,Available,7SVAAAAA8RX003091,Kirk Toyota,MS
 2024,Limited 4x2,Blueprint,67675,1599.0,69274.0,At dealer,False,Available,7SVAAAAA8RX003169,Silsbee Toyota,TX
-2024,Limited 4x2,Midnight Black Metallic,67675,0.0,67675.0,Factory to port,False,,7SVAAAAA8RX003172,Hendrick Toyota Wilmington,NC
 2024,Platinum 4x2,Celestial Silver Metallic,73865,1495.0,75360.0,At dealer,False,Available,7SVAAAAA8RX003186,Sterling McCall Toyota,TX
 2024,Limited 4x2,Smoked Mesquite,67675,2895.0,70570.0,Factory to port,False,Available,7SVAAAAA8RX003205,Jim Norton Toyota,OK
+2024,Limited 4x2,Wind Chill Pearl,67675,0.0,67675.0,Factory to port,True,Available,7SVAAAAA8RX003219,Van-Trow Toyota,LA
 2024,Platinum 4x2,Blueprint,73865,499.0,74364.0,Factory to port,False,Available,7SVAAAAA8RX05A013,Caldwell Toyota,AR
 2024,SR5 4x2,Lunar Rock,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA8RX09C052,Heyward Allen Toyota,GA
 2024,Capstone 4x2,Celestial Silver Metallic,77865,0.0,77865.0,At dealer,False,Available,7SVAAAAA9RX003021,Toyota of Rock Hill,SC
 2024,Limited 4x2,Wind Chill Pearl,67675,4595.0,72270.0,At dealer,True,DealerHold,7SVAAAAA9RX003181,Cowboy Toyota,TX
-2024,Limited 4x2,Smoked Mesquite,67675,4680.0,72355.0,At dealer,False,Available,7SVAAAAA9RX003195,Fred Haas Toyota World,TX
+2024,Limited 4x2,Smoked Mesquite,67675,4680.0,72355.0,At dealer,False,DealerHold,7SVAAAAA9RX003195,Fred Haas Toyota World,TX
 2024,Limited 4x2,Smoked Mesquite,67675,0.0,67675.0,Factory to port,False,Available,7SVAAAAA9RX003200,Classic Toyota,TX
 2024,Platinum 4x2,Supersonic Red,73865,0.0,73865.0,Factory to port,True,DealerHold,7SVAAAAA9RX003214,Pat Lobb Toyota of McKinney,TX
 2024,SR5 4x2,Midnight Black Metallic,61275,0.0,61275.0,Factory to port,False,Available,7SVAAAAA9RX07B338,Prince Toyota,GA
@@ -128,7 +127,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1875.0,83140.0,Factory to port,False,DealerHold,7SVAAABA0RX029621,Red McCombs Toyota,TX
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,True,DealerHold,7SVAAABA0RX029747,Brownsville Toyota,TX
 2024,SR5 4x4,Blueprint,63875,1798.0,65673.0,At dealer,False,Available,7SVAAABA0RX029750,Toyota of Portland on Broadway,OR
-2024,Limited 4x4,Wind Chill Pearl,70275,0.0,70275.0,Port to dealer,False,DealerHold,7SVAAABA0RX029800,Town Toyota,WA
+2024,Limited 4x4,Wind Chill Pearl,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA0RX029800,Town Toyota,WA
 2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA0RX029814,Tufankjian Toyota of Braintree,MA
 2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA0RX029926,K.C. Summers Toyota,IL
 2024,TRD Pro 4x4,Ice Cap,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA0RX030039,Mark Miller Toyota,UT
@@ -157,15 +156,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA0RX030834,Kings Toyota,OH
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,,7SVAAABA0RX030848,Bob Rohrman Toyota,IN
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA0RX030882,Northshore Toyota,LA
-2024,Limited 4x4,Supersonic Red,70675,1495.0,72170.0,At dealer,False,Available,7SVAAABA0RX030896,Cavender Toyota,TX
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA0RX030901,A-1 Toyota,CT
 2024,Capstone 4x4,Celestial Silver Metallic,81265,1995.0,83260.0,At dealer,False,Available,7SVAAABA0RX030929,Toyota of Wichita Falls,TX
-2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX030980,Nalley Toyota of Roswell,GA
+2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA0RX030980,Nalley Toyota of Roswell,GA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABA0RX031000,"Pedersen Toyota, Ltd.",CO
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA0RX031014,Big Two Toyota of Chandler,AZ
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA0RX031028,Team Toyota,IN
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX031031,Cobb County Toyota,GA
-2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA0RX031059,St. Charles Toyota,IL
+2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX031059,St. Charles Toyota,IL
 2024,TRD Pro 4x4,Ice Cap,79110,995.0,80105.0,Port to dealer,True,,7SVAAABA0RX031062,Hanlees Fairfield Toyota,CA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA0RX031076,Right Toyota,AZ
 2024,Platinum 4x4,Supersonic Red,76865,395.0,77260.0,Port to dealer,False,,7SVAAABA0RX031093,Toyota 101,CA
@@ -184,7 +182,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA0RX031305,Bill Estes Toyota,IN
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA0RX031336,Lithia Toyota of Klamath Falls,OR
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA0RX031353,Younger Toyota,MD
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX031367,Sarasota Toyota,FL
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA0RX031367,Sarasota Toyota,FL
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA0RX031384,Family Toyota of Burleson,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA0RX031403,Seeger Toyota,MO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA0RX031417,Toyota of Gallatin,TN
@@ -216,9 +214,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA0RX031823,Miracle Toyota,FL
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA0RX031837,Jay Wolfe Toyota of West County,MO
 2024,SR5 4x4,Ice Cap,64275,1595.0,65870.0,Port to dealer,False,Available,7SVAAABA0RX031854,Findlay Toyota,NV
-2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA0RX031868,Toyota of New Orleans,LA
+2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA0RX031868,Toyota of New Orleans,LA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA0RX031871,Ed Martin Toyota,IN
-2024,Limited 4x4,Wind Chill Pearl,70675,988.0,71663.0,Factory to port,True,DealerHold,7SVAAABA0RX031899,Longo Toyota of Prosper,TX
+2024,Limited 4x4,Wind Chill Pearl,70675,988.0,71663.0,Port to dealer,True,DealerHold,7SVAAABA0RX031899,Longo Toyota of Prosper,TX
 2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,Factory to port,True,DealerHold,7SVAAABA0RX031921,Brownsville Toyota,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX031935,Treasure Coast Toyota of Stuart,FL
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA0RX031952,C F Schwartz Toyota,DE
@@ -227,19 +225,22 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX032017,Miracle Toyota,FL
 2024,Platinum 4x4,Supersonic Red,76865,1495.0,78360.0,Factory to port,False,Available,7SVAAABA0RX032048,Sterling McCall Toyota,TX
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA0RX032065,Wilsonville Toyota,OR
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA0RX032079,Balise Toyota of Warwick,RI
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA0RX032101,Rolling Hills Toyota,MO
 2024,Platinum 4x4,Midnight Black Metallic,76865,4680.0,81545.0,Factory to port,False,Available,7SVAAABA0RX032115,Fred Haas Toyota World,TX
-2024,SR5 4x4,Midnight Black Metallic,64275,798.0,65073.0,Factory to port,False,,7SVAAABA0RX04A025,Toyota of Tacoma,WA
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA0RX032129,Toyota of Watertown,MA
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA0RX032177,Team Toyota of Glen Mills,PA
+2024,Limited 4x4,Wind Chill Pearl,70675,1695.0,72370.0,Factory to port,False,DealerHold,7SVAAABA0RX032213,Shapen Toyota,TX
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA0RX032227,Lakeside Toyota,LA
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX032230,Jim Hudson Toyota,SC
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,,7SVAAABA0RX04A218,Sierra Toyota,AZ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA0RX04B708,TeamOne Toyota of Gadsden,AL
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX04B885,Copeland Toyota,MA
 2024,SR5 4x4,Celestial Silver Metallic,64275,3675.0,67950.0,Factory to port,False,,7SVAAABA0RX04B899,Kearny Mesa Toyota,CA
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,DealerHold,7SVAAABA0RX04B904,Team Toyota of Glen Mills,PA
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA0RX04D104,Mike Johnson's Hickory Toyota,NC
 2024,SR5 4x4,Solar Octane,64275,1978.0,66253.0,Factory to port,False,,7SVAAABA0RX04D197,Chuck Hutton Toyota,TN
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA0RX04D216,Arlington Toyota,FL
 2024,Limited 4x4,Supersonic Red,70675,1098.0,71773.0,Factory to port,False,Available,7SVAAABA0RX04D233,Toyota of Cedar Park,TX
-2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,True,,7SVAAABA0RX04D250,Toyota Chula Vista,CA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA0RX04D412,Toyota of Easley,SC
 2024,Platinum 4x4,Lunar Rock,76865,1695.0,78560.0,Factory to port,True,DealerHold,7SVAAABA0RX04D443,Anderson Toyota,AZ
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX04D622,Palmiero Toyota,PA
@@ -249,6 +250,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX05A179,Toyota of Muskegon,MI
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX05B526,Rhinelander Toyota,WI
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,,7SVAAABA0RX05B557,Toyota of Fox Lake,IL
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX05B574,Arlington Toyota,FL
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX05B591,Bayside Toyota,MD
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX05B610,Kendall Toyota,OR
 2024,SR5 4x4,Smoked Mesquite,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX05C031,Groove Toyota,CO
@@ -267,10 +269,11 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX06B571,Toyota South,KY
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX06B649,Schaumburg Toyota,IL
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX06B926,"Pedersen Toyota, Ltd.",CO
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX06C817,Fred Anderson Toyota of Charleston,SC
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX06D286,Bennett Toyota of Lebanon,PA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA0RX06D577,"Stapp Interstate Toyota, Inc.",CO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA0RX06D644,Johnson City Toyota,TN
-2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX06D658,Steet Toyota,NY
+2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA0RX06D658,Steet Toyota,NY
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX07A402,Star Toyota of Bayside,NY
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,,7SVAAABA0RX07A433,McGee Toyota of Dudley,MA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA0RX07A450,Groove Toyota,CO
@@ -291,11 +294,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA0RX09B377,"Bristol Toyota, Inc.",MA
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX09B413,Coad Toyota Paducah,KY
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX09B427,Watermark Toyota,KY
-2024,SR5 4x4,Solar Octane,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX09B430,Joseph Toyota of Cincinnati,OH
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX09B914,AutoNation Toyota Libertyville,IL
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,DealerHold,7SVAAABA0RX09C013,Byers Toyota,OH
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA0RX09C030,Prince Toyota,GA
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX09C044,Toyota of Naperville,IL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA0RX09C187,McGee Toyota of Epping,NH
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA0RX09D081,Mechanicsville Toyota,VA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX09D095,Copeland Toyota,MA
@@ -303,7 +304,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX09D534,Ken Ganley Toyota,PA
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX09D680,Rodland Toyota,WA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX09D789,Groove Toyota,CO
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX10A708,Chuck Hutton Toyota,TN
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,1978.0,78843.0,Factory to port,False,,7SVAAABA0RX10A708,Chuck Hutton Toyota,TN
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA0RX10A837,Mungenast Alton Toyota,IL
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX10A904,Ken Ganley Toyota Akron,OH
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX10A935,DCH Brunswick Toyota,NJ
@@ -321,6 +322,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,1298.0,71973.0,Factory to port,False,,7SVAAABA0RX10D883,Sunshine Toyota,MI
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,,7SVAAABA0RX10E032,Toyota of Boardman,OH
 2024,Limited 4x4,Supersonic Red,70675,1098.0,71773.0,Factory to port,False,,7SVAAABA0RX11A638,Toyota of Terre Haute,IN
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA0RX11B238,Dublin Toyota,CA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA0RX11B711,"Molle Toyota, Inc.",MO
 2023,Capstone 4x4,Midnight Black Metallic,79865,0.0,79865.0,At dealer,False,Available,7SVAAABA1PX019807,Toyota of Clovis,CA
 2024,Limited 4x4,Blueprint,70275,1695.0,71970.0,At dealer,False,Available,7SVAAABA1RX022063,Shapen Toyota,TX
@@ -329,8 +331,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Blueprint,70275,0.0,70275.0,At dealer,False,Available,7SVAAABA1RX025612,Tracy Toyota,CA
 2024,Platinum 4x4,Blueprint,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA1RX026078,Rogers Toyota of Hermiston,OR
 2024,Limited 4x4,Smoked Mesquite,70275,0.0,70275.0,At dealer,False,,7SVAAABA1RX026100,AutoNation Toyota Arapahoe,CO
-2024,Limited 4x4,Magnetic Gray Metallic,70675,4085.0,74760.0,At dealer,False,DealerHold,7SVAAABA1RX026405,Fred Haas Toyota World,TX
-2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA1RX027084,Kinderhook Toyota,NY
 2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA1RX027120,City World Toyota,NY
 2024,Capstone 4x4,Blueprint,80865,0.0,80865.0,At dealer,False,,7SVAAABA1RX027392,Groove Toyota,CO
 2024,SR5 4x4,Midnight Black Metallic,63875,0.0,63875.0,At dealer,False,DealerHold,7SVAAABA1RX027716,DARCARS Toyota,MD
@@ -338,7 +338,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Midnight Black Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABA1RX028154,Ourisman Fairfax Toyota,VA
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA1RX028249,Westchester Toyota,NY
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,,7SVAAABA1RX028381,Mark Toyota of Plover,WI
-2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA1RX028512,Girard Toyota-BMW,CT
+2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA1RX028512,Girard Toyota-BMW,CT
 2024,Capstone 4x4,Celestial Silver Metallic,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA1RX028588,Royal Moore Toyota,OR
 2024,Platinum 4x4,Midnight Black Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA1RX028638,Gault Toyota,NY
 2024,TRD Pro 4x4,Terra,78710,5995.0,84705.0,At dealer,False,,7SVAAABA1RX028655,Kolar Toyota,MN
@@ -376,7 +376,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA1RX030454,Napleton's Toyota of Urbana,IL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA1RX030499,Sheehy Toyota of Laurel,MD
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,,7SVAAABA1RX030535,Tracy Toyota,CA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,False,,7SVAAABA1RX030566,Toyota of Gastonia,NC
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA1RX030616,Charlie's Toyota,ME
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA1RX030633,West Herr Toyota of Canandaigua,NY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,False,,7SVAAABA1RX030650,McDaniel Toyota,OH
@@ -394,12 +393,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,Available,7SVAAABA1RX030924,Fitzgerald Toyota Gaithersburg,MD
 2024,Limited 4x4,Celestial Silver Metallic,70675,4990.0,75665.0,At dealer,False,,7SVAAABA1RX030955,Toyota Carlsbad,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,1790.0,72465.0,Port to dealer,False,,7SVAAABA1RX030969,Shore Toyota,NJ
-2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA1RX030972,Folsom Lake Toyota,CA
+2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,At dealer,True,DealerHold,7SVAAABA1RX030972,Folsom Lake Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA1RX030986,Maguire Toyota,NY
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA1RX031006,St. Charles Toyota,IL
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA1RX031006,St. Charles Toyota,IL
 2024,SR5 4x4,Midnight Black Metallic,64275,799.0,65074.0,Port to dealer,False,,7SVAAABA1RX031040,Roswell Toyota,NM
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA1RX031054,Toyota of Erie,PA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA1RX031085,Eddy's Toyota of Wichita,KS
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,At dealer,False,,7SVAAABA1RX031099,Capitol Toyota,CA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA1RX031104,Toyota of Deerfield Beach,FL
 2024,Limited 4x4,Celestial Silver Metallic,70675,2495.0,73170.0,Port to dealer,False,DealerHold,7SVAAABA1RX031118,Toyota of Orange,CA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA1RX031149,Lipton Toyota,FL
@@ -408,8 +408,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA1RX031183,Hubert Vester Toyota of Wilson,NC
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,True,DealerHold,7SVAAABA1RX031197,Ed Martin Toyota,IN
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,,7SVAAABA1RX031202,Toyota South,KY
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA1RX031216,John Eagle Sport City Toyota,TX
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA1RX031247,Avondale Toyota,AZ
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA1RX031216,John Eagle Sport City Toyota,TX
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,True,Available,7SVAAABA1RX031247,Avondale Toyota,AZ
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA1RX031264,Headquarter Toyota,FL
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,5680.0,82545.0,At dealer,False,Available,7SVAAABA1RX031278,Fred Haas Toyota World,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,798.0,77663.0,Port to dealer,False,,7SVAAABA1RX031300,Toyota of Tacoma,WA
@@ -426,7 +426,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,81265,4966.0,86231.0,Port to dealer,False,,7SVAAABA1RX031457,Toyota of Turnersville,NJ
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA1RX031474,Pohanka Toyota of Salisbury,MD
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA1RX031488,Schaumburg Toyota,IL
-2024,Capstone 4x4,Wind Chill Pearl,81265,1098.0,82363.0,At dealer,True,Available,7SVAAABA1RX031507,Toyota of Cedar Park,TX
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA1RX031524,Butte Toyota,MT
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA1RX031538,Kalispell Toyota,MT
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA1RX031541,Younger Toyota,MD
@@ -437,11 +436,11 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA1RX031622,Hendrick Toyota Concord,NC
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA1RX031636,Mountain States Toyota,CO
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA1RX031653,Philpott Toyota,TX
-2024,Limited 4x4,Magnetic Gray Metallic,70675,2379.0,73054.0,Factory to port,True,DealerHold,7SVAAABA1RX031667,Gullo Toyota of Conroe,TX
+2024,Limited 4x4,Magnetic Gray Metallic,70675,2379.0,73054.0,Port to dealer,True,DealerHold,7SVAAABA1RX031667,Gullo Toyota of Conroe,TX
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,897.0,82162.0,Factory to port,False,Available,7SVAAABA1RX031684,Toyota of Irving,TX
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA1RX031698,Toyota of Deerfield Beach,FL
 2024,SR5 4x4,Magnetic Gray Metallic,64275,358.0,64633.0,Port to dealer,False,,7SVAAABA1RX031703,Kolar Toyota,MN
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX031751,Jeff Hunter Toyota,TX
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA1RX031751,Jeff Hunter Toyota,TX
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA1RX031765,Edmark Toyota,ID
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,True,,7SVAAABA1RX031779,Toyota of Des Moines,IA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA1RX031782,New Holland Toyota,PA
@@ -456,7 +455,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA1RX031927,Tony Divino Toyota,UT
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA1RX031930,Smart Toyota of Quad Cities,IA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA1RX031944,Kings Toyota,OH
-2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,,7SVAAABA1RX031961,Rohrich Toyota,PA
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA1RX031961,Rohrich Toyota,PA
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA1RX031975,Corwin Toyota of Bellevue,NE
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX031989,Arlington Toyota,FL
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA1RX031992,Camelback Toyota,AZ
@@ -465,11 +464,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX032026,Gullo Toyota of Conroe,TX
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX032043,Mike Johnson's Hickory Toyota,NC
 2024,Limited 4x4,Celestial Silver Metallic,70675,1295.0,71970.0,Port to dealer,False,,7SVAAABA1RX032057,Auburn Toyota,CA
+2024,Platinum 4x4,Wind Chill Pearl,76865,1798.0,78663.0,Port to dealer,False,,7SVAAABA1RX032091,Toyota of Portland on Broadway,OR
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA1RX032110,"Molle Toyota, Inc.",MO
 2024,Capstone 4x4,Wind Chill Pearl,81265,299.0,81564.0,Port to dealer,False,,7SVAAABA1RX032124,Team Toyota,PA
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA1RX032155,Future Toyota of Yuba City,CA
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA1RX032169,Carlson Toyota,MN
 2024,Platinum 4x4,Midnight Black Metallic,76865,199.0,77064.0,Port to dealer,False,,7SVAAABA1RX032172,Torrington Toyota,CT
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX032205,John Eagle Sport City Toyota,TX
+2024,Capstone 4x4,Wind Chill Pearl,81265,1875.0,83140.0,Factory to port,True,Available,7SVAAABA1RX032222,Red McCombs Toyota,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA1RX032236,Expressway Toyota,MA
+2024,SR5 4x4,Midnight Black Metallic,64275,798.0,65073.0,Port to dealer,False,,7SVAAABA1RX032253,Toyota of Tacoma,WA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX032284,Springhill Toyota,AL
+2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,True,,7SVAAABA1RX032303,Toyota Chula Vista,CA
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX04A177,Hillside Toyota,NY
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA1RX04A213,West Herr Toyota of Williamsville,NY
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA1RX04B510,Bennett Toyota of Lebanon,PA
@@ -477,12 +483,11 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX04B703,Town & Country Toyota,NC
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX04B880,Bayside Toyota,MD
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX04B894,Dublin Toyota,CA
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA1RX04C026,Toyota of Greensboro,NC
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA1RX04D256,Yark Toyota,OH
-2024,Capstone 4x4,Midnight Black Metallic,81265,1098.0,82363.0,Factory to port,False,Available,7SVAAABA1RX04D614,Toyota of Cedar Park,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,1098.0,82363.0,Factory to port,False,DealerHold,7SVAAABA1RX04D614,Toyota of Cedar Park,TX
 2024,Limited 4x4,Smoked Mesquite,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX04D628,San Francisco Toyota,CA
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA1RX04D631,AutoNation Toyota Cerritos,CA
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX05A014,Atlanta Toyota,GA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA1RX05A014,Atlanta Toyota,GA
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX05A112,Toyota of Naperville,IL
 2024,SR5 4x4,Celestial Silver Metallic,64275,299.0,64574.0,Factory to port,False,,7SVAAABA1RX05A126,Team Toyota,PA
 2024,Limited 4x4,Lunar Rock,70675,995.0,71670.0,Factory to port,False,Available,7SVAAABA1RX05A143,Hanlees Fairfield Toyota,CA
@@ -496,7 +501,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX05B860,Limbaugh Toyota,AL
 2024,Limited 4x4,Lunar Rock,70675,3117.0,73792.0,Factory to port,True,DealerHold,7SVAAABA1RX05B891,Norm Reeves Toyota San Diego,CA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA1RX05D284,Ken Ganley Toyota Akron,OH
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX05D303,Leith Toyota,NC
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA1RX05D303,Modern Toyota,NC
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,,7SVAAABA1RX05D544,Toyota of Fox Lake,IL
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA1RX05D575,Longo Toyota of Prosper,TX
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA1RX05D589,Round Rock Toyota,TX
@@ -540,7 +545,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA1RX09A075,San Francisco Toyota,CA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX09A190,Toyota of Greensburg,PA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX09A433,Seminole Toyota,FL
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX09B517,Tuscaloosa Toyota,AL
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA1RX09B517,Toyota of Hollywood,FL
 2024,Limited 4x4,Wind Chill Pearl,70675,5670.0,76345.0,Factory to port,True,DealerHold,7SVAAABA1RX09C036,Kearny Mesa Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA1RX09C070,Milton Martin Toyota,GA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA1RX09C957,Baxter Toyota of La Vista,NE
@@ -555,6 +560,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Lunar Rock,76865,1595.0,78460.0,Factory to port,False,,7SVAAABA1RX10B799,Findlay Toyota,NV
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA1RX10C564,Kolosso Toyota,WI
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA1RX10D889,Tansky Sawmill Toyota,OH
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,1295.0,82560.0,Factory to port,False,,7SVAAABA1RX10E007,Auburn Toyota,CA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA1RX10E010,Toyota of Morristown,NJ
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA1RX11A051,Rudy Luther Toyota,MN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA1RX11A647,"Pedersen Toyota, Ltd.",CO
@@ -579,8 +585,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70275,0.0,70275.0,At dealer,False,,7SVAAABA2RX026882,Bobby Rahal Toyota,PA
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA2RX027501,South Dade Toyota,FL
 2024,SR5 4x4,Magnetic Gray Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABA2RX027630,Sheehy Toyota of Stafford,VA
-2024,Platinum 4x4,Blueprint,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA2RX028003,Toyota of Watertown,MA
-2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,At dealer,True,Available,7SVAAABA2RX028101,Jim Norton Toyota,OK
+2024,TRD Pro 4x4,Ice Cap,79110,2895.0,82005.0,At dealer,True,Available,7SVAAABA2RX028101,Jim Norton Toyota,OK
 2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,True,Available,7SVAAABA2RX028180,Mike Shaw Toyota,TX
 2024,Platinum 4x4,Midnight Black Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA2RX028227,Empire Toyota of Huntington,NY
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,,7SVAAABA2RX028406,Toyota of Fox Lake,IL
@@ -631,42 +636,40 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,At dealer,False,DealerHold,7SVAAABA2RX030897,Earnhardt Toyota,AZ
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA2RX030902,Jim Hudson Toyota,SC
 2024,SR5 4x4,Solar Octane,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA2RX030916,Victory Toyota,MI
-2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA2RX030933,Toyota of Santa Fe,NM
+2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,At dealer,False,DealerHold,7SVAAABA2RX030933,Toyota of Santa Fe,NM
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX030950,Sloane Toyota of Philadelphia,PA
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA2RX030995,Sloane Toyota of Glenside,PA
 2024,Limited 4x4,Smoked Mesquite,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA2RX031032,Palestine Toyota,TX
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX031046,Hendrick Toyota Wilmington,NC
 2024,TRD Pro 4x4,Terra,79110,1599.0,80709.0,At dealer,True,DealerHold,7SVAAABA2RX031080,Fowler Toyota,OK
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX031127,Walters Toyota,KY
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,False,,7SVAAABA2RX031127,Walters Toyota,KY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX031144,Concord Toyota,CA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA2RX031175,"Pedersen Toyota, Ltd.",CO
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA2RX031189,Markquart Toyota,WI
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA2RX031192,Dublin Toyota,CA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,1880.0,78745.0,At dealer,True,Available,7SVAAABA2RX031208,Toyota of Fort Worth,TX
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA2RX031211,Toyota of Hackensack,NJ
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA2RX031225,Right Toyota,AZ
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA2RX031239,Haley Toyota,VA
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA2RX031273,Lou Fusz Toyota,MO
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,DealerHold,7SVAAABA2RX031273,Lou Fusz Toyota,MO
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX031287,Bill Page Toyota,VA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA2RX031306,AutoNation Toyota Weston,FL
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA2RX031337,Brent Brown Toyota,UT
 2024,Platinum 4x4,Lunar Rock,76865,2796.0,79661.0,Port to dealer,False,DealerHold,7SVAAABA2RX031340,AutoNation Toyota Tempe,AZ
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA2RX031354,AutoNation Toyota Arapahoe,CO
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA2RX031354,AutoNation Toyota Arapahoe,CO
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,At dealer,True,Available,7SVAAABA2RX031368,Family Toyota of Burleson,TX
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,True,,7SVAAABA2RX031385,Toyota of Lancaster,CA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA2RX031399,Legends Toyota,KS
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA2RX031404,Toyota On Western,IL
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,,7SVAAABA2RX031404,Toyota On Western,IL
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA2RX031418,Coad Toyota,MO
 2024,Platinum 4x4,Lunar Rock,76865,995.0,77860.0,Port to dealer,True,,7SVAAABA2RX031421,Toyota Town,CA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA2RX031435,Tufankjian Toyota of Braintree,MA
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX031449,Victory Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABA2RX031452,Family Toyota of Burleson,TX
-2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA2RX031466,Le Mieux & Son Toyota,WI
+2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,At dealer,False,DealerHold,7SVAAABA2RX031466,Le Mieux & Son Toyota,WI
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA2RX031483,Findlay Toyota Prescott,AZ
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA2RX031497,LaGrange Toyota,GA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA2RX031502,Groove Toyota,CO
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,DealerHold,7SVAAABA2RX031533,Cowboy Toyota,TX
-2024,Limited 4x4,Wind Chill Pearl,70675,4085.0,74760.0,At dealer,False,DealerHold,7SVAAABA2RX031547,Fred Haas Toyota World,TX
+2024,Limited 4x4,Wind Chill Pearl,70675,4085.0,74760.0,At dealer,False,Available,7SVAAABA2RX031547,Fred Haas Toyota World,TX
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX031550,Centennial Toyota,NV
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX031581,Town & Country Toyota,NC
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA2RX031600,Hall Toyota Virginia Beach,VA
@@ -682,7 +685,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX031774,Toyota of Fort Walton Beach,FL
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,,7SVAAABA2RX031788,San Francisco Toyota,CA
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA2RX031791,Phil Meador Toyota,ID
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABA2RX031807,Van-Trow Toyota,LA
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,True,Available,7SVAAABA2RX031807,Van-Trow Toyota,LA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA2RX031824,Kolosso Toyota,WI
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,True,,7SVAAABA2RX031838,Toyota of Greensburg,PA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX031841,Sarasota Toyota,FL
@@ -693,10 +696,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA2RX031936,Oak Lawn Toyota,IL
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA2RX031953,Iron Trail Toyota,MN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA2RX031967,Round Rock Toyota,TX
-2024,Capstone 4x4,Midnight Black Metallic,81265,9995.0,91260.0,Factory to port,False,Available,7SVAAABA2RX031970,Lithia Toyota of Odessa,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,9995.0,91260.0,Port to dealer,False,Available,7SVAAABA2RX031970,Lithia Toyota of Odessa,TX
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,2190.0,83455.0,Port to dealer,False,,7SVAAABA2RX031984,Sansone Toyota,NJ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA2RX031998,Dolan Toyota,NV
-2024,Platinum 4x4,Celestial Silver Metallic,76865,1499.0,78364.0,Factory to port,False,Available,7SVAAABA2RX032021,Robbins Toyota,TX
+2024,Platinum 4x4,Celestial Silver Metallic,76865,1499.0,78364.0,At dealer,False,DealerHold,7SVAAABA2RX032021,Robbins Toyota,TX
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA2RX032035,Atlantic Toyota,MA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA2RX032066,Charlie's Toyota,ME
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1495.0,82760.0,Factory to port,False,DealerHold,7SVAAABA2RX032097,Bohn Toyota,LA
@@ -704,8 +707,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA2RX032150,Route 22 Toyota,NJ
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA2RX032164,Heritage Toyota Harrisburg,PA
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA2RX032195,Peterson Toyota,ID
+2024,Platinum 4x4,Supersonic Red,76865,2895.0,79760.0,Factory to port,True,Available,7SVAAABA2RX032200,Jim Norton Toyota,OK
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA2RX032214,Toyota of Selma,CA
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA2RX032262,Toyota Direct,OH
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA2RX032276,Aubrey Alexander Toyota,PA
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA2RX032293,South Bay Toyota,CA
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX04A303,Nalley Toyota Stonecrest,GA
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,True,Available,7SVAAABA2RX04B497,Lithia Toyota of Klamath Falls,OR
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA2RX04B547,Preston Toyota,PA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX04B709,Lugoff Toyota,SC
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA2RX04B919,Legends Toyota,KS
@@ -722,7 +729,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX05B544,Faulkner Toyota,PA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA2RX05B608,Toyota of Glendale,CA
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX05B866,St. Charles Toyota,IL
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,1098.0,82363.0,Factory to port,True,Available,7SVAAABA2RX05D312,Toyota of Cedar Park,TX
 2024,Limited 4x4,Lunar Rock,70675,2273.0,72948.0,Factory to port,False,DealerHold,7SVAAABA2RX05D326,AutoNation Toyota Hayward,CA
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Factory to port,False,,7SVAAABA2RX05D570,Team Toyota of Glen Mills,PA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA2RX05D584,Brian Bemis Toyota of DeKalb,IL
@@ -731,6 +737,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,,7SVAAABA2RX05D634,Groove Toyota,CO
 2024,Platinum 4x4,Wind Chill Pearl,76865,3117.0,79982.0,Factory to port,True,,7SVAAABA2RX05D780,Norm Reeves Toyota San Diego,CA
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA2RX06A146,AutoNation Toyota Mall of Georgia,GA
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX06A180,Zanesville Toyota,OH
 2024,Limited 4x4,Ice Cap,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA2RX06B149,Beaver Toyota of Cumming,GA
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA2RX06B605,Toyota of Orlando,FL
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,599.0,77464.0,Factory to port,False,Available,7SVAAABA2RX06B636,Landers Toyota,AR
@@ -746,7 +753,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA2RX06D340,AutoNation Toyota Arapahoe,CO
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX06E164,AutoNation Toyota Winter Park,FL
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,888.0,82153.0,Factory to port,False,,7SVAAABA2RX07A451,Romeoville Toyota,IL
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA2RX07A630,Atlanta Toyota,GA
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA2RX07A630,Atlanta Toyota,GA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA2RX07A997,Toyota of Denton,TX
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1595.0,82860.0,Factory to port,False,,7SVAAABA2RX07B308,Findlay Toyota,NV
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA2RX07B342,Toyota of Bowling Green,KY
@@ -754,7 +761,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Midnight Black Metallic,64275,4990.0,69265.0,Factory to port,False,,7SVAAABA2RX08A591,Toyota Carlsbad,CA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA2RX09A005,AutoNation Toyota Arapahoe,CO
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA2RX09A022,Cox Toyota,NC
-2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,True,DealerHold,7SVAAABA2RX09A036,Byers Toyota,OH
+2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA2RX09A036,Byers Toyota,OH
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA2RX09A070,Walser Bloomington Toyota,MN
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,True,,7SVAAABA2RX09A117,Avondale Toyota,AZ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA2RX09B378,Walser Bloomington Toyota,MN
@@ -777,9 +784,11 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX10B004,St. Charles Toyota,IL
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA2RX10C296,Team Toyota,OH
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX10C394,Toyota of Erie,PA
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX10C475,Byers Toyota,OH
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA2RX10C475,Byers Toyota,OH
 2024,Limited 4x4,Wind Chill Pearl,70675,495.0,71170.0,Factory to port,False,,7SVAAABA2RX10C492,Waldorf Toyota,MD
+2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA2RX10D500,Longo Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA2RX10D514,Toyota of Muncie,IN
+2024,Limited 4x4,Lunar Rock,70675,995.0,71670.0,Factory to port,False,,7SVAAABA2RX10D982,Toyota Town,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA2RX11A057,Dan Deery Toyota,IA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX11A852,Anderson Toyota,AZ
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA2RX11B211,AutoNation Toyota Arapahoe,CO
@@ -791,6 +800,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA3RX025465,Bobby Rahal Toyota of Lewistown,PA
 2024,Limited 4x4,Supersonic Red,70275,0.0,70275.0,At dealer,False,Available,7SVAAABA3RX025613,Rivera Toyota of Mt. Kisco,NY
 2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA3RX025871,Mountain States Toyota,CO
+2024,Limited 4x4,Wind Chill Pearl,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA3RX026258,Toyota of Bowie,MD
 2024,Platinum 4x4,Midnight Black Metallic,76465,4999.0,81464.0,At dealer,False,Available,7SVAAABA3RX026311,Toyota of Greenwich,CT
 2024,SR5 4x4,Lunar Rock,63875,0.0,63875.0,At dealer,False,DealerHold,7SVAAABA3RX026325,Kings Toyota,OH
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA3RX026535,Ardmore Toyota,PA
@@ -834,7 +844,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,At dealer,False,,7SVAAABA3RX030505,Okoboji Toyota,IA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA3RX030522,Red River Toyota,AR
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA3RX030536,Lee Toyota,ME
-2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,Available,7SVAAABA3RX030665,Jim Hudson Toyota,SC
+2024,TRD Pro 4x4,Terra,79110,1654.0,80764.0,At dealer,False,Available,7SVAAABA3RX030665,Jim Hudson Toyota,SC
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA3RX030679,Rick McGill's Airport Toyota,TN
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA3RX030682,Grants Pass Toyota,OR
 2024,SR5 4x4,Smoked Mesquite,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA3RX030696,Toyota of Watertown,MA
@@ -850,22 +860,21 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Wind Chill Pearl,81265,299.0,81564.0,Port to dealer,True,,7SVAAABA3RX030973,Team Toyota,PA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA3RX030987,Ed Morse Delray Toyota,FL
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA3RX031010,Ciocca Toyota of Williamsport,PA
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA3RX031024,Centennial Toyota,NV
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,,7SVAAABA3RX031024,Centennial Toyota,NV
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA3RX031041,Gatorland Toyota,FL
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA3RX031069,Matick Toyota,MI
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA3RX031072,Elgin Toyota,IL
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA3RX031086,Serra Toyota of Traverse City,MI
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,1595.0,78460.0,At dealer,False,Available,7SVAAABA3RX031105,Findlay Toyota,NV
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA3RX031105,Findlay Toyota,NV
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA3RX031136,New Country Toyota of Saratoga Springs,NY
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA3RX031153,Precision Toyota of Tucson,AZ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX031167,Pitts Toyota,GA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABA3RX031203,St. Charles Toyota,IL
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA3RX031217,Kendall Toyota,FL
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX031248,Modern Toyota,NC
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX031248,Leith Toyota,NC
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA3RX031251,"Hellman Toyota, Inc.",CO
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA3RX031265,Pearson Toyota,VA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,199.0,77064.0,Port to dealer,False,DealerHold,7SVAAABA3RX031282,Torrington Toyota,CT
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,True,Available,7SVAAABA3RX031301,Landers Toyota,AR
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,True,DealerHold,7SVAAABA3RX031315,Bommarito Toyota,MO
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA3RX031346,Stephen Wade Toyota,UT
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA3RX031380,Toyota Marin,CA
@@ -886,41 +895,46 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Smoked Mesquite,70675,1875.0,72550.0,At dealer,False,DealerHold,7SVAAABA3RX031704,Red McCombs Toyota,TX
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX031735,Pinehurst Toyota,NC
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA3RX031752,Team Toyota of Princeton,NJ
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA3RX031766,Van-Trow Toyota,LA
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,True,Available,7SVAAABA3RX031766,Van-Trow Toyota,LA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA3RX031783,Toyota of Watertown,MA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA3RX031797,Haley Toyota,VA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,888.0,79998.0,Port to dealer,False,,7SVAAABA3RX031802,Romeoville Toyota,IL
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA3RX031816,Rudy Luther Toyota,MN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA3RX031881,Ardmore Toyota,PA
+2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA3RX031895,West Herr Toyota of Williamsville,NY
 2024,Capstone 4x4,Celestial Silver Metallic,81265,599.0,81864.0,Factory to port,False,Available,7SVAAABA3RX031900,Landers Toyota,AR
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA3RX031928,Anderson-Weber Toyota,IA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA3RX031931,Baierl Toyota,PA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA3RX031945,Loyalty Toyota,VA
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA3RX031976,Dolan Toyota,NV
 2024,Platinum 4x4,Wind Chill Pearl,76865,1499.0,78364.0,Factory to port,True,DealerHold,7SVAAABA3RX032013,Janzen Toyota,OK
-2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA3RX032027,Sheehy Toyota of Laurel,MD
+2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA3RX032027,Sheehy Toyota of Laurel,MD
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,True,,7SVAAABA3RX032044,Carlson Toyota,MN
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA3RX032061,Toyota of San Bernardino,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA3RX032075,Lou Fusz Toyota,MO
 2024,Limited 4x4,Midnight Black Metallic,70675,599.0,71274.0,Factory to port,True,Available,7SVAAABA3RX032089,Landers Toyota,AR
-2024,Limited 4x4,Wind Chill Pearl,70675,4990.0,75665.0,Port to dealer,False,Available,7SVAAABA3RX032092,Green's Toyota of Lexington,KY
+2024,Limited 4x4,Wind Chill Pearl,70675,4990.0,75665.0,Port to dealer,True,Available,7SVAAABA3RX032092,Green's Toyota of Lexington,KY
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX032108,Miracle Toyota,FL
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,5979.0,82844.0,Factory to port,False,DealerHold,7SVAAABA3RX032111,Joe Myers Toyota,TX
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,8979.0,85844.0,Factory to port,True,DealerHold,7SVAAABA3RX032111,Joe Myers Toyota,TX
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA3RX032125,Wills Toyota,ID
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA3RX032142,Hertrich Toyota,DE
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA3RX032173,Beaverton Toyota,OR
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA3RX032187,David Wilson's Toyota of Las Vegas,NV
+2024,Capstone 4x4,Celestial Silver Metallic,81265,1880.0,83145.0,Factory to port,False,Available,7SVAAABA3RX032206,Toyota of Fort Worth,TX
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA3RX032223,Elk Grove Toyota,CA
+2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA3RX032237,Toyota of The Desert,CA
+2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA3RX032254,Herb Chambers Toyota of Auburn,MA
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABA3RX032271,Universal Toyota,TX
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA3RX032299,Beaman Toyota,TN
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA3RX032304,Lewis Toyota of Topeka,KS
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX04A004,Jim Hudson Toyota,SC
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA3RX04A164,Walker-Jones Toyota,GA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX04B508,Nalley Toyota Stonecrest,GA
-2024,SR5 4x4,Midnight Black Metallic,64275,7282.0,71557.0,Factory to port,False,,7SVAAABA3RX04B685,Toyota of Kirkland,WA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA3RX04B881,Interstate Toyota,NY
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Factory to port,False,,7SVAAABA3RX04B895,AutoNation Toyota Libertyville,IL
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX04C027,Seminole Toyota,FL
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX04C030,Baxter Toyota of Lincoln,NE
-2024,Limited 4x4,Lunar Rock,70675,4999.0,75674.0,Factory to port,False,,7SVAAABA3RX04D257,Toyota of Warren,OH
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX04D419,Bill Penney Toyota,AL
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA3RX04D422,Milton Ruben Toyota of Augusta,GA
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Factory to port,False,,7SVAAABA3RX04D453,Lancaster Toyota,PA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA3RX04D615,Toyota of Orlando,FL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA3RX05A015,Eastern Shore Toyota,AL
@@ -940,6 +954,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA3RX05D593,Chatham Parkway Toyota,GA
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA3RX05D755,Toyota of Erie,PA
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX06A107,Bennett Toyota of Lebanon,PA
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA3RX06A141,Magnussen's Toyota of Palo Alto,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA3RX06A589,Toyota of Muskegon,MI
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA3RX06B578,Parks Toyota of Deland,FL
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA3RX06B595,Future Toyota of Yuba City,CA
@@ -953,7 +968,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA3RX06D640,Westbury Toyota,NY
 2024,SR5 4x4,Magnetic Gray Metallic,64275,3117.0,67392.0,Factory to port,False,,7SVAAABA3RX06D671,Norm Reeves Toyota San Diego,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA3RX06E125,Hendrick Toyota Apex,NC
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX06E299,Toyota of Dothan,AL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA3RX06E321,San Francisco Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX07A409,Toyota of Bowling Green,KY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX07A653,Fred Anderson Toyota of Charleston,SC
@@ -972,6 +986,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,895.0,71570.0,Factory to port,False,Available,7SVAAABA3RX09A479,Bennett Toyota,PA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA3RX09B342,Groove Toyota,CO
 2024,Limited 4x4,Wind Chill Pearl,70675,1995.0,72670.0,Factory to port,False,DealerHold,7SVAAABA3RX09B423,Cabe Toyota Long Beach,CA
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA3RX09B437,Toyota of Naperville,IL
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA3RX09B440,Toyota of Greenville,SC
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA3RX09B759,Toyota of Greenville,SC
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX09D026,AutoNation Toyota Buena Park,CA
@@ -986,6 +1001,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX10B593,Toyota South,KY
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX10C310,Paul Miller Toyota of West Caldwell,NJ
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,,7SVAAABA3RX10C565,Johnson City Toyota,TN
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA3RX10C677,City Toyota,CA
 2024,Platinum 4x4,Celestial Silver Metallic,76865,299.0,77164.0,Factory to port,False,,7SVAAABA3RX10D280,Team Toyota,PA
 2024,Limited 4x4,Ice Cap,70675,888.0,71563.0,Factory to port,False,,7SVAAABA3RX10D859,Romeoville Toyota,IL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA3RX11A052,Faulkner Toyota,PA
@@ -1000,6 +1016,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA4RX025359,Conicelli Toyota,PA
 2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,True,Available,7SVAAABA4RX025605,Mike Shaw Toyota,TX
 2024,Platinum 4x4,Lunar Rock,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA4RX026026,Bobby Rahal Toyota of Lewistown,PA
+2024,Platinum 4x4,Midnight Black Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA4RX026835,Toyota of Bowie,MD
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,13493.0,94358.0,At dealer,False,Available,7SVAAABA4RX027127,Keating Toyota,TX
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,2190.0,83455.0,At dealer,False,Available,7SVAAABA4RX027399,Bob Howard Toyota,OK
 2024,SR5 4x4,Blueprint,63875,0.0,63875.0,At dealer,False,,7SVAAABA4RX027421,Kendall Toyota,OR
@@ -1020,17 +1037,16 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA4RX029573,Sunshine Toyota,MI
 2024,TRD Pro 4x4,Midnight Black Metallic,78710,0.0,78710.0,At dealer,True,DealerHold,7SVAAABA4RX029587,Toyota of Watertown,MA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,4085.0,85350.0,Factory to port,False,DealerHold,7SVAAABA4RX029654,Fred Haas Toyota World,TX
-2024,Platinum 4x4,Lunar Rock,76465,0.0,76465.0,Factory to port,False,Available,7SVAAABA4RX029668,Marietta Toyota,GA
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,0.0,80865.0,At dealer,False,,7SVAAABA4RX029718,Little Apple Toyota,KS
 2024,SR5 4x4,Magnetic Gray Metallic,63875,0.0,63875.0,At dealer,False,Available,7SVAAABA4RX029735,Lithia Toyota of Missoula,MT
-2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,Port to dealer,False,DealerHold,7SVAAABA4RX029749,A-1 Toyota,CT
+2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,Port to dealer,False,Available,7SVAAABA4RX029749,A-1 Toyota,CT
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,,7SVAAABA4RX029900,Bighorn Toyota,CO
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA4RX029945,Oak Lawn Toyota,IL
-2024,SR5 4x4,Ice Cap,63875,0.0,63875.0,At dealer,False,,7SVAAABA4RX030075,Earnhardt Toyota,AZ
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1880.0,83145.0,At dealer,False,Available,7SVAAABA4RX030111,Toyota of Fort Worth,TX
-2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA4RX030139,Adams Toyota Lee's Summit,MO
+2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA4RX030139,Adams Toyota Lee's Summit,MO
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA4RX030156,DeLuca Toyota,FL
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,,7SVAAABA4RX030190,Vancouver Toyota,WA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA4RX030206,Wesley Chapel Toyota,FL
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA4RX030237,Cherokee County Toyota,GA
 2024,TRD Pro 4x4,Terra,78710,899.0,79609.0,At dealer,False,Available,7SVAAABA4RX030268,Billion Toyota,SD
 2024,Limited 4x4,Supersonic Red,70275,0.0,70275.0,At dealer,False,,7SVAAABA4RX030271,Sheehy Toyota of Fredericksburg,VA
@@ -1057,17 +1073,16 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,At dealer,False,,7SVAAABA4RX030867,Joe Machens Toyota,MO
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA4RX030884,Sunrise Toyota,NY
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,False,,7SVAAABA4RX030903,Marina Del Rey Toyota,CA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,3488.0,80353.0,Factory to port,False,Available,7SVAAABA4RX030917,Scott Clark Toyota,NC
-2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,At dealer,True,Available,7SVAAABA4RX030920,Magness Toyota,AR
+2024,Platinum 4x4,Celestial Silver Metallic,76865,3488.0,80353.0,At dealer,False,Available,7SVAAABA4RX030917,Scott Clark Toyota,NC
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA4RX030934,Toyota of Des Moines,IA
-2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,Available,7SVAAABA4RX030948,Szott M-59 Toyota,MI
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,At dealer,False,Available,7SVAAABA4RX030948,Szott M-59 Toyota,MI
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABA4RX030951,Faulkner Toyota,PA
-2024,SR5 4x4,Blueprint,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA4RX030965,Kari Toyota,WI
+2024,SR5 4x4,Blueprint,64275,0.0,64275.0,At dealer,False,,7SVAAABA4RX030965,Kari Toyota,WI
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA4RX030979,Toyota of Fayetteville,AR
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,False,,7SVAAABA4RX031002,Right Toyota,AZ
-2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA4RX031047,Carson City Toyota,NV
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,Available,7SVAAABA4RX031047,Carson City Toyota,NV
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,At dealer,False,DealerHold,7SVAAABA4RX031050,Keith Pierson Toyota,FL
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA4RX031064,Avondale Toyota,AZ
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,True,,7SVAAABA4RX031064,Avondale Toyota,AZ
 2024,SR5 4x4,Ice Cap,64275,1899.0,66174.0,Port to dealer,False,DealerHold,7SVAAABA4RX031081,Wolfchase Toyota,TN
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA4RX031114,Doral Toyota,FL
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA4RX031128,Woburn Toyota,MA
@@ -1082,7 +1097,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA4RX031243,Wills Toyota,ID
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA4RX031257,Toyota of Rock Hill,SC
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA4RX031260,Toyota West,OH
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,3995.0,83105.0,Port to dealer,False,DealerHold,7SVAAABA4RX031274,Gregg Orr Toyota,AR
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,3995.0,83105.0,At dealer,False,DealerHold,7SVAAABA4RX031274,Gregg Orr Toyota,AR
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA4RX031291,Columbia Gorge Toyota,OR
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA4RX031307,Toyota of Gladstone,OR
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA4RX031310,Peterson Toyota,ID
@@ -1099,10 +1114,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA4RX031517,Mossy Toyota,CA
 2024,Limited 4x4,Supersonic Red,70675,4680.0,75355.0,At dealer,False,Available,7SVAAABA4RX031520,Fred Haas Toyota World,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA4RX031534,Coad Toyota,MO
-2024,Platinum 4x4,Lunar Rock,76865,895.0,77760.0,Factory to port,False,Available,7SVAAABA4RX031548,Jim Norton Toyota of Oklahoma City,OK
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,True,Available,7SVAAABA4RX031565,Freeman Toyota,TX
+2024,Platinum 4x4,Lunar Rock,76865,895.0,77760.0,At dealer,False,Available,7SVAAABA4RX031548,Jim Norton Toyota of Oklahoma City,OK
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA4RX031596,Toyota of Warsaw,IN
-2024,Platinum 4x4,Supersonic Red,76865,1499.0,78364.0,Port to dealer,False,DealerHold,7SVAAABA4RX031629,Robbins Toyota,TX
+2024,Platinum 4x4,Supersonic Red,76865,1499.0,78364.0,At dealer,False,DealerHold,7SVAAABA4RX031629,Robbins Toyota,TX
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABA4RX031632,Magness Toyota,AR
 2024,Platinum 4x4,Celestial Silver Metallic,76865,1499.0,78364.0,Port to dealer,False,Available,7SVAAABA4RX031663,Janzen Toyota,OK
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA4RX031677,Lithia Toyota of Redding,CA
@@ -1113,7 +1127,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA4RX031730,Hendrick Toyota Concord,NC
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA4RX031744,Earnhardt Toyota,AZ
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA4RX031789,Wilsonville Toyota,OR
-2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA4RX031792,Mac Haik Toyota,TX
+2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA4RX031792,Mac Haik Toyota,TX
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA4RX031811,Western Slope Toyota,CO
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA4RX031825,Burnsville Toyota,MN
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,1595.0,80705.0,Port to dealer,False,Available,7SVAAABA4RX031839,Findlay Toyota,NV
@@ -1121,27 +1135,30 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABA4RX031856,Jeff Hunter Toyota,TX
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA4RX031873,Palm Beach Toyota,FL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX031923,Hendrick Toyota Apex,NC
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA4RX031940,Palestine Toyota,TX
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA4RX031940,Palestine Toyota,TX
 2024,Platinum 4x4,Supersonic Red,76865,2488.0,79353.0,Factory to port,False,Available,7SVAAABA4RX031985,Toyota of Plano,TX
 2024,SR5 4x4,Solar Octane,64275,1085.0,65360.0,Port to dealer,False,,7SVAAABA4RX031999,Toyota of Bedford,OH
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA4RX032022,Sheehy Toyota of Laurel,MD
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA4RX032036,Toyota of Kingsport,TN
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA4RX032067,Kings Toyota,OH
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABA4RX032070,Toyota of Hattiesburg,MS
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABA4RX032070,Toyota of Hattiesburg,MS
+2024,Capstone 4x4,Celestial Silver Metallic,81265,5000.0,86265.0,Factory to port,False,Available,7SVAAABA4RX032084,Principle Toyota of Hernando,MS
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA4RX032098,"Pedersen Toyota, Ltd.",CO
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA4RX032117,355 Toyota,MD
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA4RX032120,Fred Anderson Toyota of Asheville,NC
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA4RX032134,Le Mieux & Son Toyota,WI
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA4RX032148,Deery Brothers Toyota,IA
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA4RX032151,Kerry Toyota,KY
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA4RX032179,Advantage Toyota,WV
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX032182,Mac Haik Toyota,TX
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA4RX04A142,Team Toyota of Glen Mills,PA
+2024,Platinum 4x4,Celestial Silver Metallic,76865,2910.0,79775.0,Factory to port,False,Available,7SVAAABA4RX032196,Cannon Toyota,MS
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA4RX032215,Precision Toyota of Tucson,AZ
+2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA4RX032263,Serra Toyota of Decatur,AL
+2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA4RX032294,Casey Toyota,VA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,,7SVAAABA4RX04B565,St. Cloud Toyota,MN
-2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,,7SVAAABA4RX04D199,Hanover Toyota,PA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA4RX04D283,"Westboro Toyota, Inc.",MA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX04D607,San Francisco Toyota,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA4RX04D610,LaGrange Toyota,GA
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA4RX04D641,South Bay Toyota,CA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX05A136,Lone Star Toyota of Lewisville,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA4RX05A329,Kendall Toyota of Bend,OR
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX05B593,Berlin City Toyota of Portland,ME
@@ -1150,7 +1167,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,True,,7SVAAABA4RX05B884,Toyota of Erie,PA
 2024,Capstone 4x4,Wind Chill Pearl,81265,395.0,81660.0,Factory to port,True,,7SVAAABA4RX05B903,Toyota of Olympia,WA
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA4RX05D103,Arlington Toyota,FL
-2024,Limited 4x4,Magnetic Gray Metallic,70675,4990.0,75665.0,Factory to port,False,,7SVAAABA4RX05D277,Toyota Carlsbad,CA
+2024,Limited 4x4,Magnetic Gray Metallic,70675,4990.0,75665.0,Factory to port,False,DealerHold,7SVAAABA4RX05D277,Toyota Carlsbad,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA4RX05D327,Stevens Creek Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA4RX05D456,Mike Johnson's Hickory Toyota,NC
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX05D571,City Toyota,CA
@@ -1172,7 +1189,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA4RX06C612,Toyota of Bowling Green,KY
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,,7SVAAABA4RX06D288,Toyota of Des Moines,IA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA4RX06D291,Miller Toyota,VA
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX06D338,Atlanta Toyota,GA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX06D629,"Molle Toyota, Inc.",MO
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX06D677,Joseph Toyota of Cincinnati,OH
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA4RX07A418,Prestige Toyota of Ramsey,NJ
@@ -1183,6 +1199,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA4RX07A676,Butler Toyota,GA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA4RX07B309,Wilson Toyota,IA
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA4RX08A561,Toyota on Nicholasville,KY
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA4RX08A575,Roberts Toyota,TN
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA4RX08A608,Basil Toyota,NY
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA4RX09A037,Firelands Toyota,OH
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA4RX09A054,AutoNation Toyota Leesburg,VA
@@ -1212,6 +1229,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA4RX10B084,Earl Stewart Toyota of North Palm Beach,FL
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,,7SVAAABA4RX10B568,Toyota of Muncie,IN
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX10E115,Toyota of Greensburg,PA
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX10E230,San Francisco Toyota,CA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA4RX11A027,Future Toyota of Yuba City,CA
 2024,Platinum 4x4,Wind Chill Pearl,76865,395.0,77260.0,Factory to port,False,,7SVAAABA4RX11A058,Toyota of Olympia,WA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA4RX11A061,Tom Pappas Toyota,MO
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA4RX11A741,Pearson Toyota,VA
@@ -1229,7 +1248,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,,7SVAAABA5RX026620,Team Toyota of Princeton,NJ
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA5RX026942,Lewis Toyota of Dodge City,KS
 2024,SR5 4x4,Midnight Black Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABA5RX027489,AutoNation Toyota Arapahoe,CO
-2024,TRD Pro 4x4,Ice Cap,78710,995.0,79705.0,At dealer,False,Available,7SVAAABA5RX027721,Toyota Town,CA
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,,7SVAAABA5RX027914,Toyota of Des Moines,IA
 2024,Platinum 4x4,Blueprint,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA5RX027945,Basil Toyota,NY
 2024,Capstone 4x4,Blueprint,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA5RX028027,Autoland Toyota,NJ
@@ -1248,10 +1266,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Supersonic Red,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA5RX029226,Lynch Toyota of Auburn,AL
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1995.0,83260.0,At dealer,False,DealerHold,7SVAAABA5RX029520,Toyota of Wichita Falls,TX
 2024,TRD Pro 4x4,Magnetic Gray Metallic,78710,7282.0,85992.0,Port to dealer,False,DealerHold,7SVAAABA5RX029551,Toyota of Kirkland,WA
-2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA5RX029579,Jim Norton Toyota,OK
+2024,Capstone 4x4,Supersonic Red,81265,2895.0,84160.0,At dealer,False,Available,7SVAAABA5RX029579,Jim Norton Toyota,OK
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,0.0,80865.0,At dealer,False,,7SVAAABA5RX029615,Bill Dube Toyota,NH
 2024,Limited 4x4,Smoked Mesquite,70275,0.0,70275.0,At dealer,False,,7SVAAABA5RX029694,McDonough Toyota,VA
-2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,Port to dealer,False,,7SVAAABA5RX029775,Lithia Toyota of Klamath Falls,OR
+2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,,7SVAAABA5RX029775,Lithia Toyota of Klamath Falls,OR
 2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA5RX029825,Vancouver Toyota,WA
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA5RX029873,Toyota of Bozeman,MT
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA5RX030070,Damian Lillard Toyota,OR
@@ -1271,7 +1289,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA5RX030599,Williams Toyota of Elmira,NY
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA5RX030621,Miller Toyota,VA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,At dealer,False,,7SVAAABA5RX030666,Groove Toyota,CO
-2024,Capstone 4x4,Midnight Black Metallic,81265,6979.0,88244.0,Port to dealer,False,DealerHold,7SVAAABA5RX030716,Joe Myers Toyota,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,2980.0,84245.0,Port to dealer,False,DealerHold,7SVAAABA5RX030716,Joe Myers Toyota,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABA5RX030733,Penske Toyota,CA
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,At dealer,False,Available,7SVAAABA5RX030764,Joseph Toyota of Cincinnati,OH
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA5RX030778,Franklin Toyota,GA
@@ -1291,6 +1309,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Terra,79110,2796.0,81906.0,Port to dealer,False,,7SVAAABA5RX031090,AutoNation Toyota Tempe,AZ
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA5RX031123,Robinson Toyota,TN
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA5RX031140,Performance Toyota,OH
+2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,,7SVAAABA5RX031154,Wesley Chapel Toyota,FL
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA5RX031168,Toyota of Somerset,KY
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA5RX031199,Grappone Toyota,NH
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA5RX031252,I-5 Toyota,WA
@@ -1307,7 +1326,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA5RX031414,"Molle Toyota, Inc.",MO
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA5RX031428,AutoNation Toyota Winter Park,FL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA5RX031431,Berglund Toyota,VA
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA5RX031445,Round Rock Toyota,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABA5RX031445,Round Rock Toyota,TX
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA5RX031459,Toyota of Gladstone,OR
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA5RX031462,Centennial Toyota,NV
 2024,Capstone 4x4,Supersonic Red,81265,2379.0,83644.0,At dealer,False,Available,7SVAAABA5RX031543,Gullo Toyota of Conroe,TX
@@ -1320,9 +1339,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA5RX031672,Toyota of Vallejo,CA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA5RX031736,Nalley Toyota of Roswell,GA
 2024,Capstone 4x4,Midnight Black Metallic,81265,799.0,82064.0,At dealer,True,Available,7SVAAABA5RX031753,Landers Toyota NWA,AR
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,2495.0,79360.0,Port to dealer,True,DealerHold,7SVAAABA5RX031767,Price LeBlanc Toyota,LA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,2495.0,79360.0,At dealer,True,DealerHold,7SVAAABA5RX031767,Price LeBlanc Toyota,LA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA5RX031798,Hatch Toyota Stateline,NM
-2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,499.0,79609.0,Port to dealer,True,Available,7SVAAABA5RX031817,Caldwell Toyota,AR
+2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,499.0,79609.0,At dealer,True,Available,7SVAAABA5RX031817,Caldwell Toyota,AR
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA5RX031848,Hansel Toyota,CA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA5RX031879,AutoNation Toyota Thornton Road,GA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,1595.0,78460.0,Port to dealer,False,Available,7SVAAABA5RX031882,Findlay Toyota,NV
@@ -1338,17 +1357,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA5RX032126,Don Jacobs Toyota,WI
 2024,Platinum 4x4,Wind Chill Pearl,76865,6090.0,82955.0,Factory to port,False,DealerHold,7SVAAABA5RX032143,Bob Howard Toyota,OK
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA5RX032160,Toyota of Fort Walton Beach,FL
+2024,SR5 4x4,Supersonic Red,64275,699.0,64974.0,Port to dealer,False,,7SVAAABA5RX032174,Capital Toyota,TN
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA5RX032188,LeadCar Toyota Wausau,WI
-2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA5RX04A215,Panama City Toyota,FL
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA5RX032191,Lipton Toyota,FL
+2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA5RX032210,Roberts Toyota,TN
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA5RX032238,Toyota of Del Rio,TX
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,1595.0,78460.0,Port to dealer,False,,7SVAAABA5RX032241,Findlay Toyota,NV
+2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA5RX032286,Ken Nelson Toyota,IL
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,,7SVAAABA5RX04B543,Mungenast Alton Toyota,IL
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABA5RX04B851,Cobb County Toyota,GA
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA5RX04B901,Lewis Toyota of Topeka,KS
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA5RX04B915,Westchester Toyota,NY
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA5RX04C031,Riverhead Toyota,NY
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA5RX04D227,Jim Hudson Toyota,SC
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA5RX04D230,Victory Toyota of Midtown,IL
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Factory to port,False,,7SVAAABA5RX04D387,AutoNation Toyota Arapahoe,CO
-2024,Limited 4x4,Celestial Silver Metallic,70675,1790.0,72465.0,Factory to port,False,,7SVAAABA5RX04D597,Liberty Toyota,NJ
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA5RX04D616,Milton Martin Toyota,GA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA5RX05A016,AutoNation Toyota Winter Park,FL
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA5RX05A114,Toyota of Fort Walton Beach,FL
@@ -1381,6 +1400,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA5RX06C697,Cherokee County Toyota,GA
 2024,Limited 4x4,Wind Chill Pearl,70675,4990.0,75665.0,Factory to port,True,DealerHold,7SVAAABA5RX06D302,Toyota Carlsbad,CA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,,7SVAAABA5RX06D350,Toyota of Muncie,IN
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,1798.0,78663.0,Factory to port,False,,7SVAAABA5RX06D364,Toyota of Portland on Broadway,OR
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA5RX06D378,Toyota of Easley,SC
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA5RX06D591,Rudy Luther Toyota,MN
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA5RX06D610,Toyota of North Miami,FL
@@ -1400,6 +1420,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA5RX09B441,Hendrick Toyota Concord,NC
 2024,Limited 4x4,Midnight Black Metallic,70675,895.0,71570.0,Factory to port,False,Available,7SVAAABA5RX09B598,Bennett Toyota,PA
 2024,Limited 4x4,Wind Chill Pearl,70675,2273.0,72948.0,Factory to port,True,DealerHold,7SVAAABA5RX09B696,AutoNation Toyota Hayward,CA
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA5RX09B732,Hendrick Toyota Wilmington,NC
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA5RX09B777,Tuscaloosa Toyota,AL
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA5RX09C024,Groove Toyota,CO
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA5RX09C038,Toyota of Bowling Green,KY
@@ -1417,16 +1438,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA5RX10C518,East Coast Toyota,NJ
 2024,Limited 4x4,Magnetic Gray Metallic,70675,1899.0,72574.0,Factory to port,False,,7SVAAABA5RX10C681,Wolfchase Toyota,TN
 2024,Platinum 4x4,Celestial Silver Metallic,76865,1595.0,78460.0,Factory to port,False,,7SVAAABA5RX10D295,Findlay Toyota,NV
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA5RX10D538,Frank Fletcher Toyota,MO
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,1295.0,78160.0,Factory to port,False,,7SVAAABA5RX10D524,Auburn Toyota,CA
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA5RX10E124,Coggins Toyota of Bennington,VT
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,,7SVAAABA5RX11A022,Ourisman Chantilly Toyota,VA
 2024,Platinum 4x4,Wind Chill Pearl,76865,2495.0,79360.0,Factory to port,False,,7SVAAABA5RX11A814,Toyota of Orange,CA
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA5RX11A960,Modesto Toyota,CA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA5RX11B476,Rudy Luther Toyota,MN
 2023,Platinum 4x4,Midnight Black Metallic,75465,0.0,75465.0,At dealer,False,Available,7SVAAABA6PX017468,Yellowstone Toyota,WY
 2023,Capstone 4x4,Wind Chill Pearl,79865,0.0,79865.0,At dealer,False,Available,7SVAAABA6PX019592,Atlantic Toyota,MA
 2024,Platinum 4x4,Blueprint,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA6RX023385,Herb Chambers Toyota of Boston,MA
-2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA6RX024018,Ruda Chevrolet/Toyota,WI
-2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,Port to dealer,False,Available,7SVAAABA6RX026402,Haley Toyota,VA
+2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA6RX024018,Ruda Chevrolet/Toyota,WI
+2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA6RX026402,Haley Toyota,VA
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA6RX027128,Kirksville Toyota,MO
 2024,Capstone 4x4,Blueprint,80865,0.0,80865.0,Port to dealer,False,DealerHold,7SVAAABA6RX027307,"Molle Toyota, Inc.",MO
 2024,Capstone 4x4,Blueprint,80865,0.0,80865.0,At dealer,False,,7SVAAABA6RX027582,Groove Toyota,CO
@@ -1441,16 +1463,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Celestial Silver Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABA6RX029235,Walters Toyota,KY
 2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA6RX029297,Heritage Toyota Owings Mills,MD
 2024,TRD Pro 4x4,Ice Cap,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABA6RX029428,C F Schwartz Toyota,DE
-2024,Limited 4x4,Midnight Black Metallic,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA6RX029462,Capitol Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA6RX029476,Uebelhor Toyota,IN
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA6RX029560,Rocky Mount Toyota,NC
 2024,Limited 4x4,Supersonic Red,70275,0.0,70275.0,At dealer,False,,7SVAAABA6RX029753,Toyota of Erie,PA
 2024,Platinum 4x4,Blueprint,76465,0.0,76465.0,At dealer,False,,7SVAAABA6RX029784,Gateway Toyota,NJ
-2024,Platinum 4x4,Midnight Black Metallic,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA6RX029879,Fremont Toyota,CA
 2024,SR5 4x4,Celestial Silver Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABA6RX029915,Balise Toyota of Warwick,RI
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA6RX029929,Stephen Toyota,CT
 2024,Limited 4x4,Wind Chill Pearl,70275,0.0,70275.0,Port to dealer,False,DealerHold,7SVAAABA6RX030000,Rodland Toyota,WA
 2024,SR5 4x4,Magnetic Gray Metallic,63875,0.0,63875.0,At dealer,False,Available,7SVAAABA6RX030028,A-1 Toyota,CT
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,DealerHold,7SVAAABA6RX030059,Cobb County Toyota,GA
 2024,Limited 4x4,Celestial Silver Metallic,70275,0.0,70275.0,At dealer,False,,7SVAAABA6RX030143,Sheehy Toyota of Laurel,MD
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,At dealer,False,Available,7SVAAABA6RX030207,AutoNation Toyota Winter Park,FL
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA6RX030241,Stone Mountain Toyota,GA
@@ -1461,18 +1482,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,At dealer,False,,7SVAAABA6RX030479,Woodrum Toyota of Macomb,IL
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,Available,7SVAAABA6RX030501,Szott M-59 Toyota,MI
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA6RX030644,Balise Toyota of Warwick,RI
-2024,Limited 4x4,Supersonic Red,70675,9995.0,80670.0,At dealer,False,Available,7SVAAABA6RX030661,Lithia Toyota of Odessa,TX
-2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA6RX030675,Haley Toyota,VA
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA6RX030675,Haley Toyota,VA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX030787,Sheehy Toyota of Laurel,MD
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX030806,First Team Toyota,VA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA6RX030823,Pohanka Toyota of Salisbury,MD
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,At dealer,False,,7SVAAABA6RX030837,Stone's Town and Country Toyota,ID
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA6RX030871,Stevens Creek Toyota,CA
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA6RX030871,Stevens Creek Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,False,,7SVAAABA6RX030904,AutoNation Toyota Winter Park,FL
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA6RX030935,City World Toyota,NY
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA6RX030949,Aubrey Alexander Toyota,PA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA6RX030952,Straatmann Toyota,MO
-2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA6RX030997,Toyota Walnut Creek,CA
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA6RX030997,Toyota Walnut Creek,CA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA6RX031017,Bergstrom Toyota,WI
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA6RX031020,Hendrick Toyota Merriam,KS
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA6RX031034,Toyota of Laramie,WY
@@ -1485,7 +1505,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,At dealer,False,Available,7SVAAABA6RX031129,AutoNation Toyota Winter Park,FL
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA6RX031132,Johnson City Toyota,TN
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA6RX031163,Dan Hecht Chevrolet/Toyota,IL
-2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA6RX031177,Southern 441 Toyota,FL
+2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,Available,7SVAAABA6RX031177,Southern 441 Toyota,FL
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX031180,Prestige Toyota,NY
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA6RX031227,Four Stars Toyota,OK
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX031230,Plaza Toyota,NY
@@ -1494,7 +1514,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,1995.0,81105.0,At dealer,True,DealerHold,7SVAAABA6RX031275,Kim's Toyota,MS
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA6RX031289,Groove Toyota,CO
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA6RX031292,Conicelli Toyota of Springfield,PA
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABA6RX031311,Street Toyota,TX
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX031325,Ourisman Fairfax Toyota,VA
 2024,TRD Pro 4x4,Ice Cap,79110,9995.0,89105.0,At dealer,True,Available,7SVAAABA6RX031342,Lithia Toyota of Odessa,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA6RX031373,Kalispell Toyota,MT
@@ -1513,15 +1532,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,2495.0,81605.0,Port to dealer,False,Available,7SVAAABA6RX031602,Mechanicsville Toyota,VA
 2024,Capstone 4x4,Celestial Silver Metallic,81265,9995.0,91260.0,At dealer,False,Available,7SVAAABA6RX031616,Lithia Toyota of Odessa,TX
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA6RX031633,Fox Toyota,MI
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA6RX031647,Palmer's Airport Toyota,AL
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX031647,Scott Clark Toyota,NC
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA6RX031650,Performance Toyota Bountiful,UT
 2024,Limited 4x4,Wind Chill Pearl,70675,6979.0,77654.0,At dealer,False,DealerHold,7SVAAABA6RX031664,Joe Myers Toyota,TX
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA6RX031678,AutoNation Toyota Gulf Freeway,TX
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA6RX031678,AutoNation Toyota Gulf Freeway,TX
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA6RX031681,Groove Toyota,CO
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA6RX031695,Romeo Toyota of Glens Falls,NY
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA6RX031700,Spitzer Toyota,PA
 2024,Platinum 4x4,Midnight Black Metallic,76865,3198.0,80063.0,At dealer,True,DealerHold,7SVAAABA6RX031714,Karl Malone Toyota of Ruston,LA
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,Available,7SVAAABA6RX031731,Gault Toyota,NY
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA6RX031759,Leith Toyota,NC
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX031809,John Harvey Toyota,LA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX031826,Mac Haik Toyota,TX
@@ -1530,27 +1548,30 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA6RX031860,DCH Freehold Toyota,NJ
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,1880.0,78745.0,At dealer,True,Available,7SVAAABA6RX031891,Toyota of Fort Worth,TX
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA6RX031907,Baxter Toyota of Lincoln,NE
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA6RX031910,Toyota of Brookhaven,MS
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA6RX031910,Toyota of Brookhaven,MS
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX031924,Fred Anderson Toyota of Charleston,SC
-2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA6RX031938,Lou Fusz Toyota,MO
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABA6RX031941,Walker Toyota,LA
+2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA6RX031938,Lou Fusz Toyota,MO
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABA6RX031941,Walker Toyota,LA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA6RX031955,DCH Toyota of Oxnard,CA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA6RX031969,Five Star Toyota,WA
-2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA6RX031986,AutoNation Toyota South Austin,TX
+2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA6RX031986,AutoNation Toyota South Austin,TX
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA6RX032006,Parker Toyota,ID
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA6RX032023,Leith Toyota,NC
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA6RX032037,Bill Estes Toyota,IN
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA6RX032040,Carson City Toyota,NV
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,True,DealerHold,7SVAAABA6RX032054,Brownsville Toyota,TX
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,True,DealerHold,7SVAAABA6RX032054,Brownsville Toyota,TX
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA6RX032071,Graham Toyota,OH
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,Available,7SVAAABA6RX032099,Classic Toyota,OH
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA6RX032104,Centennial Toyota,NV
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA6RX032121,Tufankjian Toyota of Braintree,MA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA6RX032149,Toyota of Melbourne,FL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA6RX032166,Olathe Toyota,KS
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA6RX032183,Toyota of Escondido,CA
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA6RX032233,Copeland Toyota,MA
+2024,Limited 4x4,Lunar Rock,70675,4999.0,75674.0,Port to dealer,False,,7SVAAABA6RX032247,Toyota of Warren,OH
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA6RX032250,Milton Ruben Toyota of Augusta,GA
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA6RX032264,AutoNation Toyota Weston,FL
 2024,TRD Pro 4x4,Ice Cap,79110,2495.0,81605.0,Factory to port,False,,7SVAAABA6RX04A160,Mechanicsville Toyota,VA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX04A319,Serra Toyota of Decatur,AL
-2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA6RX04B499,Roberts Toyota,TN
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA6RX04B888,Lipton Toyota,FL
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,DealerHold,7SVAAABA6RX04B907,Warrenton Toyota,VA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA6RX04D091,Toyota of Hollywood,FL
@@ -1591,7 +1612,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA6RX06C420,Ed Morse Delray Toyota,FL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA6RX06C479,Coggin Toyota at the Avenues,FL
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA6RX06C594,Toyota of Easley,SC
-2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX06C630,Atlanta Toyota,GA
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA6RX06C630,Atlanta Toyota,GA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX06C689,Toyota of Clovis,CA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA6RX06D325,Bennett Toyota of Lebanon,PA
 2024,Capstone 4x4,Blueprint,81265,599.0,81864.0,Factory to port,False,Available,7SVAAABA6RX06D339,Landers Toyota,AR
@@ -1603,7 +1624,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA6RX07A937,Heyward Allen Toyota,GA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX07B277,Longo Toyota of Prosper,TX
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA6RX07B294,Valdosta Toyota,GA
-2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX07B344,Gault Toyota,NY
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA6RX08A500,Bighorn Toyota,CO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX08A545,Toyota on Nicholasville,KY
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA6RX08A576,Toyota of Glendale,CA
@@ -1627,16 +1647,19 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABA6RX10B216,Voss Toyota,OH
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,1995.0,83260.0,Factory to port,False,,7SVAAABA6RX10B555,Mechanicsville Toyota,VA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX10C432,Jones Toyota,MD
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA6RX10C723,Pauly Toyota,IL
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA6RX10C723,Pauly Toyota,IL
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,4990.0,81855.0,Factory to port,False,Available,7SVAAABA6RX10C821,Toyota Carlsbad,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX10C835,Doxon Toyota,WA
 2024,Capstone 4x4,Wind Chill Pearl,81265,1595.0,82860.0,Factory to port,False,,7SVAAABA6RX10D256,Findlay Toyota,NV
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA6RX10D287,Tom Pappas Toyota,MO
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,,7SVAAABA6RX11A062,Avondale Toyota,AZ
+2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,True,,7SVAAABA6RX11A062,Avondale Toyota,AZ
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX11A675,Peppers Toyota,TN
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,,7SVAAABA6RX11A756,Toyota of Runnemede,NJ
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,,7SVAAABA6RX11A790,Crown Toyota,MI
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX11A837,Magnussen's Toyota of Palo Alto,CA
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX11B017,Concord Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA6RX11B146,Bighorn Toyota,CO
-2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA6RX11B681,Avondale Toyota,AZ
+2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,True,,7SVAAABA6RX11B681,Avondale Toyota,AZ
 2023,Limited 4x4,Army Green,69265,0.0,69265.0,Factory to port,True,DealerHold,7SVAAABA7PX019200,Toyota of Lompoc,CA
 2023,Platinum 4x4,Supersonic Red,75465,0.0,75465.0,At dealer,False,Available,7SVAAABA7PX020167,Deery Brothers Toyota,IA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX022312,Lithia Toyota of Abilene,TX
@@ -1654,6 +1677,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Blueprint,70275,0.0,70275.0,At dealer,False,,7SVAAABA7RX028563,Magnussen's Toyota of Palo Alto,CA
 2024,Capstone 4x4,Midnight Black Metallic,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA7RX028613,Jerry Ackerman Toyota,MO
 2024,Limited 4x4,Midnight Black Metallic,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA7RX028644,Lancaster Toyota,PA
+2024,Limited 4x4,Midnight Black Metallic,70275,0.0,70275.0,At dealer,False,Available,7SVAAABA7RX029034,Diehl Toyota of Butler,PA
 2024,Limited 4x4,Blueprint,70275,0.0,70275.0,At dealer,False,Available,7SVAAABA7RX029051,West Herr Toyota of Williamsville,NY
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA7RX029082,AutoNation Toyota Mall of Georgia,GA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA7RX029163,Ed Morse Delray Toyota,FL
@@ -1678,9 +1702,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Celestial Silver Metallic,70275,0.0,70275.0,At dealer,False,Available,7SVAAABA7RX030216,Maplewood Toyota,MN
 2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,True,DealerHold,7SVAAABA7RX030247,Parkway Toyota,NJ
 2024,TRD Pro 4x4,Magnetic Gray Metallic,78710,1999.0,80709.0,At dealer,True,,7SVAAABA7RX030250,Foothills Toyota,WA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,5990.0,82855.0,At dealer,False,Available,7SVAAABA7RX030376,Shapen Toyota,TX
+2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,At dealer,True,Available,7SVAAABA7RX030376,Family Toyota of Burleson,TX
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA7RX030393,Toyota of Denton,TX
-2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA7RX030426,City Toyota,CA
+2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA7RX030426,City Toyota,CA
 2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,Port to dealer,False,DealerHold,7SVAAABA7RX030457,Wilsonville Toyota,OR
 2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,Port to dealer,False,DealerHold,7SVAAABA7RX030460,Toyota of Lake City,WA
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,At dealer,False,,7SVAAABA7RX030474,St. Charles Toyota,IL
@@ -1688,7 +1712,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA7RX030572,Sterling McCall Toyota Fort Bend,TX
 2024,Limited 4x4,Smoked Mesquite,70675,1098.0,71773.0,At dealer,False,Available,7SVAAABA7RX030636,Toyota of Cedar Park,TX
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA7RX030670,Lipton Toyota,FL
-2024,Limited 4x4,Blueprint,70675,0.0,70675.0,At dealer,False,,7SVAAABA7RX030717,AutoNation Toyota Arapahoe,CO
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA7RX030765,Imperial Toyota,MA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA7RX030782,Joe Machens Toyota,MO
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA7RX030796,Heyward Allen Toyota,GA
@@ -1698,18 +1721,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Lunar Rock,70675,3488.0,74163.0,Factory to port,False,,7SVAAABA7RX030894,Scott Clark Toyota,NC
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA7RX030930,Toyota of Nashua,NH
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA7RX030961,Dolan Toyota,NV
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA7RX030975,Pohanka Toyota of Salisbury,MD
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX030975,Pohanka Toyota of Salisbury,MD
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA7RX030992,Nucar Toyota of North Attleboro,MA
 2024,SR5 4x4,Lunar Rock,64275,495.0,64770.0,Port to dealer,False,,7SVAAABA7RX031009,Waldorf Toyota,MD
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX031012,Empire Toyota of Huntington,NY
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA7RX031026,Elko Toyota,NV
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX031060,Performance Toyota Bountiful,UT
-2024,TRD Pro 4x4,Ice Cap,79110,2990.0,82100.0,Port to dealer,True,Available,7SVAAABA7RX031074,Toyota Marin,CA
+2024,TRD Pro 4x4,Ice Cap,79110,2990.0,82100.0,At dealer,True,Available,7SVAAABA7RX031074,Toyota Marin,CA
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA7RX031091,Toyota of Laramie,WY
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA7RX031107,Toyota World of Clinton,NJ
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA7RX031124,Lone Star Toyota of Lewisville,TX
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA7RX031138,Malloy Toyota,VA
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA7RX031141,St. Charles Toyota,IL
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,True,DealerHold,7SVAAABA7RX031141,St. Charles Toyota,IL
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA7RX031155,Mountain States Toyota,CO
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA7RX031169,Centennial Toyota,NV
 2024,Capstone 4x4,Celestial Silver Metallic,81265,2910.0,84175.0,At dealer,False,DealerHold,7SVAAABA7RX031267,Cannon Toyota,MS
@@ -1718,13 +1741,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA7RX031298,Thompson Toyota,PA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA7RX031303,Rolling Hills Toyota,MO
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA7RX031317,Beaman Toyota,TN
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX031320,Right Toyota,AZ
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA7RX031320,Right Toyota,AZ
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA7RX031334,Toyota Universe,NJ
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA7RX031348,Route 22 Toyota,NJ
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX031351,Haley Toyota of Richmond,VA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX031365,Hendrick Toyota Apex,NC
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABA7RX031379,Fox Toyota of El Paso,TX
+2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA7RX031379,Fox Toyota of El Paso,TX
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA7RX031382,Jim Coleman Toyota,MD
+2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,At dealer,False,DealerHold,7SVAAABA7RX031401,Big Two Toyota of Chandler,AZ
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX031415,AutoNation Toyota Winter Park,FL
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA7RX031429,Panama City Toyota,FL
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,2488.0,83753.0,At dealer,False,Available,7SVAAABA7RX031432,Toyota of Plano,TX
@@ -1743,6 +1767,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA7RX031687,Markquart Toyota,WI
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA7RX031690,Malloy Toyota,VA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA7RX031706,Mitchell Toyota,TX
+2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABA7RX031723,Mark McLarty Toyota,AR
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA7RX031737,Berglund Toyota,VA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,False,Available,7SVAAABA7RX031754,Nalley Toyota of Roswell,GA
 2024,Platinum 4x4,Lunar Rock,76865,7282.0,84147.0,Port to dealer,False,DealerHold,7SVAAABA7RX031785,Toyota of Kirkland,WA
@@ -1758,24 +1783,25 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,True,DealerHold,7SVAAABA7RX032063,Toyota of Poway,CA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA7RX032077,Bommarito Toyota,MO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA7RX032130,Toyota of Greenville,SC
+2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,,7SVAAABA7RX032144,Hanover Toyota,PA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA7RX032158,Principle Toyota,TN
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX04A006,Elgin Toyota,IL
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA7RX032208,Newark Toyotaworld,DE
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA7RX032239,Mountain States Toyota,CO
+2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA7RX032242,Heritage Toyota Catonsville,MD
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA7RX032256,Maita's Toyota of Sacramento,CA
+2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA7RX032273,Panama City Toyota,FL
+2024,Platinum 4x4,Celestial Silver Metallic,76865,2495.0,79360.0,Port to dealer,False,,7SVAAABA7RX032290,Toyota of Orange,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA7RX04A149,Ferris Toyota,OH
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA7RX04A183,Kendall Toyota,FL
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA7RX04B382,Bighorn Toyota,CO
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX04B396,Lipton Toyota,FL
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA7RX04B494,Toyota of Vero Beach,FL
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX04B527,AutoNation Toyota Weston,FL
-2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA7RX04B530,Balise Toyota of Warwick,RI
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,2190.0,83455.0,Factory to port,False,,7SVAAABA7RX04B558,Sansone Toyota,NJ
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA7RX04B690,Claremont Toyota,CA
+2024,Platinum 4x4,Lunar Rock,76865,5161.0,82026.0,Factory to port,False,DealerHold,7SVAAABA7RX04B723,AutoNation Toyota Buena Park,CA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,,7SVAAABA7RX04B852,Toyota On Western,IL
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA7RX04B897,AutoNation Toyota Gulf Freeway,TX
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX04C029,AutoNation Toyota Winter Park,FL
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,1397.0,78262.0,Factory to port,False,Available,7SVAAABA7RX04C032,DCH Wappingers Falls Toyota,NY
 2024,Platinum 4x4,Midnight Black Metallic,76865,2379.0,79244.0,Factory to port,False,Available,7SVAAABA7RX04D083,Gullo Toyota of Conroe,TX
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA7RX04D259,Walser Bloomington Toyota,MN
-2024,Platinum 4x4,Wind Chill Pearl,76865,599.0,77464.0,Factory to port,False,DealerHold,7SVAAABA7RX04D410,Hudson Toyota,NJ
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA7RX04D570,East Coast Toyota,NJ
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX04D729,Nalley Toyota Union City,GA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX05A003,Toyota of Dartmouth,MA
@@ -1793,11 +1819,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA7RX05D578,Springhill Toyota,AL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX05D631,Luther Brookdale Toyota,MN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX06A904,Hendrick Toyota Wilmington,NC
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX06A966,Fred Anderson Toyota of Charleston,SC
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA7RX06B602,"Stapp Interstate Toyota, Inc.",CO
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX06B843,Groove Toyota,CO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX06B857,Dahl Toyota,MN
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA7RX06B874,Longo Toyota of Prosper,TX
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,DealerHold,7SVAAABA7RX06B874,Longo Toyota of Prosper,TX
 2024,Capstone 4x4,Wind Chill Pearl,81265,1793.0,83058.0,Factory to port,True,,7SVAAABA7RX06B888,DCH Toyota of Oxnard,CA
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX06C362,Toyota of Merrillville,IN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA7RX06C443,AutoNation Toyota Winter Park,FL
@@ -1832,6 +1857,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA7RX09D711,Lynch Toyota,CT
 2024,TRD Pro 4x4,Terra,79110,895.0,80005.0,Factory to port,False,,7SVAAABA7RX09D725,Merced Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA7RX09D742,Pinehurst Toyota,NC
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX10A124,Toyota of Clovis,CA
 2024,Capstone 4x4,Celestial Silver Metallic,81265,698.0,81963.0,Factory to port,False,,7SVAAABA7RX10A141,Toyota of Renton,WA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA7RX10B807,Bommarito Toyota,MO
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,,7SVAAABA7RX10B810,Oakbrook Toyota in Westmont,IL
@@ -1889,21 +1915,21 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA8RX030788,Thompson's Toyota of Placerville,CA
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX030791,Sheehy Toyota of Laurel,MD
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA8RX030824,Hoffman Toyota,CT
-2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,At dealer,False,,7SVAAABA8RX030855,Rivertown Toyota,GA
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,True,DealerHold,7SVAAABA8RX030872,Fremont Toyota of Sheridan,WY
-2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA8RX030919,Bighorn Toyota,CO
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA8RX030905,Jim Bagan Toyota,CA
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA8RX030919,Bighorn Toyota,CO
 2024,Limited 4x4,Lunar Rock,70675,495.0,71170.0,Port to dealer,False,,7SVAAABA8RX030922,Waldorf Toyota,MD
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA8RX030984,Westbury Toyota,NY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA8RX030998,Walker Toyota,OH
 2024,Limited 4x4,Wind Chill Pearl,70675,2273.0,72948.0,At dealer,False,DealerHold,7SVAAABA8RX031004,AutoNation Toyota Hayward,CA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA8RX031021,Capitol Toyota of Salem,OR
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABA8RX031049,Family Toyota of Arlington,TX
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA8RX031066,Beach Cities Toyota Westminster,CA
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX031102,Toyota of Muskegon,MI
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA8RX031102,Toyota of Muskegon,MI
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA8RX031116,AutoNation Toyota Spokane Valley,WA
-2024,Platinum 4x4,Wind Chill Pearl,76865,1295.0,78160.0,Port to dealer,False,,7SVAAABA8RX031147,Auburn Toyota,CA
+2024,Platinum 4x4,Wind Chill Pearl,76865,1295.0,78160.0,At dealer,False,,7SVAAABA8RX031147,Auburn Toyota,CA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA8RX031150,Groove Toyota,CO
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX031164,Jim Coleman Toyota,MD
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,At dealer,False,,7SVAAABA8RX031178,Wesley Chapel Toyota,FL
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,True,Available,7SVAAABA8RX031195,Avondale Toyota,AZ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA8RX031214,Crown Toyota,KS
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA8RX031231,Toyota of Del Rio,TX
@@ -1927,7 +1953,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA8RX031536,Legends Toyota,KS
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA8RX031553,Alamo Toyota,TX
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA8RX031567,Pauly Toyota,IL
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,2379.0,79244.0,Factory to port,False,Available,7SVAAABA8RX031570,Gullo Toyota of Conroe,TX
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA8RX031584,Shottenkirk Toyota Granbury,TX
 2024,Limited 4x4,Smoked Mesquite,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABA8RX031598,Street Toyota,TX
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA8RX031620,Thornhill Toyota,WV
@@ -1951,32 +1976,35 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA8RX031892,Toyota of Murfreesboro,TN
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX031911,John Eagle Sport City Toyota,TX
 2024,TRD Pro 4x4,Ice Cap,79110,17695.0,96805.0,Port to dealer,True,DealerHold,7SVAAABA8RX031925,Shottenkirk Toyota Granbury,TX
-2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,,7SVAAABA8RX031939,Pohanka Toyota of Salisbury,MD
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA8RX031939,Pohanka Toyota of Salisbury,MD
 2024,Limited 4x4,Smoked Mesquite,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA8RX031956,Mike Calvert Toyota,TX
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX031973,Rick Hendrick Toyota Sandy Springs,GA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA8RX031987,Zanesville Toyota,OH
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA8RX031990,Heritage Toyota Owings Mills,MD
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,True,DealerHold,7SVAAABA8RX032010,Northway Toyota,NY
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABA8RX032024,Toyota of Muscatine,IA
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA8RX032038,Vandergriff Toyota,TX
+2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,True,Available,7SVAAABA8RX032038,Vandergriff Toyota,TX
 2024,Limited 4x4,Wind Chill Pearl,70675,199.0,70874.0,Port to dealer,False,DealerHold,7SVAAABA8RX032041,Torrington Toyota,CT
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX032055,Passport Toyota,MD
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA8RX032069,Empire Toyota,NY
+2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA8RX032086,Claremont Toyota,CA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX032105,Middletown Toyota,CT
-2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA8RX032153,Toyota on Nicholasville,KY
+2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABA8RX032153,Toyota on Nicholasville,KY
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA8RX032167,Frank Fletcher Toyota,MO
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA8RX032170,Longo Toyota of Prosper,TX
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX032184,Szott M-59 Toyota,MI
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA8RX032198,Mike Kelly Toyota of Uniontown,PA
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA8RX032198,Mike Kelly Toyota of Uniontown,PA
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA8RX032203,Elgin Toyota,IL
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA8RX032217,Toyota of Greensboro,NC
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,True,Available,7SVAAABA8RX032220,Lithia Toyota of Klamath Falls,OR
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA8RX032248,Jeff Hunter Toyota,TX
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABA8RX032265,Cobb County Toyota,GA
+2024,SR5 4x4,Blueprint,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABA8RX032301,Beaman Toyota,TN
 2024,Limited 4x4,Lunar Rock,70675,6290.0,76965.0,Factory to port,False,,7SVAAABA8RX04A211,Berge Toyota,AZ
 2024,Capstone 4x4,Wind Chill Pearl,81265,2796.0,84061.0,Factory to port,False,,7SVAAABA8RX04B844,AutoNation Toyota Tempe,AZ
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA8RX04B861,St. Cloud Toyota,MN
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX04C024,Springhill Toyota,AL
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA8RX04C038,Toyota of Fayetteville,AR
-2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA8RX04D223,Maita's Toyota of Sacramento,CA
-2024,Platinum 4x4,Magnetic Gray Metallic,76865,1595.0,78460.0,Factory to port,False,,7SVAAABA8RX04D559,Findlay Toyota,NV
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA8RX04D576,Warrenton Toyota,VA
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,True,,7SVAAABA8RX04D612,Elk Grove Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,,7SVAAABA8RX04D626,Avondale Toyota,AZ
 2024,Capstone 4x4,Midnight Black Metallic,81265,1274.0,82539.0,Factory to port,False,,7SVAAABA8RX05A141,Tom Wood Toyota,IN
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Factory to port,False,,7SVAAABA8RX05A169,Tustin Toyota,CA
@@ -1984,6 +2012,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Factory to port,True,DealerHold,7SVAAABA8RX05B600,Hoselton Toyota,NY
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX05B743,AutoNation Toyota Weston,FL
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Factory to port,False,,7SVAAABA8RX05B841,Mechanicsville Toyota,VA
+2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA8RX05B869,West Herr Toyota of Williamsville,NY
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX05C049,Gettel Toyota of Lakewood,FL
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,,7SVAAABA8RX05C052,Rogers Toyota,ID
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA8RX05D105,Kendall Toyota,FL
@@ -2021,16 +2050,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA8RX09A039,Parks Toyota of Deland,FL
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,Available,7SVAAABA8RX09A106,Greg Leblanc Toyota,LA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA8RX09A588,North Georgia Toyota,GA
-2024,Limited 4x4,Ice Cap,70675,1098.0,71773.0,Factory to port,True,Available,7SVAAABA8RX09B417,Toyota of Cedar Park,TX
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA8RX09B482,Labadie Toyota,MI
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,DealerHold,7SVAAABA8RX09C065,Coggin Toyota at the Avenues,FL
 2024,Platinum 4x4,Midnight Black Metallic,76865,799.0,77664.0,Factory to port,False,,7SVAAABA8RX09D023,Roswell Toyota,NM
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA8RX09D071,Joseph Toyota of Cincinnati,OH
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA8RX09D099,"Stapp Interstate Toyota, Inc.",CO
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA8RX09D104,Toyota of Greensburg,PA
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,,7SVAAABA8RX09D703,Ken Ganley Toyota,PA
-2024,Limited 4x4,Magnetic Gray Metallic,70675,1098.0,71773.0,Factory to port,True,Available,7SVAAABA8RX09D717,Toyota of Cedar Park,TX
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,,7SVAAABA8RX10A603,Toyota of Naperville,IL
-2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA8RX10B220,Pauly Toyota,IL
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA8RX10B220,Pauly Toyota,IL
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA8RX10C318,Westchester Toyota,NY
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA8RX10C710,Hoselton Toyota,NY
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA8RX10C738,Toyota of Santa Maria,CA
@@ -2038,9 +2066,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,495.0,77360.0,Factory to port,False,,7SVAAABA8RX10C898,Waldorf Toyota,MD
 2024,Platinum 4x4,Lunar Rock,76865,2295.0,79160.0,Factory to port,False,,7SVAAABA8RX10D503,Desert Toyota of Tucson,AZ
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA8RX10D534,Groove Toyota,CO
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA8RX10E053,Kool Toyota,MI
+2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA8RX10E215,One Toyota of Oakland,CA
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Factory to port,False,,7SVAAABA8RX10E229,Toyota of Vineland,NJ
 2024,Platinum 4x4,Lunar Rock,76865,7282.0,84147.0,Factory to port,False,,7SVAAABA8RX11A046,Toyota of Kirkland,WA
+2024,Limited 4x4,Solar Octane,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA8RX11A628,Metro Toyota,OH
 2024,Platinum 4x4,Lunar Rock,76865,1595.0,78460.0,Factory to port,False,,7SVAAABA8RX11B682,Findlay Toyota,NV
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA8RX11B715,Kalispell Toyota,MT
 2023,TRD Pro 4x4,Magnetic Gray Metallic,76065,0.0,76065.0,At dealer,False,Available,7SVAAABA9PX015052,Jaffarian Toyota,MA
@@ -2087,22 +2116,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Midnight Black Metallic,78710,2475.0,81185.0,At dealer,False,DealerHold,7SVAAABA9RX029942,Toyota of Bedford,OH
 2024,Limited 4x4,Supersonic Red,70275,0.0,70275.0,At dealer,False,,7SVAAABA9RX029990,Team Toyota,OH
 2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,True,,7SVAAABA9RX030069,Haddad Toyota,MA
-2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,Available,7SVAAABA9RX030072,Toyota of Santa Fe,NM
-2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA9RX030105,Savannah Toyota,GA
-2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA9RX030119,Toyota of Ashland,KY
-2024,Limited 4x4,Magnetic Gray Metallic,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABA9RX030122,Team Toyota,NE
+2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,At dealer,False,DealerHold,7SVAAABA9RX030105,Savannah Toyota,GA
 2024,Limited 4x4,Magnetic Gray Metallic,70275,0.0,70275.0,At dealer,False,,7SVAAABA9RX030170,Ourisman Chantilly Toyota,VA
 2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,Factory to port,True,DealerHold,7SVAAABA9RX030203,South Hills Toyota,PA
-2024,SR5 4x4,Ice Cap,63875,0.0,63875.0,At dealer,False,,7SVAAABA9RX030248,Rohrich Toyota,PA
 2024,Capstone 4x4,Wind Chill Pearl,80865,0.0,80865.0,At dealer,False,,7SVAAABA9RX030265,Hansel Toyota,CA
-2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,Available,7SVAAABA9RX030315,Damian Lillard Toyota,OR
-2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,At dealer,False,,7SVAAABA9RX030346,Dick Hannah Toyota,WA
+2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABA9RX030346,Dick Hannah Toyota,WA
 2024,Limited 4x4,Supersonic Red,70275,0.0,70275.0,At dealer,False,,7SVAAABA9RX030413,Brewer Airport Toyota,PA
 2024,Capstone 4x4,Magnetic Gray Metallic,80865,0.0,80865.0,At dealer,False,DealerHold,7SVAAABA9RX030427,Baxter Toyota of Lincoln,NE
+2024,Limited 4x4,Midnight Black Metallic,70275,0.0,70275.0,At dealer,True,DealerHold,7SVAAABA9RX030430,Sullivan Brothers Toyota,MA
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA9RX030444,North Park Toyota of San Antonio,TX
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,At dealer,False,,7SVAAABA9RX030508,LaFontaine Toyota,MI
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,At dealer,False,DealerHold,7SVAAABA9RX030511,Tufankjian Toyota of Braintree,MA
-2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA9RX030525,Toyota West,OH
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,At dealer,False,Available,7SVAAABA9RX030525,Toyota West,OH
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA9RX030587,Hendrick Toyota Concord,NC
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,2190.0,83455.0,At dealer,False,Available,7SVAAABA9RX030590,Bob Howard Toyota,OK
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA9RX030606,Walker Toyota,LA
@@ -2111,16 +2136,16 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,81265,1599.0,82864.0,Factory to port,False,Available,7SVAAABA9RX030704,Silsbee Toyota,TX
 2024,SR5 4x4,Magnetic Gray Metallic,64275,495.0,64770.0,Port to dealer,False,,7SVAAABA9RX030721,Waldorf Toyota,MD
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,At dealer,False,,7SVAAABA9RX030752,Capitol Toyota,CA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,998.0,77863.0,Port to dealer,False,,7SVAAABA9RX030797,Webb Toyota,NM
+2024,Platinum 4x4,Celestial Silver Metallic,76865,998.0,77863.0,At dealer,False,,7SVAAABA9RX030797,Webb Toyota,NM
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,At dealer,False,Available,7SVAAABA9RX030802,Adams Toyota Lee's Summit,MO
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,At dealer,True,Available,7SVAAABA9RX030816,Magness Toyota,AR
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,False,,7SVAAABA9RX030833,One Toyota of Oakland,CA
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAABA9RX030878,Byers Toyota,OH
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA9RX030881,Thornhill Toyota,WV
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,At dealer,False,Available,7SVAAABA9RX030900,Durango Toyota,CO
-2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA9RX030928,Phil Meador Toyota,ID
+2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA9RX030928,Phil Meador Toyota,ID
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABA9RX030959,Fremont Toyota,WY
-2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA9RX030976,Toyota of Naperville,IL
+2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,At dealer,False,,7SVAAABA9RX030976,Toyota of Naperville,IL
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX030993,Brunswick Toyota,OH
 2024,Platinum 4x4,Supersonic Red,76865,1595.0,78460.0,At dealer,False,DealerHold,7SVAAABA9RX031027,Findlay Toyota,NV
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA9RX031030,Colonial Toyota,CT
@@ -2134,15 +2159,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA9RX031139,McGee Toyota,MA
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA9RX031142,Toyota of Dallas,TX
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX031156,Hall Toyota Virginia Beach,VA
-2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA9RX031173,Courtesy Toyota,FL
+2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,At dealer,False,Available,7SVAAABA9RX031173,Courtesy Toyota,FL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA9RX031187,Miller Toyota,VA
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA9RX031190,Williams Toyota of Sayre,PA
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABA9RX031190,Williams Toyota of Sayre,PA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,1595.0,72270.0,At dealer,False,DealerHold,7SVAAABA9RX031206,Findlay Toyota,NV
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA9RX031223,Fox Toyota of Cadillac,MI
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA9RX031237,Royal South Toyota,IN
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA9RX031240,Crown Toyota,IL
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA9RX031268,Toyota of Deerfield Beach,FL
-2024,Platinum 4x4,Lunar Rock,76865,9995.0,86860.0,At dealer,True,Available,7SVAAABA9RX031285,Cowboy Toyota,TX
+2024,Platinum 4x4,Lunar Rock,76865,9995.0,86860.0,At dealer,True,DealerHold,7SVAAABA9RX031285,Cowboy Toyota,TX
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,True,,7SVAAABA9RX031335,Faulkner Toyota,PA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABA9RX031349,Toyota of Escondido,CA
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA9RX031352,DARCARS Toyota,MD
@@ -2160,12 +2185,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA9RX031626,David Wilson's Toyota of Las Vegas,NV
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABA9RX031657,Toyota of Bozeman,MT
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,True,,7SVAAABA9RX031674,One Toyota of Oakland,CA
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA9RX031688,Five Star Toyota,WA
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA9RX031688,Five Star Toyota,WA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA9RX031707,Janzen Toyota,OK
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA9RX031710,Malloy Toyota,VA
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX031741,Rohrich Toyota,PA
 2024,SR5 4x4,Blueprint,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA9RX031769,Sheehy Toyota of Laurel,MD
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA9RX031772,Island Toyota,NY
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABA9RX031772,Island Toyota,NY
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA9RX031819,"Glen Motors, Inc.",NJ
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,,7SVAAABA9RX031867,Checkered Flag Toyota,VA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Port to dealer,False,,7SVAAABA9RX031870,Keyes Toyota,CA
@@ -2179,26 +2204,30 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA9RX031979,Burnsville Toyota,MN
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA9RX032016,Sunrise Toyota,NY
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX032033,Gene Messer Toyota,TX
+2024,SR5 4x4,Midnight Black Metallic,64275,7282.0,71557.0,Port to dealer,False,,7SVAAABA9RX032047,Toyota of Kirkland,WA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA9RX032064,Magness Toyota,AR
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX032100,J. Allen Toyota,MS
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABA9RX032114,Walser Bloomington Toyota,MN
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,,7SVAAABA9RX032131,Ourisman Fairfax Toyota,VA
 2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX032159,Concord Toyota,CA
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABA9RX032176,Palmiero Toyota,PA
+2024,SR5 4x4,Blueprint,64275,0.0,64275.0,Port to dealer,False,,7SVAAABA9RX032193,Advantage Toyota,WV
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX032209,Laurel Toyota,PA
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA9RX032212,Ira Toyota of Manchester,NH
+2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX032226,Victory Toyota of Midtown,IL
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABA9RX032274,Lia Toyota of Colonie,NY
+2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX032291,Toyota of Ashland,KY
+2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABA9RX032307,Toyota Marin,CA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,False,,7SVAAABA9RX04A167,Chicago Northside Toyota,IL
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX04A184,Elk Grove Toyota,CA
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA9RX04B397,Prince Toyota,GA
-2024,SR5 4x4,Supersonic Red,64275,699.0,64974.0,Factory to port,False,,7SVAAABA9RX04B500,Capital Toyota,TN
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABA9RX04B531,St. Charles Toyota,IL
 2024,Platinum 4x4,Wind Chill Pearl,76865,1495.0,78360.0,Factory to port,False,DealerHold,7SVAAABA9RX04B691,South Coast Toyota,CA
-2024,Platinum 4x4,Celestial Silver Metallic,76865,2495.0,79360.0,Factory to port,False,,7SVAAABA9RX04B707,Toyota of Orange,CA
 2024,Capstone 4x4,Supersonic Red,81265,1990.0,83255.0,Factory to port,False,,7SVAAABA9RX04B853,East Madison Toyota,WI
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,DealerHold,7SVAAABA9RX04B920,Landers McLarty Toyota,TN
-2024,Platinum 4x4,Celestial Silver Metallic,76865,4995.0,81860.0,Factory to port,True,DealerHold,7SVAAABA9RX04C033,Jim Norton Toyota of Oklahoma City,OK
 2024,Limited 4x4,Supersonic Red,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABA9RX04D201,Kendall Toyota of Bend,OR
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Factory to port,False,Available,7SVAAABA9RX04D215,Mike Johnson's Hickory Toyota,NC
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABA9RX04D246,Tansky Sawmill Toyota,OH
-2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABA9RX04D425,Lia Toyota of Colonie,NY
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX04D571,LeadCar Toyota La Crosse,WI
 2024,Limited 4x4,Supersonic Red,70675,2379.0,73054.0,Factory to port,False,Available,7SVAAABA9RX04D599,Gullo Toyota of Conroe,TX
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA9RX04D618,Baxter Toyota of Lincoln,NE
@@ -2257,6 +2286,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX09B698,Toyota Marin,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX09B815,Toyota of Goldsboro,NC
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA9RX09C012,Faulkner Toyota,PA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA9RX09C043,Elgin Toyota,IL
 2024,SR5 4x4,Lunar Rock,64275,0.0,64275.0,Factory to port,False,,7SVAAABA9RX09C107,Kendall Toyota,OR
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX09D323,Rick Hendrick Toyota Sandy Springs,GA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX09D709,Toyota of Glendale,CA
@@ -2264,19 +2294,24 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Blueprint,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10A111,Andrew Toyota,WI
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA9RX10A142,Legends Toyota,KS
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA9RX10A805,Fordham Toyota,NY
+2024,Limited 4x4,Wind Chill Pearl,70675,995.0,71670.0,Factory to port,False,,7SVAAABA9RX10B193,Hanlees Fairfield Toyota,CA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10B226,Toyota of Erie,PA
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,895.0,77760.0,Factory to port,False,,7SVAAABA9RX10B579,Merced Toyota,CA
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10B582,Lia Toyota of Northampton,MA
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10B808,Baxter Toyota of Lincoln,NE
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Factory to port,False,DealerHold,7SVAAABA9RX10C294,West Herr Toyota of Williamsville,NY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX10C568,Groove Toyota,CO
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABA9RX10D297,"Stapp Interstate Toyota, Inc.",CO
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10D509,Toyota of Des Moines,IA
 2024,Limited 4x4,Midnight Black Metallic,70675,1899.0,72574.0,Factory to port,False,,7SVAAABA9RX10D932,Wolfchase Toyota,TN
+2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX10E028,Joseph Airport Toyota,OH
 2024,Capstone 4x4,Celestial Silver Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABA9RX11A038,"Pedersen Toyota, Ltd.",CO
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,,7SVAAABA9RX11A055,Beechmont Toyota,OH
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX11A749,Ourisman Chantilly Toyota,VA
-2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,DealerHold,7SVAAABA9RX11A928,Pauly Toyota,IL
-2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX11A959,Chuck Hutton Toyota,TN
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABA9RX11A928,Pauly Toyota,IL
+2024,Limited 4x4,Midnight Black Metallic,70675,1978.0,72653.0,Factory to port,False,,7SVAAABA9RX11A959,Chuck Hutton Toyota,TN
 2024,Platinum 4x4,Celestial Silver Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA9RX11B125,South Bay Toyota,CA
-2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABA9RX11B187,Toyota of Des Moines,IA
+2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABA9RX11B187,Hoselton Toyota,NY
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABA9RX11B691,Jones Toyota,MD
 2023,Platinum 4x4,Wind Chill Pearl,75465,0.0,75465.0,At dealer,True,Available,7SVAAABAXPX014993,Don McGill Toyota,TX
 2023,Capstone 4x4,Blueprint,79865,0.0,79865.0,At dealer,False,DealerHold,7SVAAABAXPX017828,Spitzer Toyota,PA
@@ -2295,6 +2330,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70275,1995.0,72270.0,At dealer,False,,7SVAAABAXRX027861,Mechanicsville Toyota,VA
 2024,TRD Pro 4x4,Midnight Black Metallic,78710,0.0,78710.0,At dealer,False,Available,7SVAAABAXRX027911,Riverhead Toyota,NY
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,Available,7SVAAABAXRX028055,McKinnon Toyota,AL
+2024,Platinum 4x4,Wind Chill Pearl,76465,0.0,76465.0,At dealer,False,Available,7SVAAABAXRX028153,Ken Nelson Toyota,IL
 2024,TRD Pro 4x4,Terra,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABAXRX028203,Hall Toyota Virginia Beach,VA
 2024,Platinum 4x4,Celestial Silver Metallic,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABAXRX028217,Toyota of Wellesley,MA
 2024,SR5 4x4,Magnetic Gray Metallic,63875,0.0,63875.0,At dealer,False,,7SVAAABAXRX028248,Gloucester Toyota,VA
@@ -2303,7 +2339,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Supersonic Red,76465,0.0,76465.0,At dealer,False,,7SVAAABAXRX028833,Haley Toyota of Farmville,VA
 2024,SR5 4x4,Supersonic Red,63875,0.0,63875.0,At dealer,False,Available,7SVAAABAXRX029027,Toyota of Orange,CA
 2024,Limited 4x4,Smoked Mesquite,70275,0.0,70275.0,At dealer,False,,7SVAAABAXRX029240,Danville Toyota,VA
-2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABAXRX029352,Brownsville Toyota,TX
 2024,Limited 4x4,Smoked Mesquite,70275,0.0,70275.0,At dealer,False,DealerHold,7SVAAABAXRX029562,Victory Toyota of San Bruno,CA
 2024,Limited 4x4,Ice Cap,70275,0.0,70275.0,At dealer,False,,7SVAAABAXRX029674,Oakbrook Toyota in Westmont,IL
 2024,Platinum 4x4,Magnetic Gray Metallic,76465,0.0,76465.0,At dealer,False,,7SVAAABAXRX029691,Kerry Toyota,KY
@@ -2322,19 +2357,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Celestial Silver Metallic,70275,0.0,70275.0,At dealer,False,Available,7SVAAABAXRX030291,Toyota of York,PA
 2024,Platinum 4x4,Wind Chill Pearl,76465,1495.0,77960.0,At dealer,False,,7SVAAABAXRX030341,Kokomo Toyota,IN
 2024,Platinum 4x4,Lunar Rock,76465,0.0,76465.0,At dealer,False,DealerHold,7SVAAABAXRX030355,Bill Kidd's Timonium Toyota,MD
-2024,TRD Pro 4x4,Midnight Black Metallic,78710,0.0,78710.0,At dealer,True,DealerHold,7SVAAABAXRX030386,Fremont Toyota of Sheridan,WY
+2024,TRD Pro 4x4,Midnight Black Metallic,78710,0.0,78710.0,At dealer,False,DealerHold,7SVAAABAXRX030386,Fremont Toyota of Sheridan,WY
 2024,SR5 4x4,Ice Cap,63875,0.0,63875.0,At dealer,False,DealerHold,7SVAAABAXRX030405,Berglund Toyota,VA
 2024,SR5 4x4,Supersonic Red,63875,0.0,63875.0,At dealer,False,Available,7SVAAABAXRX030436,Envision Toyota of Norwalk,CA
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,False,Available,7SVAAABAXRX030484,Kirksville Toyota,MO
+2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABAXRX030484,Kirksville Toyota,MO
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABAXRX030498,Sullivan Brothers Toyota,MA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,At dealer,False,Available,7SVAAABAXRX030503,Doral Toyota,FL
-2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABAXRX030601,Rusty Wallace Toyota,TN
+2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,At dealer,False,DealerHold,7SVAAABAXRX030601,Rusty Wallace Toyota,TN
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,At dealer,False,DealerHold,7SVAAABAXRX030615,Victory Toyota,CA
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Port to dealer,False,,7SVAAABAXRX030629,Sloane Toyota of Philadelphia,PA
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,Available,7SVAAABAXRX030632,International Toyota,WI
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,True,DealerHold,7SVAAABAXRX030727,Modesto Toyota,CA
 2024,Limited 4x4,Ice Cap,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABAXRX030730,Schaumburg Toyota,IL
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,True,DealerHold,7SVAAABAXRX030744,Fremont Toyota of Sheridan,WY
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,,7SVAAABAXRX030761,One Toyota of Oakland,CA
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,At dealer,False,,7SVAAABAXRX030775,Groove Toyota,CO
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX030789,Toyota of Morristown,NJ
@@ -2344,14 +2378,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,395.0,77260.0,Port to dealer,False,DealerHold,7SVAAABAXRX030923,Toyota of Olympia,WA
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX030954,Toyota of Wellesley,MA
 2024,Limited 4x4,Wind Chill Pearl,70675,3490.0,74165.0,At dealer,False,DealerHold,7SVAAABAXRX030985,Fred Haas Toyota World,TX
-2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX030999,Diehl Toyota of Butler,PA
+2024,Limited 4x4,Blueprint,70675,0.0,70675.0,At dealer,False,,7SVAAABAXRX030999,Diehl Toyota of Butler,PA
 2024,TRD Pro 4x4,Terra,79110,0.0,79110.0,Port to dealer,True,,7SVAAABAXRX031005,"Turner Toyota, Inc.",CO
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,1695.0,82960.0,Port to dealer,False,,7SVAAABAXRX031019,Anderson Toyota,AZ
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,1695.0,82960.0,At dealer,False,,7SVAAABAXRX031019,Anderson Toyota,AZ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,At dealer,False,DealerHold,7SVAAABAXRX031022,"Cedar Rapids Toyota, Inc.",IA
-2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,False,DealerHold,7SVAAABAXRX031053,Crown Toyota,IL
+2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,At dealer,False,DealerHold,7SVAAABAXRX031053,Crown Toyota,IL
 2024,Platinum 4x4,Celestial Silver Metallic,76865,1895.0,78760.0,At dealer,False,Available,7SVAAABAXRX031084,Central Toyota,AR
-2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABAXRX031098,Lipton Toyota,FL
-2024,Capstone 4x4,Midnight Black Metallic,81265,5995.0,87260.0,At dealer,False,Available,7SVAAABAXRX031103,Toyota of Richardson,TX
+2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,At dealer,False,DealerHold,7SVAAABAXRX031098,Lipton Toyota,FL
+2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,At dealer,False,Available,7SVAAABAXRX031103,Toyota of Richardson,TX
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABAXRX031120,LaGrange Toyota,GA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,At dealer,False,Available,7SVAAABAXRX031134,Toyota of Orlando,FL
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,0.0,79110.0,Port to dealer,False,,7SVAAABAXRX031148,Bergstrom Toyota,WI
@@ -2367,10 +2401,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Midnight Black Metallic,70675,3974.0,74649.0,Port to dealer,True,DealerHold,7SVAAABAXRX031327,Claremont Toyota,CA
 2024,SR5 4x4,Blueprint,64275,0.0,64275.0,Port to dealer,False,,7SVAAABAXRX031330,Inver Grove Toyota,MN
 2024,Limited 4x4,Ice Cap,70675,0.0,70675.0,Port to dealer,False,Available,7SVAAABAXRX031361,Walser Bloomington Toyota,MN
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Port to dealer,True,,7SVAAABAXRX031375,Avondale Toyota,AZ
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,At dealer,True,,7SVAAABAXRX031375,Avondale Toyota,AZ
 2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Port to dealer,True,DealerHold,7SVAAABAXRX031392,Maplewood Toyota,MN
 2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,At dealer,False,Available,7SVAAABAXRX031408,Joseph Airport Toyota,OH
-2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,At dealer,True,DealerHold,7SVAAABAXRX031411,Northcutt Toyota,OK
+2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,At dealer,False,Available,7SVAAABAXRX031411,Northcutt Toyota,OK
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,False,,7SVAAABAXRX031425,Manhattan Beach Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX031442,Temecula Valley Toyota,CA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Factory to port,True,Available,7SVAAABAXRX031456,Toyota of Greensboro,NC
@@ -2393,7 +2427,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX031652,Corwin Toyota,ND
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,True,DealerHold,7SVAAABAXRX031666,Freeman Toyota,CA
 2024,TRD Pro 4x4,Ice Cap,79110,9500.0,88610.0,Port to dealer,False,DealerHold,7SVAAABAXRX031683,Toyota of Smithfield,RI
-2024,Platinum 4x4,Supersonic Red,76865,0.0,76865.0,At dealer,True,DealerHold,7SVAAABAXRX031697,Street Toyota,TX
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,Available,7SVAAABAXRX031702,St. Charles Toyota,IL
 2024,SR5 4x4,Midnight Black Metallic,64275,0.0,64275.0,Port to dealer,False,DealerHold,7SVAAABAXRX031716,Don Jacobs Toyota,WI
 2024,Capstone 4x4,Wind Chill Pearl,81265,0.0,81265.0,Port to dealer,True,Available,7SVAAABAXRX031733,Trotter Toyota,AR
@@ -2412,7 +2445,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,SR5 4x4,Ice Cap,64275,0.0,64275.0,Port to dealer,False,Available,7SVAAABAXRX031926,Roberts Toyota,TN
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAABAXRX031943,Toyota of Puyallup,WA
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Port to dealer,False,Available,7SVAAABAXRX031957,Green Toyota,IL
-2024,TRD Pro 4x4,Midnight Black Metallic,79110,0.0,79110.0,Port to dealer,False,Available,7SVAAABAXRX031991,Johnstons Toyota,NY
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX032025,Sloane Toyota of Malvern,PA
 2024,SR5 4x4,Magnetic Gray Metallic,64275,0.0,64275.0,Port to dealer,False,,7SVAAABAXRX032039,Kings Toyota,OH
 2024,Capstone 4x4,Supersonic Red,81265,0.0,81265.0,Port to dealer,False,,7SVAAABAXRX032042,Groove Toyota,CO
@@ -2428,6 +2460,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Port to dealer,False,DealerHold,7SVAAABAXRX032171,Elko Toyota,NV
 2024,Platinum 4x4,Lunar Rock,76865,0.0,76865.0,Port to dealer,False,,7SVAAABAXRX032185,Santa Margarita Toyota,CA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Port to dealer,False,DealerHold,7SVAAABAXRX032199,Beaman Toyota,TN
+2024,Platinum 4x4,Wind Chill Pearl,76865,599.0,77464.0,Port to dealer,False,DealerHold,7SVAAABAXRX032252,Hudson Toyota,NJ
+2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Port to dealer,False,,7SVAAABAXRX032266,Nourse Toyota,OH
+2024,Limited 4x4,Celestial Silver Metallic,70675,1790.0,72465.0,Port to dealer,False,,7SVAAABAXRX032283,Liberty Toyota,NJ
+2024,Platinum 4x4,Magnetic Gray Metallic,76865,1397.0,78262.0,Port to dealer,False,Available,7SVAAABAXRX032302,DCH Wappingers Falls Toyota,NY
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX04A176,Schaumburg Toyota,IL
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,True,DealerHold,7SVAAABAXRX04B506,North Georgia Toyota,GA
 2024,TRD Pro 4x4,Ice Cap,79110,0.0,79110.0,Factory to port,True,DealerHold,7SVAAABAXRX04B554,Fred Anderson Toyota of Asheville,NC
@@ -2436,16 +2472,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABAXRX04B859,Fox Toyota,TN
 2024,Limited 4x4,Lunar Rock,70675,1978.0,72653.0,Factory to port,False,,7SVAAABAXRX04B862,Chuck Hutton Toyota,TN
 2024,Platinum 4x4,Wind Chill Pearl,76865,1599.0,78464.0,Factory to port,True,Available,7SVAAABAXRX04C039,Silsbee Toyota,TX
-2024,Limited 4x4,Celestial Silver Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX04D224,Toyota Marin,CA
 2024,TRD Pro 4x4,Midnight Black Metallic,79110,599.0,79709.0,Factory to port,True,Available,7SVAAABAXRX04D238,Landers Toyota,AR
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABAXRX04D272,Newbold Toyota,IL
-2024,Capstone 4x4,Blueprint,81265,0.0,81265.0,Factory to port,False,,7SVAAABAXRX04D613,Ken Nelson Toyota,IL
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABAXRX05A142,Cobb County Toyota,GA
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX05A156,Team Toyota of Glen Mills,PA
 2024,TRD Pro 4x4,Magnetic Gray Metallic,79110,1290.0,80400.0,Factory to port,False,,7SVAAABAXRX05B551,Toyota of Redlands,CA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABAXRX05B565,Flow Toyota of Statesville,NC
 2024,SR5 4x4,Supersonic Red,64275,0.0,64275.0,Factory to port,False,,7SVAAABAXRX05B596,Copeland Toyota,MA
-2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,DealerHold,7SVAAABAXRX05D252,Gates Toyota,IN
+2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,True,DealerHold,7SVAAABAXRX05D252,Gates Toyota,IN
 2024,Platinum 4x4,Magnetic Gray Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABAXRX05D431,DCH Brunswick Toyota,NJ
 2024,SR5 4x4,Magnetic Gray Metallic,64275,299.0,64574.0,Factory to port,False,,7SVAAABAXRX05D574,Team Toyota,PA
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX05D588,Madera Toyota,CA
@@ -2469,11 +2503,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABAXRX07A472,Doral Toyota,FL
 2024,SR5 4x4,Blueprint,64275,2796.0,67071.0,Factory to port,False,,7SVAAABAXRX07A505,AutoNation Toyota Tempe,AZ
 2024,Limited 4x4,Lunar Rock,70675,0.0,70675.0,Factory to port,False,DealerHold,7SVAAABAXRX07B136,Hall Toyota Elizabeth City,NC
-2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,Available,7SVAAABAXRX07B301,Loving Toyota,TX
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,True,Available,7SVAAABAXRX07B301,Loving Toyota,TX
 2024,Limited 4x4,Smoked Mesquite,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX08A421,Kolar Toyota,MN
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABAXRX08A502,"Pedersen Toyota, Ltd.",CO
 2024,Limited 4x4,Wind Chill Pearl,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX08A578,Claremont Toyota,CA
 2024,Limited 4x4,Supersonic Red,70675,1899.0,72574.0,Factory to port,False,,7SVAAABAXRX08A581,Wolfchase Toyota,TN
+2024,Capstone 4x4,Magnetic Gray Metallic,81265,8285.0,89550.0,Factory to port,False,,7SVAAABAXRX08A600,Berge Toyota,AZ
 2024,Limited 4x4,Midnight Black Metallic,70675,0.0,70675.0,Factory to port,False,Available,7SVAAABAXRX08A631,Hendrick Toyota Wilmington,NC
 2024,Platinum 4x4,Midnight Black Metallic,76865,0.0,76865.0,Factory to port,False,Available,7SVAAABAXRX09A074,Loving Toyota,TX
 2024,Limited 4x4,Blueprint,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX09A592,Toyota of Santa Fe,NM
@@ -2499,6 +2534,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Capstone 4x4,Midnight Black Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABAXRX10C501,"Glen Motors, Inc.",NJ
 2024,Platinum 4x4,Wind Chill Pearl,76865,0.0,76865.0,Factory to port,False,,7SVAAABAXRX10D504,Legends Toyota,KS
 2024,Capstone 4x4,Wind Chill Pearl,81265,299.0,81564.0,Factory to port,False,,7SVAAABAXRX10D535,Team Toyota,PA
+2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX10D969,Roberts Toyota,TN
 2024,Limited 4x4,Magnetic Gray Metallic,70675,0.0,70675.0,Factory to port,False,,7SVAAABAXRX10E085,Bayside Toyota,MD
 2024,SR5 4x4,Celestial Silver Metallic,64275,0.0,64275.0,Factory to port,False,,7SVAAABAXRX10E233,Peppers Toyota,TN
 2024,Capstone 4x4,Magnetic Gray Metallic,81265,0.0,81265.0,Factory to port,False,,7SVAAABAXRX11A033,Toyota of Des Moines,IA

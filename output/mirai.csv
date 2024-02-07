@@ -30,7 +30,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XLE RWD,Oxygen White,49500,0.0,49500.0,At dealer,False,Available,JTDAAAAA3PA008953,Tustin Toyota,CA
 2023,Limited RWD,Oxygen White,66000,0.0,66000.0,At dealer,False,Available,JTDAAAAA3PA009827,San Francisco Toyota,CA
 2023,XLE RWD,Heavy Metal,49500,0.0,49500.0,At dealer,False,Available,JTDAAAAA3PA010069,Toyota Sunnyvale,CA
-2023,XLE RWD,Oxygen White,49500,0.0,49500.0,At dealer,False,Available,JTDAAAAA3PA010525,San Francisco Toyota,CA
 2023,XLE RWD,Oxygen White,49500,0.0,49500.0,At dealer,False,,JTDAAAAA3PA010606,Dublin Toyota,CA
 2023,Limited RWD,Heavy Metal,66000,0.0,66000.0,At dealer,False,Available,JTDAAAAA3PA010640,San Francisco Toyota,CA
 2023,XLE RWD,Black,49500,0.0,49500.0,At dealer,False,,JTDAAAAA3PA011285,Stevens Creek Toyota,CA
@@ -53,6 +52,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,Limited RWD,Heavy Metal,66000,0.0,66000.0,At dealer,False,,JTDAAAAA5PA010655,Longo Toyota,CA
 2023,Limited RWD,Black,66000,0.0,66000.0,At dealer,False,,JTDAAAAA5PA011255,Longo Toyota,CA
 2023,Limited RWD,Black,66000,0.0,66000.0,At dealer,False,Available,JTDAAAAA6PA007859,Toyota Santa Monica,CA
+2023,XLE RWD,Oxygen White,49500,0.0,49500.0,At dealer,False,Available,JTDAAAAA6PA008946,Tustin Toyota,CA
 2023,XLE RWD,Black,49500,0.0,49500.0,At dealer,False,DealerHold,JTDAAAAA6PA008977,Toyota of Orange,CA
 2023,Limited RWD,Black,66000,0.0,66000.0,At dealer,False,,JTDAAAAA6PA009319,Longo Toyota,CA
 2023,Limited RWD,Hydro Blue,66000,0.0,66000.0,At dealer,False,,JTDAAAAA6PA010017,Toyota of Orange,CA
