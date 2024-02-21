@@ -1,19 +1,20 @@
 Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
 2023,Core AWD,Supersonic Red,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE0PA007397,AutoNation Toyota Thornton Road,GA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0R108BX82,Don Wood Toyota,OH
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE0RA008018,Peter Boulware Toyota,FL
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE0RA009119,Scott Clark Toyota,NC
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE0RA009122,Shelor Toyota,VA
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,False,Available,JTNABAAE0RA009198,Brewer Airport Toyota,PA
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE0RA009590,Wesley Chapel Toyota,FL
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE0RA009637,Empire Toyota,NY
-2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,,JTNABAAE0RA009749,Ourisman Chantilly Toyota,VA
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE0RA009766,Toyota Place,CA
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE0RA009847,Longo Toyota,CA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE0RA010061,Coad Toyota,MO
-2024,Core AWD,Black,36100,0.0,36100.0,Port to dealer,True,DealerHold,JTNABAAE0RA010111,Classic Toyota,OH
+2024,Core AWD,Black,36100,0.0,36100.0,At dealer,True,DealerHold,JTNABAAE0RA010111,Classic Toyota,OH
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,Available,JTNABAAE0RA010125,Jordan Toyota,IN
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE0RA010271,Venice Toyota,FL
-2024,Circuit Edition AWD,Blue Flame,45140,4995.0,50135.0,At dealer,False,DealerHold,JTNABAAE0RA010285,Jim Norton Toyota of Oklahoma City,OK
-2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,DealerHold,JTNABAAE0RA010318,Jerry Ackerman Toyota,MO
+2024,Circuit Edition AWD,Blue Flame,45140,4995.0,50135.0,At dealer,True,DealerHold,JTNABAAE0RA010285,Jim Norton Toyota of Oklahoma City,OK
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,False,DealerHold,JTNABAAE0RA010318,Jerry Ackerman Toyota,MO
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,At dealer,False,DealerHold,JTNABAAE0RA010349,Phillips Toyota,FL
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE0RA010416,Dahl Toyota,MN
 2024,Premium AWD,Heavy Metal,40320,499.0,40819.0,At dealer,False,Available,JTNABAAE0RA010433,Caldwell Toyota,AR
@@ -21,15 +22,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,39920,8999.0,48919.0,At dealer,False,Available,JTNABAAE0RA010450,Toyota of Smithfield,RI
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE0RA010478,Bev Smith Toyota,FL
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE0RA010531,Johnstons Toyota,NY
-2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE0RA010559,Rock Springs Toyota,WY
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,DealerHold,JTNABAAE0RA010593,Olathe Toyota,KS
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Factory to port,False,DealerHold,JTNABAAE0RA010626,Toyota of Wellesley,MA
-2024,Core AWD,Ice Cap,36500,4616.0,41116.0,Factory to port,True,Available,JTNABAAE0RA010643,Texas Toyota of Grapevine,TX
+2024,Core AWD,Ice Cap,36500,4616.0,41116.0,Port to dealer,True,Available,JTNABAAE0RA010643,Texas Toyota of Grapevine,TX
 2024,Premium AWD,Black,40320,895.0,41215.0,Factory to port,False,Available,JTNABAAE0RA010688,Jim Norton Toyota of Oklahoma City,OK
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,Factory to port,True,DealerHold,JTNABAAE0RA010691,South Hills Toyota,PA
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Factory to port,True,DealerHold,JTNABAAE0RA010707,Burdick Toyota,NY
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,DealerHold,JTNABAAE0RA010724,Edmark Toyota,ID
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE0RA010741,Kendall Toyota,FL
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE0RA010741,Kendall Toyota,FL
 2024,Premium AWD,Supersonic Red,40320,1495.0,41815.0,Factory to port,False,Available,JTNABAAE0RA010769,Bohn Toyota,LA
 2024,Premium AWD,Supersonic Red,40320,995.0,41315.0,At dealer,False,,JTNABAAE0RA010786,Toyota Town,CA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE0RA010822,Toyota of Slidell,LA
@@ -39,6 +39,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE0RA010870,McDaniel Toyota,OH
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE0RA010884,Beechmont Toyota,OH
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,,JTNABAAE0RA010898,DCH Toyota of Oxnard,CA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE0RA010917,Red McCombs Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE0RA010920,Spitzer Toyota,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE0RA010934,Mark Miller Toyota,UT
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA010951,Toyota of Huntington Beach,CA
@@ -47,6 +48,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE0RA011033,Toyota of Massapequa,NY
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE0RA011050,Lugoff Toyota,SC
 2024,Circuit Edition AWD,Ice Cap,45140,2796.0,47936.0,Factory to port,False,,JTNABAAE0RA011095,AutoNation Toyota Tempe,AZ
+2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE0RA011114,Joe Myers Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE0RA011131,Kings Toyota,OH
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAE0RA011159,Falmouth Toyota,MA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE0RA011162,Route 22 Toyota,NJ
@@ -58,19 +60,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE0RA011288,Toyota of Glendale,CA
 2024,Circuit Edition AWD,Ice Cap,45140,1495.0,46635.0,Factory to port,False,Available,JTNABAAE0RA011291,Envision Toyota of West Covina,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA011307,Miller Toyota,VA
-2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE0RA011310,East Madison Toyota,WI
+2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Port to dealer,True,DealerHold,JTNABAAE0RA011310,East Madison Toyota,WI
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA011341,Toyota Walnut Creek,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0RA011372,AutoNation Toyota Hayward,CA
-2024,Circuit Edition AWD,Ice Cap,45140,1901.0,47041.0,Factory to port,False,,JTNABAAE0RA011386,Kolar Toyota,MN
+2024,Circuit Edition AWD,Ice Cap,45140,1901.0,47041.0,Port to dealer,False,,JTNABAAE0RA011386,Kolar Toyota,MN
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0RA011436,Koch 33 Toyota,PA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA011498,Toyota of Lake City,WA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA011517,Lou Fusz Toyota,MO
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE0RA011551,Ardmore Toyota,PA
-2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0RA011582,AutoNation Toyota Arapahoe,CO
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0RA011629,Plaza Toyota,NY
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE0RA011632,Peterson Toyota,ID
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE0RA011680,Westbury Toyota,NY
-2023,Core AWD,Black,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE1PA007635,Toyota of Murfreesboro,TN
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE0RA011727,DCH Brunswick Toyota,NJ
 2023,Core AWD,Supersonic Red,35900,6995.0,42895.0,At dealer,True,DealerHold,JTNABAAE1PA007666,Brownsville Toyota,TX
 2023,Core AWD,Black,35900,0.0,35900.0,At dealer,False,Available,JTNABAAE1PA007683,Kirk Toyota,MS
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE1R107AL85,AutoNation Toyota Cerritos,CA
@@ -83,25 +84,22 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,True,DealerHold,JTNABAAE1RA009663,Community Toyota,TX
 2024,Premium AWD,Black,40320,3500.0,43820.0,At dealer,False,Available,JTNABAAE1RA010019,Jim Ellis Toyota of McDonough,GA
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,,JTNABAAE1RA010117,L & S Toyota of Beckley,WV
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE1RA010120,Lake Country Toyota,MN
-2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,True,,JTNABAAE1RA010263,Smithtown Toyota,NY
+2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,True,,JTNABAAE1RA010263,Smithtown Toyota,NY
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE1RA010277,Toyota of Mt. Pleasant,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,,JTNABAAE1RA010344,Village Cadillac-Toyota,FL
-2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE1RA010375,Toyota of Runnemede,NJ
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE1RA010389,Cochran Toyota,PA
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE1RA010408,San Marcos Toyota,TX
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,DealerHold,JTNABAAE1RA010425,DARCARS Toyota,MD
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE1RA010439,Shottenkirk Toyota Granbury,TX
-2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE1RA010442,West Herr Toyota of Williamsville,NY
+2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE1RA010442,West Herr Toyota of Williamsville,NY
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE1RA010537,Heritage Toyota Catonsville,MD
 2024,Core AWD,Supersonic Red,36100,1397.0,37497.0,Factory to port,False,,JTNABAAE1RA010618,DCH Wappingers Falls Toyota,NY
 2024,Premium AWD,Ice Cap,40320,1895.0,42215.0,Factory to port,False,Available,JTNABAAE1RA010621,Don McGill Toyota,TX
 2024,Premium AWD,Black,39920,0.0,39920.0,Factory to port,True,DealerHold,JTNABAAE1RA010635,Northway Toyota,NY
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE1RA010652,Panama City Toyota,FL
-2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE1RA010666,Brunswick Toyota,OH
+2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE1RA010666,Brunswick Toyota,OH
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA010716,I-10 Toyota,CA
 2024,Core AWD,Black,36500,0.0,36500.0,At dealer,False,,JTNABAAE1RA010733,AutoNation Toyota Cerritos,CA
-2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE1RA010747,Rick McGill's Airport Toyota,TN
+2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE1RA010747,Rick McGill's Airport Toyota,TN
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA010750,Empire Toyota of Huntington,NY
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA010781,Gosch Toyota,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE1RA010800,Toyota of The Desert,CA
@@ -115,9 +113,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE1RA010943,North Park Toyota of San Antonio,TX
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,,JTNABAAE1RA010960,Toyota of Clovis,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE1RA010974,Victory Toyota,MI
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAE1RA010991,Vancouver Toyota,WA
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE1RA010991,Vancouver Toyota,WA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE1RA011008,Lee Toyota,ME
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE1RA011011,Baxter Toyota of La Vista,NE
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,True,DealerHold,JTNABAAE1RA011011,Baxter Toyota of La Vista,NE
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE1RA011039,Sterling McCall Toyota Fort Bend,TX
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE1RA011087,Conicelli Toyota,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011123,Buckhannon Toyota,WV
@@ -130,7 +128,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE1RA011218,Beaman Toyota,TN
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011221,Manhattan Beach Toyota,CA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE1RA011266,Interstate Toyota,NY
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE1RA011381,White's Toyota of Lima,OH
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE1RA011302,Toyota of Richardson,TX
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,False,,JTNABAAE1RA011381,White's Toyota of Lima,OH
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011395,Sloane Toyota of Glenside,PA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011400,Malloy Toyota,VA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE1RA011414,Fremont Toyota,CA
@@ -138,7 +137,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011462,DARCARS Toyota,MD
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011476,Toyota of Downtown LA,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE1RA011493,West Herr Toyota of Williamsville,NY
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011509,Hoselton Toyota,NY
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE1RA011509,Hoselton Toyota,NY
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAE1RA011526,Fitzgerald Toyota Gaithersburg,MD
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,,JTNABAAE1RA011543,Folsom Lake Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE1RA011557,Ventura Toyota,CA
@@ -147,11 +146,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Blue Flame,45140,2495.0,47635.0,Factory to port,False,,JTNABAAE1RA011624,Toyota of Orange,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE1RA011641,Towne Toyota,NJ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE1RA011686,Bill Estes Toyota,IN
-2024,Premium AWD,Black,40320,995.0,41315.0,Factory to port,False,,JTNABAAE2R107AL94,Toyota of El Cajon,CA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2R108AM86,Claremont Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE2R108BM30,Lynch Toyota,CT
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE2R108BT80,Beck Toyota,IN
-2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE2RA007789,South Dade Toyota,FL
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE2RA007954,Riverhead Toyota,NY
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE2RA008845,Toyota of Massapequa,NY
 2024,Premium AWD,Ice Cap,39920,2995.0,42915.0,At dealer,False,,JTNABAAE2RA009042,Paul Miller Toyota of West Caldwell,NJ
@@ -166,12 +163,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE2RA010059,Miracle Toyota of North Augusta,SC
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE2RA010062,City Toyota,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE2RA010112,Central Florida Toyota,FL
-2024,Core AWD,Black,36100,4324.0,40424.0,At dealer,False,,JTNABAAE2RA010224,Claremont Toyota,CA
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE2RA010255,Thornhill Toyota,WV
-2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,True,Available,JTNABAAE2RA010272,Steet Toyota,NY
 2024,Premium AWD,Black,39920,1495.0,41415.0,At dealer,False,DealerHold,JTNABAAE2RA010353,Envision Toyota of West Covina,CA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE2RA010367,Hoffman Toyota,CT
-2024,Core AWD,Ice Cap,36100,0.0,36100.0,Port to dealer,False,Available,JTNABAAE2RA010451,Toyota of Hackensack,NJ
+2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE2RA010451,Toyota of Hackensack,NJ
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE2RA010479,Rohrich Toyota,PA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE2RA010496,AutoNation Toyota Pinellas Park,FL
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE2RA010515,Lithia Toyota of Odessa,TX
@@ -179,32 +174,31 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,True,DealerHold,JTNABAAE2RA010546,Bosak Toyota of Chesterton,IN
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,True,DealerHold,JTNABAAE2RA010563,Craig Toyota,IN
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,True,DealerHold,JTNABAAE2RA010594,Toyota of Bowling Green,KY
-2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,,JTNABAAE2RA010630,Dublin Toyota,CA
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,Port to dealer,False,,JTNABAAE2RA010675,Heritage Toyota Owings Mills,MD
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE2RA010725,Toyota of Del Rio,TX
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE2RA010725,Toyota of Del Rio,TX
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE2RA010756,Seminole Toyota,FL
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA010806,Toyota of Vero Beach,FL
-2024,Core AWD,Black,36500,0.0,36500.0,Port to dealer,False,DealerHold,JTNABAAE2RA010837,Toyota of Bozeman,MT
+2024,Core AWD,Black,36500,0.0,36500.0,At dealer,False,DealerHold,JTNABAAE2RA010837,Toyota of Bozeman,MT
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE2RA010854,AutoNation Toyota Thornton Road,GA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA010868,Toyota Universe,NJ
 2024,Premium AWD,Ice Cap,40320,995.0,41315.0,At dealer,False,,JTNABAAE2RA010885,Toyota Town,CA
 2024,Premium AWD,Black,40320,995.0,41315.0,Factory to port,False,,JTNABAAE2RA010899,Toyota of El Cajon,CA
 2024,Premium AWD,Heavy Metal,40320,399.0,40719.0,Factory to port,False,Available,JTNABAAE2RA010904,Toyota of Paris,TX
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE2RA010918,North Bakersfield Toyota,CA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE2RA010935,Team Toyota of Glen Mills,PA
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE2RA010935,Team Toyota of Glen Mills,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE2RA010949,Toyota of Scranton,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE2RA010966,Dolan Toyota,NV
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAE2RA010997,Shelor Toyota,VA
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,True,,JTNABAAE2RA011017,Carlson Toyota,MN
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,True,,JTNABAAE2RA011017,Carlson Toyota,MN
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Port to dealer,False,,JTNABAAE2RA011048,Orland Toyota,IL
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Port to dealer,True,Available,JTNABAAE2RA011051,Sierra Toyota,AZ
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE2RA011082,Stone Mountain Toyota,GA
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE2RA011082,Stone Mountain Toyota,GA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAE2RA011096,Del Toyota,PA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE2RA011101,Checkered Flag Toyota,VA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE2RA011115,Nalley Toyota Union City,GA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA011129,Toyota of Manhattan,NY
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE2RA011132,Roberts Toyota,TN
-2024,Core AWD,Black,36500,1798.0,38298.0,Factory to port,True,DealerHold,JTNABAAE2RA011194,Toyota of Portland on Broadway,OR
+2024,Core AWD,Black,36500,1798.0,38298.0,Port to dealer,True,DealerHold,JTNABAAE2RA011194,Toyota of Portland on Broadway,OR
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE2RA011258,Toyota of Huntington Beach,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE2RA011261,Toyota of Hollywood,FL
 2024,Premium AWD,Heavy Metal,40320,1595.0,41915.0,Factory to port,False,,JTNABAAE2RA011292,Findlay Toyota,NV
@@ -215,21 +209,20 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011440,Toyota of Murfreesboro,TN
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAE2RA011454,Sheehy Toyota of Fredericksburg,VA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011468,Toyota of The Desert,CA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011518,Joseph Airport Toyota,OH
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE2RA011535,McGee Toyota of Epping,NH
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE2RA011549,Bell Road Toyota,AZ
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011549,Bell Road Toyota,AZ
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA011602,Bill Wright Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE2RA011664,St. Charles Toyota,IL
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA011695,Performance Toyota,OH
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE2RA011700,DARCARS Toyota,MD
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011714,Toyota of Dartmouth,MA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE3R107BO49,DCH Brunswick Toyota,NJ
-2024,Premium AWD,Black,40320,895.0,41215.0,Factory to port,False,DealerHold,JTNABAAE3R107EL42,Bennett Toyota,PA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE2RA011728,Crown Toyota,KS
+2024,Circuit Edition AWD,Ice Cap,45140,1695.0,46835.0,Factory to port,False,,JTNABAAE3R108BE20,Anderson Toyota,AZ
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAE3R109AO40,AutoNation Toyota Cerritos,CA
-2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE3RA007980,Mike Shaw Toyota,TX
+2024,Circuit Edition AWD,Ice Cap,45140,1899.0,47039.0,Factory to port,False,,JTNABAAE3R109BS71,Wolfchase Toyota,TN
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE3RA008515,Scott Will Toyota of Sumter,SC
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE3RA009275,Preston Toyota,PA
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,,JTNABAAE3RA009521,Fred Beans Toyota of Flemington,NJ
-2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE3RA009549,Haley Toyota,VA
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,,JTNABAAE3RA009552,Visalia Toyota,CA
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE3RA009843,DCH Brunswick Toyota,NJ
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE3RA009955,Dayton Toyota,NJ
@@ -237,7 +230,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE3RA009986,Prestige Toyota of Ramsey,NJ
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,,JTNABAAE3RA010040,Haley Toyota of Farmville,VA
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE3RA010104,DARCARS Toyota of Baltimore,MD
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE3RA010264,Central Florida Toyota,FL
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE3RA010295,Conicelli Toyota,PA
 2024,Premium AWD,Supersonic Red,39920,4966.0,44886.0,At dealer,False,,JTNABAAE3RA010359,Toyota of Turnersville,NJ
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE3RA010393,Freeman Toyota,CA
@@ -252,7 +244,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE3RA010779,Herb Chambers Toyota of Auburn,MA
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE3RA010796,Brewer Airport Toyota,PA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,True,,JTNABAAE3RA010801,Ken Ganley Toyota Akron,OH
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,True,DealerHold,JTNABAAE3RA010829,Freeman Toyota,CA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,At dealer,False,DealerHold,JTNABAAE3RA010829,Freeman Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE3RA010832,Doral Toyota,FL
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE3RA010880,K.C. Summers Toyota,IL
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE3RA010944,Autoland Toyota,NJ
@@ -262,16 +254,21 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011009,Hillside Toyota,NY
 2024,Premium AWD,Black,40320,3117.0,43437.0,Factory to port,False,,JTNABAAE3RA011012,Norm Reeves Toyota San Diego,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE3RA011057,Peter Boulware Toyota,FL
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,True,Available,JTNABAAE3RA011074,Capitol Toyota of Salem,OR
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,True,DealerHold,JTNABAAE3RA011074,Capitol Toyota of Salem,OR
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011107,Romano Toyota,NY
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE3RA011138,Tansky Sawmill Toyota,OH
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE3RA011141,Toyota of North Miami,FL
+2024,Premium AWD,Heavy Metal,40320,699.0,41019.0,Factory to port,False,Available,JTNABAAE3RA011155,Landers Toyota,AR
 2024,Premium AWD,Ice Cap,40320,1790.0,42110.0,Factory to port,False,,JTNABAAE3RA011169,Liberty Toyota,NJ
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE3RA011172,Expressway Toyota,MA
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE3RA011186,John Eagle Sport City Toyota,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011219,Toyota Chula Vista,CA
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,True,DealerHold,JTNABAAE3RA011253,Byers Toyota,OH
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE3RA011317,Don McGill Toyota,TX
+2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE3RA011320,Toyota of Rockwall,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011334,I-10 Toyota,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE3RA011348,Toyota of Runnemede,NJ
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE3RA011351,Glockner Toyota,OH
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,False,DealerHold,JTNABAAE3RA011351,Glockner Toyota,OH
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE3RA011365,Toyota Universe,NJ
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011415,Toyota of San Bernardino,CA
 2024,Circuit Edition AWD,Ice Cap,45140,895.0,46035.0,Factory to port,False,DealerHold,JTNABAAE3RA011429,Andrew Toyota,WI
@@ -282,7 +279,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011575,Hatch Toyota Stateline,NM
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE3RA011589,Team Toyota,IN
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE3RA011639,Longo Toyota,CA
-2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE4R108AM87,Norm Reeves Toyota San Diego,CA
+2024,Premium AWD,Black,40320,895.0,41215.0,Factory to port,False,DealerHold,JTNABAAE3RA011723,Bennett Toyota,PA
+2024,Premium AWD,Ice Cap,40320,3117.0,43437.0,Factory to port,False,,JTNABAAE4R108AM87,Norm Reeves Toyota San Diego,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE4R108AM90,AutoNation Toyota Buena Park,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE4R108AT30,AutoNation Toyota Hayward,CA
 2024,Circuit Edition AWD,Ice Cap,45140,399.0,45539.0,Factory to port,False,,JTNABAAE4R108CA74,Bommarito Toyota,MO
@@ -290,30 +288,27 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE4R109AY39,Toyota of Puyallup,WA
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE4RA008796,"Bristol Toyota, Inc.",MA
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE4RA009009,Bev Smith Toyota,FL
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE4RA009267,Culver City Toyota,CA
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE4RA009415,Future Toyota of Yuba City,CA
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE4RA009558,Coad Toyota Paducah,KY
 2024,Premium AWD,Black,39920,1995.0,41915.0,At dealer,False,,JTNABAAE4RA010029,Toyota Carlsbad,CA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,,JTNABAAE4RA010144,Miller Toyota,VA
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE4RA010337,Jeff Wyler Toyota of Clarksville,IN
-2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE4RA010368,Heritage Toyota Harrisburg,PA
+2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE4RA010337,Jeff Wyler Toyota of Clarksville,IN
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE4RA010371,Nalley Toyota Stonecrest,GA
-2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,True,,JTNABAAE4RA010435,Coughlin Toyota,OH
-2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE4RA010452,Hatch Toyota,AZ
+2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,True,,JTNABAAE4RA010435,Coughlin Toyota,OH
 2024,Premium AWD,Supersonic Red,40320,4795.0,45115.0,At dealer,True,Available,JTNABAAE4RA010483,Universal Toyota,TX
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE4RA010533,Langway Toyota of Newport,RI
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE4RA010564,Camelback Toyota,AZ
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE4RA010578,Universal Toyota,TX
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE4RA010578,Universal Toyota,TX
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,,JTNABAAE4RA010595,Antioch Toyota,CA
 2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE4RA010600,Conklin Toyota Salina,KS
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE4RA010628,Shottenkirk Toyota,IL
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,True,,JTNABAAE4RA010645,LeadCar Toyota Mankato,MN
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE4RA010760,Toyota of Warsaw,IN
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE4RA010807,Toyota of Muscatine,IA
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,False,DealerHold,JTNABAAE4RA010824,Heartland Toyota,WA
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,DealerHold,JTNABAAE4RA010824,Heartland Toyota,WA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Port to dealer,False,Available,JTNABAAE4RA010869,Premier Toyota of Amherst,OH
 2024,Core AWD,Black,36500,599.0,37099.0,Factory to port,False,DealerHold,JTNABAAE4RA010872,Hudson Toyota,NJ
-2024,Premium AWD,Supersonic Red,40320,2190.0,42510.0,Factory to port,False,Available,JTNABAAE4RA010886,Sansone Toyota,NJ
+2024,Premium AWD,Supersonic Red,40320,2190.0,42510.0,Port to dealer,False,Available,JTNABAAE4RA010886,Sansone Toyota,NJ
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE4RA010905,Bell Road Toyota,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE4RA010919,Millennium Toyota,NY
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE4RA010936,Fred Haas Toyota Country,TX
@@ -329,6 +324,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE4RA011116,Toyota of Downtown LA,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,True,DealerHold,JTNABAAE4RA011150,Toyota of Puyallup,WA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE4RA011181,Hendrick Toyota North Charleston,SC
+2024,Premium AWD,Ice Cap,40320,1499.0,41819.0,Factory to port,False,Available,JTNABAAE4RA011214,Janzen Toyota,OK
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAE4RA011228,Island Toyota,NY
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE4RA011245,Frankfort Toyota,KY
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE4RA011259,Maita's Toyota of Sacramento,CA
@@ -338,7 +334,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE4RA011505,Del Toyota,PA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE4RA011519,Faith's Toyota Ford,VT
 2024,Circuit Edition AWD,Ice Cap,45140,1495.0,46635.0,Factory to port,False,,JTNABAAE4RA011522,Simi Valley Toyota,CA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE4RA011584,Toyota West,OH
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE4RA011584,Toyota West,OH
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE4RA011651,Aubrey Alexander Toyota,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE4RA011665,Claremont Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE4RA011679,Walser Bloomington Toyota,MN
@@ -346,26 +342,24 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,Core AWD,Supersonic Red,35900,0.0,35900.0,At dealer,False,,JTNABAAE5PA007458,Dan Porter Honda-Toyota,ND
 2024,Circuit Edition AWD,Ice Cap,45140,1290.0,46430.0,Factory to port,False,,JTNABAAE5R109AO41,Toyota of Redlands,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5R109BM17,Balise Toyota of Warwick,RI
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5R109BS69,Walker Toyota,OH
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE5RA008953,City Toyota,CA
 2024,Core AWD,Ice Cap,36100,199.0,36299.0,At dealer,False,Available,JTNABAAE5RA009410,Torrington Toyota,CT
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE5RA009603,Bill Wright Toyota,CA
-2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE5RA009651,Waite Toyota,NY
+2024,Core AWD,Ice Cap,36100,0.0,36100.0,At dealer,True,DealerHold,JTNABAAE5RA009651,Waite Toyota,NY
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE5RA009682,Jerry's Toyota,MD
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE5RA009732,Toyota of York,PA
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE5RA009746,Principle Toyota,TN
 2024,Premium AWD,Supersonic Red,40320,2990.0,43310.0,At dealer,False,Available,JTNABAAE5RA009763,Fred Haas Toyota World,TX
-2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,False,DealerHold,JTNABAAE5RA009925,Toyota of Somerset,KY
 2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,,JTNABAAE5RA009990,Allegheny Toyota,PA
-2024,Premium AWD,Heavy Metal,39920,3117.0,43037.0,At dealer,False,Available,JTNABAAE5RA010072,Norm Reeves Toyota San Diego,CA
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE5RA010203,Toyota of Glendale,CA
-2024,Core AWD,Supersonic Red,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE5RA010332,Toyota of North Miami,FL
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,DealerHold,JTNABAAE5RA010380,New Holland Toyota,PA
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE5RA010444,Toyota of Deerfield Beach,FL
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,True,,JTNABAAE5RA010573,Hartford Toyota,CT
-2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,True,Available,JTNABAAE5RA010590,Team Toyota of Princeton,NJ
+2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,True,Available,JTNABAAE5RA010590,Team Toyota of Princeton,NJ
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,False,Available,JTNABAAE5RA010671,Girard Toyota-BMW,CT
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE5RA010735,Mojave Toyota of Barstow,CA
-2024,Premium AWD,Heavy Metal,40320,2495.0,42815.0,At dealer,False,DealerHold,JTNABAAE5RA010749,Toyota of Orange,CA
+2024,Premium AWD,Heavy Metal,40320,2495.0,42815.0,At dealer,False,Available,JTNABAAE5RA010749,Toyota of Orange,CA
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE5RA010752,Haley Toyota of Richmond,VA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE5RA010783,Imperial Toyota,MA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,True,DealerHold,JTNABAAE5RA010802,Elgin Toyota,IL
@@ -377,7 +371,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA010878,Woburn Toyota,MA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE5RA010914,Culver City Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,,JTNABAAE5RA010928,Elk Grove Toyota,CA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE5RA010945,Toyota of Watertown,MA
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE5RA010945,Toyota of Watertown,MA
 2024,Premium AWD,Ice Cap,40320,2995.0,43315.0,At dealer,False,,JTNABAAE5RA010976,Merced Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA010993,Toyota of Downtown LA,CA
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE5RA011013,Toyota of Fort Walton Beach,FL
@@ -385,31 +379,32 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,,JTNABAAE5RA011030,Lia Toyota of Northampton,MA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011058,Toyota of Hackensack,NJ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,False,,JTNABAAE5RA011061,Chicago Northside Toyota,IL
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011089,Lewis Toyota of Garden City,KS
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE5RA011089,Lewis Toyota of Garden City,KS
 2024,Premium AWD,Heavy Metal,40320,995.0,41315.0,Port to dealer,False,,JTNABAAE5RA011108,Hanlees Fairfield Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE5RA011125,Ruda Chevrolet/Toyota,WI
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE5RA011139,Hubert Vester Toyota of Wilson,NC
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE5RA011142,Lia Toyota of Colonie,NY
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,False,,JTNABAAE5RA011156,City Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011187,Right Toyota,AZ
+2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE5RA011190,Fred Haas Toyota World,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE5RA011206,Beaver Toyota of Cumming,GA
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAE5RA011254,Sloane Toyota of Philadelphia,PA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE5RA011285,Toyota of Glendale,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE5RA011321,Palmiero Toyota,PA
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,,JTNABAAE5RA011335,Toyota Place,CA
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE5RA011349,Brownsville Toyota,TX
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5RA011397,Hoselton Toyota,NY
-2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,True,,JTNABAAE5RA011402,San Francisco Toyota,CA
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011402,San Francisco Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011433,City Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5RA011447,Sunrise Toyota,NY
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE5RA011478,East Coast Toyota,NJ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5RA011528,Johnstons Toyota,NY
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE5RA011612,Younger Toyota,MD
-2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE5RA011657,New Country Toyota of Westport,CT
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE5RA011626,Groove Toyota,CO
+2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE5RA011657,New Country Toyota of Westport,CT
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5RA011674,Culver City Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE5RA011691,Sloane Toyota of Malvern,PA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE5RA011710,A-1 Toyota,CT
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE6R107AL96,Claremont Toyota,CA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE6R107AY97,Kendall Toyota,OR
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE6R108EH16,Passport Toyota,MD
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE6R109AO47,Toyota of Santa Maria,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE6R109AO50,Claremont Toyota,CA
@@ -425,10 +420,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,39920,1901.0,41821.0,At dealer,False,,JTNABAAE6RA009870,Kolar Toyota,MN
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE6RA009951,Keyes Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,False,Available,JTNABAAE6RA009982,Ira Toyota,MA
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,False,Available,JTNABAAE6RA009996,Capitol Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,,JTNABAAE6RA010050,Butler Toyota,GA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,,JTNABAAE6RA010064,Toyota of Escondido,CA
+2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,,JTNABAAE6RA010176,"Glen Motors, Inc.",NJ
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE6RA010226,Seeger Toyota of St. Robert,MO
-2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,True,DealerHold,JTNABAAE6RA010310,Palmiero Toyota,PA
+2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,True,DealerHold,JTNABAAE6RA010310,Palmiero Toyota,PA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE6RA010338,Toyota of Dallas,TX
 2024,Premium AWD,Heavy Metal,39920,3489.0,43409.0,Port to dealer,False,,JTNABAAE6RA010341,Russ Darrow Toyota,WI
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE6RA010419,Toyota of Stamford,CT
@@ -437,7 +434,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Core AWD,Ice Cap,36100,395.0,36495.0,At dealer,False,DealerHold,JTNABAAE6RA010632,Capistrano Valley Toyota,CA
 2024,Core AWD,Black,36100,0.0,36100.0,Factory to port,False,,JTNABAAE6RA010663,AutoNation Toyota Buena Park,CA
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE6RA010677,Toyota of Cool Springs,TN
-2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Factory to port,False,,JTNABAAE6RA010680,Faulkner Toyota,PA
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,,JTNABAAE6RA010680,Faulkner Toyota,PA
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,,JTNABAAE6RA010713,Toyota of Santa Maria,CA
 2024,Premium AWD,Heavy Metal,40320,2190.0,42510.0,Factory to port,False,Available,JTNABAAE6RA010730,Bob Howard Toyota,OK
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA010744,Toyota of Hollywood,FL
@@ -446,8 +443,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA010811,Grieco Toyota,RI
 2024,Premium AWD,Heavy Metal,40320,1098.0,41418.0,Factory to port,True,Available,JTNABAAE6RA010839,Toyota of Cedar Park,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE6RA010842,Fox Toyota,MI
-2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE6RA010873,Acton Toyota of Littleton,MA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE6RA010890,South Dade Toyota,FL
+2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE6RA010873,Acton Toyota of Littleton,MA
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE6RA010890,South Dade Toyota,FL
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE6RA010906,Toyota of Lancaster,CA
 2024,Premium AWD,Ice Cap,40320,2995.0,43315.0,Factory to port,False,Available,JTNABAAE6RA010954,Bryan College Station Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE6RA010985,Pohanka Toyota of Salisbury,MD
@@ -455,6 +452,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,1495.0,41815.0,Factory to port,False,Available,JTNABAAE6RA011005,Sterling McCall Toyota,TX
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE6RA011022,Toyota of Pharr,TX
 2024,Core AWD,Black,36500,0.0,36500.0,Port to dealer,False,DealerHold,JTNABAAE6RA011067,Toyota of Santa Fe,NM
+2024,Premium AWD,Ice Cap,40320,799.0,41119.0,Factory to port,False,Available,JTNABAAE6RA011070,Landers Toyota NWA,AR
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE6RA011098,Toyota of Denton,TX
 2024,Core AWD,Ice Cap,36500,1995.0,38495.0,Factory to port,False,,JTNABAAE6RA011103,Toyota Carlsbad,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE6RA011151,Earnhardt Toyota,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE6RA011165,Sheehy Toyota of Laurel,MD
@@ -470,19 +469,23 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE6RA011392,Hertrich Toyota,DE
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA011411,Vancouver Toyota,WA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE6RA011456,Dublin Toyota,CA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE6RA011473,Byers Toyota,OH
 2024,Circuit Edition AWD,Ice Cap,45140,5990.0,51130.0,Factory to port,True,DealerHold,JTNABAAE6RA011490,Toyota Carlsbad,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,True,DealerHold,JTNABAAE6RA011537,Middletown Toyota,CT
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA011540,Kendall Toyota of Anchorage,AK
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA011599,Peterson Toyota,ID
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE6RA011604,Bob Smith Toyota,CA
+2024,Premium AWD,Ice Cap,40320,2294.0,42614.0,Factory to port,False,,JTNABAAE6RA011635,Desert Toyota of Tucson,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE6RA011649,Doxon Toyota,WA
+2024,Circuit Edition AWD,Ice Cap,45140,4999.0,50139.0,Factory to port,False,,JTNABAAE6RA011683,Toyota of Warren,OH
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE6RA011716,Sam Leman Toyota Bloomington,IL
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7R108EH08,Bill Page Toyota,VA
 2024,Circuit Edition AWD,Ice Cap,45140,2995.0,48135.0,Factory to port,False,,JTNABAAE7R109AO42,Toyota Carlsbad,CA
+2024,Core AWD,Supersonic Red,36500,599.0,37099.0,Factory to port,False,DealerHold,JTNABAAE7R109BI98,Hudson Toyota,NJ
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE7RA008615,City Toyota,CA
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE7RA009005,Toyota of Hollywood,FL
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE7RA009103,Eastern Shore Toyota,AL
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,Available,JTNABAAE7RA009246,Fiore Toyota,PA
-2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE7RA009389,Toyota of Tampa Bay,FL
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE7RA009649,Toyota of Richardson,TX
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE7RA009716,LaGrange Toyota,GA
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE7RA009960,Casey Toyota,VA
@@ -494,25 +497,24 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,39920,995.0,40915.0,At dealer,False,DealerHold,JTNABAAE7RA010185,Toyota of Berkeley,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE7RA010218,Toyota of Hollywood,FL
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE7RA010297,Royal South Toyota,IN
-2024,Core AWD,Ice Cap,36100,0.0,36100.0,Port to dealer,False,DealerHold,JTNABAAE7RA010364,John Roberts Toyota,TN
+2024,Core AWD,Ice Cap,36100,0.0,36100.0,Port to dealer,False,Available,JTNABAAE7RA010364,John Roberts Toyota,TN
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE7RA010378,Serra Toyota,AL
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE7RA010459,Toyota Direct,OH
-2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,True,DealerHold,JTNABAAE7RA010493,Parkway Toyota,NJ
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,True,DealerHold,JTNABAAE7RA010493,Parkway Toyota,NJ
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,True,DealerHold,JTNABAAE7RA010560,Toyota West,OH
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,True,Available,JTNABAAE7RA010610,Vandergriff Toyota,TX
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE7RA010624,Lakeland Toyota,FL
 2024,Core AWD,Black,36100,0.0,36100.0,Port to dealer,False,DealerHold,JTNABAAE7RA010641,Bennett Toyota of Lebanon,PA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,Available,JTNABAAE7RA010686,AutoNation Toyota Leesburg,VA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE7RA010736,Germain Toyota of Columbus,OH
-2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE7RA010753,Alamo Toyota,TX
+2024,Premium AWD,Ice Cap,40320,7696.0,48016.0,Factory to port,False,DealerHold,JTNABAAE7RA010753,Alamo Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA010767,Advantage Toyota,NY
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE7RA010770,DCH Freehold Toyota,NJ
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,,JTNABAAE7RA010784,Visalia Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA010817,Palm Beach Toyota,FL
 2024,Premium AWD,Ice Cap,40320,1995.0,42315.0,Factory to port,False,,JTNABAAE7RA010820,Toyota Carlsbad,CA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE7RA010848,East Coast Toyota,NJ
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE7RA010848,East Coast Toyota,NJ
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,True,DealerHold,JTNABAAE7RA010879,Kendall Toyota of Fairbanks,AK
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE7RA010882,Germain Toyota of Naples,FL
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE7RA010932,Toyota Sunnyvale,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE7RA010946,Cloninger Toyota,NC
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,False,,JTNABAAE7RA010977,Bill Wright Toyota,CA
@@ -520,14 +522,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,40320,9998.0,50318.0,Factory to port,False,Available,JTNABAAE7RA011014,Vic Vaughan Toyota of Boerne,TX
 2024,Premium AWD,Heavy Metal,40320,1995.0,42315.0,At dealer,False,Available,JTNABAAE7RA011028,Cabe Toyota Long Beach,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE7RA011031,Kerry Toyota,KY
-2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAE7RA011045,Victory Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE7RA011059,Camelback Toyota,AZ
+2024,Premium AWD,Supersonic Red,40320,897.0,41217.0,Factory to port,False,Available,JTNABAAE7RA011062,Toyota of Irving,TX
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA011093,Santa Margarita Toyota,CA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA011112,AutoNation Toyota Mall of Georgia,GA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE7RA011157,Bill Penney Toyota,AL
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE7RA011191,West Coast Toyota of Long Beach,CA
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE7RA011207,Toyota Santa Monica,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA011238,Westchester Toyota,NY
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE7RA011255,Kirk Toyota,MS
 2024,Premium AWD,Black,40320,998.0,41318.0,Factory to port,False,,JTNABAAE7RA011305,Toyota of Lompoc,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA011319,Jeff Wyler Toyota of Springfield,OH
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE7RA011353,Precision Toyota of Tucson,AZ
@@ -539,9 +542,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011501,Victory Toyota of Midtown,IL
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011515,South Coast Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE7RA011577,New Country Toyota of Clifton Park,NY
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE7RA011613,Precision Toyota of Tucson,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011661,Galaxy Toyota,NJ
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011708,Tri County Toyota,PA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011692,Tansky Sawmill Toyota,OH
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE7RA011708,Tri County Toyota,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE7RA011711,Toyota of Keene,NH
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE7RA011725,Golling Toyota of Warren,MI
 2023,Core AWD,Supersonic Red,35900,0.0,35900.0,At dealer,False,Available,JTNABAAE8PA007289,Jerry's Toyota,MD
 2023,Core AWD,Black,35900,0.0,35900.0,At dealer,False,Available,JTNABAAE8PA007728,Seeger Toyota,MO
 2024,Circuit Edition AWD,Ice Cap,45140,7282.0,52422.0,Factory to port,False,,JTNABAAE8R107AY98,Toyota of Kirkland,WA
@@ -553,7 +559,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE8RA009420,Toyota of Brookhaven,MS
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE8RA009496,Toyota of Rockwall,TX
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE8RA009661,Headquarter Toyota,FL
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,,JTNABAAE8RA009773,Toyota On Western,IL
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAE8RA009904,Hertrich Toyota of Pocomoke,MD
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE8RA009918,DARCARS Toyota,MD
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE8RA009966,Danville Toyota,VA
@@ -564,7 +569,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE8RA010244,Brian Bemis Toyota of DeKalb,IL
 2024,Premium AWD,Heavy Metal,39920,1495.0,41415.0,At dealer,False,,JTNABAAE8RA010258,Simi Valley Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,44740,1901.0,46641.0,Port to dealer,True,,JTNABAAE8RA010275,Kolar Toyota,MN
-2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,True,DealerHold,JTNABAAE8RA010292,SVG Toyota,OH
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE8RA010342,Wyatt Johnson Toyota,TN
 2024,Premium AWD,Black,40320,739.0,41059.0,At dealer,False,Available,JTNABAAE8RA010387,Gulf Coast Toyota,TX
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,DealerHold,JTNABAAE8RA010406,Burnsville Toyota,MN
@@ -579,19 +583,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE8RA010616,"Fort Dodge Ford, Lincoln, Toyota",IA
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE8RA010650,City Toyota,CA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE8RA010695,Shottenkirk Toyota Weatherford,TX
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE8RA010762,Toyota of Gladstone,OR
-2024,Core AWD,Black,36500,0.0,36500.0,Port to dealer,False,,JTNABAAE8RA010793,Victory Toyota of San Bruno,CA
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE8RA010809,Sheehy Toyota of Fredericksburg,VA
+2024,Core AWD,Black,36500,0.0,36500.0,At dealer,False,,JTNABAAE8RA010793,Victory Toyota of San Bruno,CA
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE8RA010809,Sheehy Toyota of Fredericksburg,VA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE8RA010857,Gray-Daniels Toyota,MS
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE8RA010888,Toyota of Murray,KY
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE8RA010907,Jim Coleman Toyota,MD
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAE8RA010910,Fred Anderson Toyota of Asheville,NC
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,,JTNABAAE8RA010924,Claremont Toyota,CA
+2024,Core AWD,Ice Cap,36500,0.0,36500.0,Port to dealer,False,,JTNABAAE8RA010907,Jim Coleman Toyota,MD
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE8RA010941,Deery Brothers Toyota,IA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE8RA010969,Cobb County Toyota,GA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE8RA010986,Thornhill Toyota,WV
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE8RA011023,"Bristol Toyota, Inc.",MA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE8RA011037,Peterson Toyota,ID
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE8RA011071,Red McCombs Toyota,TX
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE8RA011118,Harr Toyota,MA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE8RA011121,Bob Tyler Toyota,FL
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE8RA011135,Warrenton Toyota,VA
@@ -603,18 +605,20 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011247,Santa Cruz Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011278,Toyota of Escondido,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,,JTNABAAE8RA011295,Route 22 Toyota,NJ
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE8RA011314,Bruner Toyota,TX
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,,JTNABAAE8RA011328,Performance Motors Toyota,PA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011409,Right Toyota,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,,JTNABAAE8RA011460,Wilson Toyota,IA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE8RA011474,Freeman Toyota,CA
-2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011524,Ball Toyota of Charleston,WV
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE8RA011524,Ball Toyota of Charleston,WV
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE8RA011541,South Bay Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011555,Toyota of Poway,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE8RA011569,Toyota of Gallatin,TN
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE8RA011586,355 Toyota,MD
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE8RA011605,Toyota of North Hollywood,CA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE8RA011653,Newbold Toyota,IL
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE8RA011605,Toyota of North Hollywood,CA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE8RA011653,Newbold Toyota,IL
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE8RA011684,Smithtown Toyota,NY
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAE8RA011734,Claremont Toyota,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAE9R108BM25,"Glen Motors, Inc.",NJ
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE9RA008101,Adams Toyota Lee's Summit,MO
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,DealerHold,JTNABAAE9RA008213,East Coast Toyota,NJ
@@ -625,12 +629,11 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAE9RA009958,Nashville Toyota North,TN
 2024,Premium AWD,Ice Cap,40320,1599.0,41919.0,At dealer,False,Available,JTNABAAE9RA009975,Silsbee Toyota,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE9RA010057,Toyota of Rock Hill,SC
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,True,Available,JTNABAAE9RA010141,Family Toyota of Burleson,TX
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,At dealer,False,Available,JTNABAAE9RA010169,Town & Country Toyota,NC
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE9RA010253,Central Maine Toyota,ME
-2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,True,DealerHold,JTNABAAE9RA010401,Fernelius Toyota,MI
+2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,At dealer,True,DealerHold,JTNABAAE9RA010401,Fernelius Toyota,MI
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,,JTNABAAE9RA010415,Bill Kidd's Timonium Toyota,MD
-2024,Core AWD,Supersonic Red,36100,0.0,36100.0,Port to dealer,False,DealerHold,JTNABAAE9RA010432,Lynch Toyota,CT
+2024,Core AWD,Supersonic Red,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAE9RA010432,Lynch Toyota,CT
 2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE9RA010446,Motor Inn Toyota of Carroll,IA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,DealerHold,JTNABAAE9RA010463,LaFontaine Toyota,MI
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE9RA010544,Atlanta Toyota,GA
@@ -638,7 +641,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,,JTNABAAE9RA010589,Toyota of Morristown,NJ
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,False,Available,JTNABAAE9RA010608,Round Rock Toyota,TX
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Factory to port,False,,JTNABAAE9RA010625,Toyota of Glendora,CA
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,At dealer,False,,JTNABAAE9RA010642,Beaverton Toyota,OR
 2024,Core AWD,Ice Cap,36100,0.0,36100.0,Port to dealer,False,DealerHold,JTNABAAE9RA010656,Sunrise Toyota,NY
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,,JTNABAAE9RA010673,Capitol Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,44740,0.0,44740.0,Port to dealer,False,,JTNABAAE9RA010690,Evans Toyota,IN
@@ -647,18 +649,19 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA010740,Ourisman Fairfax Toyota,VA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE9RA010754,Team Toyota of Glen Mills,PA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,True,DealerHold,JTNABAAE9RA010771,Precision Toyota of Tucson,AZ
-2024,Premium AWD,Black,40320,3493.0,43813.0,Factory to port,False,Available,JTNABAAE9RA010785,Keating Toyota,TX
+2024,Premium AWD,Black,40320,1695.0,42015.0,Factory to port,False,Available,JTNABAAE9RA010785,Keating Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,At dealer,False,,JTNABAAE9RA010804,Concord Toyota,CA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,False,,JTNABAAE9RA010835,Beaverton Toyota,OR
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,At dealer,False,,JTNABAAE9RA010835,Beaverton Toyota,OR
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE9RA010852,Monken Toyota of Mt. Vernon,IL
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE9RA010866,Temecula Valley Toyota,CA
-2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,At dealer,False,DealerHold,JTNABAAE9RA010883,Fremont Toyota,CA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE9RA010950,Cronin Toyota of  Richmond,IN
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAE9RA010950,Cronin Toyota of  Richmond,IN
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,,JTNABAAE9RA010964,Toyota of San Bernardino,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE9RA010981,Pat Lobb Toyota of McKinney,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,True,Available,JTNABAAE9RA011015,Sierra Toyota,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Port to dealer,False,DealerHold,JTNABAAE9RA011029,Toyota of Bozeman,MT
+2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE9RA011063,Freeman Toyota,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Port to dealer,False,,JTNABAAE9RA011130,Fremont Toyota,CA
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE9RA011144,Family Toyota of Burleson,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011158,Centennial Toyota,NV
 2024,Core AWD,Ice Cap,36500,2796.0,39296.0,Port to dealer,False,,JTNABAAE9RA011175,AutoNation Toyota Tempe,AZ
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAE9RA011208,Handy Toyota,VT
@@ -666,25 +669,29 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011239,Toyota of Vallejo,CA
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,Available,JTNABAAE9RA011242,Chatham Parkway Toyota,GA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAE9RA011287,Damian Lillard Toyota,OR
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAE9RA011290,Gene Messer Toyota,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011354,Hamer Toyota,CA
+2024,Premium AWD,Ice Cap,40320,1098.0,41418.0,Factory to port,False,Available,JTNABAAE9RA011368,Toyota of Cedar Park,TX
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011371,Conicelli Toyota,PA
-2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE9RA011399,Zanesville Toyota,OH
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE9RA011399,Zanesville Toyota,OH
 2024,Core AWD,Supersonic Red,36500,1443.0,37943.0,Factory to port,False,,JTNABAAE9RA011421,Toyota of Lancaster,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011452,West Coast Toyota of Long Beach,CA
 2024,Circuit Edition AWD,Ice Cap,45140,395.0,45535.0,Factory to port,True,,JTNABAAE9RA011466,Toyota of Olympia,WA
-2024,Circuit Edition AWD,Ice Cap,45140,2098.0,47238.0,Factory to port,True,DealerHold,JTNABAAE9RA011483,Toyota of Surprise,AZ
+2024,Circuit Edition AWD,Ice Cap,45140,2098.0,47238.0,Factory to port,False,DealerHold,JTNABAAE9RA011483,Toyota of Surprise,AZ
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011533,Moss Bros. Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,Available,JTNABAAE9RA011564,Seeger Toyota,MO
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE9RA011581,Ourisman Chantilly Toyota,VA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,,JTNABAAE9RA011600,Putnam Toyota,CA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAE9RA011662,Ira Toyota,MA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAE9RA011676,Jay Wolfe Toyota,MO
+2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,DealerHold,JTNABAAE9RA011712,Carson City Toyota,NV
 2023,Core AWD,Ice Cap,35900,0.0,35900.0,At dealer,False,Available,JTNABAAEXPA007648,Doral Toyota,FL
 2023,Core AWD,Supersonic Red,35900,0.0,35900.0,At dealer,False,Available,JTNABAAEXPA007701,Walker Toyota,LA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXR108AM93,Santa Margarita Toyota,CA
+2024,Circuit Edition AWD,Ice Cap,45140,1798.0,46938.0,Factory to port,True,DealerHold,JTNABAAEXR108AY82,Toyota of Portland on Broadway,OR
 2024,Core AWD,Supersonic Red,36100,4995.0,41095.0,At dealer,False,,JTNABAAEXRA008009,Fort's Toyota of Pekin,IL
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,False,Available,JTNABAAEXRA008916,Central Toyota,AR
-2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAEXRA009094,Smithtown Toyota,NY
+2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,Available,JTNABAAEXRA009094,Smithtown Toyota,NY
 2024,Core AWD,Ice Cap,36100,1995.0,38095.0,At dealer,False,Available,JTNABAAEXRA009631,Toyota Carlsbad,CA
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,At dealer,False,,JTNABAAEXRA009774,Toyota of North Charlotte,NC
 2024,Core AWD,Black,36100,0.0,36100.0,At dealer,False,DealerHold,JTNABAAEXRA010035,Signature Toyota,MI
@@ -692,13 +699,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,39920,0.0,39920.0,At dealer,False,,JTNABAAEXRA010228,I-10 Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,At dealer,False,DealerHold,JTNABAAEXRA010388,DeLuca Toyota,FL
 2024,Core AWD,Black,36500,0.0,36500.0,At dealer,False,Available,JTNABAAEXRA010407,Toyota of Rock Hill,SC
-2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,True,,JTNABAAEXRA010469,Toyota of Greensburg,PA
-2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Factory to port,False,,JTNABAAEXRA010472,McDonough Toyota,VA
+2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,At dealer,True,,JTNABAAEXRA010469,Toyota of Greensburg,PA
+2024,Premium AWD,Heavy Metal,39920,0.0,39920.0,Port to dealer,False,,JTNABAAEXRA010472,McDonough Toyota,VA
 2024,Core AWD,Black,36100,0.0,36100.0,Port to dealer,False,DealerHold,JTNABAAEXRA010567,Lia Toyota,MA
 2024,Premium AWD,Black,39920,0.0,39920.0,Port to dealer,False,,JTNABAAEXRA010620,Bill Walsh Toyota,IL
 2024,Premium AWD,Ice Cap,39920,0.0,39920.0,Port to dealer,False,Available,JTNABAAEXRA010634,Sloane Toyota of Malvern,PA
 2024,Premium AWD,Supersonic Red,39920,0.0,39920.0,Port to dealer,False,,JTNABAAEXRA010665,Toyota of Glendale,CA
-2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAEXRA010696,Family Toyota of Burleson,TX
+2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,At dealer,True,DealerHold,JTNABAAEXRA010696,Family Toyota of Burleson,TX
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXRA010732,Westbury Toyota,NY
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXRA010763,Headquarter Toyota,FL
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Port to dealer,True,,JTNABAAEXRA010777,Findlay Toyota Flagstaff,AZ
@@ -707,8 +714,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAEXRA010827,Miracle Toyota,FL
 2024,Core AWD,Supersonic Red,36500,0.0,36500.0,Factory to port,False,,JTNABAAEXRA010858,Millennium Toyota,NY
 2024,Premium AWD,Black,40320,0.0,40320.0,Port to dealer,False,DealerHold,JTNABAAEXRA010875,Kirksville Toyota,MO
-2024,Premium AWD,Ice Cap,40320,0.0,40320.0,At dealer,False,DealerHold,JTNABAAEXRA010892,David Wilson's Toyota of Las Vegas,NV
-2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAEXRA010911,AutoNation Toyota Winter Park,FL
 2024,Core AWD,Ice Cap,36500,6383.0,42883.0,Port to dealer,False,DealerHold,JTNABAAEXRA010939,Victory Toyota of Midtown,IL
 2024,Core AWD,Black,36500,0.0,36500.0,Port to dealer,False,,JTNABAAEXRA010942,City Toyota,CA
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAEXRA010973,DARCARS Toyota,MD
@@ -719,11 +724,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Port to dealer,False,,JTNABAAEXRA011038,Modesto Toyota,CA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAEXRA011041,Toyota of North Charlotte,NC
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAEXRA011072,Bryan Easler Toyota,NC
-2024,Premium AWD,Heavy Metal,40320,2495.0,42815.0,Port to dealer,False,,JTNABAAEXRA011086,Toyota of Orange,CA
+2024,Premium AWD,Heavy Metal,40320,2495.0,42815.0,Port to dealer,True,,JTNABAAEXRA011086,Toyota of Orange,CA
 2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,True,DealerHold,JTNABAAEXRA011119,"Pedersen Toyota, Ltd.",CO
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAEXRA011184,Hall Toyota Elizabeth City,NC
 2024,Circuit Edition AWD,Ice Cap,45140,1999.0,47139.0,Factory to port,True,,JTNABAAEXRA011198,Foothills Toyota,WA
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXRA011203,Keyes Toyota,CA
+2024,Premium AWD,Supersonic Red,40320,0.0,40320.0,Factory to port,False,Available,JTNABAAEXRA011217,Toyota of Ardmore,OK
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,DealerHold,JTNABAAEXRA011220,Labadie Toyota,MI
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAEXRA011234,Bernardi Toyota,MA
 2024,Premium AWD,Black,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXRA011251,Toyota of North Hollywood,CA
@@ -732,15 +738,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,Premium AWD,Heavy Metal,40320,0.0,40320.0,Factory to port,True,Available,JTNABAAEXRA011282,Smithtown Toyota,NY
 2024,Premium AWD,Ice Cap,40320,1978.0,42298.0,Factory to port,False,,JTNABAAEXRA011296,Chuck Hutton Toyota,TN
 2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAEXRA011315,Heritage Toyota Owings Mills,MD
-2024,Core AWD,Ice Cap,36500,0.0,36500.0,Factory to port,False,,JTNABAAEXRA011329,Hanlees Hilltop Toyota,CA
 2024,Premium AWD,Ice Cap,40320,0.0,40320.0,Factory to port,False,,JTNABAAEXRA011332,Magnussen's Toyota of Palo Alto,CA
-2024,Premium AWD,Supersonic Red,40320,2098.0,42418.0,Factory to port,True,DealerHold,JTNABAAEXRA011377,Toyota of Surprise,AZ
+2024,Premium AWD,Supersonic Red,40320,2098.0,42418.0,Factory to port,False,DealerHold,JTNABAAEXRA011377,Toyota of Surprise,AZ
 2024,Core AWD,Black,36500,0.0,36500.0,Factory to port,False,,JTNABAAEXRA011380,Toyota of Clovis,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,False,,JTNABAAEXRA011461,Atlantic Toyota,NY
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAEXRA011511,Balise Toyota,MA
-2024,Premium AWD,Heavy Metal,40320,299.0,40619.0,Factory to port,True,DealerHold,JTNABAAEXRA011542,Team Toyota,PA
 2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,DealerHold,JTNABAAEXRA011573,Temecula Valley Toyota,CA
 2024,Circuit Edition AWD,Blue Flame,45140,0.0,45140.0,Factory to port,True,DealerHold,JTNABAAEXRA011671,Rohrich Toyota,PA
 2024,Circuit Edition AWD,Ice Cap,45140,499.0,45639.0,Factory to port,False,,JTNABAAEXRA011718,Toyota San Luis Obispo,CA
+2024,Circuit Edition AWD,Ice Cap,45140,0.0,45140.0,Factory to port,False,,JTNABAAEXRA011721,Kendall Toyota,OR
+2024,Premium AWD,Black,40320,995.0,41315.0,Factory to port,False,,JTNABAAEXRA011735,Toyota of El Cajon,CA
 2023,Morizo Edition AWD,Wind Chill Pearl,49900,0.0,49900.0,At dealer,False,Available,JTNABBAE1PA002876,DARCARS Toyota,MD
 2023,Morizo Edition AWD,Wind Chill Pearl,49900,0.0,49900.0,At dealer,False,DealerHold,JTNABBAE4PA003181,Ball Toyota of Charleston,WV
