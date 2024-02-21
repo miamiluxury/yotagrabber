@@ -60,6 +60,10 @@
     "title":"Highlander Hybrid"
   },
   {
+    "modelCode":"landcruiser",
+    "title":"Land Cruiser"
+  },
+  {
     "modelCode":"mirai",
     "title":"Mirai"
   },
