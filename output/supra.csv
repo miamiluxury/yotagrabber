@@ -19,24 +19,23 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G00RW065640,AutoNation Toyota Cerritos,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G00RW065704,Don Moore Toyota,KY
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G00RW065766,Toyota of Runnemede,NJ
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G00RW065783,Avondale Toyota,AZ
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,True,,WZ1DB0G00RW065783,Avondale Toyota,AZ
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G00RW065802,Mossy Toyota,CA
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G00RW065816,Oxmoor Toyota,KY
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G00RW065816,Oxmoor Toyota,KY
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G00RW065878,Kings Toyota,OH
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G00RW065931,Beach Cities Toyota Westminster,CA
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G00RW065993,Toyota Santa Monica,CA
 2024,3.0 RWD,Nocturnal,55400,599.0,55999.0,Factory to port,False,DealerHold,WZ1DB0G00RW09AA23,Hudson Toyota,NJ
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,,WZ1DB0G01RW064285,Ball Toyota of Charleston,WV
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G01RW064349,Toyota of Runnemede,NJ
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,Available,WZ1DB0G01RW064741,Rogers Toyota,ID
-2024,3.0 Premium RWD,Absolute Zero,57650,0.0,57650.0,At dealer,True,Available,WZ1DB0G01RW064822,Romano Toyota,NY
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G01RW064898,Toyota of Bowling Green,KY
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G01RW064741,Rogers Toyota,ID
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,True,DealerHold,WZ1DB0G01RW064898,Toyota of Bowling Green,KY
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G01RW064903,Limbaugh Toyota,AL
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,True,DealerHold,WZ1DB0G01RW064951,AutoNation Toyota Arapahoe,CO
-2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G01RW064965,Del Toyota,PA
+2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Port to dealer,False,DealerHold,WZ1DB0G01RW064965,Del Toyota,PA
 2024,3.0 Premium RWD,Stratosphere,58550,1495.0,60045.0,Factory to port,False,,WZ1DB0G01RW064979,South Coast Toyota,CA
 2024,3.0 Premium RWD,Stratosphere,58550,7590.0,66140.0,Factory to port,True,DealerHold,WZ1DB0G01RW065016,Bob Howard Toyota,OK
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G01RW065050,Szott M-59 Toyota,MI
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,True,DealerHold,WZ1DB0G01RW065050,Szott M-59 Toyota,MI
 2024,3.0 RWD,Renaissance Red 2.0,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G01RW065064,Ron Tonkin Toyota,OR
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G01RW065131,Toyota of Santa Fe,NM
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G01RW065145,Parks Toyota of Deland,FL
@@ -56,7 +55,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G01RW065808,Bernardi Toyota,MA
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G01RW065825,Toyota of Downtown LA,CA
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G01RW065923,Mountain States Toyota,CO
-2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G01RW065971,Victory Toyota,MI
+2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G01RW065971,Victory Toyota,MI
 2024,3.0 Premium RWD,Absolute Zero,58550,2796.0,61346.0,Factory to port,False,DealerHold,WZ1DB0G01RW09AA15,AutoNation Toyota Tempe,AZ
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,At dealer,True,DealerHold,WZ1DB0G02RW063498,Conicelli Toyota of Springfield,PA
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,DealerHold,WZ1DB0G02RW063873,John Weiss' Toyota of South County,MO
@@ -92,7 +91,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,,WZ1DB0G03RW063526,Elk Grove Toyota,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,True,Available,WZ1DB0G03RW064269,Toyota South,KY
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,True,DealerHold,WZ1DB0G03RW064370,Superior Toyota,WV
-2024,3.0 Premium RWD,Absolute Zero,58550,1599.0,60149.0,Port to dealer,True,DealerHold,WZ1DB0G03RW064420,Fowler Toyota,OK
+2024,3.0 Premium RWD,Absolute Zero,58550,1599.0,60149.0,At dealer,True,DealerHold,WZ1DB0G03RW064420,Fowler Toyota,OK
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,At dealer,True,Available,WZ1DB0G03RW064465,Shottenkirk Toyota Weatherford,TX
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,True,Available,WZ1DB0G03RW064515,Johnson City Toyota,TN
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G03RW064529,Lou Fusz Toyota,MO
@@ -118,7 +117,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G03RW09AA33,802 Toyota,VT
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,At dealer,False,Available,WZ1DB0G04RW063311,Mark Jacobson Toyota,NC
 2024,3.0 Premium RWD,Absolute Zero,57650,0.0,57650.0,At dealer,False,Available,WZ1DB0G04RW063535,Waldorf Toyota,MD
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,True,Available,WZ1DB0G04RW064040,Shottenkirk Toyota Weatherford,TX
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,Available,WZ1DB0G04RW064264,Ardmore Toyota,PA
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G04RW064443,Arlington Toyota,FL
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,995.0,65370.0,Factory to port,True,,WZ1DB0G04RW064474,Hanlees Fairfield Toyota,CA
@@ -128,7 +126,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G04RW064653,Toyota of Riverside,CA
 2024,3.0 Premium RWD,Nocturnal,57650,0.0,57650.0,At dealer,False,,WZ1DB0G04RW064703,AutoNation Toyota Cerritos,CA
 2024,3.0 Premium RWD,Renaissance Red 2.0,57650,0.0,57650.0,Port to dealer,False,DealerHold,WZ1DB0G04RW064751,Toyota Knoxville,TN
-2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G04RW064779,Heritage Toyota Catonsville,MD
+2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,True,DealerHold,WZ1DB0G04RW064779,Heritage Toyota Catonsville,MD
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,3980.0,69255.0,Factory to port,True,,WZ1DB0G04RW065057,Toyota of Redlands,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G04RW065138,Berglund Toyota,VA
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G04RW065155,Toyota of Nashua,NH
@@ -158,10 +156,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,1978.0,66353.0,Factory to port,False,Available,WZ1DB0G05RW063463,Chuck Hutton Toyota,TN
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,False,DealerHold,WZ1DB0G05RW064371,West Kendall Toyota,FL
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G05RW064483,Empire Toyota of Huntington,NY
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,False,DealerHold,WZ1DB0G05RW064547,Bob Howard Toyota,OK
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,Available,WZ1DB0G05RW064595,Toyota of Santa Maria,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G05RW064631,Hendrick Toyota Merriam,KS
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G05RW064709,Basil Toyota,NY
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,,WZ1DB0G05RW064709,Basil Toyota,NY
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G05RW064760,Toyota of Santa Fe,NM
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,5985.0,70360.0,Factory to port,True,Available,WZ1DB0G05RW064824,Toyota Marin,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,2295.0,66670.0,Factory to port,False,,WZ1DB0G05RW064838,Desert Toyota of Tucson,AZ
@@ -183,17 +180,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G05RW065780,Pohanka Toyota of Salisbury,MD
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G05RW065830,Edmark Toyota,ID
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G05RW065844,Toyota of The Desert,CA
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,Available,WZ1DB0G06RW064010,Gray-Daniels Toyota,MS
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,499.0,65774.0,Factory to port,False,Available,WZ1DB0G06RW064136,Caldwell Toyota,AR
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Port to dealer,False,Available,WZ1DB0G06RW064010,Gray-Daniels Toyota,MS
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,499.0,65774.0,Port to dealer,False,Available,WZ1DB0G06RW064136,Caldwell Toyota,AR
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,True,DealerHold,WZ1DB0G06RW064489,I-10 Toyota,CA
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G06RW064525,355 Toyota,MD
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,DealerHold,WZ1DB0G06RW064525,355 Toyota,MD
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G06RW064671,Right Toyota,AZ
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G06RW064816,Miracle Toyota of North Augusta,SC
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G06RW064881,Greg Leblanc Toyota,LA
-2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G06RW064895,West Herr Toyota of Canandaigua,NY
+2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G06RW064895,West Herr Toyota of Canandaigua,NY
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G06RW064931,Jim Coleman Toyota,MD
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G06RW064976,Sloane Toyota of Philadelphia,PA
-2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G06RW064993,Leith Toyota,NC
+2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,At dealer,False,DealerHold,WZ1DB0G06RW064993,Leith Toyota,NC
 2024,3.0 Premium RWD,Nocturnal,58550,2098.0,60648.0,Factory to port,True,DealerHold,WZ1DB0G06RW065139,Toyota of Surprise,AZ
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G06RW065142,Paul Miller Toyota of West Caldwell,NJ
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G06RW065593,Steet Toyota,NY
@@ -208,9 +205,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 RWD,Stratosphere,55400,0.0,55400.0,Factory to port,False,,WZ1DB0G06RW065819,Plaza Toyota,NY
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G06RW065903,Kerry Toyota,KY
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G06RW065920,Sloane Toyota of Philadelphia,PA
-2024,3.0 Premium RWD,Nocturnal,58550,3570.0,62120.0,Factory to port,False,Available,WZ1DB0G06RW09AA26,Gateway Toyota,NJ
+2024,3.0 Premium RWD,Nocturnal,58550,3570.0,62120.0,Factory to port,False,DealerHold,WZ1DB0G06RW09AA26,Gateway Toyota,NJ
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,True,Available,WZ1DB0G07RW063206,Heiser Toyota,WI
-2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Port to dealer,True,Available,WZ1DB0G07RW064291,Toyota of Fayetteville,AR
+2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,At dealer,True,Available,WZ1DB0G07RW064291,Toyota of Fayetteville,AR
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,Available,WZ1DB0G07RW064579,Maita's Toyota of Sacramento,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,6890.0,72165.0,Factory to port,False,DealerHold,WZ1DB0G07RW064629,Toyota of Midland,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G07RW064744,Damian Lillard Toyota,OR
@@ -232,17 +229,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G07RW065750,Galaxy Toyota,NJ
 2024,3.0 RWD,Renaissance Red 2.0,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G07RW065764,David Wilson's Toyota of Las Vegas,NV
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G07RW065828,355 Toyota,MD
-2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,Available,WZ1DB0G07RW065926,Smart Toyota of Quad Cities,IA
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G07RW065960,Ventura Toyota,CA
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,8985.0,74260.0,At dealer,True,Available,WZ1DB0G08RW062968,Toyota of Pharr,TX
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,8985.0,74260.0,At dealer,False,Available,WZ1DB0G08RW062968,Toyota of Pharr,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G08RW062971,Fox Toyota of El Paso,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G08RW064011,Beaman Toyota,TN
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G08RW064154,Lithia Toyota of Redding,CA
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,Available,WZ1DB0G08RW064333,Vancouver Toyota,WA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,False,Available,WZ1DB0G08RW064395,Penn Toyota,NY
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G08RW064493,Stephen Wade Toyota,UT
 2024,3.0 Premium RWD,Nocturnal,57650,0.0,57650.0,At dealer,False,,WZ1DB0G08RW064509,Toyota of Downtown LA,CA
-2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW064932,Brunswick Toyota,OH
-2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW064946,World Toyota,GA
+2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Port to dealer,False,DealerHold,WZ1DB0G08RW064932,Brunswick Toyota,OH
+2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,At dealer,False,DealerHold,WZ1DB0G08RW064946,World Toyota,GA
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW064980,Toyota of North Hollywood,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,True,DealerHold,WZ1DB0G08RW064994,Ed Martin Toyota,IN
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G08RW065028,Folsom Lake Toyota,CA
@@ -256,25 +253,24 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 RWD,Stratosphere,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G08RW065594,Peterson Toyota,ID
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G08RW065613,Hillside Toyota,NY
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW065661,"Molle Toyota, Inc.",MO
-2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G08RW065787,Kenny Kent Toyota,IN
+2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G08RW065787,Kenny Kent Toyota,IN
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW065790,Toyota of Massapequa,NY
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G08RW065837,Santa Margarita Toyota,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G08RW065840,AutoNation Toyota Hayward,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G08RW065871,Toyota of Escondido,CA
-2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G08RW065935,David Wilson's Toyota of Las Vegas,NV
+2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,Available,WZ1DB0G08RW065935,David Wilson's Toyota of Las Vegas,NV
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G08RW09AA27,DCH Brunswick Toyota,NJ
 2024,3.0 RWD,Renaissance Red 2.0,55400,0.0,55400.0,Factory to port,False,,WZ1DB0G08RW09AA30,Lynch Toyota,CT
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,DealerHold,WZ1DB0G09RW063353,East Coast Toyota,NJ
-2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Port to dealer,True,Available,WZ1DB0G09RW064051,Toyota of Rockwall,TX
+2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,At dealer,True,Available,WZ1DB0G09RW064051,Toyota of Rockwall,TX
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,6112.0,70487.0,Port to dealer,True,DealerHold,WZ1DB0G09RW064132,Norm Reeves Toyota San Diego,CA
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,At dealer,False,DealerHold,WZ1DB0G09RW064499,Ken Ganley Toyota,PA
 2024,3.0 Premium RWD,Absolute Zero,58550,6495.0,65045.0,Factory to port,True,DealerHold,WZ1DB0G09RW064681,Sterling McCall Toyota,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,,WZ1DB0G09RW064695,Baxter Toyota of La Vista,NE
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G09RW064714,Island Toyota,NY
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G09RW064714,Island Toyota,NY
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Port to dealer,True,DealerHold,WZ1DB0G09RW064826,Westchester Toyota,NY
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G09RW064860,Supreme Toyota of Hammond,LA
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,1595.0,66870.0,Factory to port,False,Available,WZ1DB0G09RW065037,Findlay Toyota,NV
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,Available,WZ1DB0G09RW065068,Fred Anderson Toyota,NC
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Port to dealer,False,Available,WZ1DB0G09RW065068,Fred Anderson Toyota,NC
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,True,,WZ1DB0G09RW065099,"Glen Motors, Inc.",NJ
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,True,DealerHold,WZ1DB0G09RW065264,AutoNation Toyota Buena Park,CA
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G09RW065278,White River Toyota,VT
@@ -284,16 +280,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Nocturnal,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G09RW065491,A-1 Toyota,CT
 2024,3.0 RWD,Renaissance Red 2.0,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G09RW065572,Oak Lawn Toyota,IL
 2024,3.0 RWD,Stratosphere,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G09RW065586,Vancouver Toyota,WA
+2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G09RW065619,Metro Toyota,OH
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G09RW065734,Culver City Toyota,CA
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,,WZ1DB0G09RW065779,San Francisco Toyota,CA
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,,WZ1DB0G09RW065832,Hansel Toyota,CA
 2024,3.0 RWD,Nocturnal,55400,0.0,55400.0,Factory to port,False,DealerHold,WZ1DB0G09RW065863,Toyota of Hackensack,NJ
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G09RW065894,City Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,Factory to port,False,,WZ1DB0G09RW065930,Toyota of Glendora,CA
+2024,45th Anniversary Edition RWD,Absolute Zero,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G0XRW062762,Toyota of Orlando,FL
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,At dealer,False,Available,WZ1DB0G0XRW063295,Miracle Toyota,FL
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,5085.0,70360.0,At dealer,False,DealerHold,WZ1DB0G0XRW063703,Fred Haas Toyota World,TX
-2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Port to dealer,False,DealerHold,WZ1DB0G0XRW063751,Camelback Toyota,AZ
 2024,3.0 Premium RWD,Renaissance Red 2.0,57650,0.0,57650.0,At dealer,False,Available,WZ1DB0G0XRW063765,Precision Toyota of Tucson,AZ
-2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,True,DealerHold,WZ1DB0G0XRW064074,Jeff Hunter Toyota,TX
+2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Port to dealer,True,DealerHold,WZ1DB0G0XRW064074,Jeff Hunter Toyota,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G0XRW064480,Kalispell Toyota,MT
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,1978.0,66353.0,Factory to port,False,Available,WZ1DB0G0XRW064639,Chuck Hutton Toyota,TN
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,Available,WZ1DB0G0XRW064723,Toyota of North Hollywood,CA
@@ -305,8 +303,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,Available,WZ1DB0G0XRW065192,Vandergriff Toyota,TX
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G0XRW065404,Laurel Toyota,PA
 2024,45th Anniversary Edition RWD,Mikan Blast,65275,0.0,65275.0,Factory to port,False,DealerHold,WZ1DB0G0XRW065435,Right Toyota,AZ
+2024,3.0 Premium RWD,Absolute Zero,58550,2995.0,61545.0,Factory to port,True,DealerHold,WZ1DB0G0XRW065516,Norm Reeves Toyota San Diego,CA
 2024,3.0 Premium RWD,Stratosphere,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G0XRW065533,Elgin Toyota,IL
-2024,45th Anniversary Edition RWD,Absolute Zero,65275,1790.0,67065.0,Factory to port,False,,WZ1DB0G0XRW065550,Shore Toyota,NJ
+2024,45th Anniversary Edition RWD,Absolute Zero,65275,1790.0,67065.0,Factory to port,False,DealerHold,WZ1DB0G0XRW065550,Shore Toyota,NJ
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,0.0,58550.0,Factory to port,False,DealerHold,WZ1DB0G0XRW065578,Eddy's Toyota of Wichita,KS
 2024,3.0 Premium RWD,Renaissance Red 2.0,58550,4966.0,63516.0,Factory to port,False,DealerHold,WZ1DB0G0XRW065600,Toyota of Turnersville,NJ
 2024,3.0 Premium RWD,Absolute Zero,58550,0.0,58550.0,Factory to port,True,DealerHold,WZ1DB0G0XRW065645,St. Charles Toyota,IL
