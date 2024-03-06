@@ -1,12 +1,52 @@
 Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,True,,JTEABFAJ0R109BI48,Route 22 Toyota,NJ
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R109BI43,West Herr Toyota of Orchard Park,NY
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,6285,81235,Factory to port,False,DealerHold,JTEABFAJ2R109AN26,Toyota of El Cajon,CA
-2024,First Edition 4WD,Black,74950,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R109BI27,Toyota of Manhattan,NY
-2024,First Edition 4WD,Black,74950,0,74950,Factory to port,False,,JTEABFAJ4R5000152,Jay Wolfe Toyota of West County,MO
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R109BI45,Hoselton Toyota,NY
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,False,DealerHold,JTEABFAJ6R109BV03,Tom Pappas Toyota,MO
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,False,,JTEABFAJ7R109AN37,Toyota of Glendale,CA
-2024,First Edition 4WD,Black,74950,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R5000159,Parkway Toyota,NJ
-2024,First Edition 4WD,Black,74950,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000171,Nucar Toyota of Norwood,MA
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0,74950,Factory to port,True,DealerHold,JTEABFAJXR109BI42,Prestige Toyota of Ramsey,NJ
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,True,,JTEABFAJ0R109BI48,Route 22 Toyota,NJ
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,Available,JTEABFAJ0R110CK53,Team Toyota,IN
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ0R111CD74,Dayton Toyota,NJ
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ0R5000133,Inver Grove Toyota,MN
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ1R109BI43,West Herr Toyota of Orchard Park,NY
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,True,DealerHold,JTEABFAJ1R111CS87,Walker Toyota,OH
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,True,,JTEABFAJ1R5000142,Wills Toyota,ID
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,6580.0,81530.0,Factory to port,False,DealerHold,JTEABFAJ2R109AN26,Toyota of El Cajon,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,True,,JTEABFAJ2R111CX83,Wilson Toyota,IA
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ2R5000165,Principle Toyota,TN
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,True,DealerHold,JTEABFAJ3R109BI27,Toyota of Manhattan,NY
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,Available,JTEABFAJ3R111CX92,Toyota of Muscatine,IA
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ3R5000188,Toyota of Greenwich,CT
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ3R5000210,Bill Estes Toyota,IN
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ4R5000152,Jay Wolfe Toyota of West County,MO
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ5R109BI45,Hoselton Toyota,NY
+2024,First Edition 4WD,Black,74950,3234.0,78184.0,Factory to port,False,,JTEABFAJ5R110CA83,Gateway Toyota,NJ
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ5R111CD71,Hoffman Toyota,CT
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ5R111CT08,Fernelius Toyota,MI
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ5R5000161,David Wilson's Toyota of Las Vegas,NV
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ5R5000192,Down East Toyota,ME
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,Available,JTEABFAJ5RK000159,Columbia Gorge Toyota,OR
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ6R109BR99,Roberts Toyota,TN
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ6R109BV03,Tom Pappas Toyota,MO
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,True,,JTEABFAJ6R110BB67,Toyota of Berkeley,CA
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ6R110CK42,Andrew Toyota,WI
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ6R111CD77,"Gale Toyota, Inc.",CT
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ6RK000168,Maplewood Toyota,MN
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ7R109AN37,Toyota of Glendale,CA
+2024,First Edition 4WD,Black,74950,4975.0,79925.0,Factory to port,False,,JTEABFAJ7R110AS73,Toyota of Redlands,CA
+2024,First Edition 4WD,Black,74950,1274.0,76224.0,Factory to port,False,,JTEABFAJ7R110CK51,Tom Wood Toyota,IN
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ7R111CT09,Coughlin Toyota,OH
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ7R111CX80,Lewis Toyota of Topeka,KS
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,True,DealerHold,JTEABFAJ7R5000159,Parkway Toyota,NJ
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ7R5000212,Toyota of Wellesley,MA
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ7RK000163,Kings Toyota,OH
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,399.0,75349.0,Factory to port,False,,JTEABFAJ8R109AX87,Toyota of Tacoma,WA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ8R111CS85,Robinson Toyota,TN
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,0.0,74950.0,Factory to port,True,DealerHold,JTEABFAJ8R112CU13,Cedric Theel Toyota,ND
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ8R5000171,Nucar Toyota of Norwood,MA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ8RK000172,Crown Toyota,KS
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ9R5000129,Peppers Toyota,TN
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ9R5000163,Le Mieux & Son Toyota,WI
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJ9R5000177,East Madison Toyota,WI
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,,JTEABFAJ9R5000194,Classic Toyota,OH
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,True,DealerHold,JTEABFAJXR109BI42,Prestige Toyota of Ramsey,NJ
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJXR109BV05,Toyota of Des Moines,IA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,4975.0,79925.0,Factory to port,True,,JTEABFAJXR111AT13,Toyota of Redlands,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,995.0,75945.0,Factory to port,False,,JTEABFAJXR111CE15,Liberty Toyota,NJ
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJXR5000155,Herb Chambers Toyota of Auburn,MA
+2024,First Edition 4WD,Black,74950,0.0,74950.0,Factory to port,False,DealerHold,JTEABFAJXR5000169,Gresham Toyota,OR
