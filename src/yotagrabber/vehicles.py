@@ -175,6 +175,7 @@ def update_vehicles():
     renames = {
         "vin": "VIN",
         "price.baseMsrp": "Base MSRP",
+        "price.totalMsrp": "TSRP MSRP",
         "model.marketingName": "Model",
         "extColor.marketingName": "Color",
         "dealerCategory": "Shipping Status",

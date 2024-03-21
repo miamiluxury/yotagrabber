@@ -38,3 +38,4 @@ Filter and sort this data however you want on [FlatGitHub](https://githubnext.co
 * [Tundra](https://flatgithub.com/miamiluxury/yotagrabber?filename=output%2Ftundra.csv)
 * [Tundra i-FORCE MAX](https://flatgithub.com/miamiluxury/yotagrabber?filename=output%2Ftundrahybrid.csv)
 * [Venza](https://flatgithub.com/miamiluxury/yotagrabber?filename=output%2Fvenza.csv)
+* [landcruiser](https://flatgithub.com/miamiluxury/yotagrabber?filename=output%2Flandcruiser.csv)
