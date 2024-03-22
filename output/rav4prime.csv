@@ -4,6 +4,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2023,SE AWD,Magnetic Gray Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV0PD159588,Jim Coleman Toyota,MD
 2023,SE AWD,Ice Cap,43090,46879,0,43090,At dealer,False,Available,JTMAB3FV0PD162801,WOW Toyota of Wallingford,CT
 2023,SE AWD,Supersonic Red,43090,46904,0,43090,At dealer,False,Available,JTMAB3FV0PD163656,DARCARS Toyota,MD
+2024,SE AWD,Silver Sky Metallic,43690,47504,0,43690,Factory to port,False,,JTMAB3FV0R112BP72,"Pedersen Toyota, Ltd.",CO
 2024,SE AWD,Ice Cap,43690,48407,0,43690,Factory to port,False,,JTMAB3FV0R113BK82,Kendall Toyota of Bend,OR
 2024,SE AWD,Magnetic Gray Metallic,43690,46705,1798,45488,Factory to port,False,,JTMAB3FV0R113BK96,Toyota of Portland on Broadway,OR
 2024,SE AWD,Supersonic Red,43690,48458,1798,45488,Factory to port,False,,JTMAB3FV0R113BL29,Toyota of Portland on Broadway,OR
@@ -86,6 +87,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Ice Cap,43690,47319,0,43690,At dealer,False,DealerHold,JTMAB3FV0RD189676,Woburn Toyota,MA
 2024,SE AWD,Blueprint,43690,47079,0,43690,Port to dealer,False,,JTMAB3FV0RD189810,Hillside Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48992,0,43690,Port to dealer,False,DealerHold,JTMAB3FV0RD189855,Dahl Toyota,MN
+2024,SE AWD,Magnetic Gray Metallic,43690,47704,0,43690,Port to dealer,False,,JTMAB3FV0RD189922,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Ice Cap,43690,47404,0,43690,At dealer,False,DealerHold,JTMAB3FV0RD189936,Doral Toyota,FL
 2024,SE AWD,Magnetic Gray Metallic,43690,48633,0,43690,Port to dealer,True,Available,JTMAB3FV0RD190164,Round Rock Toyota,TX
 2024,SE AWD,Blueprint,43690,47014,0,43690,At dealer,False,,JTMAB3FV0RD190505,Hansel Toyota,CA
@@ -95,6 +97,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,48128,0,43690,Port to dealer,False,,JTMAB3FV0RD190813,Sunrise Toyota,NY
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,At dealer,False,,JTMAB3FV0RD190939,San Francisco Toyota,CA
 2024,SE AWD,Blueprint,43690,47629,0,43690,Port to dealer,False,,JTMAB3FV0RD190987,Jim Coleman Toyota,MD
+2024,SE AWD,Ice Cap,43690,47633,0,43690,Port to dealer,False,,JTMAB3FV0RD191167,Girard Toyota-BMW,CT
 2024,SE AWD,Midnight Black Metallic,43690,47618,0,43690,Port to dealer,False,Available,JTMAB3FV0RD191282,Toyota of Bowling Green,KY
 2024,SE AWD,Magnetic Gray Metallic,43690,47898,4079,47769,At dealer,False,,JTMAB3FV0RD191394,Toyota of Huntington Beach,CA
 2024,SE AWD,Silver Sky Metallic,43690,47754,0,43690,Port to dealer,False,,JTMAB3FV0RD191444,City Toyota,CA
@@ -121,8 +124,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47304,0,43690,Factory to port,False,,JTMAB3FV0RD193338,McGee Toyota of Dudley,MA
 2024,SE AWD,Supersonic Red,43690,48832,0,43690,Port to dealer,False,,JTMAB3FV0RD193369,Toyota of Corvallis,OR
 2024,SE AWD,Ice Cap,43690,48317,0,43690,Factory to port,False,,JTMAB3FV0RD193436,Toyota of Anaheim,CA
+2024,SE AWD,Midnight Black Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV0RD193517,Toyota Walnut Creek,CA
 2024,SE AWD,Blueprint,43690,48018,0,43690,Factory to port,False,,JTMAB3FV0RD193629,Sheehy Toyota of Laurel,MD
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,1798,45488,Factory to port,False,,JTMAB3FV0RD193694,Toyota of Portland on Broadway,OR
+2024,SE AWD,Silver Sky Metallic,43690,47659,553,44243,Factory to port,False,,JTMAB3FV0RD193792,David Wilson's Toyota of Las Vegas,NV
 2024,SE AWD,Supersonic Red,43690,47932,0,43690,Factory to port,False,,JTMAB3FV0RD193808,Lee Toyota,ME
 2024,SE AWD,Supersonic Red,43690,47833,0,43690,Factory to port,False,,JTMAB3FV0RD193842,Stephen Toyota,CT
 2024,SE AWD,Blueprint,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV0RD193923,Gresham Toyota,OR
@@ -150,6 +155,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV0RD196174,Smithtown Toyota,NY
 2024,SE AWD,Midnight Black Metallic,43690,48438,0,43690,Factory to port,False,,JTMAB3FV0RD196210,Sunrise Toyota,NY
 2024,SE AWD,Ice Cap,43690,48438,0,43690,Factory to port,False,,JTMAB3FV0RD196370,Sunrise Toyota,NY
+2024,SE AWD,Magnetic Gray Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV0RD196479,Woburn Toyota,MA
 2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV0RD196546,Millennium Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48618,0,43690,Factory to port,False,,JTMAB3FV0RD196577,Sunrise Toyota,NY
 2024,SE AWD,Midnight Black Metallic,43690,47494,0,43690,Factory to port,False,,JTMAB3FV0RD196580,Toyota City,NY
@@ -161,10 +167,16 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,48298,0,43690,Factory to port,False,,JTMAB3FV0RD197518,Toyota of Manhattan,NY
 2024,SE AWD,Ice Cap,43690,47388,1790,45480,Factory to port,False,,JTMAB3FV0RD197616,Liberty Toyota,NJ
 2024,SE AWD,Midnight Black Metallic,43690,47922,0,43690,Factory to port,False,,JTMAB3FV0RD197731,Kendall Toyota of Bend,OR
+2024,SE AWD,Supersonic Red,43690,48618,0,43690,Factory to port,False,,JTMAB3FV0RD197793,Millennium Toyota,NY
+2024,SE AWD,Silver Sky Metallic,43690,47634,0,43690,Factory to port,False,,JTMAB3FV0RD197860,Westbrook Toyota,CT
 2024,SE AWD,Silver Sky Metallic,43690,48047,0,43690,Factory to port,False,,JTMAB3FV0RD197888,Toyota of Escondido,CA
 2024,SE AWD,Ice Cap,43690,48473,0,43690,Factory to port,False,,JTMAB3FV0RD197891,Toyota of Manhattan,NY
 2024,SE AWD,Midnight Black Metallic,43690,47298,0,43690,Factory to port,False,,JTMAB3FV0RD198054,Rodland Toyota,WA
+2024,SE AWD,Supersonic Red,43690,48542,0,43690,Factory to port,False,,JTMAB3FV0RD198328,One Toyota of Oakland,CA
+2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV0RD198412,Advantage Toyota,NY
+2024,SE AWD,Supersonic Red,43690,48193,0,43690,Factory to port,False,,JTMAB3FV0RD198491,Toyota of Morristown,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47504,0,43690,Factory to port,False,,JTMAB3FV0RD198605,802 Toyota,VT
+2024,SE AWD,Ice Cap,43690,48407,0,43690,Factory to port,False,,JTMAB3FV0RD198796,AutoNation Toyota Arapahoe,CO
 2023,SE AWD,Magnetic Gray Metallic,43090,46543,0,43090,At dealer,False,Available,JTMAB3FV1PD151712,Bill Kidd's Timonium Toyota,MD
 2023,SE AWD,Magnetic Gray Metallic,43090,46175,0,43090,At dealer,False,DealerHold,JTMAB3FV1PD157350,Herb Chambers Toyota of Boston,MA
 2023,SE AWD,Midnight Black Metallic,43090,46414,0,43090,At dealer,False,Available,JTMAB3FV1PD160846,K-M Toyota,MA
@@ -175,6 +187,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2023,SE AWD,Magnetic Gray Metallic,43090,46105,0,43090,At dealer,False,Available,JTMAB3FV1PD164959,"Westboro Toyota, Inc.",MA
 2023,SE AWD,Blueprint,43090,47392,0,43090,At dealer,False,Available,JTMAB3FV1PD165609,DARCARS Toyota of Baltimore,MD
 2024,SE AWD,Magnetic Gray Metallic,43690,48407,0,43690,Factory to port,False,,JTMAB3FV1R113BL07,Kendall Toyota of Bend,OR
+2024,SE AWD,Ice Cap,43690,47768,0,43690,Factory to port,False,,JTMAB3FV1R113CB63,Toyota of Morristown,NJ
+2024,SE AWD,Midnight Black Metallic,43690,47768,0,43690,Factory to port,False,,JTMAB3FV1R113CC27,Toyota of Morristown,NJ
+2024,SE AWD,Midnight Black Metallic,43690,47559,0,43690,Factory to port,False,,JTMAB3FV1R113CC30,West Herr Toyota of Canandaigua,NY
 2024,SE AWD,Supersonic Red,43440,47744,0,43440,At dealer,False,,JTMAB3FV1RD167296,"Glen Motors, Inc.",NJ
 2024,SE AWD,Ice Cap,43440,46455,0,43440,At dealer,False,DealerHold,JTMAB3FV1RD167475,Herb Chambers Toyota of Auburn,MA
 2024,SE AWD,Silver Sky Metallic,43440,47009,0,43440,At dealer,False,,JTMAB3FV1RD167850,Lia Toyota of Colonie,NY
@@ -246,6 +261,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,At dealer,False,,JTMAB3FV1RD189086,San Francisco Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,47569,0,43690,At dealer,False,,JTMAB3FV1RD189489,One Toyota of Oakland,CA
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV1RD189928,San Francisco Toyota,CA
+2024,SE AWD,Ice Cap,43690,48058,0,43690,Port to dealer,False,,JTMAB3FV1RD190111,DARCARS Toyota of Frederick,MD
 2024,SE AWD,Magnetic Gray Metallic,43690,47388,1790,45480,Port to dealer,False,,JTMAB3FV1RD190173,Liberty Toyota,NJ
 2024,SE AWD,Blueprint,43690,47504,0,43690,At dealer,False,Available,JTMAB3FV1RD190349,Victory Toyota of San Bruno,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47354,0,43690,Port to dealer,False,,JTMAB3FV1RD190450,Handy Toyota,VT
@@ -258,7 +274,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Port to dealer,False,,JTMAB3FV1RD191484,San Francisco Toyota,CA
 2024,SE AWD,Ice Cap,43690,48202,0,43690,At dealer,False,Available,JTMAB3FV1RD191565,Toyota of Poway,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,46770,0,43690,Port to dealer,False,,JTMAB3FV1RD191758,Hansel Toyota,CA
-2024,SE AWD,Blueprint,43690,48581,0,43690,Port to dealer,False,,JTMAB3FV1RD191923,Dublin Toyota,CA
+2024,SE AWD,Blueprint,43690,48581,0,43690,At dealer,False,,JTMAB3FV1RD191923,Dublin Toyota,CA
 2024,SE AWD,Blueprint,43690,48088,0,43690,Factory to port,True,DealerHold,JTMAB3FV1RD192022,Jones Toyota,MD
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Factory to port,False,,JTMAB3FV1RD192120,Rivera Toyota of Mt. Kisco,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV1RD192196,Hansel Toyota,CA
@@ -267,6 +283,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Port to dealer,False,,JTMAB3FV1RD192411,San Francisco Toyota,CA
 2024,SE AWD,Midnight Black Metallic,43690,47743,0,43690,Factory to port,False,,JTMAB3FV1RD192487,355 Toyota,MD
 2024,SE AWD,Blueprint,43690,48812,0,43690,At dealer,False,,JTMAB3FV1RD192716,Modesto Toyota,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47728,0,43690,At dealer,False,,JTMAB3FV1RD193087,Capitol Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,48167,0,43690,Factory to port,False,,JTMAB3FV1RD193445,Toyota Santa Monica,CA
 2024,SE AWD,Silver Sky Metallic,43690,47079,0,43690,Port to dealer,False,,JTMAB3FV1RD193820,One Toyota of Oakland,CA
 2024,SE AWD,Ice Cap,43690,48407,0,43690,Factory to port,False,,JTMAB3FV1RD193851,Lithia Toyota of Klamath Falls,OR
@@ -303,16 +320,22 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43690,47634,0,43690,Factory to port,False,,JTMAB3FV1RD196541,Westbrook Toyota,CT
 2024,SE AWD,Ice Cap,43690,47553,0,43690,Factory to port,False,,JTMAB3FV1RD196555,Claremont Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV1RD196734,Toyota of Hackensack,NJ
+2024,SE AWD,Magnetic Gray Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV1RD197124,Woburn Toyota,MA
 2024,SE AWD,Magnetic Gray Metallic,43690,47394,0,43690,Factory to port,False,,JTMAB3FV1RD197169,Star Toyota of Bayside,NY
 2024,SE AWD,Midnight Black Metallic,43690,47538,0,43690,Factory to port,False,,JTMAB3FV1RD197284,Toyota of Batavia,NY
 2024,SE AWD,Supersonic Red,43690,47679,0,43690,Factory to port,False,,JTMAB3FV1RD197317,Toyota World of Newton,NJ
 2024,SE AWD,Midnight Black Metallic,43690,47229,0,43690,Factory to port,False,,JTMAB3FV1RD197432,Riverhead Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47488,0,43690,Factory to port,False,,JTMAB3FV1RD197527,AutoNation Toyota Cerritos,CA
+2024,SE AWD,Midnight Black Metallic,43690,47839,0,43690,Factory to port,False,,JTMAB3FV1RD197561,Lia Toyota of Rockland,NY
 2024,SE AWD,Ice Cap,43690,48302,0,43690,Factory to port,False,,JTMAB3FV1RD197656,Marina Del Rey Toyota,CA
 2024,SE AWD,Ice Cap,43690,48641,3117,46807,Factory to port,False,,JTMAB3FV1RD197799,Norm Reeves Toyota San Diego,CA
 2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV1RD197852,Smithtown Toyota,NY
 2024,SE AWD,Ice Cap,43690,47837,0,43690,Factory to port,False,,JTMAB3FV1RD197916,North Bakersfield Toyota,CA
+2024,SE AWD,Midnight Black Metallic,43690,46705,0,43690,Factory to port,False,,JTMAB3FV1RD197950,Rivera Toyota of Mt. Kisco,NY
+2024,SE AWD,Ice Cap,43690,47723,0,43690,Factory to port,False,,JTMAB3FV1RD198144,Freeman Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47573,0,43690,Factory to port,False,,JTMAB3FV1RD198502,Rogers Toyota of Hermiston,OR
+2024,SE AWD,Ice Cap,43690,47079,0,43690,Factory to port,False,,JTMAB3FV1RD198919,Bernardi Toyota,MA
+2024,SE AWD,Ice Cap,43690,47014,0,43690,Factory to port,False,,JTMAB3FV1RD199083,Mountain States Toyota,CO
 2023,SE AWD,Ice Cap,43090,46982,0,43090,At dealer,False,Available,JTMAB3FV2PD147846,DARCARS Toyota,MD
 2023,SE AWD,Ice Cap,43090,46728,0,43090,At dealer,False,Available,JTMAB3FV2PD149483,Toyota Marin,CA
 2023,SE AWD,Ice Cap,43090,47448,0,43090,At dealer,False,Available,JTMAB3FV2PD156496,Toyota Marin,CA
@@ -328,6 +351,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV2PD165666,Jim Coleman Toyota,MD
 2024,SE AWD,Midnight Black Metallic,43690,47974,1798,45488,Factory to port,False,,JTMAB3FV2R112BI35,Toyota of Portland on Broadway,OR
 2024,SE AWD,Silver Sky Metallic,43690,47654,0,43690,Factory to port,False,DealerHold,JTMAB3FV2R113BK83,Toyota of Puyallup,WA
+2024,SE AWD,Magnetic Gray Metallic,43690,47553,0,43690,Factory to port,False,,JTMAB3FV2R113CC05,Northway Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43440,47768,0,43440,At dealer,False,,JTMAB3FV2RD166304,Heritage Toyota Owings Mills,MD
 2024,SE AWD,Ice Cap,43440,47009,0,43440,At dealer,False,Available,JTMAB3FV2RD166559,Della Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43440,47768,0,43440,At dealer,False,,JTMAB3FV2RD166688,DARCARS Toyota of Baltimore,MD
@@ -390,11 +414,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47719,0,43690,At dealer,False,,JTMAB3FV2RD187136,Toyota of Glendale,CA
 2024,SE AWD,Blueprint,43690,47454,0,43690,At dealer,False,,JTMAB3FV2RD187265,Tufankjian Toyota of Braintree,MA
 2024,SE AWD,Blueprint,43690,48193,0,43690,At dealer,False,,JTMAB3FV2RD187444,Smithtown Toyota,NY
-2024,SE AWD,Blueprint,43690,47404,0,43690,At dealer,False,DealerHold,JTMAB3FV2RD188111,Riverhead Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48198,0,43690,At dealer,False,,JTMAB3FV2RD188156,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Blueprint,43690,47339,0,43690,At dealer,False,DealerHold,JTMAB3FV2RD188187,Maguire Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48148,395,44085,At dealer,False,,JTMAB3FV2RD188562,Toyota 101,CA
-2024,SE AWD,Supersonic Red,43690,47958,0,43690,Port to dealer,True,,JTMAB3FV2RD188626,AutoNation Toyota Arapahoe,CO
+2024,SE AWD,Supersonic Red,43690,47958,0,43690,At dealer,True,,JTMAB3FV2RD188626,AutoNation Toyota Arapahoe,CO
 2024,SE AWD,Magnetic Gray Metallic,43690,48263,0,43690,At dealer,False,,JTMAB3FV2RD188657,Vancouver Toyota,WA
 2024,SE AWD,Magnetic Gray Metallic,43690,47398,0,43690,At dealer,False,,JTMAB3FV2RD188724,City World Toyota,NY
 2024,SE AWD,Ice Cap,43690,48073,4079,47769,At dealer,False,,JTMAB3FV2RD189114,Toyota of Huntington Beach,CA
@@ -406,9 +429,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Ice Cap,43690,47704,0,43690,At dealer,False,,JTMAB3FV2RD189498,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Silver Sky Metallic,43690,47229,0,43690,At dealer,False,,JTMAB3FV2RD189615,Riverhead Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48218,0,43690,At dealer,False,,JTMAB3FV2RD190036,Claremont Toyota,CA
+2024,SE AWD,Silver Sky Metallic,43690,47918,0,43690,Port to dealer,False,,JTMAB3FV2RD190134,355 Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,47488,0,43690,At dealer,False,,JTMAB3FV2RD190392,AutoNation Toyota Cerritos,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47238,0,43690,At dealer,False,,JTMAB3FV2RD190537,City Toyota,CA
-2024,SE AWD,Ice Cap,43690,47634,0,43690,Port to dealer,False,,JTMAB3FV2RD190666,Longo Toyota,CA
+2024,SE AWD,Ice Cap,43690,47634,0,43690,At dealer,False,,JTMAB3FV2RD190666,Longo Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47863,1443,45133,Port to dealer,False,,JTMAB3FV2RD190697,Toyota of Lancaster,CA
 2024,SE AWD,Silver Sky Metallic,43690,46705,0,43690,At dealer,True,DealerHold,JTMAB3FV2RD190747,Groove Toyota,CO
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV2RD190778,San Francisco Toyota,CA
@@ -455,16 +479,24 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47719,0,43690,Factory to port,False,,JTMAB3FV2RD196547,Toyota of San Bernardino,CA
 2024,SE AWD,Ice Cap,43690,48412,0,43690,Factory to port,False,,JTMAB3FV2RD196564,AutoNation Toyota Irvine,CA
 2024,SE AWD,Ice Cap,43690,47014,1798,45488,Factory to port,False,,JTMAB3FV2RD196631,Toyota of Portland on Broadway,OR
+2024,SE AWD,Midnight Black Metallic,43690,47454,0,43690,Factory to port,False,,JTMAB3FV2RD196810,Ira Toyota,MA
 2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV2RD196967,Sunrise Toyota North,NY
+2024,SE AWD,Supersonic Red,43690,47744,0,43690,Factory to port,False,,JTMAB3FV2RD196984,Bernardi Toyota,MA
 2024,SE AWD,Ice Cap,43690,48377,3117,46807,Factory to port,False,,JTMAB3FV2RD197066,Norm Reeves Toyota San Diego,CA
 2024,SE AWD,Silver Sky Metallic,43690,47229,0,43690,Factory to port,False,,JTMAB3FV2RD197116,Riverhead Toyota,NY
+2024,SE AWD,Blueprint,43690,47319,0,43690,Factory to port,False,,JTMAB3FV2RD197133,Central Maine Toyota,ME
 2024,SE AWD,Midnight Black Metallic,43690,48079,0,43690,Factory to port,False,,JTMAB3FV2RD197164,Prestige Toyota of Ramsey,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47148,0,43690,Factory to port,False,,JTMAB3FV2RD197200,Queensboro Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47788,0,43690,Factory to port,False,,JTMAB3FV2RD197293,Culver City Toyota,CA
+2024,SE AWD,Ice Cap,43690,47389,0,43690,Factory to port,False,,JTMAB3FV2RD197939,Herb Chambers Toyota of Boston,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,47949,0,43690,Factory to port,False,,JTMAB3FV2RD197956,Westbrook Toyota,CT
 2024,SE AWD,Silver Sky Metallic,43690,47967,0,43690,Factory to port,False,,JTMAB3FV2RD198136,Toyota of Smithfield,RI
 2024,SE AWD,Ice Cap,43690,48338,0,43690,Factory to port,False,,JTMAB3FV2RD198153,Groove Toyota,CO
+2024,SE AWD,Midnight Black Metallic,43690,46705,0,43690,Factory to port,False,,JTMAB3FV2RD198525,Rivera Toyota of Mt. Kisco,NY
 2024,SE AWD,Ice Cap,43690,47659,0,43690,Factory to port,False,,JTMAB3FV2RD198590,Haddad Toyota,MA
 2024,SE AWD,Blueprint,43690,47587,0,43690,Factory to port,False,,JTMAB3FV2RD198606,Lee Toyota,ME
+2024,SE AWD,Magnetic Gray Metallic,43690,48163,0,43690,Factory to port,False,,JTMAB3FV2RD198878,Groove Toyota,CO
+2024,SE AWD,Magnetic Gray Metallic,43690,47319,0,43690,Factory to port,False,,JTMAB3FV2RD198914,Central Maine Toyota,ME
 2023,SE AWD,Ice Cap,43090,47103,0,43090,At dealer,False,Available,JTMAB3FV3PD157964,Curry Toyota,NY
 2023,SE AWD,Supersonic Red,43090,47038,0,43090,At dealer,False,Available,JTMAB3FV3PD158662,DARCARS Toyota,MD
 2023,SE AWD,Silver Sky Metallic,43090,46634,0,43090,At dealer,False,Available,JTMAB3FV3PD159200,Jim Coleman Toyota,MD
@@ -611,9 +643,18 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV3RD197206,Toyota of Hackensack,NJ
 2024,SE AWD,Ice Cap,43690,47917,0,43690,Factory to port,False,,JTMAB3FV3RD197237,AutoNation Toyota Irvine,CA
 2024,SE AWD,Ice Cap,43690,48438,0,43690,Factory to port,False,,JTMAB3FV3RD197416,Sunrise Toyota,NY
+2024,SE AWD,Supersonic Red,43690,47654,0,43690,Factory to port,False,,JTMAB3FV3RD197481,Groove Toyota,CO
 2024,SE AWD,Midnight Black Metallic,43690,48452,0,43690,Factory to port,False,,JTMAB3FV3RD197495,Toyota Carlsbad,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47439,0,43690,Factory to port,False,,JTMAB3FV3RD197805,Prestige Toyota of Ramsey,NJ
+2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV3RD197996,Advantage Toyota,NY
+2024,SE AWD,Midnight Black Metallic,43690,47339,0,43690,Factory to port,False,,JTMAB3FV3RD198162,Maguire Toyota,NY
+2024,SE AWD,Supersonic Red,43690,47809,0,43690,Factory to port,False,,JTMAB3FV3RD198274,Woburn Toyota,MA
 2024,SE AWD,Midnight Black Metallic,43690,47654,1298,44988,Factory to port,False,DealerHold,JTMAB3FV3RD198467,Toyota of Kirkland,WA
+2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV3RD198792,Damian Lillard Toyota,OR
+2024,SE AWD,Blueprint,43690,47809,0,43690,Factory to port,False,DealerHold,JTMAB3FV3RD198923,Heritage Toyota,VT
+2024,SE AWD,Blueprint,43690,47504,0,43690,Factory to port,False,DealerHold,JTMAB3FV3RD199019,Toyota of Puyallup,WA
+2024,SE AWD,Magnetic Gray Metallic,43690,48034,0,43690,Factory to port,False,,JTMAB3FV3RD199103,Ron Tonkin Toyota,OR
+2024,SE AWD,Magnetic Gray Metallic,43690,49067,0,43690,Factory to port,False,,JTMAB3FV3RD199134,One Toyota of Oakland,CA
 2023,SE AWD,Magnetic Gray Metallic,43090,46543,0,43090,At dealer,False,,JTMAB3FV4PD140994,Bill Kidd's Timonium Toyota,MD
 2023,SE AWD,Supersonic Red,43090,47388,0,43090,At dealer,False,Available,JTMAB3FV4PD150585,Jim Coleman Toyota,MD
 2023,SE AWD,Supersonic Red,43090,47388,0,43090,At dealer,False,Available,JTMAB3FV4PD151753,Jim Coleman Toyota,MD
@@ -625,9 +666,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2023,SE AWD,Magnetic Gray Metallic,43090,46693,0,43090,At dealer,False,Available,JTMAB3FV4PD164468,Atlantic Toyota,MA
 2023,SE AWD,Magnetic Gray Metallic,43090,46479,0,43090,At dealer,False,Available,JTMAB3FV4PD165345,DARCARS Toyota,MD
 2024,SE AWD,Magnetic Gray Metallic,43690,48407,0,43690,Factory to port,False,,JTMAB3FV4R112BI22,Kendall Toyota of Bend,OR
-2024,SE AWD,Magnetic Gray Metallic,43690,48163,0,43690,Factory to port,False,,JTMAB3FV4R112BP74,Groove Toyota,CO
 2024,SE AWD,Silver Sky Metallic,43690,47654,2593,46283,Factory to port,False,,JTMAB3FV4R113BK84,Toyota of Renton,WA
 2024,SE AWD,Midnight Black Metallic,43690,47747,0,43690,Factory to port,False,,JTMAB3FV4R113BL20,Kendall Toyota,OR
+2024,SE AWD,Supersonic Red,43690,47943,0,43690,Factory to port,False,,JTMAB3FV4R113CC68,Empire Toyota,NY
 2024,SE AWD,Supersonic Red,43440,47938,0,43440,At dealer,False,,JTMAB3FV4RD168541,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Magnetic Gray Metallic,43440,47134,0,43440,At dealer,False,,JTMAB3FV4RD171956,Jerry's Toyota,MD
 2024,SE AWD,Ice Cap,43440,47427,0,43440,At dealer,False,Available,JTMAB3FV4RD172511,Waite Toyota,NY
@@ -654,6 +695,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43440,47254,0,43440,At dealer,False,Available,JTMAB3FV4RD178339,Toyota of Dartmouth,MA
 2024,SE AWD,Silver Sky Metallic,43440,47703,0,43440,At dealer,False,,JTMAB3FV4RD178664,Sheehy Toyota of Laurel,MD
 2024,SE AWD,Supersonic Red,43440,47654,0,43440,At dealer,False,DealerHold,JTMAB3FV4RD178907,City Toyota,CA
+2024,SE AWD,Midnight Black Metallic,43440,47298,0,43440,At dealer,False,,JTMAB3FV4RD179054,Toyota of Santa Maria,CA
 2024,SE AWD,Silver Sky Metallic,43440,46939,1390,44830,At dealer,False,,JTMAB3FV4RD179135,Toyota of Redlands,CA
 2024,SE AWD,Ice Cap,43440,47118,0,43440,At dealer,False,,JTMAB3FV4RD179376,Jim Coleman Toyota,MD
 2024,SE AWD,Blueprint,43440,46914,0,43440,At dealer,False,,JTMAB3FV4RD179474,Fox Toyota,NY
@@ -699,18 +741,23 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,47809,0,43690,Port to dealer,False,,JTMAB3FV4RD188935,Greentree Toyota,CT
 2024,SE AWD,Supersonic Red,43690,47793,0,43690,Port to dealer,False,,JTMAB3FV4RD189048,Lee Toyota,ME
 2024,SE AWD,Ice Cap,43690,47014,0,43690,At dealer,False,DealerHold,JTMAB3FV4RD189180,City Toyota,CA
-2024,SE AWD,Magnetic Gray Metallic,43690,47898,4079,47769,At dealer,False,Available,JTMAB3FV4RD189311,Toyota of Huntington Beach,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47898,4079,47769,At dealer,False,DealerHold,JTMAB3FV4RD189311,Toyota of Huntington Beach,CA
 2024,SE AWD,Supersonic Red,43690,48063,0,43690,At dealer,False,Available,JTMAB3FV4RD189325,Toyota of Vallejo,CA
 2024,SE AWD,Silver Sky Metallic,43690,47488,0,43690,At dealer,False,,JTMAB3FV4RD189356,AutoNation Toyota Cerritos,CA
-2024,SE AWD,Supersonic Red,43690,47754,0,43690,Port to dealer,True,DealerHold,JTMAB3FV4RD189714,"Pedersen Toyota, Ltd.",CO
+2024,SE AWD,Supersonic Red,43690,47754,0,43690,At dealer,True,DealerHold,JTMAB3FV4RD189714,"Pedersen Toyota, Ltd.",CO
 2024,SE AWD,Ice Cap,43690,47398,199,43889,At dealer,False,Available,JTMAB3FV4RD189745,Ammaar's Toyota Vacaville,CA
 2024,SE AWD,Ice Cap,43690,47548,0,43690,At dealer,False,,JTMAB3FV4RD189762,Passport Toyota,MD
+2024,SE AWD,Magnetic Gray Metallic,43690,47319,0,43690,Port to dealer,False,,JTMAB3FV4RD189907,Woburn Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Port to dealer,False,,JTMAB3FV4RD190264,Smithtown Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47863,1443,45133,At dealer,False,,JTMAB3FV4RD190314,Toyota of Lancaster,CA
 2024,SE AWD,Silver Sky Metallic,43690,47654,0,43690,At dealer,False,,JTMAB3FV4RD190328,Lithia Toyota of Redding,CA
+2024,SE AWD,Blueprint,43690,47953,0,43690,Port to dealer,False,,JTMAB3FV4RD190653,Sheehy Toyota of Laurel,MD
+2024,SE AWD,Magnetic Gray Metallic,43690,47398,0,43690,Port to dealer,False,,JTMAB3FV4RD190748,City World Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47998,0,43690,At dealer,False,Available,JTMAB3FV4RD190829,Folsom Lake Toyota,CA
 2024,SE AWD,Midnight Black Metallic,43690,47927,0,43690,At dealer,False,,JTMAB3FV4RD190877,Santa Margarita Toyota,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47319,0,43690,Port to dealer,False,,JTMAB3FV4RD190975,Jaffarian Toyota,MA
 2024,SE AWD,Magnetic Gray Metallic,43690,48139,0,43690,At dealer,False,Available,JTMAB3FV4RD191060,Beaverton Toyota,OR
+2024,SE AWD,Ice Cap,43690,47389,0,43690,Port to dealer,False,,JTMAB3FV4RD191186,McGee Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,47388,0,43690,Port to dealer,False,,JTMAB3FV4RD191320,Dayton Toyota,NJ
 2024,SE AWD,Supersonic Red,43690,48347,0,43690,Port to dealer,False,,JTMAB3FV4RD191379,Kendall Toyota of Bend,OR
 2024,SE AWD,Blueprint,43690,47629,0,43690,Factory to port,False,,JTMAB3FV4RD191396,Jim Coleman Toyota,MD
@@ -766,19 +813,26 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43690,47973,0,43690,Factory to port,False,,JTMAB3FV4RD196226,Envision Toyota of Norwalk,CA
 2024,SE AWD,Ice Cap,43690,47922,0,43690,Factory to port,False,,JTMAB3FV4RD196288,Lithia Toyota,OR
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,1798,45488,Factory to port,False,,JTMAB3FV4RD196419,Toyota of Portland on Broadway,OR
+2024,SE AWD,Ice Cap,43690,47479,0,43690,Factory to port,False,DealerHold,JTMAB3FV4RD196811,Down East Toyota,ME
 2024,SE AWD,Midnight Black Metallic,43690,47747,0,43690,Factory to port,False,,JTMAB3FV4RD196923,Kendall Toyota,OR
+2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV4RD197196,Millennium Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47703,0,43690,Factory to port,False,,JTMAB3FV4RD197277,Longo Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47788,0,43690,Factory to port,False,,JTMAB3FV4RD197280,I-10 Toyota,CA
 2024,SE AWD,Supersonic Red,43690,47654,0,43690,Factory to port,False,,JTMAB3FV4RD197408,Riverhead Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47809,0,43690,Factory to port,False,Available,JTMAB3FV4RD197456,Heritage Toyota,VT
+2024,SE AWD,Blueprint,43690,47389,0,43690,Factory to port,False,,JTMAB3FV4RD197473,Ira Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,47388,0,43690,Factory to port,False,,JTMAB3FV4RD197487,Team Toyota of Princeton,NJ
 2024,SE AWD,Silver Sky Metallic,43690,48067,0,43690,Factory to port,False,,JTMAB3FV4RD197568,Toyota of Glendora,CA
+2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV4RD197960,Toyota of Massapequa,NY
+2024,SE AWD,Silver Sky Metallic,43690,48568,0,43690,Factory to port,False,,JTMAB3FV4RD198106,AutoNation Toyota Arapahoe,CO
 2024,SE AWD,Magnetic Gray Metallic,43690,47654,1298,44988,Factory to port,False,DealerHold,JTMAB3FV4RD198204,Toyota of Kirkland,WA
+2024,SE AWD,Midnight Black Metallic,43690,47479,0,43690,Factory to port,False,DealerHold,JTMAB3FV4RD198297,Down East Toyota,ME
 2024,SE AWD,Midnight Black Metallic,43690,47654,0,43690,Factory to port,False,,JTMAB3FV4RD198705,Vancouver Toyota,WA
 2024,SE AWD,Silver Sky Metallic,43690,47654,0,43690,Factory to port,False,,JTMAB3FV4RD198767,Toyota of Lake City,WA
 2024,SE AWD,Supersonic Red,43690,48124,0,43690,Factory to port,False,,JTMAB3FV4RD198770,Imperial Toyota,MA
 2023,SE AWD,Ice Cap,43090,46509,0,43090,At dealer,False,Available,JTMAB3FV5PD153219,Toyota Marin,CA
 2024,SE AWD,Ice Cap,43690,47922,0,43690,Factory to port,False,,JTMAB3FV5R112BH95,Kendall Toyota,OR
+2024,SE AWD,Ice Cap,43690,48812,0,43690,Factory to port,False,,JTMAB3FV5R112BP66,Groove Toyota,CO
 2024,SE AWD,Silver Sky Metallic,43690,47368,0,43690,Factory to port,False,,JTMAB3FV5R112CE59,Lee Toyota,ME
 2024,SE AWD,Blueprint,43440,47829,0,43440,At dealer,False,Available,JTMAB3FV5RD165941,Toyota Marin,CA
 2024,SE AWD,Blueprint,43440,47009,0,43440,At dealer,False,Available,JTMAB3FV5RD167236,New Country Toyota of Clifton Park,NY
@@ -832,7 +886,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43440,47319,0,43440,At dealer,False,,JTMAB3FV5RD179161,Island Toyota,NY
 2024,SE AWD,Ice Cap,43690,47704,3190,46880,At dealer,False,Available,JTMAB3FV5RD179189,Bob Howard Toyota,OK
 2024,SE AWD,Ice Cap,43440,46764,0,43440,At dealer,False,Available,JTMAB3FV5RD179340,Bayside Toyota,MD
-2024,SE AWD,Silver Sky Metallic,43440,46939,0,43440,At dealer,True,,JTMAB3FV5RD179466,802 Toyota,VT
 2024,SE AWD,Blueprint,43440,47548,0,43440,At dealer,False,DealerHold,JTMAB3FV5RD179743,Casey Toyota,VA
 2024,SE AWD,Blueprint,43440,47328,0,43440,At dealer,False,,JTMAB3FV5RD179869,Kinderhook Toyota,NY
 2024,SE AWD,Supersonic Red,43440,48128,0,43440,At dealer,False,,JTMAB3FV5RD179905,Sheehy Toyota of Laurel,MD
@@ -884,19 +937,23 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Ice Cap,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV5RD190046,Prestige Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV5RD190208,Antioch Toyota,CA
 2024,SE AWD,Ice Cap,43690,47953,0,43690,At dealer,False,Available,JTMAB3FV5RD190385,Bob Smith Toyota,CA
+2024,SE AWD,Supersonic Red,43690,47764,0,43690,Port to dealer,False,,JTMAB3FV5RD190497,Maguire Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV5RD190726,Hansel Toyota,CA
-2024,SE AWD,Silver Sky Metallic,43690,47569,1390,45080,Port to dealer,False,,JTMAB3FV5RD191018,Toyota of Redlands,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47953,0,43690,Port to dealer,False,,JTMAB3FV5RD190998,Sheehy Toyota of Laurel,MD
+2024,SE AWD,Silver Sky Metallic,43690,47569,1390,45080,At dealer,False,,JTMAB3FV5RD191018,Toyota of Redlands,CA
+2024,SE AWD,Ice Cap,43690,47719,0,43690,Port to dealer,False,,JTMAB3FV5RD191245,DARCARS Toyota,MD
 2024,SE AWD,Ice Cap,43690,47014,995,44685,At dealer,False,,JTMAB3FV5RD191441,Toyota Town,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Port to dealer,True,DealerHold,JTMAB3FV5RD191522,Toyota Walnut Creek,CA
-2024,SE AWD,Midnight Black Metallic,43690,47948,0,43690,Port to dealer,False,DealerHold,JTMAB3FV5RD191715,Wondries Toyota,CA
+2024,SE AWD,Midnight Black Metallic,43690,47793,0,43690,Port to dealer,False,DealerHold,JTMAB3FV5RD191715,Wondries Toyota,CA
 2024,SE AWD,Ice Cap,43690,47079,0,43690,Factory to port,False,,JTMAB3FV5RD191939,Fordham Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV5RD192315,City Toyota,CA
-2024,SE AWD,Supersonic Red,43690,49130,0,43690,Factory to port,False,Available,JTMAB3FV5RD192573,Landers Toyota NWA,AR
+2024,SE AWD,Supersonic Red,43690,48712,799,44489,Factory to port,True,Available,JTMAB3FV5RD192573,Landers Toyota NWA,AR
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Port to dealer,False,,JTMAB3FV5RD192654,Toyota Walnut Creek,CA
 2024,SE AWD,Supersonic Red,43690,48458,0,43690,Port to dealer,True,DealerHold,JTMAB3FV5RD192752,I-5 Toyota,WA
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV5RD193044,Toyota of Hackensack,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV5RD193156,San Francisco Toyota,CA
 2024,SE AWD,Ice Cap,43690,48438,0,43690,Factory to port,False,,JTMAB3FV5RD193237,Sunrise Toyota,NY
+2024,SE AWD,Supersonic Red,43690,48303,0,43690,Port to dealer,False,,JTMAB3FV5RD193416,Victory Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV5RD193478,Smithtown Toyota,NY
 2024,SE AWD,Ice Cap,43690,47014,0,43690,Factory to port,False,,JTMAB3FV5RD193769,Rivera Toyota of Mt. Kisco,NY
 2024,SE AWD,Blueprint,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV5RD193786,San Francisco Toyota,CA
@@ -921,7 +978,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,48567,0,43690,Factory to port,False,,JTMAB3FV5RD195635,Toyota of Morristown,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,48473,0,43690,Factory to port,False,,JTMAB3FV5RD195876,Toyota of Manhattan,NY
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Factory to port,False,,JTMAB3FV5RD196199,A-1 Toyota,CT
+2024,SE AWD,Midnight Black Metallic,43690,48892,0,43690,Factory to port,False,,JTMAB3FV5RD196283,One Toyota of Oakland,CA
 2024,SE AWD,Supersonic Red,43690,47813,0,43690,Factory to port,False,,JTMAB3FV5RD196316,Team Toyota of Princeton,NJ
+2024,SE AWD,Supersonic Red,43690,47879,0,43690,Factory to port,False,,JTMAB3FV5RD196381,Toyota of Portsmouth,NH
 2024,SE AWD,Silver Sky Metallic,43690,47079,0,43690,Factory to port,False,,JTMAB3FV5RD196509,Hillside Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47559,0,43690,Factory to port,False,,JTMAB3FV5RD196526,Johnstons Toyota,NY
 2024,SE AWD,Midnight Black Metallic,43690,47014,1798,45488,Factory to port,False,,JTMAB3FV5RD196591,Toyota of Portland on Broadway,OR
@@ -930,10 +989,27 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,48298,0,43690,Factory to port,False,,JTMAB3FV5RD197076,Toyota of Manhattan,NY
 2024,SE AWD,Ice Cap,43690,47967,0,43690,Factory to port,False,,JTMAB3FV5RD197126,Toyota of Smithfield,RI
 2024,SE AWD,Blueprint,43690,47388,0,43690,Factory to port,False,,JTMAB3FV5RD197174,Team Toyota of Princeton,NJ
+2024,SE AWD,Supersonic Red,43690,48394,0,43690,Factory to port,False,DealerHold,JTMAB3FV5RD197191,Colonial Toyota,CT
+2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV5RD197255,Advantage Toyota,NY
 2024,SE AWD,Ice Cap,43690,47544,995,44685,Factory to port,False,,JTMAB3FV5RD197630,Hanlees Fairfield Toyota,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47699,0,43690,Factory to port,False,,JTMAB3FV5RD197773,Imperial Toyota,MA
+2024,SE AWD,Silver Sky Metallic,43690,48762,0,43690,Factory to port,False,DealerHold,JTMAB3FV5RD197837,Autoland Toyota,NJ
+2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV5RD197871,Millennium Toyota,NY
+2024,SE AWD,Magnetic Gray Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV5RD197918,Woburn Toyota,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,47699,0,43690,Factory to port,False,,JTMAB3FV5RD198146,Imperial Toyota,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,47148,0,43690,Factory to port,False,,JTMAB3FV5RD198213,Plaza Toyota,NY
+2024,SE AWD,Ice Cap,43690,47229,0,43690,Factory to port,False,,JTMAB3FV5RD198261,Toyota of Wellesley,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,47389,0,43690,Factory to port,False,,JTMAB3FV5RD198275,Ira Toyota,MA
+2024,SE AWD,Ice Cap,43690,47339,0,43690,Factory to port,False,,JTMAB3FV5RD198308,Maguire Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47598,0,43690,Factory to port,False,,JTMAB3FV5RD198468,Gresham Toyota,OR
+2024,SE AWD,Blueprint,43690,47559,0,43690,Factory to port,False,,JTMAB3FV5RD198647,West Herr Toyota of Canandaigua,NY
+2024,SE AWD,Blueprint,43690,48207,0,43690,Factory to port,False,,JTMAB3FV5RD198700,Queensboro Toyota,NY
+2024,SE AWD,Silver Sky Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV5RD198955,Woburn Toyota,MA
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV6PD157408,Jim Coleman Toyota,MD
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV6PD158641,Jim Coleman Toyota,MD
+2024,SE AWD,Silver Sky Metallic,43690,47768,0,43690,Factory to port,False,,JTMAB3FV6R113CB74,Toyota of Morristown,NJ
+2024,SE AWD,Midnight Black Metallic,43690,47584,0,43690,Factory to port,False,,JTMAB3FV6R113CC38,West Herr Toyota of Canandaigua,NY
+2024,SE AWD,Supersonic Red,43690,47130,0,43690,Factory to port,False,,JTMAB3FV6R113CC69,Rivera Toyota of Mt. Kisco,NY
 2024,SE AWD,Magnetic Gray Metallic,43440,47337,0,43440,At dealer,False,,JTMAB3FV6RD166810,Toyota World of Lakewood,NJ
 2024,SE AWD,Blueprint,43440,46979,0,43440,At dealer,False,,JTMAB3FV6RD167679,Penn Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43440,46914,0,43440,At dealer,False,,JTMAB3FV6RD169853,Steet Toyota,NY
@@ -999,7 +1075,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43690,48193,0,43690,At dealer,False,,JTMAB3FV6RD187737,Smithtown Toyota,NY
 2024,SE AWD,Blueprint,43690,47014,0,43690,At dealer,False,,JTMAB3FV6RD187866,Prestige Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48124,0,43690,At dealer,False,,JTMAB3FV6RD187964,Heritage Toyota,VT
-2024,SE AWD,Ice Cap,43690,47484,0,43690,Port to dealer,False,,JTMAB3FV6RD188130,AutoNation Toyota Arapahoe,CO
+2024,SE AWD,Ice Cap,43690,47484,0,43690,At dealer,False,,JTMAB3FV6RD188130,AutoNation Toyota Arapahoe,CO
 2024,SE AWD,Blueprint,43690,47959,0,43690,At dealer,False,,JTMAB3FV6RD188404,Toyota of Manhattan,NY
 2024,SE AWD,Supersonic Red,43690,48198,0,43690,At dealer,False,,JTMAB3FV6RD188483,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Blueprint,43690,47409,0,43690,At dealer,False,Available,JTMAB3FV6RD188502,Northtown Toyota,NY
@@ -1015,15 +1091,15 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43690,47233,0,43690,Port to dealer,False,,JTMAB3FV6RD189827,AutoNation Toyota Arapahoe,CO
 2024,SE AWD,Midnight Black Metallic,43690,48128,0,43690,At dealer,False,Available,JTMAB3FV6RD189830,Sunrise Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48808,0,43690,Factory to port,True,DealerHold,JTMAB3FV6RD189990,Pat Lobb Toyota of McKinney,TX
+2024,SE AWD,Blueprint,43690,47704,0,43690,Port to dealer,False,,JTMAB3FV6RD190072,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Midnight Black Metallic,43690,47824,0,43690,At dealer,False,,JTMAB3FV6RD190086,Gresham Toyota,OR
 2024,SE AWD,Blueprint,43690,47229,0,43690,Port to dealer,False,,JTMAB3FV6RD190265,Riverhead Toyota,NY
-2024,SE AWD,Ice Cap,43690,48202,1979,45669,At dealer,False,,JTMAB3FV6RD190458,Norm Reeves Toyota San Diego,CA
+2024,SE AWD,Ice Cap,43690,48202,1979,45669,At dealer,False,DealerHold,JTMAB3FV6RD190458,Norm Reeves Toyota San Diego,CA
 2024,SE AWD,Midnight Black Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV6RD190573,San Francisco Toyota,CA
 2024,SE AWD,Blueprint,43690,47084,0,43690,Port to dealer,False,,JTMAB3FV6RD191108,Jimmy Vasser Toyota,CA
 2024,SE AWD,Blueprint,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV6RD191156,Alderman's Toyota,VT
 2024,SE AWD,Ice Cap,43690,48293,0,43690,Factory to port,False,Available,JTMAB3FV6RD191237,San Marcos Toyota,TX
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV6RD191318,South Coast Toyota,CA
-2024,SE AWD,Ice Cap,43690,47014,0,43690,At dealer,False,,JTMAB3FV6RD191450,Hansel Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV6RD191478,Bayside Toyota,MD
 2024,SE AWD,Magnetic Gray Metallic,43690,47484,0,43690,At dealer,False,,JTMAB3FV6RD191609,Envision Toyota of Norwalk,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47838,0,43690,Port to dealer,True,DealerHold,JTMAB3FV6RD191660,"Stapp Interstate Toyota, Inc.",CO
@@ -1032,10 +1108,11 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV6RD191836,Hansel Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,46705,0,43690,Port to dealer,True,DealerHold,JTMAB3FV6RD191934,Groove Toyota,CO
 2024,SE AWD,Blueprint,43690,47623,0,43690,Port to dealer,False,,JTMAB3FV6RD191982,Santa Cruz Toyota,CA
-2024,SE AWD,Supersonic Red,43690,47988,0,43690,Port to dealer,False,,JTMAB3FV6RD192050,Folsom Lake Toyota,CA
+2024,SE AWD,Supersonic Red,43690,47988,0,43690,At dealer,True,DealerHold,JTMAB3FV6RD192050,Folsom Lake Toyota,CA
 2024,SE AWD,Blueprint,43690,48063,0,43690,At dealer,False,,JTMAB3FV6RD192128,Wilsonville Toyota,OR
 2024,SE AWD,Magnetic Gray Metallic,43690,47728,0,43690,Port to dealer,False,,JTMAB3FV6RD192209,Jimmy Vasser Toyota,CA
 2024,SE AWD,Ice Cap,43690,47079,0,43690,Factory to port,False,,JTMAB3FV6RD192291,Toyota of Southern Maryland,MD
+2024,SE AWD,Blueprint,43690,47968,0,43690,At dealer,True,DealerHold,JTMAB3FV6RD192369,Folsom Lake Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47443,0,43690,Port to dealer,False,,JTMAB3FV6RD192954,Northtown Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47233,0,43690,Factory to port,False,DealerHold,JTMAB3FV6RD193053,DCH Freehold Toyota,NJ
 2024,SE AWD,Supersonic Red,43690,47868,0,43690,Factory to port,False,,JTMAB3FV6RD193070,Northtown Toyota,NY
@@ -1079,23 +1156,29 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47713,0,43690,Factory to port,False,,JTMAB3FV6RD196499,Toyota of Batavia,NY
 2024,SE AWD,Midnight Black Metallic,43690,48142,599,44289,Factory to port,False,,JTMAB3FV6RD196566,Hudson Toyota,NJ
 2024,SE AWD,Ice Cap,43690,47079,0,43690,Factory to port,False,,JTMAB3FV6RD196731,Hillside Toyota,NY
+2024,SE AWD,Supersonic Red,43690,48063,0,43690,Factory to port,False,,JTMAB3FV6RD196776,Madera Toyota,CA
 2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV6RD196843,Smithtown Toyota,NY
+2024,SE AWD,Midnight Black Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV6RD197149,Woburn Toyota,MA
+2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV6RD197202,Toyota of Massapequa,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47559,1397,45087,Factory to port,False,,JTMAB3FV6RD197264,DCH Wappingers Falls Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47719,0,43690,Factory to port,False,,JTMAB3FV6RD197281,Toyota of San Bernardino,CA
 2024,SE AWD,Supersonic Red,43690,47879,0,43690,Factory to port,False,,JTMAB3FV6RD197376,Lee Toyota,ME
 2024,SE AWD,Ice Cap,43690,47544,995,44685,Factory to port,True,,JTMAB3FV6RD197443,Hanlees Fairfield Toyota,CA
+2024,SE AWD,Blueprint,43690,48762,0,43690,Factory to port,False,DealerHold,JTMAB3FV6RD197569,Autoland Toyota,NJ
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV6RD197622,Toyota of Hackensack,NJ
 2024,SE AWD,Blueprint,43690,47164,0,43690,Factory to port,True,DealerHold,JTMAB3FV6RD197698,St. Charles Toyota,IL
 2024,SE AWD,Supersonic Red,43690,47963,0,43690,Factory to port,False,Available,JTMAB3FV6RD197877,West Herr Toyota of Canandaigua,NY
+2024,SE AWD,Magnetic Gray Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV6RD198012,Smithtown Toyota,NY
 2024,SE AWD,Midnight Black Metallic,43690,47654,0,43690,Factory to port,True,,JTMAB3FV6RD198074,Doxon Toyota,WA
+2024,SE AWD,Silver Sky Metallic,43690,47479,0,43690,Factory to port,False,DealerHold,JTMAB3FV6RD198270,Down East Toyota,ME
 2024,SE AWD,Magnetic Gray Metallic,43690,47747,0,43690,Factory to port,False,,JTMAB3FV6RD198446,Kendall Toyota,OR
 2024,SE AWD,Blueprint,43690,47504,0,43690,Factory to port,False,,JTMAB3FV6RD198723,Toyota of Lake City,WA
+2024,SE AWD,Midnight Black Metallic,43690,48027,0,43690,Factory to port,False,,JTMAB3FV6RD199077,Fremont Toyota,CA
 2023,SE AWD,Blueprint,43090,47523,0,43090,At dealer,False,Available,JTMAB3FV7PD157417,Toyota Marin,CA
 2023,SE AWD,Supersonic Red,43090,47107,0,43090,At dealer,False,Available,JTMAB3FV7PD158082,DARCARS Toyota,MD
 2023,SE AWD,Supersonic Red,43090,47817,0,43090,At dealer,False,Available,JTMAB3FV7PD161113,Antwerpen's Toyota,MD
 2023,SE AWD,Supersonic Red,43090,47363,0,43090,At dealer,False,Available,JTMAB3FV7PD162052,Jim Coleman Toyota,MD
 2023,SE AWD,Magnetic Gray Metallic,43090,46414,0,43090,At dealer,False,DealerHold,JTMAB3FV7PD162505,Lia Toyota of Northampton,MA
-2024,SE AWD,Silver Sky Metallic,43690,47654,0,43690,Factory to port,True,,JTMAB3FV7R112BI01,Doxon Toyota,WA
 2024,SE AWD,Magnetic Gray Metallic,43440,46764,0,43440,At dealer,False,,JTMAB3FV7RD166198,Basil Toyota,NY
 2024,SE AWD,Blueprint,43440,46979,0,43440,At dealer,False,Available,JTMAB3FV7RD166282,Penn Toyota,NY
 2024,SE AWD,Blueprint,43440,46914,0,43440,At dealer,False,Available,JTMAB3FV7RD166587,Alderman's Toyota,VT
@@ -1173,6 +1256,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43690,47824,0,43690,At dealer,False,,JTMAB3FV7RD189996,Beaverton Toyota,OR
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV7RD190047,Westchester Toyota,NY
 2024,SE AWD,Supersonic Red,43690,47130,0,43690,At dealer,False,,JTMAB3FV7RD190209,Groove Toyota,CO
+2024,SE AWD,Magnetic Gray Metallic,43690,47858,0,43690,Port to dealer,False,,JTMAB3FV7RD190484,DARCARS Toyota of Frederick,MD
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Port to dealer,False,,JTMAB3FV7RD190565,San Francisco Toyota,CA
 2024,SE AWD,Supersonic Red,43690,47933,0,43690,Port to dealer,False,,JTMAB3FV7RD191022,Galaxy Toyota,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47743,0,43690,Port to dealer,False,DealerHold,JTMAB3FV7RD191084,"Molle Toyota, Inc.",MO
@@ -1199,7 +1283,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47614,0,43690,Factory to port,False,,JTMAB3FV7RD192817,Toyota Universe,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47964,0,43690,Factory to port,True,,JTMAB3FV7RD192946,Toyota of Olympia,WA
 2024,SE AWD,Blueprint,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV7RD193045,San Francisco Toyota,CA
-2024,SE AWD,Silver Sky Metallic,43690,48611,0,43690,Factory to port,False,,JTMAB3FV7RD193157,Ken Ganley Toyota,PA
+2024,SE AWD,Silver Sky Metallic,43690,48611,0,43690,Factory to port,False,DealerHold,JTMAB3FV7RD193157,Ken Ganley Toyota,PA
 2024,SE AWD,Silver Sky Metallic,43690,47793,0,43690,Port to dealer,False,,JTMAB3FV7RD193174,Claremont Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47857,0,43690,Factory to port,False,,JTMAB3FV7RD193367,Mungenast Alton Toyota,IL
 2024,SE AWD,Ice Cap,43690,47509,0,43690,Factory to port,False,Available,JTMAB3FV7RD193580,White River Toyota,VT
@@ -1240,18 +1324,26 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47553,0,43690,Factory to port,False,,JTMAB3FV7RD197533,Claremont Toyota,CA
 2024,SE AWD,Ice Cap,43690,47987,0,43690,Factory to port,False,,JTMAB3FV7RD197550,Tustin Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,48118,0,43690,Factory to port,False,,JTMAB3FV7RD197810,Gosch Toyota,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,48812,0,43690,Factory to port,False,,JTMAB3FV7RD197872,AutoNation Toyota Arapahoe,CO
+2024,SE AWD,Midnight Black Metallic,43690,47494,0,43690,Factory to port,False,,JTMAB3FV7RD197998,Toyota of Stamford,CT
 2024,SE AWD,Supersonic Red,43690,48079,1298,44988,Factory to port,False,DealerHold,JTMAB3FV7RD198410,Toyota of Kirkland,WA
 2024,SE AWD,Ice Cap,43690,47788,0,43690,Factory to port,False,,JTMAB3FV7RD198455,Rodland Toyota,WA
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV7RD198472,Mountain States Toyota,CO
 2024,SE AWD,Silver Sky Metallic,43690,47613,0,43690,Factory to port,False,,JTMAB3FV7RD198536,Rodland Toyota,WA
+2024,SE AWD,Ice Cap,43690,47584,0,43690,Factory to port,False,,JTMAB3FV7RD198553,West Herr Toyota of Canandaigua,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47384,0,43690,Factory to port,False,,JTMAB3FV7RD198584,Woburn Toyota,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV7RD198732,Toyota of Massapequa,NY
 2024,SE AWD,Ice Cap,43690,48407,0,43690,Factory to port,False,DealerHold,JTMAB3FV7RD198746,Lithia Toyota of Springfield,OR
+2024,SE AWD,Midnight Black Metallic,43690,47319,0,43690,Factory to port,False,,JTMAB3FV7RD198925,Central Maine Toyota,ME
+2024,SE AWD,Supersonic Red,43690,48079,0,43690,Factory to port,False,,JTMAB3FV7RD199122,Toyota of Olympia,WA
 2023,SE AWD,Magnetic Gray Metallic,43090,46788,0,43090,At dealer,False,Available,JTMAB3FV8PD156745,Jim Coleman Toyota,MD
 2023,SE AWD,Silver Sky Metallic,43090,47103,0,43090,At dealer,False,,JTMAB3FV8PD157930,Curry Toyota,NY
 2023,SE AWD,Blueprint,43090,46897,0,43090,At dealer,False,Available,JTMAB3FV8PD161184,Yark Toyota,OH
 2023,SE AWD,Blueprint,43090,47201,0,43090,At dealer,False,DealerHold,JTMAB3FV8PD163999,Greentree Toyota,CT
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV8PD164456,Jim Coleman Toyota,MD
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV8PD165042,Jim Coleman Toyota,MD
+2024,SE AWD,Blueprint,43690,46705,0,43690,Factory to port,False,,JTMAB3FV8R112BZ69,Rivera Toyota of Mt. Kisco,NY
+2024,SE AWD,Ice Cap,43690,47553,0,43690,Factory to port,False,,JTMAB3FV8R113CB58,Northway Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43440,46764,0,43440,At dealer,False,DealerHold,JTMAB3FV8RD166713,Kinderhook Toyota,NY
 2024,SE AWD,Ice Cap,43440,46764,0,43440,At dealer,False,,JTMAB3FV8RD168137,Basil Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43440,46829,0,43440,At dealer,False,,JTMAB3FV8RD168557,Heritage Toyota Owings Mills,MD
@@ -1321,7 +1413,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47328,3974,47664,At dealer,False,,JTMAB3FV8RD186881,Claremont Toyota,CA
 2024,SE AWD,Blueprint,43690,48128,0,43690,At dealer,False,,JTMAB3FV8RD187013,Sunrise Toyota,NY
 2024,SE AWD,Ice Cap,43690,48193,0,43690,At dealer,False,,JTMAB3FV8RD187044,Advantage Toyota,NY
-2024,SE AWD,Ice Cap,43690,47219,0,43690,At dealer,False,DealerHold,JTMAB3FV8RD187125,AutoNation Toyota Buena Park,CA
 2024,SE AWD,Ice Cap,43690,47014,0,43690,At dealer,False,,JTMAB3FV8RD187321,Prestige Toyota,NY
 2024,SE AWD,Midnight Black Metallic,43690,47454,0,43690,At dealer,False,Available,JTMAB3FV8RD187660,Bernardi Toyota,MA
 2024,SE AWD,Magnetic Gray Metallic,43690,47868,0,43690,At dealer,False,,JTMAB3FV8RD187688,Pohanka Toyota of Salisbury,MD
@@ -1334,7 +1425,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47319,0,43690,At dealer,False,,JTMAB3FV8RD188789,DCH Brunswick Toyota,NJ
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,At dealer,False,Available,JTMAB3FV8RD188887,San Francisco Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47563,0,43690,At dealer,False,,JTMAB3FV8RD188999,Fremont Toyota,CA
-2024,SE AWD,Blueprint,43690,48158,0,43690,Port to dealer,False,,JTMAB3FV8RD189103,Toyota of Manhattan,NY
+2024,SE AWD,Blueprint,43690,48158,0,43690,At dealer,False,,JTMAB3FV8RD189103,Toyota of Manhattan,NY
 2024,SE AWD,Ice Cap,43690,47394,0,43690,At dealer,True,DealerHold,JTMAB3FV8RD189165,Toyota of Clovis,CA
 2024,SE AWD,Silver Sky Metallic,43690,47504,0,43690,At dealer,False,DealerHold,JTMAB3FV8RD189232,Victory Toyota of San Bruno,CA
 2024,SE AWD,Silver Sky Metallic,43690,48018,0,43690,At dealer,False,Available,JTMAB3FV8RD189330,Smithtown Toyota,NY
@@ -1342,7 +1433,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47384,0,43690,At dealer,False,,JTMAB3FV8RD189392,Expressway Toyota,MA
 2024,SE AWD,Supersonic Red,43690,47974,0,43690,At dealer,False,,JTMAB3FV8RD189408,Imperial Toyota,MA
 2024,SE AWD,Blueprint,43690,47548,0,43690,At dealer,False,,JTMAB3FV8RD189439,Jim Coleman Toyota,MD
-2024,SE AWD,Silver Sky Metallic,43690,47354,0,43690,Port to dealer,False,,JTMAB3FV8RD189456,Coggins Toyota of Bennington,VT
+2024,SE AWD,Silver Sky Metallic,43690,47354,0,43690,At dealer,False,,JTMAB3FV8RD189456,Coggins Toyota of Bennington,VT
 2024,SE AWD,Ice Cap,43690,47164,0,43690,At dealer,False,DealerHold,JTMAB3FV8RD189537,DCH Freehold Toyota,NJ
 2024,SE AWD,Blueprint,43690,47918,0,43690,At dealer,False,,JTMAB3FV8RD189635,355 Toyota,MD
 2024,SE AWD,Blueprint,43690,47634,0,43690,Port to dealer,True,,JTMAB3FV8RD189649,Walser Bloomington Toyota,MN
@@ -1353,14 +1444,18 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43690,47704,0,43690,At dealer,False,,JTMAB3FV8RD189859,Fitzgerald Toyota Gaithersburg,MD
 2024,SE AWD,Silver Sky Metallic,43690,47319,0,43690,At dealer,False,,JTMAB3FV8RD189862,DCH Brunswick Toyota,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,295,43985,Port to dealer,False,,JTMAB3FV8RD189957,Stevens Creek Toyota,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,48812,0,43690,Port to dealer,False,,JTMAB3FV8RD189960,St. Cloud Toyota,MN
 2024,SE AWD,Silver Sky Metallic,43690,47563,0,43690,At dealer,False,Available,JTMAB3FV8RD190087,Toyota 101,CA
+2024,SE AWD,Blueprint,43690,47824,0,43690,At dealer,False,,JTMAB3FV8RD190106,Toyota of Gladstone,OR
 2024,SE AWD,Magnetic Gray Metallic,43690,47898,4079,47769,At dealer,False,,JTMAB3FV8RD190140,Toyota of Huntington Beach,CA
 2024,SE AWD,Supersonic Red,43690,48618,0,43690,Port to dealer,False,,JTMAB3FV8RD190171,Smithtown Toyota,NY
 2024,SE AWD,Ice Cap,43690,47838,0,43690,At dealer,True,DealerHold,JTMAB3FV8RD190266,"Stapp Interstate Toyota, Inc.",CO
 2024,SE AWD,Midnight Black Metallic,43690,47014,0,43690,At dealer,False,,JTMAB3FV8RD190364,South Coast Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,47404,0,43690,Port to dealer,False,,JTMAB3FV8RD190400,Riverhead Toyota,NY
+2024,SE AWD,Supersonic Red,43690,47744,0,43690,Port to dealer,False,,JTMAB3FV8RD190736,Woburn Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,48162,0,43690,At dealer,False,,JTMAB3FV8RD190820,Toyota of Glendale,CA
 2024,SE AWD,Silver Sky Metallic,43690,48164,0,43690,Port to dealer,False,,JTMAB3FV8RD190834,Hometown Toyota,OR
+2024,SE AWD,Blueprint,43690,47339,0,43690,Port to dealer,False,,JTMAB3FV8RD190901,Maguire Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FV8RD191014,Younger Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,47339,0,43690,Port to dealer,False,,JTMAB3FV8RD191028,Maguire Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48513,0,43690,Port to dealer,False,,JTMAB3FV8RD191336,Jones Toyota,MD
@@ -1420,11 +1515,18 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,48438,0,43690,Factory to port,False,,JTMAB3FV8RD196889,Sunrise Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,47793,0,43690,Factory to port,False,,JTMAB3FV8RD196942,Wondries Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47433,0,43690,Factory to port,True,DealerHold,JTMAB3FV8RD196956,Culver City Toyota,CA
+2024,SE AWD,Blueprint,43690,48193,0,43690,Factory to port,False,,JTMAB3FV8RD197198,Millennium Toyota,NY
 2024,SE AWD,Supersonic Red,43690,47439,0,43690,Factory to port,False,,JTMAB3FV8RD197234,Toyota of Hackensack,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV8RD197329,Capitol Toyota of Salem,OR
 2024,SE AWD,Ice Cap,43690,47729,0,43690,Factory to port,False,,JTMAB3FV8RD197427,AutoNation Toyota Irvine,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,47809,0,43690,Factory to port,False,,JTMAB3FV8RD197475,Heritage Toyota,VT
 2024,SE AWD,Ice Cap,43690,48274,0,43690,Factory to port,False,,JTMAB3FV8RD197539,Toyota of Manhattan,NY
+2024,SE AWD,Supersonic Red,43690,47744,0,43690,Factory to port,False,,JTMAB3FV8RD197590,Jaffarian Toyota,MA
+2024,SE AWD,Blueprint,43690,47553,0,43690,Factory to port,False,DealerHold,JTMAB3FV8RD198013,New Country Toyota of Clifton Park,NY
+2024,SE AWD,Blueprint,43690,48193,0,43690,Factory to port,False,,JTMAB3FV8RD198027,Millennium Toyota,NY
+2024,SE AWD,Blueprint,43690,47553,0,43690,Factory to port,False,DealerHold,JTMAB3FV8RD198321,New Country Toyota of Clifton Park,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47984,0,43690,Factory to port,False,,JTMAB3FV8RD198576,Royal Moore Toyota,OR
+2024,SE AWD,Supersonic Red,43690,47978,0,43690,Factory to port,False,,JTMAB3FV8RD198660,Northway Toyota,NY
 2023,SE AWD,Midnight Black Metallic,43090,47687,0,43090,At dealer,False,Available,JTMAB3FV9PD140862,Toyota of Greenwich,CT
 2023,SE AWD,Silver Sky Metallic,43090,46763,0,43090,At dealer,False,Available,JTMAB3FV9PD158018,Jim Coleman Toyota,MD
 2023,SE AWD,Blueprint,43090,47348,0,43090,At dealer,False,Available,JTMAB3FV9PD159458,Toyota Marin,CA
@@ -1434,8 +1536,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2023,SE AWD,Ice Cap,43090,46105,0,43090,At dealer,False,Available,JTMAB3FV9PD164062,Toyota of Keene,NH
 2023,SE AWD,Supersonic Red,43090,47747,0,43090,At dealer,False,Available,JTMAB3FV9PD165180,Jim Coleman Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,48407,0,43690,Factory to port,False,,JTMAB3FV9R112BI02,Kendall Toyota of Bend,OR
-2024,SE AWD,Supersonic Red,43690,48079,0,43690,Factory to port,False,,JTMAB3FV9R112BI50,Toyota of Olympia,WA
+2024,SE AWD,Silver Sky Metallic,43690,48232,0,43690,Factory to port,False,,JTMAB3FV9R112BP71,Groove Toyota,CO
+2024,SE AWD,Ice Cap,43690,47913,0,43690,Factory to port,False,,JTMAB3FV9R112BY83,Lynch Toyota,CT
 2024,SE AWD,Blueprint,43690,48038,1798,45488,Factory to port,False,,JTMAB3FV9R113BL28,Toyota of Portland on Broadway,OR
+2024,SE AWD,Ice Cap,43690,47863,0,43690,Factory to port,False,,JTMAB3FV9R113CB67,Star Toyota of Bayside,NY
 2024,SE AWD,Magnetic Gray Metallic,43440,46829,0,43440,At dealer,False,DealerHold,JTMAB3FV9RD166221,Toyota of Manhattan,NY
 2024,SE AWD,Ice Cap,43440,46764,0,43440,At dealer,False,Available,JTMAB3FV9RD166610,Bayside Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43440,47337,0,43440,At dealer,False,,JTMAB3FV9RD167076,Team Toyota of Princeton,NJ
@@ -1464,6 +1568,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43440,47347,0,43440,Factory to port,False,,JTMAB3FV9RD176456,Lithia Toyota of Klamath Falls,OR
 2024,SE AWD,Ice Cap,43690,48198,0,43690,At dealer,False,Available,JTMAB3FV9RD176571,Mike Calvert Toyota,TX
 2024,SE AWD,Blueprint,43440,47719,0,43440,At dealer,False,,JTMAB3FV9RD176652,Colonial Toyota,CT
+2024,SE AWD,Blueprint,43440,47379,0,43440,At dealer,False,,JTMAB3FV9RD176733,Hartford Toyota,CT
 2024,SE AWD,Ice Cap,43440,47608,0,43440,At dealer,False,,JTMAB3FV9RD176893,Younger Toyota,MD
 2024,SE AWD,Supersonic Red,43440,47629,0,43440,At dealer,False,,JTMAB3FV9RD176960,Ira Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43440,47328,0,43440,At dealer,False,,JTMAB3FV9RD177378,Romeo Toyota of Glens Falls,NY
@@ -1511,6 +1616,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,48128,0,43690,At dealer,False,,JTMAB3FV9RD189417,Sunrise Toyota,NY
 2024,SE AWD,Supersonic Red,43690,48553,0,43690,At dealer,False,,JTMAB3FV9RD189515,Sunrise Toyota,NY
 2024,SE AWD,Blueprint,43690,47389,0,43690,At dealer,False,Available,JTMAB3FV9RD189577,Toyota of Watertown,MA
+2024,SE AWD,Midnight Black Metallic,43690,47918,0,43690,Port to dealer,False,,JTMAB3FV9RD189921,355 Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,47079,0,43690,Port to dealer,False,,JTMAB3FV9RD190454,Hillside Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43690,48261,0,43690,At dealer,False,,JTMAB3FV9RD190597,Folsom Lake Toyota,CA
 2024,SE AWD,Supersonic Red,43690,48249,0,43690,At dealer,False,,JTMAB3FV9RD190762,Beaverton Toyota,OR
@@ -1546,6 +1652,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Ice Cap,43690,47719,0,43690,Factory to port,False,,JTMAB3FV9RD195587,Passport Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,47229,0,43690,Factory to port,False,,JTMAB3FV9RD196058,Smithtown Toyota,NY
 2024,SE AWD,Ice Cap,43690,47573,0,43690,Factory to port,False,,JTMAB3FV9RD196299,Santa Cruz Toyota,CA
+2024,SE AWD,Blueprint,43690,48277,0,43690,Factory to port,False,,JTMAB3FV9RD196321,One Toyota of Oakland,CA
+2024,SE AWD,Silver Sky Metallic,43690,48387,0,43690,Factory to port,False,,JTMAB3FV9RD196335,AutoNation Toyota Arapahoe,CO
+2024,SE AWD,Magnetic Gray Metallic,43690,47878,0,43690,Factory to port,False,,JTMAB3FV9RD196402,Lithia Toyota of Redding,CA
 2024,SE AWD,Blueprint,43690,48193,0,43690,Factory to port,False,,JTMAB3FV9RD196559,Millennium Toyota,NY
 2024,SE AWD,Blueprint,43690,47969,0,43690,Factory to port,False,,JTMAB3FV9RD196612,Colonial Toyota,CT
 2024,SE AWD,Supersonic Red,43690,47919,0,43690,Factory to port,False,,JTMAB3FV9RD196738,Toyota City,NY
@@ -1553,12 +1662,19 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43690,48172,4678,48368,Factory to port,False,,JTMAB3FV9RD196884,Toyota of Huntington Beach,CA
 2024,SE AWD,Supersonic Red,43690,47963,0,43690,Factory to port,False,,JTMAB3FV9RD196948,Northtown Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47504,0,43690,Factory to port,False,,JTMAB3FV9RD197114,Handy Toyota,VT
+2024,SE AWD,Silver Sky Metallic,43690,47389,0,43690,Factory to port,False,,JTMAB3FV9RD197159,Ira Toyota,MA
 2024,SE AWD,Blueprint,43690,47388,0,43690,Factory to port,False,,JTMAB3FV9RD197209,Team Toyota of Princeton,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,47388,0,43690,Factory to port,False,,JTMAB3FV9RD197226,Team Toyota of Princeton,NJ
 2024,SE AWD,Supersonic Red,43690,48618,0,43690,Factory to port,False,,JTMAB3FV9RD197338,Smithtown Toyota,NY
+2024,SE AWD,Ice Cap,43690,48762,0,43690,Factory to port,False,DealerHold,JTMAB3FV9RD197405,Autoland Toyota,NJ
+2024,SE AWD,Magnetic Gray Metallic,43690,47454,0,43690,Factory to port,False,,JTMAB3FV9RD197453,Acton Toyota of Littleton,MA
+2024,SE AWD,Magnetic Gray Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV9RD197520,Millennium Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,1798,45488,Factory to port,False,,JTMAB3FV9RD197548,Toyota of Portland on Broadway,OR
 2024,SE AWD,Midnight Black Metallic,43690,47559,0,43690,Factory to port,False,,JTMAB3FV9RD197596,Lia Toyota of Colonie,NY
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Factory to port,False,,JTMAB3FV9RD197646,Mountain States Toyota,CO
+2024,SE AWD,Magnetic Gray Metallic,43690,47634,0,43690,Factory to port,False,,JTMAB3FV9RD197775,Westbrook Toyota,CT
+2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FV9RD197789,Toyota of Massapequa,NY
+2024,SE AWD,Blueprint,43690,47229,0,43690,Factory to port,False,,JTMAB3FV9RD197985,Toyota of Wellesley,MA
 2024,SE AWD,Blueprint,43690,47014,0,43690,Factory to port,False,,JTMAB3FV9RD198196,Mountain States Toyota,CO
 2024,SE AWD,Blueprint,43690,47654,1298,44988,Factory to port,False,DealerHold,JTMAB3FV9RD198358,Toyota of Kirkland,WA
 2024,SE AWD,Magnetic Gray Metallic,43690,48407,0,43690,Factory to port,False,,JTMAB3FV9RD198473,Lithia Toyota,OR
@@ -1566,7 +1682,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47389,0,43690,Factory to port,False,,JTMAB3FV9RD198716,Ira Toyota,MA
 2023,SE AWD,Silver Sky Metallic,43090,46543,0,43090,At dealer,False,DealerHold,JTMAB3FVXPD147223,Bill Kidd's Timonium Toyota,MD
 2023,SE AWD,Midnight Black Metallic,43090,47242,895,43985,At dealer,False,Available,JTMAB3FVXPD161672,Bennett Toyota,PA
-2024,SE AWD,Blueprint,43690,47504,0,43690,Factory to port,False,DealerHold,JTMAB3FVXR112BI42,Toyota of Puyallup,WA
 2024,SE AWD,Blueprint,43690,47723,0,43690,Factory to port,False,,JTMAB3FVXR112BP80,"Pedersen Toyota, Ltd.",CO
 2024,SE AWD,Silver Sky Metallic,43690,48892,1798,45488,Factory to port,False,,JTMAB3FVXR113BK87,Toyota of Portland on Broadway,OR
 2024,SE AWD,Magnetic Gray Metallic,43690,47548,0,43690,Factory to port,False,,JTMAB3FVXR113BK90,Kendall Toyota,OR
@@ -1589,7 +1704,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43440,47553,0,43440,At dealer,False,,JTMAB3FVXRD173985,WOW Toyota of Wallingford,CT
 2024,SE AWD,Blueprint,43440,47384,0,43440,At dealer,False,,JTMAB3FVXRD174523,Emerson Toyota,ME
 2024,SE AWD,Blueprint,43440,46829,0,43440,At dealer,False,,JTMAB3FVXRD174778,Torrington Toyota,CT
-2024,SE AWD,Supersonic Red,43440,48118,0,43440,At dealer,False,Available,JTMAB3FVXRD175011,Toyota of Batavia,NY
+2024,SE AWD,Supersonic Red,43440,48118,0,43440,At dealer,False,DealerHold,JTMAB3FVXRD175011,Toyota of Batavia,NY
 2024,SE AWD,Magnetic Gray Metallic,43440,47148,0,43440,At dealer,False,DealerHold,JTMAB3FVXRD175137,Newburgh Toyota,NY
 2024,SE AWD,Ice Cap,43440,47118,0,43440,At dealer,False,,JTMAB3FVXRD175221,Jim Coleman Toyota,MD
 2024,SE AWD,Ice Cap,43440,47154,0,43440,At dealer,False,,JTMAB3FVXRD175722,Stephen Toyota,CT
@@ -1605,6 +1720,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43440,46829,0,43440,At dealer,False,,JTMAB3FVXRD177163,Hoselton Toyota,NY
 2024,SE AWD,Silver Sky Metallic,43440,46914,0,43440,At dealer,False,,JTMAB3FVXRD177194,Maguire Toyota,NY
 2024,SE AWD,Ice Cap,43440,49132,0,43440,At dealer,False,DealerHold,JTMAB3FVXRD177468,Westchester Toyota,NY
+2024,SE AWD,Ice Cap,43440,47328,0,43440,At dealer,False,,JTMAB3FVXRD177714,Kinderhook Toyota,NY
 2024,SE AWD,Blueprint,43440,47203,0,43440,At dealer,False,,JTMAB3FVXRD177762,Hoselton Toyota,NY
 2024,SE AWD,Blueprint,43440,46914,0,43440,At dealer,False,Available,JTMAB3FVXRD178412,Romano Toyota,NY
 2024,SE AWD,Blueprint,43440,47943,0,43440,At dealer,False,,JTMAB3FVXRD178670,Westbury Toyota,NY
@@ -1640,6 +1756,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47634,0,43690,At dealer,False,,JTMAB3FVXRD188079,Hillside Toyota,NY
 2024,SE AWD,Ice Cap,43690,47548,0,43690,At dealer,False,,JTMAB3FVXRD188342,Jim Coleman Toyota,MD
 2024,SE AWD,Ice Cap,43690,48123,0,43690,At dealer,False,,JTMAB3FVXRD188504,Perry Motors Toyota,CA
+2024,SE AWD,Supersonic Red,43690,48618,0,43690,At dealer,False,,JTMAB3FVXRD188521,Smithtown Toyota,NY
 2024,SE AWD,Blueprint,43690,47164,0,43690,At dealer,False,,JTMAB3FVXRD188843,Bill Kidd's Timonium Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,47388,0,43690,At dealer,False,,JTMAB3FVXRD189085,Toyota World of Lakewood,NJ
 2024,SE AWD,Magnetic Gray Metallic,43690,48139,0,43690,At dealer,False,Available,JTMAB3FVXRD189233,Kendall Toyota of Bend,OR
@@ -1653,6 +1770,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,48394,0,43690,Port to dealer,False,,JTMAB3FVXRD189958,Northtown Toyota,NY
 2024,SE AWD,Ice Cap,43690,47569,1390,45080,At dealer,False,,JTMAB3FVXRD189975,Toyota of Redlands,CA
 2024,SE AWD,Ice Cap,43690,47548,0,43690,Port to dealer,False,,JTMAB3FVXRD190012,Jim Coleman Toyota,MD
+2024,SE AWD,Magnetic Gray Metallic,43690,47319,0,43690,Port to dealer,False,,JTMAB3FVXRD190141,Jaffarian Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,47824,0,43690,At dealer,False,,JTMAB3FVXRD190253,Wilsonville Toyota,OR
 2024,SE AWD,Blueprint,43690,47548,0,43690,Port to dealer,False,,JTMAB3FVXRD190320,Jim Coleman Toyota,MD
 2024,SE AWD,Supersonic Red,43690,47504,0,43690,Port to dealer,False,,JTMAB3FVXRD190382,Nucar Toyota of North Attleboro,MA
@@ -1660,6 +1778,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FVXRD190575,Prestige Toyota,NY
 2024,SE AWD,Blueprint,43690,47479,0,43690,Port to dealer,False,DealerHold,JTMAB3FVXRD190608,Down East Toyota,ME
 2024,SE AWD,Supersonic Red,43690,48553,0,43690,Port to dealer,False,,JTMAB3FVXRD190673,Sunrise Toyota,NY
+2024,SE AWD,Supersonic Red,43690,48378,0,43690,Port to dealer,False,,JTMAB3FVXRD190818,Sheehy Toyota of Laurel,MD
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,At dealer,False,DealerHold,JTMAB3FVXRD190821,Mid City Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FVXRD190947,Hansel Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47014,0,43690,Port to dealer,False,,JTMAB3FVXRD190964,San Francisco Toyota,CA
@@ -1682,6 +1801,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Supersonic Red,43690,47779,0,43690,Factory to port,False,,JTMAB3FVXRD192343,802 Toyota,VT
 2024,SE AWD,Supersonic Red,43690,47744,0,43690,Factory to port,False,,JTMAB3FVXRD192620,Heritage Toyota,VT
 2024,SE AWD,Ice Cap,43690,47164,0,43690,Port to dealer,False,,JTMAB3FVXRD192844,South Bay Toyota,CA
+2024,SE AWD,Silver Sky Metallic,43690,47703,0,43690,At dealer,False,,JTMAB3FVXRD192892,Capitol Toyota,CA
 2024,SE AWD,Silver Sky Metallic,43690,48407,0,43690,Factory to port,False,,JTMAB3FVXRD193198,Lithia Toyota,OR
 2024,SE AWD,Silver Sky Metallic,43690,47014,995,44685,Port to dealer,True,,JTMAB3FVXRD193220,Toyota Town,CA
 2024,SE AWD,Supersonic Red,43690,47779,0,43690,Factory to port,False,,JTMAB3FVXRD193296,802 Toyota,VT
@@ -1698,6 +1818,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Ice Cap,43690,47404,0,43690,Factory to port,False,,JTMAB3FVXRD194285,Passport Toyota,MD
 2024,SE AWD,Silver Sky Metallic,43690,46705,0,43690,Factory to port,False,DealerHold,JTMAB3FVXRD194299,Burien Toyota,WA
 2024,SE AWD,Ice Cap,43690,47798,0,43690,Factory to port,False,,JTMAB3FVXRD194514,AutoNation Toyota Buena Park,CA
+2024,SE AWD,Magnetic Gray Metallic,43690,48633,0,43690,Factory to port,False,Available,JTMAB3FVXRD194643,Toyota of Cedar Park,TX
 2024,SE AWD,Blueprint,43690,47229,0,43690,Factory to port,False,,JTMAB3FVXRD194674,Riverhead Toyota,NY
 2024,SE AWD,Blueprint,43690,47793,995,44685,Factory to port,False,,JTMAB3FVXRD194819,Toyota of Berkeley,CA
 2024,SE AWD,Ice Cap,43690,46705,0,43690,Port to dealer,False,,JTMAB3FVXRD194822,Vancouver Toyota,WA
@@ -1723,13 +1844,17 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Magnetic Gray Metallic,43690,47654,0,43690,Factory to port,False,,JTMAB3FVXRD197557,"Pedersen Toyota, Ltd.",CO
 2024,SE AWD,Blueprint,43690,47388,1790,45480,Factory to port,False,,JTMAB3FVXRD197638,Liberty Toyota,NJ
 2024,SE AWD,Silver Sky Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FVXRD197767,Smithtown Toyota,NY
+2024,SE AWD,Midnight Black Metallic,43690,48193,0,43690,Factory to port,False,,JTMAB3FVXRD197820,Millennium Toyota,NY
 2024,SE AWD,Magnetic Gray Metallic,43690,47747,0,43690,Factory to port,False,,JTMAB3FVXRD197879,Kendall Toyota,OR
+2024,SE AWD,Midnight Black Metallic,43690,47699,0,43690,Factory to port,False,,JTMAB3FVXRD197929,Imperial Toyota,MA
 2024,SE AWD,Magnetic Gray Metallic,43690,48613,0,43690,Factory to port,False,,JTMAB3FVXRD198157,Modesto Toyota,CA
 2024,SE AWD,Magnetic Gray Metallic,43690,47654,0,43690,Factory to port,False,,JTMAB3FVXRD198238,Toyota of Olympia,WA
 2024,SE AWD,Magnetic Gray Metallic,43690,47504,0,43690,Factory to port,False,,JTMAB3FVXRD198255,Coggins Toyota of Bennington,VT
 2024,SE AWD,Ice Cap,43690,47654,0,43690,Factory to port,False,DealerHold,JTMAB3FVXRD198448,Toyota of Puyallup,WA
 2024,SE AWD,Supersonic Red,43690,48079,2593,46283,Factory to port,False,,JTMAB3FVXRD198689,Toyota of Renton,WA
 2024,SE AWD,Blueprint,43690,47654,0,43690,Factory to port,True,,JTMAB3FVXRD198756,Doxon Toyota,WA
+2024,SE AWD,Blueprint,43690,47723,0,43690,Factory to port,False,,JTMAB3FVXRD199051,Freeman Toyota,CA
+2024,SE AWD,Silver Sky Metallic,43690,47654,0,43690,Factory to port,True,,JTMAB3FVXRD199096,Doxon Toyota,WA
 2024,SE AWD,Silver Sky Metallic,43440,45539,0,43440,At dealer,False,,JTMCB3FV0RD174748,Herb Chambers Toyota of Boston,MA
 2024,SE AWD,Midnight Black Metallic,43440,45229,0,43440,At dealer,False,,JTMCB3FV0RD179142,Jones Toyota,MD
 2024,SE AWD,Ice Cap,43440,45733,0,43440,At dealer,False,,JTMCB3FV0RD181585,DARCARS Toyota,MD
@@ -1737,7 +1862,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43440,45453,0,43440,At dealer,False,,JTMCB3FV1RD178176,DARCARS Toyota of Frederick,MD
 2024,SE AWD,Magnetic Gray Metallic,43440,45469,0,43440,At dealer,False,,JTMCB3FV1RD180932,Acton Toyota of Littleton,MA
 2024,SE AWD,Silver Sky Metallic,43690,45878,0,43690,At dealer,False,,JTMCB3FV1RD187637,DARCARS Toyota of Frederick,MD
-2024,SE AWD,Ice Cap,43690,45844,0,43690,Port to dealer,False,,JTMCB3FV1RD189629,Handy Toyota,VT
+2024,SE AWD,Ice Cap,43690,45844,0,43690,At dealer,False,,JTMCB3FV1RD189629,Handy Toyota,VT
 2024,SE AWD,Ice Cap,43690,45349,0,43690,Port to dealer,False,,JTMCB3FV1RD191249,Younger Toyota,MD
 2024,SE AWD,Midnight Black Metallic,43690,45719,0,43690,Factory to port,False,,JTMCB3FV1RD192448,Jaffarian Toyota,MA
 2024,SE AWD,Silver Sky Metallic,43690,45719,0,43690,Factory to port,False,,JTMCB3FV1RD192532,Berlin City Toyota,NH
@@ -1745,6 +1870,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Midnight Black Metallic,43440,45279,0,43440,At dealer,False,,JTMCB3FV2RD173648,Berlin City Toyota,NH
 2024,SE AWD,Supersonic Red,43440,45524,0,43440,At dealer,False,,JTMCB3FV2RD183435,DARCARS Toyota of Frederick,MD
 2024,SE AWD,Blueprint,43690,45724,0,43690,At dealer,False,,JTMCB3FV2RD189123,McGee Toyota,MA
+2024,SE AWD,Blueprint,43690,45789,0,43690,Port to dealer,False,,JTMCB3FV2RD190367,Tufankjian Toyota of Braintree,MA
 2024,SE AWD,Supersonic Red,43690,47305,0,43690,Factory to port,True,Available,JTMCB3FV2RD191454,Texas Toyota of Grapevine,TX
 2024,SE AWD,Silver Sky Metallic,43690,47027,0,43690,Factory to port,False,Available,JTMCB3FV2RD192622,Don McGill Toyota of Katy,TX
 2024,SE AWD,Magnetic Gray Metallic,43440,45639,0,43440,At dealer,False,,JTMCB3FV3RD174890,Nucar Toyota of Norwood,MA
@@ -1778,6 +1904,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Blueprint,43690,46348,0,43690,Port to dealer,False,,JTMCB3FV6RD191117,Jim Coleman Toyota,MD
 2023,SE AWD,Magnetic Gray Metallic,43090,45093,0,43090,At dealer,False,Available,JTMCB3FV7PD165266,Harr Toyota,MA
 2024,SE AWD,Supersonic Red,43440,45679,0,43440,At dealer,False,,JTMCB3FV7RD183947,Fitzgerald Toyota Gaithersburg,MD
+2024,SE AWD,Magnetic Gray Metallic,43690,45789,0,43690,Port to dealer,False,,JTMCB3FV7RD189893,Acton Toyota of Littleton,MA
 2024,SE AWD,Magnetic Gray Metallic,43690,46837,0,43690,Port to dealer,False,,JTMCB3FV7RD191756,Ventura Toyota,CA
 2024,SE AWD,Ice Cap,43690,45568,0,43690,Port to dealer,False,,JTMCB3FV7RD192518,AutoNation Toyota Arapahoe,CO
 2024,SE AWD,Silver Sky Metallic,43440,45099,0,43440,At dealer,False,,JTMCB3FV8RD171029,Haddad Toyota,MA
@@ -1801,6 +1928,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,SE AWD,Silver Sky Metallic,43690,47220,0,43690,Port to dealer,False,,JTMCB3FVXRD192612,Toyota Carlsbad,CA
 2024,SE AWD,Supersonic Red,43690,46214,0,43690,Factory to port,False,,JTMCB3FVXRD193324,Acton Toyota of Littleton,MA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,49953,0,46960,At dealer,False,Available,JTMEB3FV0PD163206,Atlantic Toyota,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51362,0,47560,Factory to port,False,,JTMEB3FV0R112BA74,City Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50253,0,47560,Factory to port,False,,JTMEB3FV0R112CK30,Coad Toyota Paducah,KY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50743,0,47560,Factory to port,False,,JTMEB3FV0R112CP14,Zanesville Toyota,OH
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50739,0,47310,At dealer,False,,JTMEB3FV0RD166108,Curry Toyota,NY
@@ -1845,8 +1973,11 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50918,4079,51639,At dealer,False,,JTMEB3FV0RD189405,Toyota of Huntington Beach,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,At dealer,False,,JTMEB3FV0RD189422,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,At dealer,False,,JTMEB3FV0RD189632,South Coast Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50452,0,47560,At dealer,False,,JTMEB3FV0RD189792,Kendall Toyota of Bend,OR
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50249,0,47560,Port to dealer,False,,JTMEB3FV0RD189890,Toyota of Wellesley,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51343,4079,51639,At dealer,False,,JTMEB3FV0RD190067,Toyota of Huntington Beach,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51014,1390,48950,At dealer,False,,JTMEB3FV0RD190215,Toyota of Redlands,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50524,0,47560,Port to dealer,False,,JTMEB3FV0RD190411,Bernardi Toyota,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,Available,JTMEB3FV0RD190649,Hamer Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,At dealer,False,,JTMEB3FV0RD190893,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50918,4079,51639,At dealer,False,,JTMEB3FV0RD191090,Toyota of Huntington Beach,CA
@@ -1860,7 +1991,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Port to dealer,False,,JTMEB3FV0RD193261,Toyota of Glendale,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52096,3117,50677,Factory to port,False,,JTMEB3FV0RD193373,Norm Reeves Toyota San Diego,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,48910,0,47560,Factory to port,False,DealerHold,JTMEB3FV0RD193955,Marysville Toyota,WA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50253,0,47560,Port to dealer,False,Available,JTMEB3FV0RD194247,Freeman Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50748,499,48059,Factory to port,False,,JTMEB3FV0RD194300,Toyota San Luis Obispo,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,49912,0,47560,Factory to port,False,DealerHold,JTMEB3FV0RD194331,Rogers Toyota of Hermiston,OR
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51347,0,47560,Factory to port,False,,JTMEB3FV0RD194426,Ventura Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51201,0,47560,Factory to port,False,Available,JTMEB3FV0RD194443,Rivertown Toyota,GA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51337,0,47560,Factory to port,False,,JTMEB3FV0RD194460,Toyota of Anaheim,CA
@@ -1918,6 +2051,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50993,0,47560,Factory to port,False,,JTMEB3FV0RD197827,Toyota of Anaheim,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51388,0,47560,Factory to port,False,,JTMEB3FV0RD197875,Temecula Valley Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Factory to port,False,,JTMEB3FV0RD197911,Toyota of Glendale,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50614,0,47560,Factory to port,False,,JTMEB3FV0RD198105,Atlantic Toyota,MA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51339,0,47560,Factory to port,False,,JTMEB3FV0RD198167,Downtown Toyota of Oakland,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50963,0,47560,Factory to port,False,,JTMEB3FV0RD198377,Autoland Toyota,NJ
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51254,0,47560,Factory to port,False,,JTMEB3FV0RD198427,Heritage Toyota,VT
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV0RD198458,Toyota Walnut Creek,CA
 2023,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,46960,50893,0,46960,At dealer,False,,JTMEB3FV1PD151274,Colonial Toyota,CT
@@ -1963,7 +2099,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51741,0,47560,Port to dealer,False,DealerHold,JTMEB3FV1RD189543,Lake Country Toyota,MN
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,Available,JTMEB3FV1RD190689,Hamer Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50949,0,47560,At dealer,False,DealerHold,JTMEB3FV1RD190899,Toyota of Downtown LA,CA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,Available,JTMEB3FV1RD190935,Temecula Valley Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50988,0,47560,At dealer,False,,JTMEB3FV1RD191132,Toyota Carlsbad,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50993,2495,50055,Port to dealer,False,,JTMEB3FV1RD191955,Toyota of Orange,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51393,0,47560,Port to dealer,False,,JTMEB3FV1RD192281,Perry Motors Toyota,CA
@@ -2003,6 +2138,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50718,0,47560,Factory to port,False,,JTMEB3FV1RD196718,Lynch Toyota,CT
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51473,0,47560,Factory to port,False,,JTMEB3FV1RD196945,Modesto Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51497,0,47560,Factory to port,False,,JTMEB3FV1RD197061,Toyota Carlsbad,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,,JTMEB3FV1RD197142,Millennium Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,Factory to port,False,,JTMEB3FV1RD197190,City Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,1793,49353,Factory to port,False,,JTMEB3FV1RD197254,DCH Toyota of Oxnard,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51257,0,47560,Factory to port,False,,JTMEB3FV1RD197268,Mossy Toyota,CA
@@ -2013,14 +2149,19 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50739,0,47560,Factory to port,False,,JTMEB3FV1RD197867,Toyota of San Bernardino,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50209,0,47560,Factory to port,False,,JTMEB3FV1RD197870,Alderman's Toyota,VT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,,JTMEB3FV1RD197903,Riverhead Toyota,NY
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV1RD198291,"Pedersen Toyota, Ltd.",CO
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51238,0,47560,Factory to port,False,,JTMEB3FV1RD198484,City Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV1RD198601,Mountain States Toyota,CO
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50564,995,48555,Factory to port,False,,JTMEB3FV1RD198629,Hanlees Fairfield Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV1RD198663,Mountain States Toyota,CO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51437,0,47560,Factory to port,False,,JTMEB3FV1RD198906,Golling Toyota of Warren,MI
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50813,0,47560,Factory to port,False,,JTMEB3FV1RD198971,Jimmy Vasser Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50748,0,47560,Factory to port,False,,JTMEB3FV1RD198985,City Toyota,CA
 2023,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,46960,49859,0,46960,At dealer,False,Available,JTMEB3FV2PD160386,Falmouth Toyota,MA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,49434,0,46960,At dealer,False,DealerHold,JTMEB3FV2PD160503,Toyota of Downtown LA,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50989,995,48555,Factory to port,False,,JTMEB3FV2R112BA30,Hanlees Fairfield Toyota,CA
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50813,0,47560,Factory to port,False,,JTMEB3FV2R112BA92,Jimmy Vasser Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51227,1798,49358,Factory to port,False,,JTMEB3FV2R113BL65,Toyota of Portland on Broadway,OR
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50499,0,47560,Factory to port,False,,JTMEB3FV2R113CC85,Westbury Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,49854,0,47310,At dealer,False,Available,JTMEB3FV2RD168166,Faith's Toyota Ford,VT
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47310,49784,0,47310,At dealer,False,,JTMEB3FV2RD170449,Grieco Toyota,RI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50272,0,47310,At dealer,False,,JTMEB3FV2RD172007,Waite Toyota,NY
@@ -2045,6 +2186,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,49219,0,47560,Port to dealer,False,DealerHold,JTMEB3FV2RD186120,Corwin Toyota of Bellevue,NE
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51687,0,47560,Port to dealer,True,DealerHold,JTMEB3FV2RD186490,Carlson Toyota,MN
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50524,0,47560,At dealer,False,,JTMEB3FV2RD186683,Toyota of Clovis,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50658,0,47560,At dealer,False,Available,JTMEB3FV2RD187199,City Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50589,1390,48950,At dealer,False,,JTMEB3FV2RD187736,Toyota of Redlands,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50249,0,47560,At dealer,False,Available,JTMEB3FV2RD187798,Toyota of Wellesley,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51093,4079,51639,At dealer,False,Available,JTMEB3FV2RD188059,Toyota of Huntington Beach,CA
@@ -2064,7 +2206,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,Available,JTMEB3FV2RD190779,Hamer Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,,JTMEB3FV2RD191110,Toyota of The Desert,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50452,0,47560,Port to dealer,False,DealerHold,JTMEB3FV2RD191625,Kendall Toyota,OR
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51657,3117,50677,At dealer,False,,JTMEB3FV2RD191639,Norm Reeves Toyota San Diego,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51657,3117,50677,At dealer,False,DealerHold,JTMEB3FV2RD191639,Norm Reeves Toyota San Diego,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50678,0,47560,Port to dealer,False,Available,JTMEB3FV2RD191740,Don Jacobs Toyota,WI
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50898,0,47560,Port to dealer,False,,JTMEB3FV2RD192113,AutoNation Toyota Cerritos,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51238,0,47560,Port to dealer,False,,JTMEB3FV2RD192161,Claremont Toyota,CA
@@ -2084,6 +2226,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52096,1295,48855,Factory to port,False,,JTMEB3FV2RD193861,Toyota of El Cajon,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51522,0,47560,Factory to port,False,,JTMEB3FV2RD193892,Claremont Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50328,0,47560,Factory to port,False,,JTMEB3FV2RD193925,Toyota Santa Monica,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Port to dealer,False,DealerHold,JTMEB3FV2RD194010,Toyota Walnut Creek,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50404,0,47560,Factory to port,False,,JTMEB3FV2RD194167,McGee Toyota of Epping,NH
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51388,3117,50677,Factory to port,False,,JTMEB3FV2RD194203,Norm Reeves Toyota San Diego,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50854,0,47560,Factory to port,False,,JTMEB3FV2RD194282,Coggins Toyota of Bennington,VT
@@ -2113,22 +2256,32 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50718,0,47560,Factory to port,False,,JTMEB3FV2RD196355,Hartford Toyota,CT
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50733,2495,50055,Factory to port,False,,JTMEB3FV2RD196386,Toyota of Orange,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51523,0,47560,Factory to port,False,,JTMEB3FV2RD196470,Temecula Valley Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV2RD196484,Centennial Toyota,NV
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,49725,0,47560,Factory to port,False,,JTMEB3FV2RD196551,Maita's Toyota of Sacramento,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51413,0,47560,Factory to port,False,Available,JTMEB3FV2RD196646,Toyota Chula Vista,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51272,0,47560,Factory to port,False,,JTMEB3FV2RD196677,Team Toyota,IN
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,1793,49353,Factory to port,False,,JTMEB3FV2RD196680,DCH Toyota of Oxnard,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV2RD196730,Longo Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FV2RD196775,Toyota of Wellesley,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50922,0,47560,Factory to port,True,DealerHold,JTMEB3FV2RD196792,Voss Toyota,OH
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV2RD196808,Mountain States Toyota,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51233,0,47560,Factory to port,False,,JTMEB3FV2RD196887,One Toyota of Oakland,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51279,0,47560,Factory to port,False,,JTMEB3FV2RD196937,City Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV2RD196968,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV2RD197120,Longo Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV2RD197179,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51388,0,47560,Factory to port,False,,JTMEB3FV2RD197375,Toyota of The Desert,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV2RD197389,Herb Chambers Toyota of Boston,MA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50764,0,47560,Factory to port,False,,JTMEB3FV2RD197411,Central Maine Toyota,ME
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,Available,JTMEB3FV2RD197618,West Herr Toyota of Canandaigua,NY
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51197,0,47560,Factory to port,False,,JTMEB3FV2RD197635,"Stapp Interstate Toyota, Inc.",CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50923,0,47560,Factory to port,False,DealerHold,JTMEB3FV2RD197716,Joe Machens Toyota,MO
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50603,0,47560,Factory to port,True,,JTMEB3FV2RD197764,Toyota of Muncie,IN
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50499,0,47560,Factory to port,False,,JTMEB3FV2RD197957,Groove Toyota,CO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50414,0,47560,Factory to port,False,,JTMEB3FV2RD197974,Toyota of Clovis,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV2RD198266,Mountain States Toyota,CO
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50858,0,47560,Factory to port,False,,JTMEB3FV2RD198669,Don Moore Toyota,KY
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51577,0,47560,Factory to port,False,,JTMEB3FV2RD198848,Concord Toyota,CA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,50303,0,46960,At dealer,False,Available,JTMEB3FV3PD163734,Toyota Marin,CA
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,50687,0,46960,At dealer,False,DealerHold,JTMEB3FV3PD164429,Bommarito Toyota,MO
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50727,0,47560,Factory to port,False,,JTMEB3FV3R112BP97,"Stapp Interstate Toyota, Inc.",CO
@@ -2171,6 +2324,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51413,0,47560,At dealer,False,,JTMEB3FV3RD190189,Toyota Carlsbad,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50924,0,47560,Port to dealer,False,DealerHold,JTMEB3FV3RD190404,Down East Toyota,ME
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51323,0,47560,At dealer,False,,JTMEB3FV3RD190838,Longo Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50474,0,47560,Port to dealer,False,,JTMEB3FV3RD190841,Ira Toyota,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,,JTMEB3FV3RD191181,AutoNation Toyota Buena Park,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51323,0,47560,Port to dealer,False,,JTMEB3FV3RD191603,Temecula Valley Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,1495,49055,Port to dealer,False,,JTMEB3FV3RD191620,Simi Valley Toyota,CA
@@ -2199,6 +2353,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV3RD194386,Beach Cities Toyota Westminster,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50859,0,47560,Factory to port,False,,JTMEB3FV3RD194419,Towne Toyota,NJ
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50813,0,47560,Factory to port,False,,JTMEB3FV3RD194498,Santa Margarita Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51004,0,47560,Factory to port,False,Available,JTMEB3FV3RD194551,New Country Toyota of Clifton Park,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50773,0,47560,Port to dealer,False,,JTMEB3FV3RD194629,Wyatt Johnson Toyota,TN
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV3RD194744,Stevens Creek Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50477,0,47560,Factory to port,True,DealerHold,JTMEB3FV3RD195067,"Stapp Interstate Toyota, Inc.",CO
@@ -2215,8 +2370,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV3RD195831,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV3RD195893,Hansel Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50963,0,47560,Factory to port,False,,JTMEB3FV3RD195909,Gosch Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV3RD196137,Elko Toyota,NV
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51372,0,47560,Factory to port,False,,JTMEB3FV3RD196185,Toyota of Hollywood,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV3RD196297,Hansel Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,Factory to port,False,,JTMEB3FV3RD196395,Woburn Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51182,2385,49945,Factory to port,False,,JTMEB3FV3RD196400,Thousand Oaks Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51058,0,47560,Factory to port,False,,JTMEB3FV3RD196560,North Bakersfield Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50488,0,47560,Factory to port,False,,JTMEB3FV3RD196607,AutoNation Toyota Buena Park,CA
@@ -2227,21 +2384,26 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV3RD196963,Longo Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV3RD196977,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50768,0,47560,Factory to port,False,,JTMEB3FV3RD197000,Tustin Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51247,0,47560,Factory to port,False,,JTMEB3FV3RD197157,Folsom Lake Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50764,0,47560,Factory to port,False,,JTMEB3FV3RD197210,Prestige Toyota,NY
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51099,0,47560,Factory to port,False,,JTMEB3FV3RD197367,Colonial Toyota,CT
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51258,0,47560,Factory to port,False,,JTMEB3FV3RD197417,Toyota Carlsbad,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51323,0,47560,Factory to port,False,,JTMEB3FV3RD197529,Toyota of Riverside,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50833,0,47560,Factory to port,False,,JTMEB3FV3RD197613,Toyota Chula Vista,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV3RD197627,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50594,0,47560,Factory to port,False,,JTMEB3FV3RD197742,Culver City Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,Factory to port,False,,JTMEB3FV3RD197806,Toyota of The Desert,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,,JTMEB3FV3RD198373,Lithia Toyota of Redding,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV3RD198390,Toyota Walnut Creek,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51079,0,47560,Factory to port,False,,JTMEB3FV3RD198437,Woburn Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV3RD198499,Mountain States Toyota,CO
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50808,1295,48855,Factory to port,False,,JTMEB3FV3RD198633,Auburn Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51672,0,47560,Factory to port,False,,JTMEB3FV3RD198762,Folsom Lake Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50839,0,47560,Factory to port,False,,JTMEB3FV3RD198793,Toyota of Clovis,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50678,0,47560,Factory to port,False,DealerHold,JTMEB3FV3RD198888,Jim White Toyota,OH
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,49725,0,47560,Factory to port,False,,JTMEB3FV3RD199006,Rivera Toyota of Mt. Kisco,NY
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,50437,0,46960,At dealer,False,Available,JTMEB3FV4PD156565,Toyota Marin,CA
 2023,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,46960,50138,0,46960,At dealer,False,Available,JTMEB3FV4PD163354,Ira Toyota,MA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50989,995,48555,Factory to port,False,,JTMEB3FV4R112BA28,Hanlees Fairfield Toyota,CA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52482,0,47560,Factory to port,False,,JTMEB3FV4R112BA31,One Toyota of Oakland,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50833,0,47560,Factory to port,True,,JTMEB3FV4R112BB12,One Toyota of Oakland,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50184,0,47560,Factory to port,True,,JTMEB3FV4R112BI54,Toyota of Olympia,WA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,50739,0,47310,At dealer,False,,JTMEB3FV4RD166015,Colonial Toyota,CT
@@ -2280,6 +2442,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,At dealer,False,,JTMEB3FV4RD188287,Manhattan Beach Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51162,0,47560,At dealer,False,,JTMEB3FV4RD189374,DCH Toyota of Torrance,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,At dealer,False,,JTMEB3FV4RD190024,Longo Toyota,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50899,0,47560,Port to dealer,False,,JTMEB3FV4RD190136,Acton Toyota of Littleton,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51308,1443,49003,At dealer,False,,JTMEB3FV4RD190279,Toyota of Lancaster,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51079,0,47560,At dealer,False,,JTMEB3FV4RD190296,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,At dealer,False,,JTMEB3FV4RD190752,Longo Toyota,CA
@@ -2329,6 +2492,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV4RD195983,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50099,0,47560,Factory to port,False,,JTMEB3FV4RD196020,One Toyota of Oakland,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51413,0,47560,Factory to port,False,,JTMEB3FV4RD196129,Toyota Carlsbad,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV4RD196177,Centennial Toyota,NV
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV4RD196227,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51253,2495,50055,Factory to port,False,,JTMEB3FV4RD196292,Toyota of Orange,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,1595,49155,Factory to port,False,,JTMEB3FV4RD196339,Findlay Toyota,NV
@@ -2336,12 +2500,18 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Factory to port,False,,JTMEB3FV4RD196597,Toyota of Glendale,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51037,0,47560,Factory to port,False,,JTMEB3FV4RD196616,Temecula Valley Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Factory to port,False,,JTMEB3FV4RD196633,Keyes Toyota,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50899,0,47560,Factory to port,False,DealerHold,JTMEB3FV4RD196745,Toyota of Watertown,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51333,0,47560,Factory to port,False,,JTMEB3FV4RD196826,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV4RD196986,Ira Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50279,0,47560,Factory to port,False,,JTMEB3FV4RD197006,Culver City Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV4RD197085,Toyota of Watertown,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51483,0,47560,Factory to port,False,,JTMEB3FV4RD197183,Tustin Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51413,3117,50677,Factory to port,False,,JTMEB3FV4RD197250,Norm Reeves Toyota San Diego,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51233,0,47560,Factory to port,False,,JTMEB3FV4RD197300,Toyota Carlsbad,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV4RD197314,Mountain States Toyota,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50833,0,47560,Factory to port,False,,JTMEB3FV4RD197409,Concord Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV4RD197426,Longo Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50658,0,47560,Factory to port,False,,JTMEB3FV4RD197572,Freeman Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50748,0,47560,Factory to port,False,,JTMEB3FV4RD197605,Santa Cruz Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50963,0,47560,Factory to port,False,Available,JTMEB3FV4RD197751,Kool Toyota,MI
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51413,3117,50677,Factory to port,False,,JTMEB3FV4RD197815,Norm Reeves Toyota San Diego,CA
@@ -2349,9 +2519,16 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV4RD198172,Mountain States Toyota,CO
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV4RD198477,Toyota of Watertown,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV4RD198558,Toyota Walnut Creek,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50453,0,47560,Factory to port,False,,JTMEB3FV4RD198589,"Stapp Interstate Toyota, Inc.",CO
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50898,0,47560,Factory to port,False,,JTMEB3FV4RD198673,City Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50988,0,47560,Factory to port,False,,JTMEB3FV4RD198690,One Toyota of Oakland,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV4RD198785,"Pedersen Toyota, Ltd.",CO
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51907,0,47560,Factory to port,False,DealerHold,JTMEB3FV4RD198866,Marion Toyota,IL
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,Factory to port,False,,JTMEB3FV4RD198897,Woburn Toyota,MA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50748,0,47560,Factory to port,False,,JTMEB3FV4RD199029,Santa Cruz Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52482,0,47560,Factory to port,False,,JTMEB3FV4RD199032,One Toyota of Oakland,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50389,0,47560,Factory to port,False,DealerHold,JTMEB3FV4RD199113,Mid City Toyota,CA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,49573,0,46960,At dealer,False,Available,JTMEB3FV5PD155070,DARCARS Toyota,MD
-2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51437,0,47560,Factory to port,False,,JTMEB3FV5R112CP11,Golling Toyota of Warren,MI
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,50963,0,47310,At dealer,False,Available,JTMEB3FV5RD166332,Toyota of Batavia,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50209,0,47310,At dealer,False,Available,JTMEB3FV5RD166556,Gloucester Toyota,VA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,50209,0,47310,At dealer,False,,JTMEB3FV5RD167769,Haddad Toyota,MA
@@ -2462,22 +2639,32 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,,JTMEB3FV5RD196480,Millennium Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51393,0,47560,Factory to port,False,,JTMEB3FV5RD196530,Gosch Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50989,0,47560,Factory to port,False,,JTMEB3FV5RD196561,Colonial Toyota,CT
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51786,0,47560,Factory to port,False,,JTMEB3FV5RD196690,Freeway Toyota of Hanford,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50939,0,47560,Factory to port,False,,JTMEB3FV5RD196866,West Coast Toyota of Long Beach,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51603,0,47560,Factory to port,False,,JTMEB3FV5RD196902,One Toyota of Oakland,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50638,0,47560,Factory to port,False,,JTMEB3FV5RD196978,Tustin Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50829,0,47560,Factory to port,False,,JTMEB3FV5RD197015,Heritage Toyota,VT
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50424,0,47560,Factory to port,False,,JTMEB3FV5RD197127,Groove Toyota,CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV5RD197208,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV5RD197225,South Coast Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50809,2494,50054,Factory to port,False,,JTMEB3FV5RD197306,Envision Toyota of West Covina,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV5RD197337,Toyota of Watertown,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50348,0,47560,Factory to port,False,,JTMEB3FV5RD197354,Antioch Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51093,4678,52238,Factory to port,False,,JTMEB3FV5RD197418,Toyota of Huntington Beach,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50947,0,47560,Factory to port,False,,JTMEB3FV5RD197693,Santa Margarita Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50408,0,47560,Factory to port,False,,JTMEB3FV5RD197774,Groove Toyota,CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV5RD198164,Mountain States Toyota,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50579,0,47560,Factory to port,False,DealerHold,JTMEB3FV5RD198195,New Country Toyota of Clifton Park,NY
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51004,0,47560,Factory to port,False,DealerHold,JTMEB3FV5RD198228,New Country Toyota of Clifton Park,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,1295,48855,Factory to port,False,,JTMEB3FV5RD198312,Auburn Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50839,0,47560,Factory to port,False,,JTMEB3FV5RD198407,Toyota of Clovis,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50579,0,47560,Factory to port,False,DealerHold,JTMEB3FV5RD198486,New Country Toyota of Clifton Park,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51104,0,47560,Factory to port,False,,JTMEB3FV5RD198519,Alderman's Toyota,VT
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV5RD198858,Toyota of Watertown,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50748,0,47560,Factory to port,False,,JTMEB3FV5RD198990,City Toyota,CA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,50368,0,46960,At dealer,False,Available,JTMEB3FV6PD160813,Toyota Marin,CA
 2023,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,46960,50858,0,46960,At dealer,False,Available,JTMEB3FV6PD162836,Toyota of Stamford,CT
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV6R112BQ26,"Pedersen Toyota, Ltd.",CO
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,50207,0,47310,At dealer,False,,JTMEB3FV6RD167229,Lee Toyota,ME
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,50207,0,47310,At dealer,False,Available,JTMEB3FV6RD167229,Central Maine Toyota,ME
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50357,0,47310,At dealer,False,,JTMEB3FV6RD168509,Toyota World of Lakewood,NJ
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47310,50274,0,47310,At dealer,False,,JTMEB3FV6RD171488,Middletown Toyota,CT
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,50139,0,47310,At dealer,False,,JTMEB3FV6RD172558,Della Toyota,NY
@@ -2522,7 +2709,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,At dealer,False,Available,JTMEB3FV6RD188856,Toyota of El Cajon,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50898,0,47560,At dealer,False,,JTMEB3FV6RD189098,Mossy Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,At dealer,False,,JTMEB3FV6RD189215,Longo Toyota,CA
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50508,0,47560,At dealer,False,,JTMEB3FV6RD189327,AutoNation Toyota Cerritos,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50654,0,47560,At dealer,False,,JTMEB3FV6RD189568,Heritage Toyota,VT
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50918,4079,51639,At dealer,False,,JTMEB3FV6RD190638,Toyota of Huntington Beach,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50150,0,47560,At dealer,False,,JTMEB3FV6RD190641,Tustin Toyota,CA
@@ -2578,34 +2764,53 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51398,0,47560,Factory to port,False,,JTMEB3FV6RD196164,Bob Smith Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,1595,49155,Factory to port,False,,JTMEB3FV6RD196195,Findlay Toyota,NV
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50633,0,47560,Factory to port,False,,JTMEB3FV6RD196214,Victory Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51124,0,47560,Factory to port,False,,JTMEB3FV6RD196259,Downtown Toyota of Oakland,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50843,0,47560,Factory to port,False,,JTMEB3FV6RD196262,"Stapp Interstate Toyota, Inc.",CO
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50813,0,47560,Factory to port,False,,JTMEB3FV6RD196326,Santa Margarita Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51349,0,47560,Factory to port,False,DealerHold,JTMEB3FV6RD196343,Irwin Toyota,NH
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,Factory to port,False,,JTMEB3FV6RD196357,Ira Toyota of Manchester,NH
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50858,0,47560,Factory to port,False,Available,JTMEB3FV6RD196360,Robinson Toyota,TN
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50699,0,47560,Factory to port,False,,JTMEB3FV6RD196424,Antioch Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51124,0,47560,Factory to port,False,,JTMEB3FV6RD196441,Antioch Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52058,0,47560,Factory to port,False,,JTMEB3FV6RD196620,One Toyota of Oakland,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50623,0,47560,Factory to port,False,,JTMEB3FV6RD196696,Groove Toyota,CO
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51678,0,47560,Factory to port,False,,JTMEB3FV6RD196715,One Toyota of Oakland,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51922,0,47560,Factory to port,False,,JTMEB3FV6RD196763,Dublin Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51452,0,47560,Factory to port,False,,JTMEB3FV6RD196777,Dublin Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50833,0,47560,Factory to port,False,,JTMEB3FV6RD196858,Fremont Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50564,995,48555,Factory to port,False,,JTMEB3FV6RD196861,Hanlees Fairfield Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51607,2385,49945,Factory to port,False,,JTMEB3FV6RD196892,Thousand Oaks Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50898,0,47560,Factory to port,False,,JTMEB3FV6RD196939,Temecula Valley Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV6RD197010,Hansel Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50518,0,47560,Factory to port,False,,JTMEB3FV6RD197024,City Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50579,1397,48957,Factory to port,False,,JTMEB3FV6RD197038,DCH Wappingers Falls Toyota,NY
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50689,0,47560,Factory to port,False,,JTMEB3FV6RD197069,Victory Toyota of San Bruno,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV6RD197072,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,1298,48858,Factory to port,False,DealerHold,JTMEB3FV6RD197251,Sunshine Toyota,MI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,2385,49945,Factory to port,False,,JTMEB3FV6RD197265,Thousand Oaks Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV6RD197282,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51282,499,48059,Factory to port,False,,JTMEB3FV6RD197377,Toyota San Luis Obispo,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FV6RD197430,Toyota of Wellesley,MA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,49754,0,47560,Factory to port,False,,JTMEB3FV6RD197458,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50857,0,47560,Factory to port,False,,JTMEB3FV6RD197461,Maita's Toyota of Sacramento,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51388,0,47560,Factory to port,False,,JTMEB3FV6RD197556,Temecula Valley Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV6RD197637,Longo Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50339,0,47560,Factory to port,False,,JTMEB3FV6RD197640,Central Maine Toyota,ME
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50899,0,47560,Factory to port,False,,JTMEB3FV6RD197671,Acton Toyota of Littleton,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50524,0,47560,Factory to port,False,,JTMEB3FV6RD197847,Falmouth Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50499,0,47560,Factory to port,False,,JTMEB3FV6RD197850,Toyota of Escondido,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50924,0,47560,Factory to port,False,,JTMEB3FV6RD197931,Millennium Toyota,NY
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,49709,1298,48858,Factory to port,False,,JTMEB3FV6RD198268,Toyota of Kirkland,WA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51422,0,47560,Factory to port,False,,JTMEB3FV6RD198366,Folsom Lake Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50838,0,47560,Factory to port,False,,JTMEB3FV6RD198433,Groove Toyota,CO
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52096,0,47560,Factory to port,False,DealerHold,JTMEB3FV6RD198464,Bill Estes Toyota,IN
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50987,0,47560,Factory to port,False,,JTMEB3FV6RD198481,Grieco Toyota,RI
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52027,0,47560,Factory to port,False,,JTMEB3FV6RD198559,Fremont Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50818,0,47560,Factory to port,False,,JTMEB3FV6RD198836,"Stapp Interstate Toyota, Inc.",CO
 2023,XSE AWD,Blueprint/Midnight Black Metallic Roof,46960,50368,0,46960,At dealer,False,Available,JTMEB3FV7PD160741,Toyota Marin,CA
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,49803,0,46960,At dealer,False,DealerHold,JTMEB3FV7PD162487,Bommarito Toyota,MO
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,49697,0,46960,At dealer,False,Available,JTMEB3FV7PD165163,DARCARS Toyota,MD
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,995,48555,Factory to port,False,,JTMEB3FV7R112BA72,Toyota Town,CA
-2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50678,0,47560,Factory to port,False,DealerHold,JTMEB3FV7R112CP09,Jim White Toyota,OH
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51367,0,47560,Factory to port,False,,JTMEB3FV7R113BL45,Kendall Toyota,OR
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,49849,0,47310,At dealer,False,,JTMEB3FV7RD168731,Torrington Toyota,CT
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50739,0,47310,At dealer,False,,JTMEB3FV7RD169636,Colonial Toyota,CT
@@ -2704,12 +2909,16 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV7RD196156,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV7RD196383,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50843,0,47560,Factory to port,False,,JTMEB3FV7RD196397,"Stapp Interstate Toyota, Inc.",CO
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV7RD196495,Dolan Toyota,NV
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50824,0,47560,Factory to port,False,DealerHold,JTMEB3FV7RD196531,Rogers Toyota of Hermiston,OR
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51432,0,47560,Factory to port,False,,JTMEB3FV7RD196576,AutoNation Toyota Irvine,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV7RD196724,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51423,0,47560,Factory to port,False,,JTMEB3FV7RD196755,AutoNation Toyota Cerritos,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50459,0,47560,Factory to port,False,,JTMEB3FV7RD196870,Charles Toyota,CT
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50899,0,47560,Factory to port,False,,JTMEB3FV7RD197095,Charlie's Toyota,ME
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50564,995,48555,Factory to port,False,,JTMEB3FV7RD197128,Hanlees Fairfield Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50772,0,47560,Factory to port,False,,JTMEB3FV7RD197145,City Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50948,0,47560,Factory to port,False,,JTMEB3FV7RD197260,City Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51097,0,47560,Factory to port,False,,JTMEB3FV7RD197307,Temecula Valley Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV7RD197324,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Factory to port,False,,JTMEB3FV7RD197355,Toyota of Glendale,CA
@@ -2717,12 +2926,17 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50942,0,47560,Factory to port,False,,JTMEB3FV7RD197565,"Stapp Interstate Toyota, Inc.",CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,1793,49353,Factory to port,False,,JTMEB3FV7RD197677,DCH Toyota of Oxnard,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51852,3117,50677,Factory to port,False,,JTMEB3FV7RD197792,Norm Reeves Toyota San Diego,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50839,0,47560,Factory to port,False,,JTMEB3FV7RD197839,Toyota of Clovis,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50299,0,47560,Factory to port,False,,JTMEB3FV7RD197873,South Bay Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50302,0,47560,Factory to port,False,,JTMEB3FV7RD197940,Bighorn Toyota,CO
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50964,0,47560,Factory to port,True,Available,JTMEB3FV7RD198019,Hesser Toyota,WI
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV7RD198151,Toyota of Watertown,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51013,0,47560,Factory to port,False,,JTMEB3FV7RD198313,Concord Toyota,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51004,0,47560,Factory to port,False,DealerHold,JTMEB3FV7RD198764,New Country Toyota of Clifton Park,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50988,0,47560,Factory to port,False,,JTMEB3FV7RD198862,Fremont Toyota,CA
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,49877,0,46960,At dealer,False,Available,JTMEB3FV8PD140966,Williams Toyota of Sayre,PA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,995,48555,Factory to port,False,,JTMEB3FV8R112BA33,Toyota Town,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,49859,2593,50153,Factory to port,False,DealerHold,JTMEB3FV8R112BI56,Toyota of Renton,WA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51907,0,47560,Factory to port,False,DealerHold,JTMEB3FV8R112CK20,Marion Toyota,IL
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50784,0,47560,Factory to port,False,,JTMEB3FV8R112BQ30,AutoNation Toyota Arapahoe,CO
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51267,0,47560,Factory to port,False,,JTMEB3FV8R113BL68,Kendall Toyota of Bend,OR
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,50209,0,47310,At dealer,False,,JTMEB3FV8RD168348,Lia Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,49849,0,47310,At dealer,False,,JTMEB3FV8RD169385,Torrington Toyota,CT
@@ -2787,6 +3001,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV8RD194478,A-1 Toyota,CT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51233,0,47560,Factory to port,False,,JTMEB3FV8RD194500,Hanlees Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,1793,49353,Factory to port,False,,JTMEB3FV8RD194593,DCH Toyota of Oxnard,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50942,0,47560,Port to dealer,False,,JTMEB3FV8RD194612,Toyota of Corvallis,OR
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51032,0,47560,Factory to port,False,,JTMEB3FV8RD194724,Tustin Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV8RD194755,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV8RD194805,Longo Toyota,CA
@@ -2814,11 +3029,15 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50993,2494,50054,Factory to port,False,,JTMEB3FV8RD196098,Envision Toyota of West Covina,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV8RD196103,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50573,0,47560,Factory to port,False,,JTMEB3FV8RD196117,Copeland Toyota,MA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50339,0,47560,Factory to port,False,,JTMEB3FV8RD196280,Central Maine Toyota,ME
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50474,0,47560,Factory to port,False,,JTMEB3FV8RD196313,Acton Toyota of Littleton,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50739,0,47560,Factory to port,False,,JTMEB3FV8RD196344,Toyota of San Bernardino,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51182,499,48059,Factory to port,False,,JTMEB3FV8RD196716,Toyota San Luis Obispo,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV8RD196778,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50963,0,47560,Factory to port,False,,JTMEB3FV8RD196957,North Bakersfield Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,51083,0,47560,Factory to port,False,,JTMEB3FV8RD197025,Mossy Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51414,0,47560,Factory to port,False,,JTMEB3FV8RD197140,Colonial Toyota,CT
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50739,0,47560,Factory to port,False,,JTMEB3FV8RD197171,Antioch Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51182,0,47560,Factory to port,False,,JTMEB3FV8RD197235,Keyes Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50968,0,47560,Factory to port,False,,JTMEB3FV8RD197252,AutoNation Toyota Buena Park,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50418,0,47560,Factory to port,False,,JTMEB3FV8RD197297,Manhattan Beach Toyota,CA
@@ -2826,12 +3045,24 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,49219,0,47560,Factory to port,False,,JTMEB3FV8RD197509,Toyota Walnut Creek,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50524,0,47560,Factory to port,False,,JTMEB3FV8RD197560,Mid City Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51438,2495,50055,Factory to port,False,,JTMEB3FV8RD197574,Toyota of Orange,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51297,0,47560,Factory to port,False,,JTMEB3FV8RD197591,Victory Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50099,0,47560,Factory to port,False,,JTMEB3FV8RD197672,Falmouth Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50579,0,47560,Factory to port,False,,JTMEB3FV8RD197753,Johnstons Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50134,0,47560,Factory to port,False,,JTMEB3FV8RD197770,Groove Toyota,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50833,0,47560,Factory to port,False,,JTMEB3FV8RD197784,One Toyota of Oakland,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV8RD197834,"Pedersen Toyota, Ltd.",CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50579,0,47560,Factory to port,False,,JTMEB3FV8RD198014,Burdick Toyota,NY
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51323,0,47560,Factory to port,False,,JTMEB3FV8RD198059,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50839,0,47560,Factory to port,False,,JTMEB3FV8RD198093,Toyota of Clovis,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FV8RD198241,Toyota of Wellesley,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50754,0,47560,Factory to port,False,,JTMEB3FV8RD198563,Emerson Toyota,ME
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51569,0,47560,Factory to port,False,,JTMEB3FV8RD198577,Premier Toyota of Amherst,OH
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50949,0,47560,Factory to port,False,,JTMEB3FV8RD198742,Victory Toyota of San Bruno,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50339,0,47560,Factory to port,False,,JTMEB3FV8RD198823,Central Maine Toyota,ME
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50989,995,48555,Factory to port,False,,JTMEB3FV8RD198871,Hanlees Fairfield Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51008,0,47560,Factory to port,False,,JTMEB3FV8RD198885,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV8RD198935,Mountain States Toyota,CO
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV8RD198983,"Pedersen Toyota, Ltd.",CO
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,50368,0,46960,At dealer,False,Available,JTMEB3FV9PD160188,Toyota Marin,CA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,50368,0,46960,At dealer,False,Available,JTMEB3FV9PD162698,Toyota Marin,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51262,0,47560,Factory to port,False,,JTMEB3FV9R112BQ05,AutoNation Toyota Arapahoe,CO
@@ -2936,25 +3167,42 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50498,0,47560,Factory to port,False,,JTMEB3FV9RD195817,Toyota of Anaheim,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50723,0,47560,Factory to port,False,,JTMEB3FV9RD196028,Claremont Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51458,0,47560,Factory to port,False,,JTMEB3FV9RD196336,Temecula Valley Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51079,0,47560,Factory to port,False,,JTMEB3FV9RD196403,Toyota of Nashua,NH
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50808,0,47560,Factory to port,False,,JTMEB3FV9RD196420,I-10 Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51148,0,47560,Factory to port,False,,JTMEB3FV9RD196501,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50209,0,47560,Factory to port,False,,JTMEB3FV9RD196563,Mid City Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FV9RD196742,Toyota of Wellesley,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50593,0,47560,Factory to port,False,,JTMEB3FV9RD196899,City Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51392,0,47560,Factory to port,False,,JTMEB3FV9RD196904,Tustin Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FV9RD196983,Longo Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51409,0,47560,Factory to port,False,,JTMEB3FV9RD197051,Bighorn Toyota,CO
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FV9RD197079,Longo Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50474,0,47560,Factory to port,False,,JTMEB3FV9RD197101,Acton Toyota of Littleton,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50674,0,47560,Factory to port,False,,JTMEB3FV9RD197230,Northtown Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50014,0,47560,Factory to port,False,,JTMEB3FV9RD197521,Legends Toyota,KS
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51653,0,47560,Factory to port,False,,JTMEB3FV9RD197566,Cedric Theel Toyota,ND
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50654,0,47560,Factory to port,False,,JTMEB3FV9RD197583,Island Toyota,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51758,0,47560,Factory to port,False,,JTMEB3FV9RD197728,One Toyota of Oakland,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,51388,0,47560,Factory to port,False,,JTMEB3FV9RD197776,Toyota of The Desert,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51507,1295,48855,Factory to port,False,,JTMEB3FV9RD197809,Toyota of El Cajon,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51672,0,47560,Factory to port,False,,JTMEB3FV9RD198149,Maita's Toyota of Sacramento,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51104,0,47560,Factory to port,False,,JTMEB3FV9RD198216,City Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50813,0,47560,Factory to port,False,,JTMEB3FV9RD198443,City Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50539,0,47560,Factory to port,False,,JTMEB3FV9RD198572,Victory Toyota of San Bruno,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FV9RD198765,Toyota of Wellesley,MA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50409,0,47560,Factory to port,False,,JTMEB3FV9RD198779,Toyota of Watertown,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50359,0,47560,Factory to port,False,DealerHold,JTMEB3FV9RD198880,Lombard Toyota,IL
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FV9RD198894,Mountain States Toyota,CO
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50524,0,47560,Factory to port,False,,JTMEB3FV9RD198944,Sunrise Toyota,NY
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51069,0,47560,Factory to port,False,,JTMEB3FV9RD198975,Fremont Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50459,995,48555,Factory to port,False,,JTMEB3FV9RD199060,Toyota Town,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51079,0,47560,Factory to port,False,,JTMEB3FV9RD199110,Woburn Toyota,MA
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,49702,0,46960,At dealer,False,Available,JTMEB3FVXPD158059,DARCARS Toyota,MD
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,49834,0,46960,At dealer,False,Available,JTMEB3FVXPD158871,"Glen Motors, Inc.",NJ
 2023,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,46960,50468,0,46960,At dealer,False,Available,JTMEB3FVXPD160281,Toyota Marin,CA
 2023,XSE AWD,Blueprint/Midnight Black Metallic Roof,46960,50092,0,46960,At dealer,False,Available,JTMEB3FVXPD161706,Yark Toyota,OH
 2023,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,46960,49778,0,46960,At dealer,False,Available,JTMEB3FVXPD163472,Harr Toyota,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50843,0,47560,Factory to port,False,,JTMEB3FVXR112BB01,City Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51424,1298,48858,Factory to port,False,DealerHold,JTMEB3FVXR112BI60,Toyota of Kirkland,WA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50923,4999,52559,Factory to port,False,DealerHold,JTMEB3FVXR113CR57,Toyota of Warren,OH
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,50029,0,47310,At dealer,False,Available,JTMEB3FVXRD167315,Gresham Toyota,OR
@@ -2990,8 +3238,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50508,0,47560,At dealer,False,,JTMEB3FVXRD189458,AutoNation Toyota Cerritos,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50834,0,47560,At dealer,False,,JTMEB3FVXRD189525,Lexington Toyota,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51079,0,47560,At dealer,False,,JTMEB3FVXRD190237,Longo Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50474,0,47560,Port to dealer,False,Available,JTMEB3FVXRD190397,Toyota of Watertown,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51647,0,47560,At dealer,False,,JTMEB3FVXRD190562,Toyota of Glendora,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50988,0,47560,Port to dealer,False,,JTMEB3FVXRD190979,Toyota Carlsbad,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50084,0,47560,Port to dealer,False,,JTMEB3FVXRD191162,Ira Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50654,0,47560,Port to dealer,False,,JTMEB3FVXRD191985,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,440,48000,Port to dealer,True,,JTMEB3FVXRD192019,Brian Bemis Toyota of DeKalb,IL
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52056,0,47560,Port to dealer,False,,JTMEB3FVXRD192067,Toyota of Pasadena,CA
@@ -3038,16 +3288,23 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51252,0,47560,Factory to port,False,,JTMEB3FVXRD196717,Toyota of Hollywood,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51393,0,47560,Factory to port,False,,JTMEB3FVXRD196894,Temecula Valley Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50594,0,47560,Factory to port,False,,JTMEB3FVXRD196930,Culver City Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50368,0,47560,Factory to port,False,,JTMEB3FVXRD197043,Victory Toyota of San Bruno,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50614,0,47560,Factory to port,False,,JTMEB3FVXRD197110,Bommarito Toyota,MO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50184,0,47560,Factory to port,False,,JTMEB3FVXRD197138,Groove Toyota,CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,51857,0,47560,Factory to port,False,,JTMEB3FVXRD197334,Jimmy Vasser Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,49219,0,47560,Factory to port,False,,JTMEB3FVXRD197463,"Pedersen Toyota, Ltd.",CO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50868,0,47560,Factory to port,False,,JTMEB3FVXRD197530,Groove Toyota,CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50778,0,47560,Factory to port,False,,JTMEB3FVXRD197558,Longo Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50433,0,47560,Factory to port,False,,JTMEB3FVXRD197611,City Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,50353,0,47560,Factory to port,False,,JTMEB3FVXRD197740,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51587,0,47560,Factory to port,False,,JTMEB3FVXRD197835,Toyota of Hollywood,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FVXRD198113,Toyota Walnut Creek,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,50903,0,47560,Factory to port,False,,JTMEB3FVXRD198189,Groove Toyota,CO
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,50823,0,47560,Factory to port,False,DealerHold,JTMEB3FVXRD198323,Lewis Toyota of Topeka,KS
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50249,0,47560,Factory to port,False,,JTMEB3FVXRD198385,Millennium Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,50034,0,47560,Factory to port,False,,JTMEB3FVXRD198676,Toyota Walnut Creek,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,50834,0,47560,Factory to port,False,,JTMEB3FVXRD198693,Bernardi Toyota,MA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,51247,0,47560,Factory to port,False,,JTMEB3FVXRD198953,Folsom Lake Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52144,0,47310,At dealer,False,,JTMFB3FV0RD168610,Millennium Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,53057,3789,51099,At dealer,False,Available,JTMFB3FV0RD176092,Team Toyota,PA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47310,52569,0,47310,At dealer,False,Available,JTMFB3FV0RD176903,WOW Toyota of Wallingford,CT
@@ -3056,6 +3313,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,53307,0,47310,At dealer,False,,JTMFB3FV0RD179798,Grieco Toyota,RI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,51994,0,47310,At dealer,False,,JTMFB3FV0RD182541,Sunrise Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,51929,0,47310,At dealer,False,DealerHold,JTMFB3FV0RD182863,DCH Freehold Toyota,NJ
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,51929,2495,49805,At dealer,False,Available,JTMFB3FV0RD183043,Toyota of Orange,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52924,0,47310,At dealer,False,,JTMFB3FV0RD183074,Della Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52889,0,47310,At dealer,False,Available,JTMFB3FV0RD183110,Copeland Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,52409,0,47310,At dealer,False,Available,JTMFB3FV0RD183446,Steet Toyota of Johnstown-Gloversville,NY
@@ -3082,6 +3340,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53069,0,47560,Port to dealer,False,DealerHold,JTMFB3FV0RD189490,Down East Toyota,ME
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52793,599,48159,At dealer,False,,JTMFB3FV0RD189666,Hudson Toyota,NJ
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52644,0,47560,Port to dealer,False,DealerHold,JTMFB3FV0RD189814,Down East Toyota,ME
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52979,0,47560,Port to dealer,True,DealerHold,JTMFB3FV0RD190090,Fitzgerald Toyota Gaithersburg,MD
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,,JTMFB3FV0RD190333,Sunrise Toyota,NY
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52929,0,47560,Port to dealer,False,DealerHold,JTMFB3FV0RD190347,Irwin Toyota,NH
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53399,2494,50054,At dealer,False,DealerHold,JTMFB3FV0RD190445,Envision Toyota of West Covina,CA
@@ -3093,8 +3352,8 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,True,DealerHold,JTMFB3FV0RD190896,Miller Toyota,VA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53327,2560,50120,Port to dealer,False,,JTMFB3FV0RD191045,Simi Valley Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53103,0,47560,Port to dealer,False,,JTMFB3FV0RD191143,Star Toyota of Bayside,NY
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,Port to dealer,False,,JTMFB3FV0RD191241,Longo Toyota,CA
-2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,Port to dealer,False,,JTMFB3FV0RD191269,Manhattan Beach Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,At dealer,False,,JTMFB3FV0RD191241,Longo Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,At dealer,False,,JTMFB3FV0RD191269,Manhattan Beach Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,54271,0,47560,Port to dealer,False,DealerHold,JTMFB3FV0RD191420,Andy Mohr Toyota,IN
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53488,4079,51639,At dealer,False,Available,JTMFB3FV0RD191465,Toyota of Huntington Beach,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53488,4079,51639,At dealer,False,,JTMFB3FV0RD191482,Toyota of Huntington Beach,CA
@@ -3119,8 +3378,12 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,Factory to port,True,,JTMFB3FV0RD195922,San Francisco Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52823,0,47560,Factory to port,False,DealerHold,JTMFB3FV0RD196231,DCH Freehold Toyota,NJ
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53067,1790,49350,Factory to port,False,,JTMFB3FV0RD196388,Liberty Toyota,NJ
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52759,0,47560,Factory to port,False,,JTMFB3FV0RD196648,White River Toyota,VT
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53219,0,47560,Factory to port,False,Available,JTMFB3FV0RD196665,Toyota of Vallejo,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53458,0,47560,Factory to port,False,,JTMFB3FV0RD196908,Star Toyota of Bayside,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52744,0,47560,Factory to port,False,,JTMFB3FV0RD196973,Manhattan Beach Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53224,0,47560,Factory to port,False,,JTMFB3FV0RD197444,Groove Toyota,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52669,0,47560,Factory to port,False,DealerHold,JTMFB3FV0RD198948,Toyota of Lake City,WA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47310,52254,0,47310,At dealer,False,DealerHold,JTMFB3FV1RD176957,Fox Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,51994,0,47310,At dealer,False,,JTMFB3FV1RD177543,Middletown Toyota,CT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52574,0,47310,At dealer,False,DealerHold,JTMFB3FV1RD179485,Parkway Toyota,NJ
@@ -3139,22 +3402,25 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53297,0,47560,At dealer,False,DealerHold,JTMFB3FV1RD187490,Galaxy Toyota,NJ
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52244,0,47560,At dealer,False,,JTMFB3FV1RD187747,Nucar Toyota of North Attleboro,MA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52669,0,47560,At dealer,False,,JTMFB3FV1RD188686,Nucar Toyota of North Attleboro,MA
-2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53492,1790,49350,Port to dealer,False,,JTMFB3FV1RD189014,Shore Toyota,NJ
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53492,1790,49350,At dealer,False,,JTMFB3FV1RD189014,Shore Toyota,NJ
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52399,0,47560,At dealer,False,,JTMFB3FV1RD189112,Sullivan Brothers Toyota,MA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53538,0,47560,At dealer,False,,JTMFB3FV1RD189269,Perry Motors Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53732,0,47560,At dealer,False,,JTMFB3FV1RD189479,Manhattan Beach Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52549,0,47560,Port to dealer,False,,JTMFB3FV1RD190101,Expressway Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52799,0,47560,At dealer,False,,JTMFB3FV1RD190244,Longo Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52399,0,47560,Port to dealer,False,,JTMFB3FV1RD190275,"Bristol Toyota, Inc.",MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,,JTMFB3FV1RD190356,Route 22 Toyota,NJ
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52419,0,47560,Port to dealer,False,DealerHold,JTMFB3FV1RD190471,Island Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52399,0,47560,Port to dealer,False,DealerHold,JTMFB3FV1RD190485,Parkway Toyota,NJ
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52958,0,47560,Port to dealer,False,,JTMFB3FV1RD190549,Lee Toyota,ME
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52779,0,47560,Port to dealer,True,DealerHold,JTMFB3FV1RD190664,Del Toyota,PA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52644,0,47560,Port to dealer,False,DealerHold,JTMFB3FV1RD190695,Down East Toyota,ME
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53063,0,47560,Port to dealer,False,,JTMFB3FV1RD190874,Balise Toyota of Warwick,RI
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52793,0,47560,Port to dealer,False,,JTMFB3FV1RD190941,Smithtown Toyota,NY
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52394,0,47560,Port to dealer,False,,JTMFB3FV1RD190955,Westbury Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53558,0,47560,Port to dealer,True,DealerHold,JTMFB3FV1RD190972,Toyota Carlsbad,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52244,0,47560,Port to dealer,False,,JTMFB3FV1RD191099,Nucar Toyota of North Attleboro,MA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52619,0,47560,Port to dealer,False,,JTMFB3FV1RD191121,Ira Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52842,0,47560,Port to dealer,False,DealerHold,JTMFB3FV1RD191152,Warrenton Toyota,VA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53453,0,47560,At dealer,False,,JTMFB3FV1RD191605,Toyota of Santa Maria,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52494,0,47560,Port to dealer,True,DealerHold,JTMFB3FV1RD191670,Mountain States Toyota,CO
@@ -3183,8 +3449,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53063,0,47560,Factory to port,False,,JTMFB3FV1RD197663,Queensboro Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52779,0,47560,Factory to port,False,DealerHold,JTMFB3FV1RD197744,Page Toyota,MI
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52604,0,47560,Factory to port,True,DealerHold,JTMFB3FV1RD197856,Adams Toyota Lee's Summit,MO
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52554,0,47560,Factory to port,False,,JTMFB3FV1RD197968,Ira Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53144,1298,48858,Factory to port,False,DealerHold,JTMFB3FV1RD198506,Toyota of Kirkland,WA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52509,0,47560,Factory to port,False,,JTMFB3FV1RD198585,Alderman's Toyota,VT
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53108,0,47560,Factory to port,False,,JTMFB3FV2R112CA22,Toyota of Morristown,NJ
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53188,1798,49358,Factory to port,True,DealerHold,JTMFB3FV2R113BL54,Toyota of Portland on Broadway,OR
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47310,53224,0,47310,At dealer,False,Available,JTMFB3FV2RD174652,Lee Toyota,ME
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,53288,0,47310,At dealer,False,,JTMFB3FV2RD176790,WOW Toyota of Wallingford,CT
@@ -3254,7 +3522,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52724,1397,48957,Factory to port,False,,JTMFB3FV2RD194948,DCH Wappingers Falls Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53138,0,47560,Factory to port,False,,JTMFB3FV2RD195744,Toyota of Lancaster,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53538,0,47560,Factory to port,False,,JTMFB3FV2RD196277,Toyota of The Desert,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52509,0,47560,Factory to port,False,,JTMFB3FV2RD196523,White River Toyota,VT
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52604,0,47560,Factory to port,False,DealerHold,JTMFB3FV2RD196568,East Coast Toyota,NJ
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52244,0,47560,Factory to port,False,,JTMFB3FV2RD196652,Nucar Toyota of North Attleboro,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53647,499,48059,Factory to port,True,DealerHold,JTMFB3FV2RD197543,Toyota San Luis Obispo,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53003,2494,50054,Factory to port,False,,JTMFB3FV2RD197851,Envision Toyota of West Covina,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52200,0,47560,Factory to port,False,,JTMFB3FV2RD198076,Alderman's Toyota,VT
@@ -3288,17 +3558,19 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53099,0,47560,At dealer,False,,JTMFB3FV3RD189158,Handy Toyota,VT
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53043,1995,49555,At dealer,False,Available,JTMFB3FV3RD189368,Toyota Carlsbad,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53224,0,47560,At dealer,False,,JTMFB3FV3RD189452,Longo Toyota,CA
-2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52979,0,47560,Port to dealer,False,Available,JTMFB3FV3RD189600,Toyota of Watertown,MA
-2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52674,0,47560,Port to dealer,False,,JTMFB3FV3RD189631,Coggins Toyota of Bennington,VT
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52979,0,47560,At dealer,False,Available,JTMFB3FV3RD189600,Toyota of Watertown,MA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52674,0,47560,At dealer,False,,JTMFB3FV3RD189631,Coggins Toyota of Bennington,VT
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52824,0,47560,Port to dealer,False,,JTMFB3FV3RD189919,"Bristol Toyota, Inc.",MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53027,0,47560,Port to dealer,False,,JTMFB3FV3RD190004,Lee Toyota,ME
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53608,1098,48658,At dealer,True,Available,JTMFB3FV3RD190049,Toyota of Cedar Park,TX
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52619,0,47560,Port to dealer,False,,JTMFB3FV3RD190424,Ira Toyota,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52669,0,47560,Port to dealer,False,,JTMFB3FV3RD190441,Hillside Toyota,NY
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52244,0,47560,Port to dealer,False,,JTMFB3FV3RD190455,Bernardi Toyota,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53063,0,47560,Port to dealer,False,,JTMFB3FV3RD190679,Balise Toyota of Warwick,RI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,At dealer,False,,JTMFB3FV3RD190780,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53063,4079,51639,At dealer,False,Available,JTMFB3FV3RD190827,Toyota of Huntington Beach,CA
-2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,Port to dealer,False,,JTMFB3FV3RD191010,Longo Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52619,0,47560,Port to dealer,False,,JTMFB3FV3RD190861,Ira Toyota,MA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,At dealer,False,,JTMFB3FV3RD191010,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53133,0,47560,At dealer,False,,JTMFB3FV3RD191072,Toyota Carlsbad,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52569,0,47560,At dealer,False,DealerHold,JTMFB3FV3RD191248,Lipton Toyota,FL
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53133,0,47560,At dealer,False,,JTMFB3FV3RD191315,Toyota Carlsbad,CA
@@ -3327,20 +3599,25 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53643,0,47560,Factory to port,False,Available,JTMFB3FV3RD196076,Walker Toyota,LA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52494,0,47560,Factory to port,False,,JTMFB3FV3RD196322,Kendall Toyota of Bend,OR
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52863,0,47560,Factory to port,False,,JTMFB3FV3RD196367,Lynch Toyota,CT
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52979,0,47560,Factory to port,False,,JTMFB3FV3RD196692,McGee Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53108,0,47560,Factory to port,False,,JTMFB3FV3RD196739,Toyota of Riverside,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,54003,0,47560,Factory to port,False,,JTMFB3FV3RD196790,Fremont Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52958,0,47560,Factory to port,False,,JTMFB3FV3RD196997,Oroville Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,Factory to port,False,,JTMFB3FV3RD197034,Toyota of Riverside,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53752,0,47560,Factory to port,False,,JTMFB3FV3RD197115,Jim Bagan Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52974,0,47560,Factory to port,False,,JTMFB3FV3RD197261,Toyota City,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52724,1397,48957,Factory to port,False,,JTMFB3FV3RD197406,DCH Wappingers Falls Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53022,0,47560,Factory to port,False,,JTMFB3FV3RD197647,Gateway Toyota,NJ
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Factory to port,False,DealerHold,JTMFB3FV3RD197695,West Herr Toyota of Williamsville,NY
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53044,0,47560,Factory to port,False,,JTMFB3FV3RD198569,Charlie's Toyota,ME
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53722,0,47560,Factory to port,False,,JTMFB3FV3RD199026,Dublin Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53533,0,47560,Factory to port,False,,JTMFB3FV4R113CC75,Toyota of Morristown,NJ
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47310,53803,0,47310,At dealer,False,,JTMFB3FV4RD172854,Star Toyota of Bayside,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,53213,0,47310,At dealer,False,,JTMFB3FV4RD173714,WOW Toyota of Wallingford,CT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,53129,107,47417,At dealer,False,,JTMFB3FV4RD174359,Curry Toyota,NY
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47310,53238,0,47310,At dealer,False,,JTMFB3FV4RD181201,Grieco Toyota,RI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52394,0,47310,At dealer,False,DealerHold,JTMFB3FV4RD182042,Queensboro Toyota,NY
-2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52793,0,47310,At dealer,True,Available,JTMFB3FV4RD182588,Ardmore Toyota,PA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52793,0,47310,At dealer,True,DealerHold,JTMFB3FV4RD182588,Ardmore Toyota,PA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52574,0,47310,At dealer,False,Available,JTMFB3FV4RD184227,Sullivan Brothers Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52549,0,47560,At dealer,False,,JTMFB3FV4RD184499,Toyota of Greenfield,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53049,0,47560,At dealer,False,,JTMFB3FV4RD184535,Berlin City Toyota of Portland,ME
@@ -3369,7 +3646,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52604,0,47560,At dealer,False,,JTMFB3FV4RD191274,South Coast Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53588,1397,48957,Factory to port,False,,JTMFB3FV4RD191419,DCH Wappingers Falls Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53732,0,47560,At dealer,True,Available,JTMFB3FV4RD191453,South Bay Toyota,CA
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,Port to dealer,False,,JTMFB3FV4RD191520,Longo Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,At dealer,False,,JTMFB3FV4RD191520,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52644,0,47560,Factory to port,False,DealerHold,JTMFB3FV4RD191601,Down East Toyota,ME
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53453,0,47560,Port to dealer,False,,JTMFB3FV4RD191789,Toyota of Lompoc,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53757,395,47955,Port to dealer,False,,JTMFB3FV4RD191856,Capistrano Valley Toyota,CA
@@ -3388,11 +3665,16 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52295,0,47560,Factory to port,True,DealerHold,JTMFB3FV4RD195731,Luther Brookdale Toyota,MN
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53512,0,47560,Factory to port,False,,JTMFB3FV4RD195941,Toyota of Downtown LA,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52819,0,47560,Factory to port,False,,JTMFB3FV4RD196135,Riverhead Toyota,NY
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53044,0,47560,Factory to port,False,,JTMFB3FV4RD196331,Bernardi Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52964,0,47560,Factory to port,False,,JTMFB3FV4RD196409,Star Toyota of Bayside,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,Factory to port,False,,JTMFB3FV4RD196412,Temecula Valley Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52394,0,47560,Factory to port,False,,JTMFB3FV4RD196944,Riverhead Toyota,NY
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52909,0,47560,Factory to port,False,,JTMFB3FV4RD197057,Woburn Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52394,0,47560,Factory to port,False,,JTMFB3FV4RD197382,Riverhead Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52699,0,47560,Factory to port,False,,JTMFB3FV4RD198449,Jimmy Vasser Toyota,CA
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52799,0,47560,Factory to port,False,,JTMFB3FV4RD198807,Woburn Toyota,MA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53512,0,47560,Factory to port,False,DealerHold,JTMFB3FV4RD198810,Rogers Toyota of Hermiston,OR
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52819,0,47560,Factory to port,False,,JTMFB3FV4RD199102,Balise Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,52884,0,47310,At dealer,False,DealerHold,JTMFB3FV5RD167159,Colonial Toyota,CT
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,51994,0,47310,At dealer,False,DealerHold,JTMFB3FV5RD171969,Parkway Toyota,NJ
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52889,0,47310,At dealer,False,,JTMFB3FV5RD178839,Herb Chambers Toyota of Auburn,MA
@@ -3435,14 +3717,16 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52983,0,47560,At dealer,False,DealerHold,JTMFB3FV5RD189551,DARCARS Toyota of Frederick,MD
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53069,0,47560,Port to dealer,False,DealerHold,JTMFB3FV5RD190263,Down East Toyota,ME
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,,JTMFB3FV5RD190361,Valenti Toyota,RI
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52909,0,47560,Port to dealer,False,,JTMFB3FV5RD190487,Woburn Toyota,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,At dealer,False,DealerHold,JTMFB3FV5RD190571,Kendall Toyota of Bend,OR
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,At dealer,False,,JTMFB3FV5RD190604,Toyota Santa Monica,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52488,0,47560,Port to dealer,False,,JTMFB3FV5RD190716,Greentree Toyota,CT
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52779,0,47560,Port to dealer,True,DealerHold,JTMFB3FV5RD191171,Freeman Toyota,CA
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53558,3675,51235,Port to dealer,True,DealerHold,JTMFB3FV5RD191283,Kearny Mesa Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52824,0,47560,Port to dealer,False,,JTMFB3FV5RD190831,Sullivan Brothers Toyota,MA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52779,0,47560,At dealer,True,DealerHold,JTMFB3FV5RD191171,Freeman Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53558,3675,51235,At dealer,True,DealerHold,JTMFB3FV5RD191283,Kearny Mesa Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52754,0,47560,Port to dealer,True,DealerHold,JTMFB3FV5RD191297,Durango Toyota,CO
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53067,1790,49350,Factory to port,False,,JTMFB3FV5RD191428,Shore Toyota,NJ
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53732,0,47560,Port to dealer,False,,JTMFB3FV5RD191431,Manhattan Beach Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53732,0,47560,At dealer,False,,JTMFB3FV5RD191431,Manhattan Beach Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52894,0,47560,Factory to port,False,,JTMFB3FV5RD191719,McGee Toyota of Dudley,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53447,888,48448,Port to dealer,False,,JTMFB3FV5RD191963,Romeoville Toyota,IL
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52604,0,47560,Port to dealer,True,,JTMFB3FV5RD192014,San Francisco Toyota,CA
@@ -3459,7 +3743,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53392,1295,48855,Factory to port,False,,JTMFB3FV5RD197309,Auburn Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53377,0,47560,Factory to port,False,,JTMFB3FV5RD197570,South Bay Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,995,48555,Factory to port,False,,JTMFB3FV5RD197603,Toyota Town,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52554,0,47560,Factory to port,False,,JTMFB3FV5RD198234,Toyota of Watertown,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53837,0,47560,Factory to port,False,DealerHold,JTMFB3FV5RD198489,Lithia Toyota of Springfield,OR
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53108,0,47560,Factory to port,False,,JTMFB3FV5RD199044,Toyota of Morristown,NJ
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52354,0,47310,At dealer,False,,JTMFB3FV6RD174301,Toyota Universe,NJ
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52569,0,47310,At dealer,False,Available,JTMFB3FV6RD175593,Harr Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52819,0,47310,At dealer,False,,JTMFB3FV6RD176677,Interstate Toyota,NY
@@ -3488,21 +3774,23 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52549,0,47560,At dealer,False,,JTMFB3FV6RD188182,Expressway Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52984,0,47560,At dealer,True,DealerHold,JTMFB3FV6RD188425,"Stapp Interstate Toyota, Inc.",CO
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52244,107,47667,At dealer,False,,JTMFB3FV6RD188764,Curry Toyota,NY
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53704,0,47560,Port to dealer,False,DealerHold,JTMFB3FV6RD189168,Toyota of Manhattan,NY
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53704,0,47560,At dealer,False,DealerHold,JTMFB3FV6RD189168,Toyota of Manhattan,NY
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53097,0,47560,At dealer,False,Available,JTMFB3FV6RD189316,Gettel Toyota of Lakewood,FL
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53608,0,47560,At dealer,True,Available,JTMFB3FV6RD189798,Toyota of Cedar Park,TX
-2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53389,0,47560,Port to dealer,False,,JTMFB3FV6RD189848,Star Toyota of Bayside,NY
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53389,0,47560,At dealer,False,,JTMFB3FV6RD189848,Star Toyota of Bayside,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52659,0,47560,Port to dealer,False,,JTMFB3FV6RD189915,DCH Brunswick Toyota,NJ
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,Port to dealer,False,,JTMFB3FV6RD189929,Toyota Santa Monica,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,At dealer,False,,JTMFB3FV6RD190174,Claremont Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52244,0,47560,Port to dealer,False,,JTMFB3FV6RD190370,Nucar Toyota of North Attleboro,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,,JTMFB3FV6RD190580,Sunrise Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,At dealer,False,,JTMFB3FV6RD190708,Longo Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52648,0,47560,Port to dealer,False,DealerHold,JTMFB3FV6RD190739,DCH Freehold Toyota,NJ
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53028,0,47560,Port to dealer,False,,JTMFB3FV6RD190840,Toyota of Lancaster,CA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53044,0,47560,Port to dealer,False,,JTMFB3FV6RD190854,Lexington Toyota,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53118,0,47560,Port to dealer,True,,JTMFB3FV6RD190949,Walker Toyota,OH
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53228,0,47560,At dealer,False,,JTMFB3FV6RD190966,Toyota of Glendora,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53237,0,47560,At dealer,False,DealerHold,JTMFB3FV6RD191020,Toyota of Pullman,WA
-2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,DealerHold,JTMFB3FV6RD191468,Gresham Toyota,OR
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,At dealer,False,DealerHold,JTMFB3FV6RD191468,Gresham Toyota,OR
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52408,0,47560,Port to dealer,True,DealerHold,JTMFB3FV6RD192216,Freeman Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53752,1495,49055,Port to dealer,False,,JTMFB3FV6RD192247,Simi Valley Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53293,195,47755,Port to dealer,True,,JTMFB3FV6RD192846,Cabe Toyota Long Beach,CA
@@ -3527,6 +3815,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52919,0,47560,Factory to port,False,,JTMFB3FV6RD196833,Toyota of Escondido,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52984,0,47560,Factory to port,False,,JTMFB3FV6RD197352,Toyota of Clovis,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53543,0,47560,Factory to port,False,,JTMFB3FV6RD197397,Bob Smith Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53084,0,47560,Factory to port,False,,JTMFB3FV6RD198310,Fox Toyota,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52718,0,47560,Factory to port,False,,JTMFB3FV6RD198551,Antioch Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,51870,0,47560,Factory to port,False,,JTMFB3FV7R113CC99,Rivera Toyota of Mt. Kisco,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52859,0,47310,At dealer,False,,JTMFB3FV7RD174324,Lynch Toyota,CT
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52613,0,47310,At dealer,False,,JTMFB3FV7RD174534,WOW Toyota of Wallingford,CT
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52354,0,47310,At dealer,False,,JTMFB3FV7RD175019,Toyota Universe,NJ
@@ -3560,6 +3851,8 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,Port to dealer,False,,JTMFB3FV7RD190541,Manhattan Beach Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,2495,50055,Port to dealer,False,,JTMFB3FV7RD190734,Toyota of Orange,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,2495,50055,Port to dealer,False,,JTMFB3FV7RD190801,Toyota of Orange,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52659,0,47560,Port to dealer,False,DealerHold,JTMFB3FV7RD190930,Fox Toyota,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53049,0,47560,Port to dealer,False,,JTMFB3FV7RD191169,Toyota of Massapequa,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53133,0,47560,Port to dealer,False,,JTMFB3FV7RD191270,Toyota Carlsbad,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53118,0,47560,Factory to port,True,DealerHold,JTMFB3FV7RD191382,Sheehy Toyota of Stafford,VA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52398,0,47560,Factory to port,False,DealerHold,JTMFB3FV7RD191432,DCH Freehold Toyota,NJ
@@ -3584,9 +3877,11 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,195,47755,Factory to port,False,,JTMFB3FV7RD197165,Cabe Toyota Long Beach,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53218,0,47560,Factory to port,False,,JTMFB3FV7RD197859,Toyota of Boardman,OH
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52988,299,47859,Factory to port,False,,JTMFB3FV7RD198185,Magnussen's Toyota of Palo Alto,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52918,0,47560,Factory to port,False,,JTMFB3FV7RD198252,Victory Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52553,0,47560,Factory to port,True,DealerHold,JTMFB3FV7RD198672,Freeman Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52819,0,47560,Factory to port,False,DealerHold,JTMFB3FV7RD198719,Toyota of Lake City,WA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53307,0,47560,Factory to port,True,,JTMFB3FV8R112CP10,Firelands Toyota,OH
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52854,0,47560,Factory to port,False,,JTMFB3FV8R113CC77,Charles Toyota,CT
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47310,52174,0,47310,At dealer,False,Available,JTMFB3FV8RD168578,Della Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52299,0,47310,At dealer,False,DealerHold,JTMFB3FV8RD178897,Toyota of Nashua,NH
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52144,0,47310,At dealer,False,,JTMFB3FV8RD180150,Harr Toyota,MA
@@ -3609,9 +3904,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52484,0,47560,At dealer,False,,JTMFB3FV8RD188233,Woburn Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,At dealer,False,,JTMFB3FV8RD188345,South Coast Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53039,0,47560,At dealer,False,,JTMFB3FV8RD188667,Toyota City,NY
-2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52979,0,47560,At dealer,False,DealerHold,JTMFB3FV8RD188829,Toyota of Watertown,MA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52979,0,47560,At dealer,True,DealerHold,JTMFB3FV8RD188829,Toyota of Watertown,MA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52823,0,47560,At dealer,False,DealerHold,JTMFB3FV8RD189074,DCH Freehold Toyota,NJ
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53838,0,47560,Port to dealer,False,,JTMFB3FV8RD189396,Toyota of Manhattan,NY
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53838,0,47560,At dealer,False,,JTMFB3FV8RD189396,Toyota of Manhattan,NY
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,53163,1397,48957,At dealer,False,DealerHold,JTMFB3FV8RD189415,DCH Wappingers Falls Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,At dealer,False,,JTMFB3FV8RD189883,Claremont Toyota,CA
 2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,53139,0,47560,Port to dealer,False,,JTMFB3FV8RD189964,Imperial Toyota,MA
@@ -3620,6 +3915,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53028,1443,49003,At dealer,False,Available,JTMFB3FV8RD190306,Toyota of Lancaster,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52334,299,47859,Port to dealer,False,,JTMFB3FV8RD190533,Team Toyota,PA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53838,0,47560,Port to dealer,False,,JTMFB3FV8RD190659,Toyota of Manhattan,NY
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52484,0,47560,Port to dealer,False,,JTMFB3FV8RD190905,Woburn Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,Factory to port,False,,JTMFB3FV8RD191410,Sunrise Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52604,0,47560,At dealer,True,DealerHold,JTMFB3FV8RD191553,Capitol Toyota of Salem,OR
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53063,4079,51639,At dealer,False,Available,JTMFB3FV8RD191570,Toyota of Huntington Beach,CA
@@ -3640,9 +3936,13 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52933,1750,49310,Factory to port,True,,JTMFB3FV8RD195991,Crown Toyota,MI
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53218,2995,50555,Factory to port,True,DealerHold,JTMFB3FV8RD196011,Classic Toyota,TX
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52828,0,47560,Factory to port,False,Available,JTMFB3FV8RD196042,Gullo Toyota of Conroe,TX
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52909,0,47560,Factory to port,False,,JTMFB3FV8RD196574,Atlantic Toyota,MA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53159,0,47560,Factory to port,False,,JTMFB3FV8RD196834,West Coast Toyota of Long Beach,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53118,0,47560,Factory to port,False,,JTMFB3FV8RD196929,Bob Smith Toyota,CA
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52667,0,47560,Factory to port,False,,JTMFB3FV8RD197563,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52394,0,47560,Factory to port,False,,JTMFB3FV8RD198454,Advantage Toyota,NY
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52934,0,47560,Factory to port,False,,JTMFB3FV8RD198471,Alderman's Toyota,VT
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52783,0,47560,Factory to port,False,,JTMFB3FV8RD198521,City Toyota,CA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53412,0,47560,Factory to port,False,,JTMFB3FV9R113BL49,Kendall Toyota of Bend,OR
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47310,52754,0,47310,At dealer,False,,JTMFB3FV9RD170209,"Glen Motors, Inc.",NJ
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47310,52419,0,47310,At dealer,False,DealerHold,JTMFB3FV9RD171733,Parkway Toyota,NJ
@@ -3668,20 +3968,23 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52484,0,47560,At dealer,False,,JTMFB3FV9RD187477,Faith's Toyota Ford,VT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53667,0,47560,At dealer,False,,JTMFB3FV9RD188161,Santa Margarita Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52824,0,47560,At dealer,False,,JTMFB3FV9RD188189,"Bristol Toyota, Inc.",MA
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52639,0,47560,Port to dealer,True,,JTMFB3FV9RD188371,AutoNation Toyota Arapahoe,CO
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52639,0,47560,At dealer,True,,JTMFB3FV9RD188371,AutoNation Toyota Arapahoe,CO
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,54171,0,47560,At dealer,True,,JTMFB3FV9RD188399,Rivera Toyota of Mt. Kisco,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52394,0,47560,At dealer,False,,JTMFB3FV9RD189567,Westbury Toyota,NY
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52179,0,47560,Port to dealer,False,,JTMFB3FV9RD189648,A-1 Toyota,CT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53084,495,48055,Port to dealer,False,Available,JTMFB3FV9RD189732,Waldorf Toyota,MD
+2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52244,0,47560,Port to dealer,False,,JTMFB3FV9RD190105,Nucar Toyota of North Attleboro,MA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53249,0,47560,Port to dealer,True,DealerHold,JTMFB3FV9RD190184,Toyota of Des Moines,IA
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53253,0,47560,Port to dealer,True,DealerHold,JTMFB3FV9RD190217,Rudy Luther Toyota,MN
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53164,0,47560,At dealer,False,,JTMFB3FV9RD190492,Claremont Toyota,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52394,0,47560,Port to dealer,False,DealerHold,JTMFB3FV9RD190511,Riverhead Toyota,NY
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52799,0,47560,At dealer,False,Available,JTMFB3FV9RD190525,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53139,0,47560,Port to dealer,False,,JTMFB3FV9RD190606,Imperial Toyota,MA
+2024,XSE AWD,Supersonic Red/Midnight Black Metallic Roof,47560,52819,0,47560,Port to dealer,False,DealerHold,JTMFB3FV9RD190623,Bernardi Toyota,MA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52394,0,47560,Port to dealer,False,,JTMFB3FV9RD190671,Riverhead Toyota,NY
-2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53133,3675,51235,Port to dealer,False,,JTMFB3FV9RD190802,Kearny Mesa Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53133,3675,51235,At dealer,False,,JTMFB3FV9RD190802,Kearny Mesa Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53468,0,47560,At dealer,False,,JTMFB3FV9RD191206,Longo Toyota,CA
+2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,52249,0,47560,At dealer,False,DealerHold,JTMFB3FV9RD191447,Gresham Toyota,OR
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53043,0,47560,At dealer,False,,JTMFB3FV9RD191481,Longo Toyota,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,53982,0,47560,Port to dealer,False,DealerHold,JTMFB3FV9RD192159,Toyota of North Hollywood,CA
 2024,XSE AWD,Blueprint/Midnight Black Metallic Roof,47560,52179,0,47560,Factory to port,False,,JTMFB3FV9RD192713,Toyota of Hackensack,NJ
@@ -3733,6 +4036,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,52799,0,47560,At dealer,False,,JTMFB3FVXRD189951,Longo Toyota,CA
 2024,XSE AWD,Magnetic Gray Metallic/Midnight Black Metallic Roof,47560,53067,0,47560,Port to dealer,False,,JTMFB3FVXRD190128,Dayton Toyota,NJ
 2024,XSE AWD,Silver Sky Metallic/Midnight Black Metallic Roof,47560,53327,2560,50120,At dealer,False,,JTMFB3FVXRD190193,Simi Valley Toyota,CA
+2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52604,0,47560,Port to dealer,False,,JTMFB3FVXRD190243,White River Toyota,VT
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,54217,0,47560,At dealer,False,Available,JTMFB3FVXRD190288,AutoNation Toyota Buena Park,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52295,0,47560,At dealer,False,,JTMFB3FVXRD190520,Envision Toyota of Norwalk,CA
 2024,XSE AWD,Wind Chill Pearl/Midnight Black Metallic Roof,47560,52295,0,47560,At dealer,False,,JTMFB3FVXRD190534,Envision Toyota of Norwalk,CA
