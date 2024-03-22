@@ -196,9 +196,9 @@ def update_vehicles():
             [
                 "vin",
                 "dealerCategory",
-                "price.baseMsrp",
+                #"price.baseMsrp",
                 "price.totalMsrp",
-                "price.dioTotalDealerSellingPrice",
+                #"price.dioTotalDealerSellingPrice",
                 "isPreSold",
                 "holdStatus",
                 "year",
@@ -209,7 +209,7 @@ def update_vehicles():
                 "dealerMarketingName",
                 # "dealerWebsite",
                 "Dealer State",
-                # "options",
+                "options",
             ]
         ]
         .copy(deep=True)
@@ -258,10 +258,10 @@ def update_vehicles():
             "Year",
             "Model",
             "Color",
-            "Base MSRP",
+            #"Base MSRP",
             "TSRP MSRP",
-            "Markup",
-            "Dealer Price",
+            #"Markup",
+            #"Dealer Price",
             "Shipping Status",
             "Pre-Sold",
             "Hold Status",
@@ -270,7 +270,7 @@ def update_vehicles():
             # "Dealer Website",
             "Dealer State",
             # "Image",
-            # "Options",
+             "Options",
         ]
     ]
 
