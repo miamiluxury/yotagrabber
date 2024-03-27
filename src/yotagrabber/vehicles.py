@@ -173,6 +173,7 @@ def update_vehicles():
     df = df.merge(dealers, left_on="dealerCd", right_on="dealerId")
 
     renames = {
+        "eta.currToDate": "ETA",
         "vin": "VIN",
         "price.baseMsrp": "Base MSRP",
         "price.totalMsrp": "TSRP MSRP",
@@ -194,6 +195,7 @@ def update_vehicles():
     df = (
         df[
             [
+                "eta.currToDate",
                 "vin",
                 "dealerCategory",
                 "price.baseMsrp",
@@ -242,6 +244,12 @@ def update_vehicles():
         "G": "At dealer",
     }
     df.replace({"Shipping Status": statuses}, inplace=True)
+    
+    # when ETA is null, set as unknown, otherwise format as date
+    if df["ETA"].isnull().any():
+        df["ETA"].fillna("Unknown", inplace=True)
+    else:
+        df["ETA"] = df["ETA"].apply(lambda dt: dt.split("T")[0])
 
     # df["Image"] = df["media"].apply(
     #     lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
@@ -255,6 +263,7 @@ def update_vehicles():
 
     df = df[
         [
+            "ETA",
             "Year",
             "Model",
             "Color",
