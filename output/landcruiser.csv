@@ -1,12 +1,11 @@
 Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
 2024,First Edition 4WD,Black,74950,76954,0,74950,Factory to port,False,,JTEABFAJ0R111BS61,AutoNation Toyota Arapahoe,CO
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77150,0,74950,Factory to port,False,,JTEABFAJ0R112BB55,Toyota Town,CA
-2024,1958 4WD,Ice Cap,55950,59013,1595,57545,Factory to port,True,,JTEABFAJ0R112BQ37,Findlay Toyota,NV
 2024,First Edition 4WD,Black,74950,77323,1595,76545,Factory to port,True,,JTEABFAJ0R112BQ68,Findlay Toyota,NV
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77200,0,74950,Factory to port,False,DealerHold,JTEABFAJ0R112CP31,Peppers Toyota,TN
-2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,,JTEABFAJ0R112CP59,Toyota Knoxville,TN
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,DealerHold,JTEABFAJ0R112CP59,Toyota Knoxville,TN
 2024,First Edition 4WD,Black,74950,77670,0,74950,Factory to port,False,,JTEABFAJ0R112CP62,Toyota on Nicholasville,KY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77175,2494,77444,Factory to port,False,,JTEABFAJ0R113AT61,Envision Toyota of West Covina,CA
+2024,First Edition 4WD,Black,74950,77905,0,74950,Factory to port,False,DealerHold,JTEABFAJ0R113CD34,Waite Toyota,NY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77744,0,74950,Factory to port,False,,JTEABFAJ0R113CD82,New Rochelle Toyota,NY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78020,0,74950,Factory to port,False,,JTEABFAJ0R113CR66,Toyota on Nicholasville,KY
 2024,First Edition 4WD,Black,74950,77589,0,74950,Factory to port,True,,JTEABFAJ0R113CS10,Toyota of Boardman,OH
@@ -25,7 +24,6 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,DealerHold,JTEABFAJ0R5000956,Right Toyota,AZ
 2024,First Edition 4WD,Black,74950,77563,0,74950,Factory to port,False,,JTEABFAJ0R5000987,Toyota of Cool Springs,TN
 2024,First Edition 4WD,Black,74950,78582,0,74950,Factory to port,True,DealerHold,JTEABFAJ0RK000327,Hamer Toyota,CA
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,78280,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK000375,Kendall Toyota of Anchorage,AK
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78014,6580,81530,Factory to port,False,DealerHold,JTEABFAJ0RK000389,Toyota of El Cajon,CA
 2024,First Edition 4WD,Black,74950,78028,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK000411,Hatch Toyota Stateline,NM
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77655,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK000442,Le Mieux & Son Toyota,WI
@@ -36,22 +34,27 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77404,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK000621,Right Toyota,AZ
 2024,First Edition 4WD,Black,74950,76675,0,74950,Factory to port,False,,JTEABFAJ0RK000652,Sloane Toyota of Philadelphia,PA
 2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK000831,Right Toyota,AZ
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77955,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001087,Precision Toyota of Tucson,AZ
-2024,First Edition 4WD,Black,74950,78093,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001137,Fitzgerald Toyota Chambersburg,PA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77955,0,74950,Factory to port,True,DealerHold,JTEABFAJ0RK001087,Precision Toyota of Tucson,AZ
+2024,First Edition 4WD,Black,74950,78093,0,74950,Factory to port,True,DealerHold,JTEABFAJ0RK001137,Fitzgerald Toyota Chambersburg,PA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78553,0,74950,Factory to port,True,DealerHold,JTEABFAJ0RK001140,Culver City Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77315,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001266,Toyota of Warsaw,IN
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78014,6580,81530,Factory to port,False,DealerHold,JTEABFAJ0RK001347,Toyota of El Cajon,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77624,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001364,Royal Moore Toyota,OR
 2024,First Edition 4WD,Black,74950,77570,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001414,Kings Toyota,OH
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78125,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001493,Toyota of Louisville,KY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78014,6580,81530,Factory to port,False,,JTEABFAJ0RK001591,Toyota of El Cajon,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77635,0,74950,Factory to port,True,DealerHold,JTEABFAJ0RK001610,Heartland Toyota,WA
+2024,First Edition 4WD,Black,74950,76524,0,74950,Factory to port,False,DealerHold,JTEABFAJ0RK001672,Mountain States Toyota,CO
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77485,1495,76445,Factory to port,True,DealerHold,JTEABFAJ1R111AT14,Simi Valley Toyota,CA
-2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,,JTEABFAJ1R112CP71,Toyota Knoxville,TN
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78118,0,74950,Factory to port,False,Available,JTEABFAJ1R111CO14,Fort's Toyota of Pekin,IL
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,0,74950,Factory to port,True,DealerHold,JTEABFAJ1R112CP37,Toyota Knoxville,TN
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,195,75145,Factory to port,False,,JTEABFAJ1R113AT53,Cabe Toyota Long Beach,CA
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77795,0,74950,Factory to port,True,DealerHold,JTEABFAJ1R113BL87,Toyota of Puyallup,WA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77795,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R113BL87,Toyota of Puyallup,WA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77665,0,74950,Factory to port,True,DealerHold,JTEABFAJ1R113BL90,Toyota of Puyallup,WA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77770,0,74950,Factory to port,False,,JTEABFAJ1R113CD88,Steet Toyota of Johnstown-Gloversville,NY
 2024,First Edition 4WD,Black,74950,77365,0,74950,Factory to port,True,,JTEABFAJ1R5000142,Wills Toyota,ID
 2024,First Edition 4WD,Black,74950,77325,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000268,Irwin Toyota,NH
-2024,First Edition 4WD,Black,74950,76985,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000366,DARCARS Toyota of Frederick,MD
+2024,First Edition 4WD,Black,74950,76985,0,74950,Factory to port,True,DealerHold,JTEABFAJ1R5000366,DARCARS Toyota of Frederick,MD
 2024,First Edition 4WD,Black,74950,77345,9232,84182,Factory to port,False,DealerHold,JTEABFAJ1R5000397,Toyota of Renton,WA
 2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,True,,JTEABFAJ1R5000402,Alderman's Toyota,VT
 2024,First Edition 4WD,Black,74950,78099,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000447,Falmouth Toyota,MA
@@ -63,7 +66,9 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,76630,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000710,West Herr Toyota of Canandaigua,NY
 2024,First Edition 4WD,Black,74950,77379,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000903,Toyota Santa Monica,CA
 2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,False,DealerHold,JTEABFAJ1R5000951,Rick Collins Toyota,IA
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,DealerHold,JTEABFAJ1R5001100,Folsom Lake Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77814,0,74950,Factory to port,True,DealerHold,JTEABFAJ1RK000305,Toyota of San Bernardino,CA
+2024,First Edition 4WD,Black,74950,77540,0,74950,Factory to port,False,DealerHold,JTEABFAJ1RK000353,Ardmore Toyota,PA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77844,0,74950,Factory to port,True,DealerHold,JTEABFAJ1RK000563,Del Toyota,PA
 2024,First Edition 4WD,Black,74950,77453,0,74950,Factory to port,True,DealerHold,JTEABFAJ1RK000594,Rick McGill's Airport Toyota,TN
 2024,First Edition 4WD,Black,74950,76930,0,74950,Factory to port,True,,JTEABFAJ1RK000613,Carlson Toyota,MN
@@ -76,7 +81,11 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77605,0,74950,Factory to port,False,DealerHold,JTEABFAJ1RK001163,Lithia Toyota of Springfield,OR
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78019,0,74950,Factory to port,False,DealerHold,JTEABFAJ1RK001342,Galaxy Toyota,NJ
 2024,First Edition 4WD,Black,74950,77309,0,74950,Factory to port,False,DealerHold,JTEABFAJ1RK001423,Brunswick Toyota,OH
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,78149,0,74950,Factory to port,False,,JTEABFAJ1RK001583,Temecula Valley Toyota,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77380,0,74950,Factory to port,True,DealerHold,JTEABFAJ1RK001485,Toyota Knoxville,TN
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78149,0,74950,Factory to port,False,DealerHold,JTEABFAJ1RK001583,Temecula Valley Toyota,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77754,0,74950,Factory to port,False,,JTEABFAJ1RK001664,Hansel Toyota,CA
+2024,First Edition 4WD,Black,74950,78089,0,74950,Factory to port,True,DealerHold,JTEABFAJ1RK001793,Rohrich Toyota,PA
+2024,First Edition 4WD,Black,74950,77014,1298,76248,Factory to port,False,,JTEABFAJ1RK001888,Sunshine Toyota,MI
 2024,First Edition 4WD,Black,74950,76955,0,74950,Factory to port,False,,JTEABFAJ2R113AS95,Toyota of Glendale,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77605,0,74950,Factory to port,False,,JTEABFAJ2R113AT45,South Coast Toyota,CA
 2024,First Edition 4WD,Black,74950,77285,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R113BM01,I-5 Toyota,WA
@@ -91,14 +100,17 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77250,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000618,Deery Brothers Toyota,IA
 2024,First Edition 4WD,Black,74950,76475,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000649,Toyota of Muscatine,IA
 2024,First Edition 4WD,Black,74950,78258,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000697,Toyota of Portsmouth,NH
-2024,First Edition 4WD,Black,74950,76925,0,74950,Factory to port,False,Available,JTEABFAJ2R5000733,Hesser Toyota,WI
+2024,First Edition 4WD,Black,74950,76925,0,74950,Factory to port,True,Available,JTEABFAJ2R5000733,Hesser Toyota,WI
 2024,First Edition 4WD,Black,74950,77360,0,74950,Factory to port,False,,JTEABFAJ2R5000750,Napleton's Toyota of Urbana,IL
 2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,,JTEABFAJ2R5000778,Lithia Toyota of Redding,CA
 2024,First Edition 4WD,Black,74950,77234,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000795,Girard Toyota-BMW,CT
-2024,First Edition 4WD,Black,74950,78099,0,74950,Factory to port,False,,JTEABFAJ2R5000814,Loyalty Toyota,VA
-2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000862,Dowling Toyota of Litchfield,CT
+2024,First Edition 4WD,Black,74950,78099,0,74950,Factory to port,True,DealerHold,JTEABFAJ2R5000814,Loyalty Toyota,VA
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,DealerHold,JTEABFAJ2R5000862,Dowling Toyota of Litchfield,CT
 2024,First Edition 4WD,Black,74950,76954,0,74950,Factory to port,False,,JTEABFAJ2R5000926,AutoNation Toyota Arapahoe,CO
-2024,First Edition 4WD,Black,74950,76500,0,74950,Factory to port,False,,JTEABFAJ2R5000988,Envision Toyota of Norwalk,CA
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,,JTEABFAJ2R5000974,Jim Bagan Toyota,CA
+2024,First Edition 4WD,Black,74950,76500,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5000988,Envision Toyota of Norwalk,CA
+2024,First Edition 4WD,Black,74950,77274,0,74950,Factory to port,False,DealerHold,JTEABFAJ2R5001039,Gresham Toyota,OR
+2024,First Edition 4WD,Black,74950,78159,0,74950,Factory to port,False,,JTEABFAJ2R5001073,Dan Deery Toyota,IA
 2024,First Edition 4WD,Black,74950,77464,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK000149,Temecula Valley Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77570,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK000328,Tony Divino Toyota,UT
 2024,First Edition 4WD,Black,74950,77689,0,74950,Factory to port,True,DealerHold,JTEABFAJ2RK000331,St. Charles Toyota,IL
@@ -110,9 +122,11 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77729,0,74950,Factory to port,True,DealerHold,JTEABFAJ2RK000698,Toyota of The Desert,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,76920,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK000717,Heritage Toyota Catonsville,MD
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78563,0,74950,Factory to port,False,Available,JTEABFAJ2RK000944,Riverhead Toyota,NY
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77135,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK000961,Toyota of San Bernardino,CA
 2024,First Edition 4WD,Black,74950,77439,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK000989,Summit Toyota of Akron,OH
 2024,1958 4WD,Ice Cap,55950,58912,0,55950,Factory to port,False,,JTEABFAJ2RK001012,Plaza Toyota,NY
 2024,First Edition 4WD,Black,74950,76875,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK001057,Wondries Toyota,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77055,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK001091,Roswell Toyota,NM
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77210,0,74950,Factory to port,True,DealerHold,JTEABFAJ2RK001267,Walker Toyota,OH
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77185,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK001284,Toyota of Laramie,WY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78404,0,74950,Factory to port,False,,JTEABFAJ2RK001298,Ball Toyota of Charleston,WV
@@ -120,11 +134,14 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77010,4079,79029,Factory to port,True,,JTEABFAJ2RK001480,Toyota of Huntington Beach,CA
 2024,First Edition 4WD,Black,74950,76955,0,74950,Factory to port,False,,JTEABFAJ2RK001494,Toyota of Glendale,CA
 2024,1958 4WD,Black,55950,61972,0,55950,Factory to port,False,,JTEABFAJ2RK001513,"Glen Motors, Inc.",NJ
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77959,0,74950,Factory to port,False,,JTEABFAJ2RK001656,Downtown Toyota of Oakland,CA
+2024,First Edition 4WD,Black,74950,77799,0,74950,Factory to port,False,,JTEABFAJ2RK001706,Toyota of Riverside,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78144,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK001818,Damian Lillard Toyota,OR
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78383,0,74950,Factory to port,False,DealerHold,JTEABFAJ2RK001964,Toyota of Murfreesboro,TN
 2024,First Edition 4WD,Black,74950,77629,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R111AS65,Toyota Chula Vista,CA
 2024,First Edition 4WD,Black,74950,77390,0,74950,Factory to port,False,,JTEABFAJ3R111CT10,Watermark Toyota,KY
 2024,First Edition 4WD,Black,74950,76954,0,74950,Factory to port,False,,JTEABFAJ3R112BQ64,AutoNation Toyota Arapahoe,CO
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78619,1978,76928,Factory to port,False,,JTEABFAJ3R112CP38,Chuck Hutton Toyota,TN
-2024,First Edition 4WD,Black,74950,76990,0,74950,Factory to port,True,,JTEABFAJ3R112CP69,Crown Toyota,MI
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77994,5970,80920,Factory to port,False,DealerHold,JTEABFAJ3R113AT54,Toyota of Redlands,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77215,0,74950,Factory to port,True,,JTEABFAJ3R113BL91,Lithia Toyota of Klamath Falls,OR
 2024,First Edition 4WD,Black,74950,77549,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R113BM07,Kendall Toyota of Bend,OR
@@ -133,58 +150,66 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77160,0,74950,Factory to port,False,Available,JTEABFAJ3R5000126,Kendall Toyota,OR
 2024,First Edition 4WD,Black,74950,77449,0,74950,Factory to port,False,,JTEABFAJ3R5000210,Bill Estes Toyota,IN
 2024,First Edition 4WD,Black,74950,76939,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R5000370,Westbrook Toyota,CT
+2024,First Edition 4WD,Black,74950,77529,0,74950,Factory to port,False,DealerHold,JTEABFAJ3R5000482,Burien Toyota,WA
 2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R5000501,Freeman Toyota,CA
-2024,First Edition 4WD,Black,74950,76930,0,74950,Factory to port,False,DealerHold,JTEABFAJ3R5000532,Aubrey Alexander Toyota,PA
-2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,,JTEABFAJ3R5000627,Earnhardt Toyota,AZ
+2024,First Edition 4WD,Black,74950,76930,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R5000532,Aubrey Alexander Toyota,PA
+2024,First Edition 4WD,Black,74950,76705,0,74950,Factory to port,False,,JTEABFAJ3R5000627,Earnhardt Toyota,AZ
 2024,First Edition 4WD,Black,74950,77794,0,74950,Factory to port,False,DealerHold,JTEABFAJ3R5000630,Della Toyota,NY
 2024,First Edition 4WD,Black,74950,76835,10000,84950,Factory to port,False,DealerHold,JTEABFAJ3R5000708,LeadCar Toyota Wausau,WI
 2024,First Edition 4WD,Black,74950,77075,1037,75987,Factory to port,False,,JTEABFAJ3R5000739,Brian Bemis Toyota of DeKalb,IL
 2024,First Edition 4WD,Black,74950,77954,0,74950,Factory to port,False,DealerHold,JTEABFAJ3R5000773,Haley Toyota of Richmond,VA
-2024,First Edition 4WD,Black,74950,76905,0,74950,Factory to port,False,DealerHold,JTEABFAJ3R5000840,Precision Toyota of Tucson,AZ
+2024,First Edition 4WD,Black,74950,76905,0,74950,Factory to port,True,DealerHold,JTEABFAJ3R5000840,Precision Toyota of Tucson,AZ
 2024,First Edition 4WD,Black,74950,77299,0,74950,Factory to port,False,,JTEABFAJ3R5000921,Jay Wolfe Toyota of West County,MO
 2024,First Edition 4WD,Black,74950,77294,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK000418,John Weiss' Toyota of South County,MO
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77024,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK000449,Toyota of Gallatin,TN
 2024,First Edition 4WD,Black,74950,77439,9999,84949,Factory to port,False,Available,JTEABFAJ3RK000810,Toyota of Warren,OH
+2024,First Edition 4WD,Black,74950,77629,0,74950,Factory to port,False,,JTEABFAJ3RK000872,Mossy Toyota,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77150,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK000953,Toyota Santa Monica,CA
 2024,First Edition 4WD,Black,74950,77455,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001004,Serra Toyota of Saginaw,MI
 2024,First Edition 4WD,Black,74950,78622,0,74950,Factory to port,True,DealerHold,JTEABFAJ3RK001049,Culver City Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77495,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001102,Tony Divino Toyota,UT
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77519,0,74950,Factory to port,False,,JTEABFAJ3RK001116,Checkered Flag Toyota,VA
-2024,First Edition 4WD,Black,74950,78054,0,74950,Factory to port,False,,JTEABFAJ3RK001147,Mike Kelly Toyota of Uniontown,PA
+2024,First Edition 4WD,Black,74950,78054,0,74950,Factory to port,True,DealerHold,JTEABFAJ3RK001147,Mike Kelly Toyota of Uniontown,PA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78514,0,74950,Factory to port,True,DealerHold,JTEABFAJ3RK001259,Robinson Toyota,TN
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78519,0,74950,Factory to port,False,,JTEABFAJ3RK001326,Allegheny Toyota,PA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77900,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001360,Toyota of Lake City,WA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77434,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001567,Colonial Toyota,CT
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77745,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001570,Toyota of The Desert,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77745,0,74950,Factory to port,True,DealerHold,JTEABFAJ3RK001570,Toyota of The Desert,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77845,0,74950,Factory to port,True,Available,JTEABFAJ3RK001584,Bob Smith Toyota,CA
+2024,First Edition 4WD,Black,74950,76835,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001634,Toyota West,OH
+2024,First Edition 4WD,Black,74950,76475,1997,76947,Factory to port,False,,JTEABFAJ3RK001696,Valley Hi Toyota,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78130,0,74950,Factory to port,False,DealerHold,JTEABFAJ3RK001892,"Fort Dodge Ford, Lincoln, Toyota",IA
 2024,First Edition 4WD,Black,74950,77999,0,74950,Factory to port,False,,JTEABFAJ4R112AS23,Santa Margarita Toyota,CA
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77980,9232,84182,Factory to port,False,DealerHold,JTEABFAJ4R112BJ00,Toyota of Renton,WA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77845,0,74950,Factory to port,True,Available,JTEABFAJ4R113AT63,Bob Smith Toyota,CA
 2024,First Edition 4WD,Black,74950,77020,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R113CR99,Golling Toyota of Warren,MI
 2024,First Edition 4WD,Black,74950,77294,0,74950,Factory to port,False,,JTEABFAJ4R5000152,Jay Wolfe Toyota of West County,MO
 2024,First Edition 4WD,Black,74950,76650,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R5000202,Edmark Toyota,ID
 2024,First Edition 4WD,Black,74950,76654,0,74950,Factory to port,True,DealerHold,JTEABFAJ4R5000488,Harr Toyota,SD
-2024,First Edition 4WD,Black,74950,77778,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R5000491,Jerry Ackerman Toyota,MO
+2024,First Edition 4WD,Black,74950,77698,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R5000491,Jerry Ackerman Toyota,MO
 2024,First Edition 4WD,Black,74950,77074,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R5000510,Toyota of Keene,NH
 2024,First Edition 4WD,Black,74950,77234,0,74950,Factory to port,True,,JTEABFAJ4R5000541,Middletown Toyota,CT
 2024,First Edition 4WD,Black,74950,78853,0,74950,Factory to port,False,DealerHold,JTEABFAJ4R5000605,McGee Toyota,MA
 2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,,JTEABFAJ4R5000913,Centennial Toyota,NV
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77689,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000296,Prestige Toyota of Ramsey,NJ
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,77404,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000329,Earnhardt Toyota,AZ
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77150,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000329,Earnhardt Toyota,AZ
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78928,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000380,Toyota of Anaheim,CA
 2024,First Edition 4WD,Black,74950,77230,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000444,Conicelli Toyota,PA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77495,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000475,Rogers Toyota of Hermiston,OR
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78888,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK000704,Orland Toyota,IL
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77519,0,74950,Factory to port,False,,JTEABFAJ4RK000735,Penn Toyota,NY
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77210,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK000749,Hamer Toyota,CA
 2024,First Edition 4WD,Black,74950,78203,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK000797,Serra Toyota of Traverse City,MI
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77779,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK000864,Kari Toyota,WI
 2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK001027,Big Two Toyota of Chandler,AZ
 2024,First Edition 4WD,Black,74950,76630,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK001044,Basil Toyota,NY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78075,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK001075,Don Moore Toyota,KY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77920,0,74950,Factory to port,True,DealerHold,JTEABFAJ4RK001500,Rick McGill's Airport Toyota,TN
-2024,First Edition 4WD,Black,74950,78203,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R111CT08,Fernelius Toyota,MI
-2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R112AS15,AutoNation Toyota Buena Park,CA
-2024,First Edition 4WD,Black,74950,78298,0,74950,Factory to port,True,Available,JTEABFAJ5R112BJ23,Butte Toyota,MT
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,76874,0,74950,Factory to port,False,,JTEABFAJ4RK001738,Centennial Toyota,NV
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77590,5075,80025,Factory to port,True,DealerHold,JTEABFAJ4RK001805,Toyota of Redlands,CA
+2024,1958 4WD,Ice Cap,55950,59013,1595,57545,Factory to port,True,,JTEABFAJ4RK001819,Findlay Toyota,NV
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77719,0,74950,Factory to port,False,DealerHold,JTEABFAJ4RK001822,Bud Clary Toyota of Yakima,WA
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,True,DealerHold,JTEABFAJ5R112AS15,AutoNation Toyota Buena Park,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,76874,1595,76545,Factory to port,True,,JTEABFAJ5R112BR32,Findlay Toyota,NV
-2024,First Edition 4WD,Black,74950,77014,1298,76248,Factory to port,False,,JTEABFAJ5R112CP56,Sunshine Toyota,MI
 2024,First Edition 4WD,Black,74950,77255,0,74950,Factory to port,False,,JTEABFAJ5R113AT07,South Coast Toyota,CA
 2024,1958 4WD,Black,55950,58329,0,55950,Factory to port,False,,JTEABFAJ5R113CR63,Firelands Toyota,OH
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77719,9999,84949,Factory to port,False,DealerHold,JTEABFAJ5R113CR77,Toyota of Warren,OH
@@ -196,30 +221,34 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77100,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R5000578,"Cedar Rapids Toyota, Inc.",IA
 2024,First Edition 4WD,Black,74950,77514,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R5000614,Jim White Toyota,OH
 2024,First Edition 4WD,Black,74950,77649,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R5000645,Dick Hannah Toyota,WA
-2024,First Edition 4WD,Black,74950,77379,0,74950,Factory to port,False,,JTEABFAJ5R5000659,Hoffman Toyota,CT
 2024,First Edition 4WD,Black,74950,77570,0,74950,Factory to port,True,DealerHold,JTEABFAJ5R5000760,Valenti Toyota,RI
-2024,First Edition 4WD,Black,74950,77470,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R5000824,WOW Toyota of Wallingford,CT
+2024,First Edition 4WD,Black,74950,77550,0,74950,Factory to port,False,DealerHold,JTEABFAJ5R5000824,WOW Toyota of Wallingford,CT
 2024,First Edition 4WD,Black,74950,77999,0,74950,Factory to port,False,,JTEABFAJ5R5000869,Toyota of Greenwich,CT
 2024,First Edition 4WD,Black,74950,77305,299,75249,Factory to port,False,,JTEABFAJ5R5000919,Magnussen's Toyota of Palo Alto,CA
+2024,First Edition 4WD,Black,74950,76915,0,74950,Factory to port,True,DealerHold,JTEABFAJ5R5001021,Toyota of Des Moines,IA
+2024,First Edition 4WD,Black,74950,76940,0,74950,Factory to port,False,,JTEABFAJ5R5001052,Putnam Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78224,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK000159,Columbia Gorge Toyota,OR
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78987,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK000274,Tom Pappas Toyota,MO
 2024,First Edition 4WD,Black,74950,76760,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK000503,Keyes Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78239,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK000565,Damian Lillard Toyota,OR
-2024,First Edition 4WD,Black,74950,77530,0,74950,Factory to port,True,DealerHold,JTEABFAJ5RK000677,Toyota of Louisville,KY
-2024,First Edition 4WD,Black,74950,76570,0,74950,Factory to port,False,,JTEABFAJ5RK000730,AutoNation Toyota Leesburg,VA
+2024,First Edition 4WD,Black,74950,77635,0,74950,Factory to port,True,DealerHold,JTEABFAJ5RK000677,Toyota of Louisville,KY
+2024,First Edition 4WD,Black,74950,76500,0,74950,Factory to port,False,,JTEABFAJ5RK000730,AutoNation Toyota Leesburg,VA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77020,0,74950,Factory to port,True,DealerHold,JTEABFAJ5RK000954,Kinderhook Toyota,NY
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77135,0,74950,Factory to port,True,DealerHold,JTEABFAJ5RK000971,I-10 Toyota,CA
 2024,First Edition 4WD,Black,74950,77395,0,74950,Factory to port,False,,JTEABFAJ5RK001067,Gosch Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78313,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK001148,Town Toyota,WA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77924,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK001215,Wagner Toyota,NE
 2024,First Edition 4WD,Black,74950,76954,0,74950,Factory to port,False,,JTEABFAJ5RK001229,AutoNation Toyota Arapahoe,CO
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77205,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK001277,Right Toyota,AZ
-2024,First Edition 4WD,Black,74950,76905,0,74950,Factory to port,False,Available,JTEABFAJ5RK001439,Earnhardt Toyota,AZ
+2024,First Edition 4WD,Black,74950,76835,0,74950,Factory to port,False,Available,JTEABFAJ5RK001439,Earnhardt Toyota,AZ
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77980,9232,84182,Factory to port,False,DealerHold,JTEABFAJ5RK001599,Toyota of Renton,WA
+2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,,JTEABFAJ5RK001666,Centennial Toyota,NV
+2024,First Edition 4WD,Black,74950,77739,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK001893,Germain Toyota of Columbus,OH
+2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,DealerHold,JTEABFAJ5RK001912,Carson City Toyota,NV
+2024,First Edition 4WD,Black,74950,77323,1595,76545,Factory to port,True,,JTEABFAJ5RK001926,Findlay Toyota,NV
+2024,1958 4WD,Ice Cap,55950,60845,0,55950,Factory to port,False,,JTEABFAJ5RK001943,Della Toyota,NY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77304,0,74950,Factory to port,False,,JTEABFAJ6R111BT31,AutoNation Toyota Arapahoe,CO
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78014,6580,81530,Factory to port,False,,JTEABFAJ6R112AS69,Toyota of El Cajon,CA
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77845,0,74950,Factory to port,True,Available,JTEABFAJ6R112AS72,Bob Smith Toyota,CA
-2024,First Edition 4WD,Black,74950,77404,0,74950,Factory to port,False,,JTEABFAJ6R112BB30,Jimmy Vasser Toyota,CA
 2024,1958 4WD,Ice Cap,55950,59137,1899,57849,Factory to port,False,DealerHold,JTEABFAJ6R112CP17,Wolfchase Toyota,TN
-2024,First Edition 4WD,Black,74950,77869,0,74950,Factory to port,False,Available,JTEABFAJ6R112CP51,Fernelius Toyota,MI
-2024,First Edition 4WD,Black,74950,76915,0,74950,Factory to port,True,DealerHold,JTEABFAJ6R112CU26,Toyota of Des Moines,IA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78619,1899,76849,Factory to port,False,DealerHold,JTEABFAJ6R113CR69,Wolfchase Toyota,TN
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78434,0,74950,Factory to port,True,,JTEABFAJ6R113CR72,Toyota of Boardman,OH
 2024,First Edition 4WD,Black,74950,77475,0,74950,Factory to port,False,DealerHold,JTEABFAJ6R5000346,Ventura Toyota,CA
@@ -230,7 +259,10 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,77889,0,74950,Factory to port,False,,JTEABFAJ6R5000864,Mossy Toyota,CA
 2024,First Edition 4WD,Black,74950,77225,0,74950,Factory to port,False,DealerHold,JTEABFAJ6R5000959,Sharp Chevrolet-Toyota,SD
 2024,First Edition 4WD,Black,74950,76915,0,74950,Factory to port,False,DealerHold,JTEABFAJ6R5000976,Royal Moore Toyota,OR
-2024,First Edition 4WD,Black,74950,77404,0,74950,Factory to port,False,,JTEABFAJ6R5000993,Mid City Toyota,CA
+2024,First Edition 4WD,Black,74950,77404,0,74950,Factory to port,False,,JTEABFAJ6R5000993,Mid-City Toyota,CA
+2024,First Edition 4WD,Black,74950,76674,0,74950,Factory to port,False,,JTEABFAJ6R5001030,Nashville Toyota North,TN
+2024,First Edition 4WD,Black,74950,78298,0,74950,Factory to port,True,Available,JTEABFAJ6R5001111,Butte Toyota,MT
+2024,First Edition 4WD,Black,74950,77195,0,74950,Factory to port,False,Available,JTEABFAJ6RK000185,AutoNation Toyota Arapahoe,CO
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77955,0,74950,Factory to port,True,DealerHold,JTEABFAJ6RK000221,Precision Toyota of Tucson,AZ
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77004,0,74950,Factory to port,False,,JTEABFAJ6RK000249,San Francisco Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77330,599,75549,Factory to port,False,DealerHold,JTEABFAJ6RK000378,Hudson Toyota,NJ
@@ -251,18 +283,25 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77809,0,74950,Factory to port,False,DealerHold,JTEABFAJ6RK001496,Matick Toyota,MI
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77624,0,74950,Factory to port,False,DealerHold,JTEABFAJ6RK001577,Manhattan Beach Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77930,0,74950,Factory to port,False,DealerHold,JTEABFAJ6RK001594,Dick Hannah Toyota,WA
+2024,First Edition 4WD,Black,74950,76674,0,74950,Factory to port,False,,JTEABFAJ6RK001630,Toyota of Bowling Green,KY
+2024,First Edition 4WD,Black,74950,78687,0,74950,Factory to port,False,Available,JTEABFAJ6RK001658,Hamer Toyota,CA
+2024,First Edition 4WD,Black,74950,76524,0,74950,Factory to port,False,DealerHold,JTEABFAJ6RK001899,Mountain States Toyota,CO
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77659,0,74950,Factory to port,False,DealerHold,JTEABFAJ6RK001952,Brunswick Toyota,OH
 2024,First Edition 4WD,Black,74950,77455,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R111CT12,Golling Toyota of Warren,MI
 2024,First Edition 4WD,Black,74950,77455,0,74950,Factory to port,False,,JTEABFAJ7R112AS16,Santa Margarita Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77673,1695,76645,Factory to port,True,DealerHold,JTEABFAJ7R112BR47,Anderson Toyota,AZ
 2024,First Edition 4WD,Black,74950,77554,1495,76445,Factory to port,False,DealerHold,JTEABFAJ7R112CK42,Kokomo Toyota,IN
 2024,First Edition 4WD,Black,74950,76955,0,74950,Factory to port,False,,JTEABFAJ7R113AT11,Toyota of Glendale,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77210,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R113BL76,Hometown Toyota,OR
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77635,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R113BL93,Toyota of Olympia,WA
+2024,First Edition 4WD,Black,74950,77223,0,74950,Factory to port,False,,JTEABFAJ7R113CD32,Riverhead Toyota,NY
 2024,1958 4WD,Black,55950,57902,0,55950,Factory to port,False,,JTEABFAJ7R113CR64,Toyota of Bowling Green,KY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77370,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R113CR81,Serra Toyota of Saginaw,MI
 2024,First Edition 4WD,Black,74950,76630,0,74950,Factory to port,True,,JTEABFAJ7R5000131,Copeland Toyota,MA
-2024,First Edition 4WD,Black,74950,78094,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R5000159,Parkway Toyota,NJ
+2024,First Edition 4WD,Black,74950,78499,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R5000159,Parkway Toyota,NJ
 2024,First Edition 4WD,Black,74950,77684,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R5000243,Victory Toyota,CA
 2024,First Edition 4WD,Black,74950,76750,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R5000274,355 Toyota,MD
+2024,First Edition 4WD,Black,74950,77010,0,74950,Factory to port,True,,JTEABFAJ7R5000517,Krause Toyota,PA
 2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R5000663,Tony Divino Toyota,UT
 2024,First Edition 4WD,Black,74950,76524,0,74950,Factory to port,False,DealerHold,JTEABFAJ7R5000677,Mountain States Toyota,CO
 2024,First Edition 4WD,Black,74950,77470,0,74950,Factory to port,True,DealerHold,JTEABFAJ7R5000758,Heart City Toyota,IN
@@ -286,26 +325,30 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,78318,0,74950,Factory to port,True,DealerHold,JTEABFAJ7RK001152,Brewer Airport Toyota,PA
 2024,First Edition 4WD,Black,74950,77514,0,74950,Factory to port,True,,JTEABFAJ7RK001216,Firelands Toyota,OH
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78594,1978,76928,Factory to port,False,,JTEABFAJ7RK001281,Chuck Hutton Toyota,TN
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,0,74950,Factory to port,False,DealerHold,JTEABFAJ7RK001345,Toyota of San Bernardino,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,0,74950,Factory to port,True,DealerHold,JTEABFAJ7RK001345,Toyota of San Bernardino,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77645,0,74950,Factory to port,False,,JTEABFAJ7RK001362,Toyota of Hollywood,CA
 2024,First Edition 4WD,Black,74950,76674,0,74950,Factory to port,False,DealerHold,JTEABFAJ7RK001426,Wyatt Johnson Toyota,TN
 2024,First Edition 4WD,Black,74950,77255,0,74950,Factory to port,False,,JTEABFAJ7RK001491,South Coast Toyota,CA
+2024,First Edition 4WD,Black,74950,77385,0,74950,Factory to port,False,,JTEABFAJ7RK001703,Toyota of Anaheim,CA
+2024,First Edition 4WD,Black,74950,76500,0,74950,Factory to port,False,DealerHold,JTEABFAJ7RK001877,Beaman Toyota,TN
+2024,First Edition 4WD,Black,74950,76705,0,74950,Factory to port,False,DealerHold,JTEABFAJ7RK001880,Graham Toyota,OH
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78243,0,74950,Factory to port,True,DealerHold,JTEABFAJ7RK001958,Kerry Toyota,KY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78443,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R111EZ91,Bennett Toyota of Lebanon,PA
-2024,First Edition 4WD,Black,74950,76475,1997,76947,Factory to port,False,,JTEABFAJ8R112AS11,Valley Hi Toyota,CA
-2024,First Edition 4WD,Black,74950,76674,0,74950,Factory to port,False,,JTEABFAJ8R112CP49,Toyota of Bowling Green,KY
-2024,First Edition 4WD,Black,74950,78159,0,74950,Factory to port,False,,JTEABFAJ8R112CU27,Dan Deery Toyota,IA
 2024,First Edition 4WD,Black,74950,76979,0,74950,Factory to port,False,,JTEABFAJ8R113CD41,Fordham Toyota,NY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78439,399,75349,Factory to port,False,Available,JTEABFAJ8R113CW79,Bommarito Toyota,MO
 2024,First Edition 4WD,Black,74950,77355,0,74950,Factory to port,False,,JTEABFAJ8R5000235,Downtown Toyota of Oakland,CA
 2024,First Edition 4WD,Black,74950,76475,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000266,Andrew Toyota,WI
 2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000381,Mountain States Toyota,CO
 2024,First Edition 4WD,Black,74950,78677,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000431,St. Cloud Toyota,MN
-2024,First Edition 4WD,Black,74950,76895,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000459,Fitzgerald Toyota Gaithersburg,MD
+2024,First Edition 4WD,Black,74950,76895,0,74950,Factory to port,True,DealerHold,JTEABFAJ8R5000459,Fitzgerald Toyota Gaithersburg,MD
 2024,First Edition 4WD,Black,74950,77110,1997,76947,Factory to port,False,,JTEABFAJ8R5000493,Valley Hi Toyota,CA
 2024,First Edition 4WD,Black,74950,77998,0,74950,Factory to port,True,DealerHold,JTEABFAJ8R5000641,Toyota of Lincoln Park,IL
 2024,First Edition 4WD,Black,74950,76524,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000705,Mountain States Toyota,CO
 2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5000882,Chester Berg Toyota,MN
 2024,First Edition 4WD,Black,74950,76835,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5001014,Eddy's Toyota of Wichita,KS
+2024,First Edition 4WD,Black,74950,77570,0,74950,Factory to port,False,DealerHold,JTEABFAJ8R5001076,Kings Toyota,OH
+2024,First Edition 4WD,Black,74950,77535,0,74950,Factory to port,False,Available,JTEABFAJ8R5001109,West Coast Toyota of Long Beach,CA
+2024,First Edition 4WD,Black,74950,77404,0,74950,Factory to port,False,,JTEABFAJ8R5001112,Jimmy Vasser Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77210,0,74950,Factory to port,True,,JTEABFAJ8RK000267,Walser Bloomington Toyota,MN
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77045,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000379,West Herr Toyota of Orchard Park,NY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77315,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000477,Lithia Toyota,OR
@@ -318,25 +361,32 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,76695,0,74950,Factory to port,True,DealerHold,JTEABFAJ8RK000804,Folsom Lake Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,0,74950,Factory to port,True,,JTEABFAJ8RK000818,Wilson Toyota,IA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78319,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000852,Metro Toyota,MI
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,77694,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000933,Island Toyota,NY
+2024,First Edition 4WD,Black,74950,77535,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000866,Envision Toyota of Norwalk,CA
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77694,0,74950,Factory to port,False,Available,JTEABFAJ8RK000933,Island Toyota,NY
 2024,First Edition 4WD,Black,74950,78093,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK000950,Performance Motors Toyota,PA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77879,0,74950,Factory to port,True,,JTEABFAJ8RK001080,Toyota of Boardman,OH
 2024,First Edition 4WD,Black,74950,77455,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001211,Victory Toyota,MI
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77959,0,74950,Factory to port,False,,JTEABFAJ8RK001337,Hartford Toyota,CT
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78109,0,74950,Factory to port,False,,JTEABFAJ8RK001337,Hartford Toyota,CT
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77980,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001368,Marysville Toyota,WA
 2024,First Edition 4WD,Black,74950,77430,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001418,Toyota of Somerset,KY
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77770,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001564,Burdick Toyota,NY
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,78014,6580,81530,Factory to port,False,DealerHold,JTEABFAJ9R111AT04,Toyota of El Cajon,CA
+2024,First Edition 4WD,Black,74950,77605,0,74950,Factory to port,True,DealerHold,JTEABFAJ8RK001676,Precision Toyota of Tucson,AZ
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78089,0,74950,Factory to port,False,,JTEABFAJ8RK001709,McDaniel Toyota,OH
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78139,0,74950,Factory to port,False,,JTEABFAJ8RK001757,Heritage Toyota Harrisburg,PA
+2024,First Edition 4WD,Black,74950,78203,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001869,Fernelius Toyota,MI
+2024,First Edition 4WD,Black,74950,77650,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001886,Matick Toyota,MI
+2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,DealerHold,JTEABFAJ8RK001922,Dolan Toyota,NV
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,78014,6580,81530,Factory to port,False,Available,JTEABFAJ9R111AT04,Toyota of El Cajon,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77880,0,74950,Factory to port,True,,JTEABFAJ9R111CS77,Toyota South,KY
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77635,0,74950,Factory to port,True,,JTEABFAJ9R112BI96,Toyota of Olympia,WA
-2024,First Edition 4WD,Black,74950,77323,1595,76545,Factory to port,True,,JTEABFAJ9R112BQ67,Findlay Toyota,NV
+2024,First Edition 4WD,Black,74950,77609,0,74950,Factory to port,False,,JTEABFAJ9R112CA59,Toyota of Colchester,CT
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78918,0,74950,Factory to port,False,Available,JTEABFAJ9R113CD81,"Glen Motors, Inc.",NJ
 2024,First Edition 4WD,Black,74950,76915,0,74950,Factory to port,True,,JTEABFAJ9R113CW91,Wilson Toyota,IA
 2024,First Edition 4WD,Black,74950,77535,0,74950,Factory to port,True,DealerHold,JTEABFAJ9R5000129,Peppers Toyota,TN
 2024,First Edition 4WD,Black,74950,77905,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5000163,Oakbrook Toyota in Westmont,IL
 2024,First Edition 4WD,Black,74950,77305,3480,78430,Factory to port,False,Available,JTEABFAJ9R5000177,East Madison Toyota,WI
 2024,First Edition 4WD,Black,74950,77514,0,74950,Factory to port,True,DealerHold,JTEABFAJ9R5000194,Classic Toyota,OH
-2024,First Edition 4WD,Black,74950,77454,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5000261,Jeff Wyler Toyota of Clarksville,IN
+2024,First Edition 4WD,Black,74950,77804,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5000261,Jeff Wyler Toyota of Clarksville,IN
 2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,,JTEABFAJ9R5000311,Maita's Toyota of Sacramento,CA
 2024,First Edition 4WD,Black,74950,77704,1274,76224,Factory to port,False,,JTEABFAJ9R5000437,Tom Wood Toyota,IN
 2024,First Edition 4WD,Black,74950,77070,0,74950,Factory to port,True,,JTEABFAJ9R5000440,"Hellman Toyota, Inc.",CO
@@ -346,6 +396,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5000874,Iron Trail Toyota,MN
 2024,First Edition 4WD,Black,74950,77000,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5000891,Parker Toyota,ID
 2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,False,,JTEABFAJ9R5000907,Empire Toyota,NY
+2024,First Edition 4WD,Black,74950,76900,0,74950,Factory to port,False,DealerHold,JTEABFAJ9R5001023,Kendall Toyota,OR
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77004,0,74950,Factory to port,False,,JTEABFAJ9RK000181,San Francisco Toyota,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77855,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK000309,Santa Cruz Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77004,0,74950,Factory to port,True,DealerHold,JTEABFAJ9RK000441,Ed Martin Toyota,IN
@@ -362,7 +413,7 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78519,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK000911,Cochran Toyota,PA
 2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,,JTEABFAJ9RK001024,Centennial Toyota,NV
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77710,0,74950,Factory to port,False,,JTEABFAJ9RK001069,Monken Toyota of Mt. Vernon,IL
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77519,0,74950,Factory to port,False,,JTEABFAJ9RK001122,Pohanka Toyota of Salisbury,MD
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77519,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001122,Pohanka Toyota of Salisbury,MD
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78309,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001136,Toyota of Glendora,CA
 2024,First Edition 4WD,Black,74950,77323,0,74950,Factory to port,False,,JTEABFAJ9RK001251,Centennial Toyota,NV
 2024,1958 4WD,Ice Cap,55950,58633,0,55950,Factory to port,False,DealerHold,JTEABFAJ9RK001413,Big Two Toyota of Chandler,AZ
@@ -370,23 +421,27 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Black,74950,76524,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001461,Mountain States Toyota,CO
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77205,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001539,Camelback Toyota,AZ
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78224,0,74950,Factory to port,True,DealerHold,JTEABFAJ9RK001556,A-1 Toyota,CT
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77590,5075,80025,Factory to port,True,DealerHold,JTEABFAJXR111AT13,Toyota of Redlands,CA
+2024,First Edition 4WD,Black,74950,77869,0,74950,Factory to port,False,Available,JTEABFAJ9RK001640,Fernelius Toyota,MI
+2024,First Edition 4WD,Black,74950,77118,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001654,Right Toyota,AZ
+2024,First Edition 4WD,Black,74950,77223,0,74950,Factory to port,False,,JTEABFAJ9RK001685,Advantage Toyota,NY
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,76874,0,74950,Factory to port,False,DealerHold,JTEABFAJ9RK001718,Dolan Toyota,NV
+2024,1958 4WD,Black,55950,59053,0,55950,Factory to port,False,DealerHold,JTEABFAJ9RK001721,Heartland Toyota,WA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,77784,995,75945,Factory to port,True,DealerHold,JTEABFAJXR111CE15,Liberty Toyota,NJ
-2024,First Edition 4WD,Black,74950,76900,0,74950,Factory to port,False,DealerHold,JTEABFAJXR112BJ20,Kendall Toyota,OR
-2024,First Edition 4WD,Trail Dust / Grayscape,74950,78089,0,74950,Factory to port,False,,JTEABFAJXR112CP22,McDaniel Toyota,OH
-2024,1958 4WD,Ice Cap,55950,61032,0,55950,Factory to port,False,,JTEABFAJXR113CD25,Hartford Toyota,CT
+2024,First Edition 4WD,Black,74950,77822,0,74950,Factory to port,False,Available,JTEABFAJXR113AT04,AutoNation Toyota Buena Park,CA
+2024,1958 4WD,Ice Cap,55950,61667,0,55950,Factory to port,False,,JTEABFAJXR113CD25,Hartford Toyota,CT
 2024,First Edition 4WD,Black,74950,77309,1790,76740,Factory to port,False,,JTEABFAJXR113CD42,Liberty Toyota,NJ
 2024,First Edition 4WD,Black,74950,77580,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5000169,Gresham Toyota,OR
 2024,First Edition 4WD,Black,74950,77265,0,74950,Factory to port,False,,JTEABFAJXR5000253,Twin City Toyota,MO
 2024,First Edition 4WD,Black,74950,77240,5075,80025,Factory to port,True,DealerHold,JTEABFAJXR5000432,Toyota of Redlands,CA
 2024,First Edition 4WD,Black,74950,77674,0,74950,Factory to port,True,DealerHold,JTEABFAJXR5000463,SVG Toyota,OH
 2024,First Edition 4WD,Black,74950,77434,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5000477,Team Toyota,IN
-2024,First Edition 4WD,Black,74950,76905,0,74950,Factory to port,False,,JTEABFAJXR5000687,McDonough Toyota,VA
+2024,First Edition 4WD,Black,74950,76905,0,74950,Factory to port,True,,JTEABFAJXR5000687,McDonough Toyota,VA
 2024,First Edition 4WD,Black,74950,77434,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5000706,Dayton Toyota,NJ
 2024,First Edition 4WD,Black,74950,77558,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5000723,Lexington Toyota,MA
 2024,First Edition 4WD,Black,74950,77274,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5000835,Vancouver Toyota,WA
 2024,First Edition 4WD,Black,74950,77824,0,74950,Factory to port,False,,JTEABFAJXR5000897,Freeway Toyota of Hanford,CA
-2024,First Edition 4WD,Black,74950,76860,0,74950,Factory to port,False,,JTEABFAJXR5000916,Kendall Toyota of Anchorage,AK
+2024,First Edition 4WD,Black,74950,76990,0,74950,Factory to port,True,,JTEABFAJXR5001046,Crown Toyota,MI
+2024,First Edition 4WD,Black,74950,76345,0,74950,Factory to port,False,DealerHold,JTEABFAJXR5001094,Toyota Knoxville,TN
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77430,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000304,Antioch Toyota,CA
 2024,First Edition 4WD,Black,74950,76654,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000402,Heritage Toyota,VT
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78514,1899,76849,Factory to port,False,DealerHold,JTEABFAJXRK000447,Wolfchase Toyota,TN
@@ -395,14 +450,20 @@ Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sol
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,76695,0,74950,Factory to port,True,DealerHold,JTEABFAJXRK000495,Future Toyota of Yuba City,CA
 2024,First Edition 4WD,Black,74950,76760,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000514,Toyota of North Hollywood,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77789,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000643,Brunswick Toyota,OH
-2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77519,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000657,Team Toyota of Glen Mills,PA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78149,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000657,Team Toyota of Glen Mills,PA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77635,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000769,Five Star Toyota,WA
 2024,First Edition 4WD,Black,74950,76654,499,75449,Factory to port,True,DealerHold,JTEABFAJXRK000853,Toyota of Portland on Broadway,OR
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,76695,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000903,York Toyota,ME
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78109,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK000917,New Holland Toyota,PA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77745,0,74950,Factory to port,False,,JTEABFAJXRK000965,Moss Bros. Toyota,CA
 2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78478,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001128,Buckhannon Toyota,WV
 2024,First Edition 4WD,Black,74950,78093,0,74950,Factory to port,False,,JTEABFAJXRK001131,Colonial Toyota,PA
-2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,,JTEABFAJXRK001243,Big Two Toyota of Chandler,AZ
+2024,First Edition 4WD,Black,74950,76855,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001243,Big Two Toyota of Chandler,AZ
 2024,First Edition 4WD,Black,74950,76800,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001274,Toyota Santa Monica,CA
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,78404,0,74950,Factory to port,True,,JTEABFAJXRK001288,University Toyota,WV
 2024,First Edition 4WD,Trail Dust / Grayscape,74950,76695,0,74950,Factory to port,False,,JTEABFAJXRK001436,Maita's Toyota of Sacramento,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77485,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001663,Team Toyota,NE
+2024,First Edition 4WD,Trail Dust / Grayscape,74950,77205,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001727,Right Toyota,AZ
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,77200,0,74950,Factory to port,True,DealerHold,JTEABFAJXRK001730,Peppers Toyota,TN
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78244,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001811,Toyota Santa Monica,CA
+2024,First Edition 4WD,Heritage Blue / Grayscape,74950,78219,0,74950,Factory to port,False,DealerHold,JTEABFAJXRK001968,Serra Toyota of Traverse City,MI
