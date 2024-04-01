@@ -1,6 +1,5 @@
 ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
-2023-05-13,2023,XLE RWD,Black,49500,52005,0,49500,At dealer,False,Available,JTDAAAAA0PA008974,Longo Toyota,CA
-2024-03-31,2024,XLE RWD,Heavy Metal,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA0RA011554,Toyota of Orange,CA
+2024-04-15,2024,XLE RWD,Heavy Metal,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA0RA011554,Toyota of Orange,CA
 2024-04-05,2024,XLE RWD,Elemental Silver Metallic,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA0RA011568,Toyota of Glendale,CA
 2024-04-05,2024,XLE RWD,Black,50190,53323,0,50190,Port to dealer,False,,JTDAAAAA0RA011571,Toyota of Glendale,CA
 2024-04-11,2024,XLE RWD,Oxygen White,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA0RA011599,Longo Toyota,CA
@@ -8,7 +7,7 @@ ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre
 2024-04-25,2024,XLE RWD,Oxygen White,50190,53569,0,50190,Factory to port,False,,JTDAAAAA0RA011652,Hamer Toyota,CA
 2024-05-05,2024,XLE RWD,Black,50190,53648,0,50190,Factory to port,False,,JTDAAAAA0RA011697,Longo Toyota,CA
 2024-05-07,2024,XLE RWD,Heavy Metal,50190,53664,0,50190,Factory to port,False,,JTDAAAAA0RA011702,Toyota Santa Monica,CA
-2024-03-31,2024,XLE RWD,Oxygen White,50190,53713,2495,52685,Port to dealer,False,,JTDAAAAA1RA011515,Toyota of Orange,CA
+2024-04-15,2024,XLE RWD,Oxygen White,50190,53713,2495,52685,Port to dealer,False,,JTDAAAAA1RA011515,Toyota of Orange,CA
 2024-04-04,2024,XLE RWD,Black,50190,51285,0,50190,Port to dealer,False,,JTDAAAAA1RA011529,Stevens Creek Toyota,CA
 2024-04-04,2024,XLE RWD,Black,50190,53075,0,50190,Port to dealer,False,,JTDAAAAA1RA011563,Longo Toyota,CA
 2024-04-08,2024,XLE RWD,Supersonic Red,50190,53395,0,50190,Port to dealer,False,,JTDAAAAA1RA011580,Stevens Creek Toyota,CA
@@ -19,7 +18,7 @@ ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre
 2023-09-20,2023,XLE RWD,Oxygen White,49500,52430,295,49795,At dealer,False,,JTDAAAAA2PA010452,Stevens Creek Toyota,CA
 2024-04-01,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA2RA011491,Toyota of Glendale,CA
 2024-04-01,2024,XLE RWD,Elemental Silver Metallic,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA2RA011507,Toyota of Glendale,CA
-2024-03-31,2024,XLE RWD,Oxygen White,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA2RA011524,Toyota of Orange,CA
+2024-04-15,2024,XLE RWD,Oxygen White,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA2RA011524,Toyota of Orange,CA
 2024-04-03,2024,XLE RWD,Elemental Silver Metallic,50190,53679,0,50190,Port to dealer,False,,JTDAAAAA2RA011541,Dublin Toyota,CA
 2024-04-04,2024,XLE RWD,Oxygen White,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA2RA011569,Toyota of Orange,CA
 2024-04-05,2024,XLE RWD,Oxygen White,50190,53664,0,50190,Port to dealer,False,,JTDAAAAA2RA011572,Toyota Santa Monica,CA
@@ -28,18 +27,18 @@ ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre
 2024-04-25,2024,XLE RWD,Black,50190,53144,0,50190,Factory to port,False,,JTDAAAAA2RA011670,Hamer Toyota,CA
 2024-05-06,2024,XLE RWD,Supersonic Red,50190,53664,0,50190,Factory to port,False,,JTDAAAAA2RA011698,Toyota Santa Monica,CA
 2024-05-06,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Factory to port,False,,JTDAAAAA2RA011703,Longo Toyota,CA
-2024-03-31,2024,XLE RWD,Elemental Silver Metallic,50190,53395,2495,52685,Port to dealer,False,,JTDAAAAA3RA011483,Toyota of Orange,CA
+2024-04-15,2024,XLE RWD,Elemental Silver Metallic,50190,53395,2495,52685,Port to dealer,False,,JTDAAAAA3RA011483,Toyota of Orange,CA
 2024-04-04,2024,XLE RWD,Oxygen White,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA3RA011497,Stevens Creek Toyota,CA
 2024-04-01,2024,XLE RWD,Heavy Metal,50190,53464,0,50190,Port to dealer,False,,JTDAAAAA3RA011516,Toyota Santa Monica,CA
 2024-04-04,2024,XLE RWD,Heavy Metal,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA3RA011581,Toyota of Orange,CA
 2024-04-04,2024,XLE RWD,Elemental Silver Metallic,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA3RA011600,Toyota of Orange,CA
 2024-04-11,2024,XLE RWD,Oxygen White,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA3RA011614,Longo Toyota,CA
 2024-05-12,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Factory to port,False,,JTDAAAAA3RA011693,Longo Toyota,CA
+2024-05-15,2024,XLE RWD,Black,50190,53239,0,50190,Factory to port,False,,JTDAAAAA3RA011709,Toyota Santa Monica,CA
 2023-10-29,2023,XLE RWD,Oxygen White,49500,52430,0,49500,At dealer,False,Available,JTDAAAAA4PA010758,Dublin Toyota,CA
-2024-02-03,2023,XLE RWD,Heavy Metal,49500,52684,0,49500,At dealer,False,,JTDAAAAA4PA011294,Hamer Toyota,CA
 2024-05-16,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Factory to port,False,,JTDAAAAA4R113AN66,Longo Toyota,CA
 2024-04-04,2024,XLE RWD,Heavy Metal,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA4RA011511,Stevens Creek Toyota,CA
-2024-03-31,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA4RA011525,Hamer Toyota,CA
+2024-04-15,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA4RA011525,Hamer Toyota,CA
 2024-04-04,2024,XLE RWD,Heavy Metal,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA4RA011556,Stevens Creek Toyota,CA
 2024-04-12,2024,XLE RWD,Oxygen White,50190,53664,0,50190,Port to dealer,False,,JTDAAAAA4RA011606,Toyota Santa Monica,CA
 2024-04-22,2024,XLE RWD,Heavy Metal,50190,53664,0,50190,Factory to port,False,,JTDAAAAA4RA011637,Dublin Toyota,CA
@@ -47,17 +46,15 @@ ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre
 2024-04-24,2024,XLE RWD,Oxygen White,50190,53748,0,50190,Factory to port,False,,JTDAAAAA4RA011654,Longo Toyota,CA
 2024-05-01,2024,XLE RWD,Elemental Silver Metallic,50190,54073,0,50190,Factory to port,False,,JTDAAAAA4RA011685,Longo Toyota,CA
 2024-05-11,2024,XLE RWD,Elemental Silver Metallic,50190,53664,0,50190,Factory to port,False,,JTDAAAAA4RA011704,Toyota Santa Monica,CA
-2024-03-31,2024,XLE RWD,Hydro Blue,50190,53713,2495,52685,Port to dealer,False,DealerHold,JTDAAAAA5RA011498,Toyota of Orange,CA
+2024-04-15,2024,XLE RWD,Hydro Blue,50190,53713,2495,52685,Port to dealer,True,Available,JTDAAAAA5RA011498,Toyota of Orange,CA
 2024-04-05,2024,XLE RWD,Oxygen White,50190,53664,0,50190,Port to dealer,False,,JTDAAAAA5RA011579,Toyota Santa Monica,CA
 2024-04-05,2024,XLE RWD,Black,50190,53323,0,50190,Port to dealer,False,,JTDAAAAA5RA011596,Toyota of Glendale,CA
 2024-04-15,2024,XLE RWD,Heavy Metal,50190,53395,0,50190,Port to dealer,False,,JTDAAAAA5RA011615,Stevens Creek Toyota,CA
 2024-04-22,2024,XLE RWD,Black,50190,53145,0,50190,Port to dealer,False,,JTDAAAAA5RA011629,Dublin Toyota,CA
-2023-05-15,2023,XLE RWD,Oxygen White,49500,52430,0,49500,At dealer,False,Available,JTDAAAAA6PA008946,Tustin Toyota,CA
-2024-01-27,2023,XLE RWD,Heavy Metal,49500,52629,0,49500,At dealer,False,,JTDAAAAA6PA010809,Tustin Toyota,CA
-2024-01-27,2023,XLE RWD,Heavy Metal,49500,52629,0,49500,At dealer,False,,JTDAAAAA6PA011281,Tustin Toyota,CA
+2024-05-01,2024,XLE RWD,Oxygen White,50190,53748,0,50190,Factory to port,False,,JTDAAAAA5RA011680,Longo Toyota,CA
 2024-04-02,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Port to dealer,False,,JTDAAAAA6RA011476,Hamer Toyota,CA
-2024-03-31,2024,XLE RWD,Oxygen White,50190,53713,2495,52685,Port to dealer,False,,JTDAAAAA6RA011493,Toyota of Orange,CA
-2024-03-30,2024,XLE RWD,Black,50190,53254,0,50190,Port to dealer,False,,JTDAAAAA6RA011509,Longo Toyota,CA
+2024-04-15,2024,XLE RWD,Oxygen White,50190,53713,2495,52685,Port to dealer,False,,JTDAAAAA6RA011493,Toyota of Orange,CA
+2024-04-14,2024,XLE RWD,Black,50190,53254,0,50190,Port to dealer,False,,JTDAAAAA6RA011509,Longo Toyota,CA
 2024-04-04,2024,XLE RWD,Oxygen White,50190,53395,0,50190,Port to dealer,False,,JTDAAAAA6RA011543,Stevens Creek Toyota,CA
 2024-04-08,2024,XLE RWD,Oxygen White,50190,53500,0,50190,Port to dealer,False,,JTDAAAAA6RA011557,Stevens Creek Toyota,CA
 2024-04-08,2024,XLE RWD,Black,50190,53218,0,50190,Port to dealer,False,,JTDAAAAA6RA011588,Dublin Toyota,CA
@@ -72,35 +69,35 @@ ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre
 2023-10-12,2023,XLE RWD,Black,49500,52005,0,49500,At dealer,False,Available,JTDAAAAA7PA010480,San Francisco Toyota,CA
 2023-10-29,2023,XLE RWD,Oxygen White,49500,52430,0,49500,At dealer,False,Available,JTDAAAAA7PA010690,San Francisco Toyota,CA
 2024-04-01,2024,XLE RWD,Oxygen White,50190,53464,0,50190,Port to dealer,False,,JTDAAAAA7RA011499,Toyota Santa Monica,CA
-2024-04-01,2024,XLE RWD,Oxygen White,50190,53569,0,50190,Port to dealer,False,DealerHold,JTDAAAAA7RA011504,Toyota of Glendale,CA
-2024-03-30,2024,XLE RWD,Black,50190,53743,0,50190,Port to dealer,False,,JTDAAAAA7RA011518,Longo Toyota,CA
+2024-04-01,2024,XLE RWD,Oxygen White,50190,53569,0,50190,Port to dealer,False,Available,JTDAAAAA7RA011504,Toyota of Glendale,CA
+2024-04-14,2024,XLE RWD,Black,50190,53743,0,50190,Port to dealer,False,,JTDAAAAA7RA011518,Longo Toyota,CA
 2024-04-01,2024,XLE RWD,Elemental Silver Metallic,50190,53464,0,50190,Port to dealer,False,,JTDAAAAA7RA011521,Toyota Santa Monica,CA
 2024-04-22,2024,XLE RWD,Elemental Silver Metallic,50190,53594,0,50190,Factory to port,False,,JTDAAAAA7RA011647,Dublin Toyota,CA
 2024-04-24,2024,XLE RWD,Elemental Silver Metallic,50190,53748,0,50190,Factory to port,False,,JTDAAAAA7RA011664,Longo Toyota,CA
 2024-05-04,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Factory to port,False,,JTDAAAAA7RA011678,Hamer Toyota,CA
 2024-05-05,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Factory to port,False,,JTDAAAAA7RA011700,Longo Toyota,CA
-2024-05-16,2024,XLE RWD,Elemental Silver Metallic,50190,54073,0,50190,Factory to port,False,,JTDAAAAA8R113AN68,Longo Toyota,CA
-2024-05-13,2024,XLE RWD,Heavy Metal,50190,54073,0,50190,Factory to port,False,,JTDAAAAA8R113AN71,Longo Toyota,CA
-2024-03-30,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Port to dealer,False,,JTDAAAAA8RA011530,Longo Toyota,CA
+2024-05-11,2024,XLE RWD,Elemental Silver Metallic,50190,54073,0,50190,Factory to port,False,,JTDAAAAA8R113AN68,Longo Toyota,CA
+2024-04-14,2024,XLE RWD,Oxygen White,50190,54073,0,50190,Port to dealer,False,,JTDAAAAA8RA011530,Longo Toyota,CA
 2024-04-04,2024,XLE RWD,Oxygen White,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA8RA011561,Toyota of Orange,CA
 2024-04-11,2024,XLE RWD,Black,50190,53075,0,50190,Port to dealer,False,,JTDAAAAA8RA011608,Longo Toyota,CA
 2024-04-11,2024,XLE RWD,Oxygen White,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA8RA011625,Toyota of Orange,CA
 2024-05-03,2024,XLE RWD,Oxygen White,50190,53664,0,50190,Factory to port,False,,JTDAAAAA8RA011687,Toyota Santa Monica,CA
 2024-05-01,2024,XLE RWD,Black,50190,53648,0,50190,Factory to port,False,,JTDAAAAA8RA011690,Longo Toyota,CA
-2024-03-30,2024,XLE RWD,Oxygen White,50190,53679,0,50190,Port to dealer,False,,JTDAAAAA9RA011486,Longo Toyota,CA
+2024-05-13,2024,XLE RWD,Heavy Metal,50190,54073,0,50190,Factory to port,False,,JTDAAAAA8RA011706,Longo Toyota,CA
+2024-04-14,2024,XLE RWD,Oxygen White,50190,53679,0,50190,Port to dealer,False,,JTDAAAAA9RA011486,Longo Toyota,CA
 2024-04-04,2024,XLE RWD,Black,50190,53075,0,50190,Port to dealer,False,,JTDAAAAA9RA011522,Stevens Creek Toyota,CA
-2024-03-31,2024,XLE RWD,Heavy Metal,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA9RA011536,Toyota of Orange,CA
-2024-03-30,2024,XLE RWD,Oxygen White,50190,54168,0,50190,Port to dealer,False,,JTDAAAAA9RA011553,Longo Toyota,CA
+2024-04-15,2024,XLE RWD,Heavy Metal,50190,53843,2495,52685,Port to dealer,False,,JTDAAAAA9RA011536,Toyota of Orange,CA
+2024-04-14,2024,XLE RWD,Oxygen White,50190,54168,0,50190,Port to dealer,False,,JTDAAAAA9RA011553,Longo Toyota,CA
 2024-04-11,2024,XLE RWD,Black,50190,53418,2495,52685,Port to dealer,False,,JTDAAAAA9RA011617,Toyota of Orange,CA
 2024-04-24,2024,XLE RWD,Black,50190,53323,0,50190,Factory to port,False,,JTDAAAAA9RA011651,Longo Toyota,CA
 2024-05-06,2024,XLE RWD,Heavy Metal,50190,54073,0,50190,Factory to port,False,,JTDAAAAA9RA011696,Longo Toyota,CA
 2024-05-06,2024,XLE RWD,Black,50190,53648,0,50190,Factory to port,False,,JTDAAAAA9RA011701,Longo Toyota,CA
-2023-05-15,2023,XLE RWD,Heavy Metal,49500,52430,0,49500,At dealer,False,Available,JTDAAAAAXPA008951,Tustin Toyota,CA
 2024-05-16,2024,XLE RWD,Elemental Silver Metallic,50190,54073,0,50190,Factory to port,False,,JTDAAAAAXR113AN69,Longo Toyota,CA
 2024-05-16,2024,XLE RWD,Heavy Metal,50190,54073,0,50190,Factory to port,False,,JTDAAAAAXR113AN72,Longo Toyota,CA
-2024-03-30,2024,XLE RWD,Black,50190,53254,0,50190,Port to dealer,False,,JTDAAAAAXRA011495,Longo Toyota,CA
+2024-04-14,2024,XLE RWD,Black,50190,53254,0,50190,Port to dealer,False,,JTDAAAAAXRA011495,Longo Toyota,CA
 2024-04-04,2024,XLE RWD,Supersonic Red,50190,53395,0,50190,Port to dealer,False,,JTDAAAAAXRA011514,Stevens Creek Toyota,CA
 2024-04-05,2024,XLE RWD,Heavy Metal,50190,53569,0,50190,Port to dealer,False,,JTDAAAAAXRA011562,Toyota of Glendale,CA
 2024-04-15,2024,XLE RWD,Supersonic Red,50190,53500,0,50190,Port to dealer,False,,JTDAAAAAXRA011612,Stevens Creek Toyota,CA
 2024-04-22,2024,XLE RWD,Hydro Blue,50190,53679,0,50190,Port to dealer,False,,JTDAAAAAXRA011643,Dublin Toyota,CA
 2024-05-03,2024,XLE RWD,Oxygen White,50190,53664,0,50190,Factory to port,False,,JTDAAAAAXRA011688,Toyota Santa Monica,CA
+2024-05-15,2024,XLE RWD,Hydro Blue,50190,53664,0,50190,Factory to port,False,,JTDAAAAAXRA011710,Toyota Santa Monica,CA
