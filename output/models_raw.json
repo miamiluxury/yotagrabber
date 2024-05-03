@@ -111,9 +111,14 @@
     "cityMPG":"51",
     "disclaimer":"[global_prelim_mpg_2024_camry_disclaimer]",
     "family":[
+      "Cars &amp; Minivan",
       "Electrified"
     ],
     "families":[
+      {
+        "seqNo":9,
+        "familiyType":"Cars &amp; Minivan"
+      },
       {
         "seqNo":11,
         "familiyType":"Electrified"
@@ -317,7 +322,7 @@
     ],
     "families":[
       {
-        "seqNo":10,
+        "seqNo":11,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -450,7 +455,7 @@
     ],
     "families":[
       {
-        "seqNo":11,
+        "seqNo":12,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -589,7 +594,7 @@
     ],
     "families":[
       {
-        "seqNo":9,
+        "seqNo":10,
         "familiyType":"Cars &amp; Minivan"
       },
       {
@@ -843,7 +848,7 @@
     ],
     "families":[
       {
-        "seqNo":12,
+        "seqNo":13,
         "familiyType":"Cars &amp; Minivan"
       },
       {
