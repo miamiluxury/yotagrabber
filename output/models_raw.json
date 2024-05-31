@@ -245,9 +245,9 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$25,805 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$26,805 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"32",
-    "disclaimer":"[global_prelim_mpg_2024_disclaimer]",
+    "disclaimer":"[global_prelim_mpg_2025_disclaimer]",
     "family":[
       "Cars &amp; Minivan"
     ],
@@ -259,14 +259,14 @@
     ],
     "hoverImage":null,
     "hwyMPG":"41",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/corollahatchback\/base.png",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/corollahatchback\/base.png",
     "modelCode":"corollahatchback",
     "msrp":"23505",
     "series":"Corolla Hatchback",
     "shortDescription":null,
     "title":"Corolla Hatchback",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_disclaimer]",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_prelim_mpg_2025_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -945,7 +945,7 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$48,765 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$45,950 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"42",
     "disclaimer":"[global_epa_2025_crown_disclaimer]",
     "family":[
