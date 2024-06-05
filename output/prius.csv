@@ -11,7 +11,6 @@ Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38477,0,34965,Factory to port,Tr
 Unknown,2024,LE FWD,Guardian Gray,27950,29448,0,27950,Factory to port,False,DealerHold,JTDACAAU0R3028220,West Coast Toyota of Long Beach,CA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,30533,1295,29245,Port to dealer,False,Available,JTDACAAU0R3028296,Auburn Toyota,CA
 Unknown,2024,Limited FWD,Guardian Gray,34965,37994,0,34965,Port to dealer,False,DealerHold,JTDACAAU0R3028329,Olathe Toyota,KS
-2025-04-20,2024,Limited FWD,Supersonic Red,34965,40041,0,34965,Factory to port,False,Available,JTDACAAU0R3028363,Alamo Toyota,TX
 Unknown,2024,Limited FWD,Reservoir Blue,34965,38144,0,34965,Port to dealer,False,DealerHold,JTDACAAU0R3028413,Jerry Ackerman Toyota,MO
 2024-04-12,2024,XLE FWD,Cutting Edge,31395,35173,3974,35369,At dealer,False,,JTDACAAU0R3028444,Claremont Toyota,CA
 Unknown,2024,Limited FWD,Cutting Edge,34965,38083,0,34965,Port to dealer,False,DealerHold,JTDACAAU0R3028489,John Weiss' Toyota of South County,MO
@@ -34,22 +33,22 @@ Unknown,2024,Limited FWD,Cutting Edge,34965,38588,0,34965,Factory to port,False,
 2024-06-12,2024,LE FWD,Cutting Edge,27950,30448,0,27950,Port to dealer,True,Available,JTDACAAU0R3029822,Vandergriff Toyota,TX
 2024-06-21,2024,Limited FWD,Guardian Gray,34965,38882,0,34965,Factory to port,True,Available,JTDACAAU0R3029853,Freeman Toyota,TX
 Unknown,2024,Limited FWD,Cutting Edge,34965,38218,1995,36960,Factory to port,False,,JTDACAAU0R3029870,Cabe Toyota Long Beach,CA
-2024-07-29,2024,LE FWD,Midnight Black Metallic,27950,29449,0,27950,Factory to port,False,,JTDACAAU0R3029884,Beach Cities Toyota Westminster,CA
-2024-07-21T00:00:00.000Z,2024,LE FWD,Cutting Edge,27950,29180,0,27950,Factory to port,True,DealerHold,JTDACAAU0R3029898,Palestine Toyota,TX
-2024-07-28,2024,Limited FWD,Guardian Gray,34965,38483,0,34965,Factory to port,False,DealerHold,JTDACAAU0R3029903,Toyota of Downtown LA,CA
-2024-07-22T00:00:00.000Z,2024,Limited FWD,Cutting Edge,34965,39348,0,34965,Factory to port,False,Available,JTDACAAU0R3029917,Mac Haik Toyota,TX
-2024-07-26,2024,Limited FWD,Wind Chill Pearl,34965,38499,0,34965,Factory to port,False,DealerHold,JTDACAAU0R3029934,Toyota Santa Monica,CA
-2024-07-24,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Factory to port,False,,JTDACAAU0R3029948,San Francisco Toyota,CA
-2024-07-27,2024,LE FWD,Cutting Edge,27950,29454,3974,31924,Factory to port,True,,JTDACAAU0R3029979,Claremont Toyota,CA
-2024-07-23,2024,Limited FWD,Guardian Gray,34965,37012,0,34965,Factory to port,True,,JTDACAAU1R114BB54,Elk Grove Toyota,CA
+2024-07-30,2024,LE FWD,Midnight Black Metallic,27950,29449,0,27950,Factory to port,False,,JTDACAAU0R3029884,Beach Cities Toyota Westminster,CA
+2024-07-23T00:00:00.000Z,2024,LE FWD,Cutting Edge,27950,29180,0,27950,Factory to port,True,DealerHold,JTDACAAU0R3029898,Palestine Toyota,TX
+2024-07-30,2024,Limited FWD,Guardian Gray,34965,38483,0,34965,Factory to port,False,DealerHold,JTDACAAU0R3029903,Toyota of Downtown LA,CA
+2024-07-23T00:00:00.000Z,2024,Limited FWD,Cutting Edge,34965,39348,0,34965,Factory to port,False,Available,JTDACAAU0R3029917,Mac Haik Toyota,TX
+2024-07-29,2024,Limited FWD,Wind Chill Pearl,34965,38499,0,34965,Factory to port,False,DealerHold,JTDACAAU0R3029934,Toyota Santa Monica,CA
+2024-07-25,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Factory to port,False,,JTDACAAU0R3029948,San Francisco Toyota,CA
+2024-07-31,2024,LE FWD,Cutting Edge,27950,29454,3974,31924,Factory to port,True,,JTDACAAU0R3029979,Claremont Toyota,CA
 2024-05-21,2024,XLE FWD,Midnight Black Metallic,31395,34632,0,31395,Factory to port,False,Available,JTDACAAU1R114EG19,Universal Toyota,TX
-2024-09-07,2024,XLE FWD,Wind Chill Pearl,31395,34925,0,31395,Factory to port,False,DealerHold,JTDACAAU1R125CF59,McCarthy Toyota of Sedalia,MO
-2024-08-23,2024,Limited FWD,Cutting Edge,34965,37695,0,34965,Factory to port,False,,JTDACAAU1R125CF62,Lou Fusz Toyota,MO
+2024-09-03,2024,XLE FWD,Wind Chill Pearl,31395,34925,0,31395,Factory to port,False,DealerHold,JTDACAAU1R125CF59,McCarthy Toyota of Sedalia,MO
+2024-08-27,2024,Limited FWD,Cutting Edge,34965,37695,0,34965,Factory to port,False,,JTDACAAU1R125CF62,Lou Fusz Toyota,MO
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39013,0,34965,Port to dealer,False,DealerHold,JTDACAAU1R3024967,Little Apple Toyota,KS
 Unknown,2024,Limited FWD,Guardian Gray,34965,38533,0,34965,Port to dealer,False,Available,JTDACAAU1R3025052,Golling Toyota of Warren,MI
 Unknown,2024,XLE FWD,Supersonic Red,31395,35294,0,31395,Port to dealer,False,DealerHold,JTDACAAU1R3025262,Seeger Toyota,MO
 2024-04-04,2024,XLE FWD,Reservoir Blue,31395,34799,0,31395,At dealer,False,DealerHold,JTDACAAU1R3025861,Adams Toyota Lee's Summit,MO
 Unknown,2024,LE FWD,Supersonic Red,27950,29769,0,27950,Port to dealer,False,DealerHold,JTDACAAU1R3026069,Olathe Toyota,KS
+2024-04-04,2024,XLE FWD,Cutting Edge,31395,33799,0,31395,At dealer,False,Available,JTDACAAU1R3027075,Shelor Toyota,VA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,0,27950,Port to dealer,True,DealerHold,JTDACAAU1R3027481,Toyota West,OH
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33214,0,31395,Factory to port,False,DealerHold,JTDACAAU1R3027612,Right Toyota,AZ
 2024-04-07T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30448,0,27950,At dealer,True,Available,JTDACAAU1R3027819,Van-Trow Toyota,LA
@@ -63,12 +62,12 @@ Unknown,2024,LE FWD,Guardian Gray,27950,29080,0,27950,Factory to port,False,Deal
 Unknown,2024,Limited FWD,Guardian Gray,34965,38175,1695,36660,Factory to port,False,Available,JTDACAAU1R3028002,Keating Toyota,TX
 Unknown,2024,XLE FWD,Cutting Edge,31395,34954,0,31395,Port to dealer,False,DealerHold,JTDACAAU1R3028081,Conicelli Toyota,PA
 Unknown,2024,LE FWD,Guardian Gray,27950,29379,0,27950,Port to dealer,False,DealerHold,JTDACAAU1R3028114,Team Toyota of Glen Mills,PA
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35543,0,31395,Port to dealer,False,DealerHold,JTDACAAU1R3028193,Corwin Toyota of Bellevue,NE
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35543,395,31790,Port to dealer,False,DealerHold,JTDACAAU1R3028193,Corwin Toyota of Bellevue,NE
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,39687,0,34965,Factory to port,False,Available,JTDACAAU1R3028209,Four Stars Toyota,OK
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35732,0,31395,Port to dealer,True,Available,JTDACAAU1R3028212,Jordan Toyota,IN
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,29838,0,27950,Port to dealer,False,DealerHold,JTDACAAU1R3028291,Kings Toyota,OH
 Unknown,2024,XLE FWD,Guardian Gray,31395,32939,0,31395,Port to dealer,True,,JTDACAAU1R3028369,Avondale Toyota,AZ
-Unknown,2024,LE FWD,Supersonic Red,27950,30359,0,27950,Factory to port,False,DealerHold,JTDACAAU1R3028405,Hertrich Toyota,DE
+Unknown,2024,LE FWD,Supersonic Red,27950,30359,0,27950,Port to dealer,False,DealerHold,JTDACAAU1R3028405,Hertrich Toyota,DE
 Unknown,2024,XLE FWD,Guardian Gray,31395,35238,0,31395,Port to dealer,False,Available,JTDACAAU1R3028419,Hamer Toyota,CA
 Unknown,2024,XLE FWD,Reservoir Blue,31395,35802,0,31395,Port to dealer,False,DealerHold,JTDACAAU1R3028503,Brunswick Toyota,OH
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,37528,2988,37953,Factory to port,True,Available,JTDACAAU1R3028551,San Marcos Toyota,TX
@@ -83,6 +82,7 @@ Unknown,2024,LE FWD,Wind Chill Pearl,27950,30298,0,27950,Factory to port,True,Av
 Unknown,2024,Limited FWD,Reservoir Blue,34965,37667,0,34965,Factory to port,False,,JTDACAAU1R3029232,Toyota of Glendale,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,33799,0,31395,Port to dealer,False,DealerHold,JTDACAAU1R3029358,Haley Toyota,VA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35978,0,31395,Factory to port,False,,JTDACAAU1R3029506,Temecula Valley Toyota,CA
+Unknown,2024,LE FWD,Midnight Black Metallic,27950,30448,1495,29445,Port to dealer,False,Available,JTDACAAU1R3029523,Cavender Toyota,TX
 Unknown,2024,XLE FWD,Guardian Gray,31395,33094,0,31395,Port to dealer,False,Available,JTDACAAU1R3029568,Magnussen's Toyota of Palo Alto,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35363,0,31395,Factory to port,True,DealerHold,JTDACAAU1R3029585,Culver City Toyota,CA
 Unknown,2024,Limited FWD,Guardian Gray,34965,39762,699,35664,Port to dealer,False,Available,JTDACAAU1R3029635,Landers Toyota,AR
@@ -96,14 +96,15 @@ Unknown,2024,Limited FWD,Guardian Gray,34965,39762,0,34965,Factory to port,False
 Unknown,2024,LE FWD,Guardian Gray,27950,29979,570,28520,Factory to port,False,DealerHold,JTDACAAU1R3029831,Hanlees Hilltop Toyota,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,30442,0,27950,Port to dealer,False,,JTDACAAU1R3029845,Haley Toyota of Farmville,VA
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,38218,0,34965,Factory to port,False,,JTDACAAU1R3029876,Claremont Toyota,CA
-2024-07-21T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,2988,37953,Factory to port,False,Available,JTDACAAU1R3029909,San Marcos Toyota,TX
-2024-08-16,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Factory to port,True,DealerHold,JTDACAAU1R3029943,Johnson City Toyota,TN
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33978,0,31395,Port to dealer,False,,JTDACAAU2R3025108,Baxter Toyota of Lincoln,NE
+2024-07-23T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,2988,37953,Factory to port,False,Available,JTDACAAU1R3029909,San Marcos Toyota,TX
+2024-07-25,2024,Limited FWD,Guardian Gray,34965,37012,0,34965,Factory to port,True,,JTDACAAU1R3029912,Elk Grove Toyota,CA
+2024-08-15,2024,XLE FWD,Wind Chill Pearl,31395,35443,0,31395,Factory to port,True,,JTDACAAU1R3029926,Brian Bemis Toyota of DeKalb,IL
+2024-08-18,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Factory to port,True,DealerHold,JTDACAAU1R3029943,Johnson City Toyota,TN
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33978,0,31395,Port to dealer,False,DealerHold,JTDACAAU2R3025108,Baxter Toyota of Lincoln,NE
 2024-03-03T00:00:00.000Z,2024,Limited FWD,Cutting Edge,34965,36943,0,34965,At dealer,True,DealerHold,JTDACAAU2R3025433,Street Toyota,TX
 Unknown,2024,XLE FWD,Reservoir Blue,31395,32789,0,31395,Port to dealer,False,Available,JTDACAAU2R3025951,Peppers Toyota,TN
 2024-04-09,2024,XLE FWD,Cutting Edge,31395,35548,0,31395,At dealer,False,DealerHold,JTDACAAU2R3026372,Lewis Toyota of Dodge City,KS
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,37083,0,34965,Port to dealer,False,,JTDACAAU2R3026503,Camelback Toyota,AZ
-2024-04-03,2024,XLE FWD,Reservoir Blue,31395,34174,0,31395,At dealer,True,DealerHold,JTDACAAU2R3026727,Krause Toyota,PA
 2024-03-26,2024,Limited FWD,Cutting Edge,34965,39163,7683,42648,At dealer,False,Available,JTDACAAU2R3026761,Keating Toyota,TX
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,29448,0,27950,Port to dealer,True,DealerHold,JTDACAAU2R3027599,Bobby Rahal Toyota,PA
 2024-04-04,2024,XLE FWD,Wind Chill Pearl,31395,35677,0,31395,At dealer,False,,JTDACAAU2R3027702,South Bay Toyota,CA
@@ -123,12 +124,11 @@ Unknown,2024,XLE FWD,Guardian Gray,31395,35417,0,31395,Port to dealer,False,Deal
 Unknown,2024,XLE FWD,Guardian Gray,31395,33208,4485,35880,Port to dealer,False,Available,JTDACAAU2R3028770,Marina del Rey Toyota,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34868,0,31395,Factory to port,False,,JTDACAAU2R3028851,DARCARS Toyota,MD
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,39762,0,34965,Factory to port,True,DealerHold,JTDACAAU2R3028896,Sterling McCall Toyota,TX
-Unknown,2024,XLE FWD,Cutting Edge,31395,32789,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3028932,AutoNation Toyota Tempe,AZ
+Unknown,2024,XLE FWD,Cutting Edge,31395,32789,1398,32793,Factory to port,False,DealerHold,JTDACAAU2R3028932,AutoNation Toyota Tempe,AZ
 Unknown,2024,XLE FWD,Supersonic Red,31395,35257,2895,34290,Port to dealer,True,Available,JTDACAAU2R3029031,Jim Norton Toyota,OK
 Unknown,2024,XLE FWD,Guardian Gray,31395,34949,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3029062,Cumberland Toyota,TN
 2024-05-06T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,988,35953,Factory to port,False,DealerHold,JTDACAAU2R3029157,Longo Toyota of Prosper,TX
 Unknown,2024,XLE FWD,Guardian Gray,31395,35448,0,31395,Factory to port,True,Available,JTDACAAU2R3029160,Bob Smith Toyota,CA
-Unknown,2024,Limited FWD,Cutting Edge,34965,38074,0,34965,Factory to port,False,,JTDACAAU2R3029188,AutoNation Toyota Cerritos,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,34828,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3029224,Bill Wright Toyota,CA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,30478,0,27950,Factory to port,False,DealerHold,JTDACAAU2R3029238,Temecula Valley Toyota,CA
 Unknown,2024,LE FWD,Supersonic Red,27950,30023,0,27950,Factory to port,False,DealerHold,JTDACAAU2R3029241,Berglund Toyota,VA
@@ -140,14 +140,14 @@ Unknown,2024,Limited FWD,Midnight Black Metallic,34965,38348,0,34965,Factory to 
 Unknown,2024,Limited FWD,Guardian Gray,34965,36359,0,34965,Factory to port,False,,JTDACAAU2R3029367,San Francisco Toyota,CA
 Unknown,2024,XLE FWD,Reservoir Blue,31395,34799,0,31395,Port to dealer,True,DealerHold,JTDACAAU2R3029448,Jeff Wyler Toyota of Clarksville,IN
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35244,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3029451,Jay Wolfe Toyota of West County,MO
-Unknown,2024,LE FWD,Cutting Edge,27950,29529,0,27950,Factory to port,False,DealerHold,JTDACAAU2R3029465,Sheehy Toyota of Laurel,MD
+Unknown,2024,LE FWD,Cutting Edge,27950,29529,0,27950,Port to dealer,False,DealerHold,JTDACAAU2R3029465,Sheehy Toyota of Laurel,MD
 Unknown,2024,LE FWD,Cutting Edge,27950,29673,0,27950,Factory to port,False,,JTDACAAU2R3029496,Penske Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35982,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3029501,Toyota of Glendale,CA
 2024-06-12,2024,LE FWD,Reservoir Blue,27950,29489,0,27950,Port to dealer,True,Available,JTDACAAU2R3029580,Freeman Toyota,TX
 Unknown,2024,LE FWD,Guardian Gray,27950,29529,0,27950,Factory to port,True,DealerHold,JTDACAAU2R3029613,DARCARS Toyota of Frederick,MD
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29954,0,27950,Factory to port,True,DealerHold,JTDACAAU2R3029658,DARCARS Toyota of Frederick,MD
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38843,0,34965,Factory to port,False,DealerHold,JTDACAAU2R3029661,Toyota Walnut Creek,CA
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35523,0,31395,Factory to port,True,,JTDACAAU2R3029692,Danville Toyota,VA
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35523,0,31395,Port to dealer,True,,JTDACAAU2R3029692,Danville Toyota,VA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29874,5290,33240,Factory to port,False,Available,JTDACAAU2R3029708,Berge Toyota,AZ
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33342,0,31395,Factory to port,False,DealerHold,JTDACAAU2R3029739,Toyota of Selma,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,30109,0,27950,Factory to port,False,,JTDACAAU2R3029756,Heritage Toyota Catonsville,MD
@@ -157,11 +157,11 @@ Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34449,0,31395,Port to dealer,False,D
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39236,0,34965,Factory to port,False,,JTDACAAU2R3029854,Thousand Oaks Toyota,CA
 Unknown,2024,LE FWD,Supersonic Red,27950,30467,0,27950,Factory to port,False,DealerHold,JTDACAAU2R3029871,Nashville Toyota North,TN
 Unknown,2024,XLE FWD,Cutting Edge,31395,33094,995,32390,Factory to port,True,DealerHold,JTDACAAU2R3029885,AutoNation Toyota Hayward,CA
-2024-08-21,2024,Limited FWD,Reservoir Blue,34965,38818,0,34965,Factory to port,True,,JTDACAAU2R3029899,Toyota of Des Moines,IA
-2024-07-21T00:00:00.000Z,2024,LE FWD,Midnight Black Metallic,27950,30448,0,27950,Factory to port,False,Available,JTDACAAU2R3029904,Pat Lobb Toyota of McKinney,TX
-2024-08-20,2024,XLE FWD,Reservoir Blue,31395,34879,0,31395,Factory to port,True,DealerHold,JTDACAAU2R3029949,Sam Leman Toyota Bloomington,IL
-2024-08-03,2024,Limited FWD,Wind Chill Pearl,34965,38488,0,34965,Factory to port,False,,JTDACAAU2R3029952,Toyota of Pasadena,CA
-2024-07-23,2024,Limited FWD,Wind Chill Pearl,34965,37527,0,34965,Factory to port,True,DealerHold,JTDACAAU2R3029983,Maita's Toyota of Sacramento,CA
+2024-08-19,2024,Limited FWD,Reservoir Blue,34965,38818,0,34965,Factory to port,True,,JTDACAAU2R3029899,Toyota of Des Moines,IA
+2024-07-23T00:00:00.000Z,2024,LE FWD,Midnight Black Metallic,27950,30448,0,27950,Factory to port,False,Available,JTDACAAU2R3029904,Vandergriff Toyota,TX
+2024-08-19,2024,XLE FWD,Reservoir Blue,31395,34879,0,31395,Factory to port,True,DealerHold,JTDACAAU2R3029949,Sam Leman Toyota Bloomington,IL
+2024-08-04,2024,Limited FWD,Wind Chill Pearl,34965,38488,0,34965,Factory to port,False,,JTDACAAU2R3029952,Toyota of Pasadena,CA
+2024-07-25,2024,Limited FWD,Wind Chill Pearl,34965,37527,0,34965,Factory to port,True,DealerHold,JTDACAAU2R3029983,Maita's Toyota of Sacramento,CA
 2024-05-26,2024,LE FWD,Wind Chill Pearl,27950,31073,0,27950,Factory to port,True,Available,JTDACAAU3R117EC53,Toyota of Cedar Park,TX
 2023-12-23T00:00:00.000Z,2024,XLE FWD,Reservoir Blue,31395,34632,0,31395,Factory to port,False,Available,JTDACAAU3R3019740,Jim Norton Toyota of Oklahoma City,OK
 2024-02-07,2024,XLE FWD,Midnight Black Metallic,31095,34829,0,31095,At dealer,False,Available,JTDACAAU3R3022444,Haddad Toyota,MA
@@ -169,7 +169,6 @@ Unknown,2024,XLE FWD,Cutting Edge,31395,33094,995,32390,Factory to port,True,Dea
 Unknown,2024,Limited FWD,Cutting Edge,34965,38433,0,34965,Port to dealer,False,DealerHold,JTDACAAU3R3024646,Rolling Hills Toyota,MO
 2024-04-10,2024,XLE FWD,Midnight Black Metallic,31395,32789,0,31395,At dealer,False,Available,JTDACAAU3R3025151,Classic Toyota,IL
 2024-04-05,2024,Limited FWD,Wind Chill Pearl,34965,39243,0,34965,At dealer,False,Available,JTDACAAU3R3025988,Lloyds Toyota,ND
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35242,0,31395,At dealer,False,Available,JTDACAAU3R3026526,Headquarter Toyota,FL
 2024-03-21,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,At dealer,False,DealerHold,JTDACAAU3R3026560,AutoNation Toyota Arapahoe,CO
 2024-03-22T00:00:00.000Z,2024,Limited FWD,Reservoir Blue,34965,39562,0,34965,At dealer,True,Available,JTDACAAU3R3026624,North Park Toyota of San Antonio,TX
 2024-03-23,2024,XLE FWD,Wind Chill Pearl,31395,33822,3675,35070,At dealer,False,DealerHold,JTDACAAU3R3026932,Kearny Mesa Toyota,CA
@@ -208,7 +207,7 @@ Unknown,2024,XLE FWD,Guardian Gray,31395,34024,0,31395,Factory to port,False,Dea
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,30234,0,27950,Factory to port,False,,JTDACAAU3R3029152,Heritage Toyota Catonsville,MD
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,37088,0,34965,Factory to port,True,DealerHold,JTDACAAU3R3029216,AutoNation Toyota Hayward,CA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35124,0,31395,Factory to port,True,,JTDACAAU3R3029264,Wilson Toyota,IA
-2024-05-31T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,38352,2488,37453,Factory to port,False,Available,JTDACAAU3R3029278,Toyota of Plano,TX
+2024-06-06T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,38352,2488,37453,Factory to port,False,Available,JTDACAAU3R3029278,Toyota of Plano,TX
 Unknown,2024,XLE FWD,Reservoir Blue,31395,35449,0,31395,Port to dealer,False,,JTDACAAU3R3029314,L & S Toyota of Beckley,WV
 Unknown,2024,XLE FWD,Cutting Edge,31395,32789,0,31395,Factory to port,True,DealerHold,JTDACAAU3R3029328,Putnam Toyota,CA
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,37994,0,34965,Factory to port,False,,JTDACAAU3R3029331,San Francisco Toyota,CA
@@ -231,12 +230,12 @@ Unknown,2024,XLE FWD,Supersonic Red,31395,35257,0,31395,Factory to port,False,De
 Unknown,2024,LE FWD,Cutting Edge,27950,29379,1995,29945,Factory to port,False,,JTDACAAU3R3029832,Cabe Toyota Long Beach,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,32789,0,31395,Port to dealer,False,,JTDACAAU3R3029846,San Francisco Toyota,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029877,Putnam Toyota,CA
-2024-07-29,2024,LE FWD,Guardian Gray,27950,29913,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029894,Victory Toyota,CA
-2024-08-03,2024,LE FWD,Guardian Gray,27950,29698,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029913,Karl Malone Toyota,UT
-2024-07-22T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30302,0,27950,Factory to port,False,DealerHold,JTDACAAU3R3029930,Fowler Toyota of Tulsa,OK
-2024-08-14,2024,LE FWD,Cutting Edge,27950,29654,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029958,Precision Toyota of Tucson,AZ
-2024-08-02,2024,Limited FWD,Reservoir Blue,34965,38552,0,34965,Factory to port,False,DealerHold,JTDACAAU3R3029961,Brent Brown Toyota,UT
-2024-08-23,2024,XLE FWD,Supersonic Red,31395,34925,0,31395,Factory to port,False,,JTDACAAU4R125CB49,Wilson Toyota,IA
+2024-07-30,2024,LE FWD,Guardian Gray,27950,29913,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029894,Victory Toyota,CA
+2024-08-02,2024,LE FWD,Guardian Gray,27950,29698,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029913,Karl Malone Toyota,UT
+2024-07-23T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30302,0,27950,Factory to port,False,DealerHold,JTDACAAU3R3029930,Fowler Toyota of Tulsa,OK
+2024-08-18,2024,LE FWD,Cutting Edge,27950,29654,0,27950,Factory to port,True,DealerHold,JTDACAAU3R3029958,Precision Toyota of Tucson,AZ
+2024-08-03,2024,Limited FWD,Reservoir Blue,34965,38552,0,34965,Factory to port,False,DealerHold,JTDACAAU3R3029961,Brent Brown Toyota,UT
+2024-08-26,2024,XLE FWD,Supersonic Red,31395,34925,0,31395,Factory to port,True,,JTDACAAU4R125CB49,Wilson Toyota,IA
 2024-02-24T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,0,34965,At dealer,False,Available,JTDACAAU4R3024946,Toyota of New Orleans,LA
 Unknown,2024,Limited FWD,Supersonic Red,34965,38763,0,34965,At dealer,False,Available,JTDACAAU4R3027037,Principle Toyota,TN
 Unknown,2024,LE FWD,Guardian Gray,27950,29379,0,27950,At dealer,True,DealerHold,JTDACAAU4R3027085,Jeff Wyler Toyota of Springfield,OH
@@ -249,7 +248,7 @@ Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Port to dealer,Fal
 2024-07-14T00:00:00.000Z,2024,Limited FWD,Guardian Gray,34965,39641,0,34965,Factory to port,False,Available,JTDACAAU4R3027913,Massey Toyota,NC
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38779,0,34965,Factory to port,False,Available,JTDACAAU4R3028012,Family Toyota of Burleson,TX
 Unknown,2024,LE FWD,Guardian Gray,27950,29494,0,27950,At dealer,False,DealerHold,JTDACAAU4R3028026,Woodrum Toyota of Macomb,IL
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34454,0,31395,Factory to port,False,Available,JTDACAAU4R3028060,Heritage Toyota Catonsville,MD
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34454,0,31395,Port to dealer,False,Available,JTDACAAU4R3028060,Heritage Toyota Catonsville,MD
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,36367,0,31395,Factory to port,True,DealerHold,JTDACAAU4R3028088,Shottenkirk Toyota Granbury,TX
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,29753,1443,29393,Factory to port,False,Available,JTDACAAU4R3028124,Toyota of Lancaster,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34558,2995,34390,Factory to port,False,Available,JTDACAAU4R3028138,Classic Toyota,TX
@@ -279,7 +278,7 @@ Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Factory to port,True,Dealer
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39033,0,34965,Factory to port,False,,JTDACAAU4R3029175,Claremont Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35599,0,31395,Factory to port,True,DealerHold,JTDACAAU4R3029211,DARCARS Toyota of Frederick,MD
 Unknown,2024,Limited FWD,Guardian Gray,34965,38338,0,34965,Factory to port,True,Available,JTDACAAU4R3029225,Avondale Toyota,AZ
-2024-05-06T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,34832,7696,39091,Factory to port,False,Available,JTDACAAU4R3029368,Alamo Toyota,TX
+Unknown,2024,Limited FWD,Guardian Gray,34965,38807,2495,37460,Factory to port,False,DealerHold,JTDACAAU4R3029239,Toyota of Orange,CA
 Unknown,2024,Limited FWD,Cutting Edge,34965,37172,0,34965,Factory to port,False,,JTDACAAU4R3029385,Robinson Toyota,TN
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,29618,0,27950,Factory to port,False,DealerHold,JTDACAAU4R3029449,Toyota of Downtown LA,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35699,0,31395,Factory to port,False,,JTDACAAU4R3029466,Yark Toyota,OH
@@ -294,12 +293,13 @@ Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Factory to port,False,Deale
 2024-06-21,2024,Limited FWD,Cutting Edge,34965,39383,4085,39050,Factory to port,False,Available,JTDACAAU4R3029743,Fred Haas Toyota World,TX
 2024-06-20,2024,Limited FWD,Midnight Black Metallic,34965,39562,0,34965,Factory to port,True,Available,JTDACAAU4R3029791,Don McGill Toyota of Katy,TX
 Unknown,2024,LE FWD,Cutting Edge,27950,29598,0,27950,Factory to port,False,,JTDACAAU4R3029807,Hanlees Toyota,CA
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35257,0,31395,Port to dealer,False,DealerHold,JTDACAAU4R3029855,Fred Haas Toyota World,TX
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35257,2495,33890,Port to dealer,False,Available,JTDACAAU4R3029855,Fred Haas Toyota World,TX
 Unknown,2024,LE FWD,Guardian Gray,27950,30648,0,27950,Factory to port,False,Available,JTDACAAU4R3029869,Toyota of Cedar Park,TX
 Unknown,2024,XLE FWD,Reservoir Blue,31395,35194,0,31395,Port to dealer,True,DealerHold,JTDACAAU4R3029872,Spitzer Toyota,PA
-2024-07-30,2024,Limited FWD,Wind Chill Pearl,34965,39037,0,34965,Factory to port,False,,JTDACAAU4R3029886,Culver City Toyota,CA
-2024-08-19,2024,Limited FWD,Midnight Black Metallic,34965,38823,0,34965,Factory to port,False,DealerHold,JTDACAAU4R3029936,Kerry Toyota,KY
-2024-07-27,2024,LE FWD,Guardian Gray,27950,30462,0,27950,Factory to port,True,DealerHold,JTDACAAU4R3029967,Manhattan Beach Toyota,CA
+2024-07-31,2024,Limited FWD,Wind Chill Pearl,34965,39037,0,34965,Factory to port,False,,JTDACAAU4R3029886,Culver City Toyota,CA
+2024-07-25,2024,Limited FWD,Wind Chill Pearl,34965,38419,0,34965,Factory to port,True,DealerHold,JTDACAAU4R3029922,Fremont Toyota,CA
+2024-08-15,2024,Limited FWD,Midnight Black Metallic,34965,38823,0,34965,Factory to port,False,DealerHold,JTDACAAU4R3029936,Kerry Toyota,KY
+2024-07-28,2024,LE FWD,Guardian Gray,27950,30462,0,27950,Factory to port,True,DealerHold,JTDACAAU4R3029967,Manhattan Beach Toyota,CA
 2023-12-06,2024,XLE FWD,Midnight Black Metallic,31095,34979,0,31095,At dealer,False,DealerHold,JTDACAAU5R3016547,Advantage Toyota,WV
 2024-04-05,2024,Limited FWD,Cutting Edge,34665,38038,0,34665,At dealer,False,DealerHold,JTDACAAU5R3023076,Shottenkirk Toyota,IL
 2024-02-27,2024,Limited FWD,Guardian Gray,34665,37874,0,34665,At dealer,False,,JTDACAAU5R3023739,Wagner Toyota,NE
@@ -312,6 +312,7 @@ Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39238,0,34965,Port to dealer,Tru
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35054,0,31395,Factory to port,False,Available,JTDACAAU5R3027595,Younger Toyota,MD
 2024-04-12,2024,Limited FWD,Supersonic Red,34965,38419,0,34965,At dealer,False,Available,JTDACAAU5R3027628,Mountain States Toyota,CO
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35224,0,31395,Port to dealer,False,DealerHold,JTDACAAU5R3027774,Rolling Hills Toyota,MO
+Unknown,2024,Limited FWD,Cutting Edge,34965,38083,0,34965,Port to dealer,False,DealerHold,JTDACAAU5R3027869,Tom Pappas Toyota,MO
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,0,27950,Port to dealer,False,Available,JTDACAAU5R3027919,Miller Toyota,VA
 2024-04-12,2024,XLE FWD,Cutting Edge,31395,35366,0,31395,At dealer,False,DealerHold,JTDACAAU5R3027936,Hamer Toyota,CA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34799,0,31395,Port to dealer,True,DealerHold,JTDACAAU5R3027953,Antwerpen's Toyota,MD
@@ -323,12 +324,13 @@ Unknown,2024,LE FWD,Reservoir Blue,27950,30028,0,27950,Factory to port,False,Ava
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,38368,3974,38939,At dealer,False,,JTDACAAU5R3028438,Claremont Toyota,CA
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38569,0,34965,Port to dealer,False,,JTDACAAU5R3028651,Walker Toyota,OH
 2025-04-21,2024,XLE FWD,Cutting Edge,31395,36567,4616,36011,Factory to port,True,Available,JTDACAAU5R3028679,Texas Toyota of Grapevine,TX
-2024-04-12,2024,XLE FWD,Midnight Black Metallic,31395,35637,0,31395,At dealer,False,DealerHold,JTDACAAU5R3028682,Culver City Toyota,CA
+2024-04-12,2024,XLE FWD,Midnight Black Metallic,31395,35637,0,31395,At dealer,True,DealerHold,JTDACAAU5R3028682,Culver City Toyota,CA
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,36784,0,34965,Port to dealer,False,DealerHold,JTDACAAU5R3028861,City Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33363,0,31395,Factory to port,False,,JTDACAAU5R3028889,Hanlees Toyota,CA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29954,0,27950,Factory to port,True,DealerHold,JTDACAAU5R3028908,Kerry Toyota,KY
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39412,0,34965,Port to dealer,False,DealerHold,JTDACAAU5R3029007,Bill Wright Toyota,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,29753,0,27950,Factory to port,False,,JTDACAAU5R3029024,Jimmy Vasser Toyota,CA
+Unknown,2024,LE FWD,Wind Chill Pearl,27950,29884,499,28449,Port to dealer,False,Available,JTDACAAU5R3029055,Toyota San Luis Obispo,CA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,0,27950,Factory to port,False,DealerHold,JTDACAAU5R3029072,White River Toyota,VT
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35379,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029105,Fitzgerald Toyota Gaithersburg,MD
 2024-05-06T00:00:00.000Z,2024,LE FWD,Wind Chill Pearl,27950,30079,2379,30329,Factory to port,True,DealerHold,JTDACAAU5R3029136,Gullo Toyota of Conroe,TX
@@ -336,7 +338,7 @@ Unknown,2024,XLE FWD,Cutting Edge,31395,32944,1995,33390,Factory to port,False,,
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33489,0,31395,Factory to port,False,Available,JTDACAAU5R3029203,Centennial Toyota,NV
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,33734,0,31395,Factory to port,False,Available,JTDACAAU5R3029220,Toyota of Rockwall,TX
 Unknown,2024,XLE FWD,Supersonic Red,31395,36019,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029279,Dan Hecht Chevrolet/Toyota,IL
-Unknown,2024,LE FWD,Midnight Black Metallic,27950,29534,0,27950,Factory to port,False,DealerHold,JTDACAAU5R3029430,Westchester Toyota,NY
+Unknown,2024,LE FWD,Midnight Black Metallic,27950,29534,0,27950,Port to dealer,False,DealerHold,JTDACAAU5R3029430,Westchester Toyota,NY
 Unknown,2024,XLE FWD,Cutting Edge,31395,34799,0,31395,Port to dealer,False,DealerHold,JTDACAAU5R3029461,Rick Collins Toyota,IA
 Unknown,2024,XLE FWD,Guardian Gray,31395,35282,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029542,Keyes Toyota,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,35388,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029573,Frank Fletcher Toyota,MO
@@ -348,18 +350,17 @@ Unknown,2024,Limited FWD,Midnight Black Metallic,34965,38218,0,34965,Factory to 
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35473,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029718,Toyota of Escondido,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34524,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029721,South Coast Toyota,CA
 Unknown,2024,Limited FWD,Cutting Edge,34965,38629,0,34965,Factory to port,True,DealerHold,JTDACAAU5R3029749,Freeman Toyota,CA
-Unknown,2024,LE FWD,Supersonic Red,27950,30303,0,27950,Factory to port,False,,JTDACAAU5R3029752,AutoNation Toyota Cerritos,CA
 Unknown,2024,Limited FWD,Guardian Gray,34965,38218,0,34965,Factory to port,False,,JTDACAAU5R3029766,Claremont Toyota,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34326,0,31395,Factory to port,True,Available,JTDACAAU5R3029797,Bryan College Station Toyota,TX
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29954,0,27950,Factory to port,True,DealerHold,JTDACAAU5R3029816,Bobby Rahal Toyota,PA
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39054,0,34965,Factory to port,False,Available,JTDACAAU5R3029847,Freeman Toyota,CA
 Unknown,2024,LE FWD,Reservoir Blue,27950,29045,0,27950,Factory to port,False,DealerHold,JTDACAAU5R3029864,Toyota of Cool Springs,TN
-2024-07-27,2024,Limited FWD,Guardian Gray,34965,38727,2495,37460,Factory to port,False,DealerHold,JTDACAAU5R3029895,Toyota of Orange,CA
-2024-07-27,2024,XLE FWD,Cutting Edge,31395,35448,3675,35070,Factory to port,True,DealerHold,JTDACAAU5R3029900,Kearny Mesa Toyota,CA
-2024-07-22T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39014,0,34965,Factory to port,True,Available,JTDACAAU5R3029931,Family Toyota of Burleson,TX
-2024-07-30,2024,XLE FWD,Wind Chill Pearl,31395,33559,0,31395,Factory to port,False,,JTDACAAU5R3029959,Centennial Toyota,NV
+2024-07-29,2024,Limited FWD,Guardian Gray,34965,38727,2495,37460,Factory to port,False,DealerHold,JTDACAAU5R3029895,Toyota of Orange,CA
+2024-07-29,2024,XLE FWD,Cutting Edge,31395,35448,3675,35070,Factory to port,True,DealerHold,JTDACAAU5R3029900,Kearny Mesa Toyota,CA
+2024-07-31,2024,XLE FWD,Reservoir Blue,31395,35173,0,31395,Factory to port,False,,JTDACAAU5R3029928,Claremont Toyota,CA
+2024-07-23T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39014,0,34965,Factory to port,True,Available,JTDACAAU5R3029931,Family Toyota of Burleson,TX
+2024-08-02,2024,XLE FWD,Wind Chill Pearl,31395,33559,0,31395,Factory to port,False,,JTDACAAU5R3029959,Centennial Toyota,NV
 2024-08-22,2024,XLE FWD,Midnight Black Metallic,31395,35343,0,31395,Factory to port,False,DealerHold,JTDACAAU5R3029962,Seeger Toyota,MO
-2024-08-05,2024,LE FWD,Supersonic Red,27950,30159,0,27950,Factory to port,False,DealerHold,JTDACAAU6R114EO18,Bill Page Toyota,VA
 2024-01-29,2024,XLE FWD,Midnight Black Metallic,31095,34798,0,31095,At dealer,False,DealerHold,JTDACAAU6R3021546,I-10 Toyota,CA
 Unknown,2024,Limited FWD,Supersonic Red,34965,38419,0,34965,Port to dealer,False,DealerHold,JTDACAAU6R3025161,"Molle Toyota, Inc.",MO
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,38439,0,34965,Port to dealer,False,DealerHold,JTDACAAU6R3026164,Corwin Toyota,ND
@@ -375,7 +376,7 @@ Unknown,2024,XLE FWD,Supersonic Red,31395,33778,0,31395,Port to dealer,True,,JTD
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,40187,0,34965,Factory to port,True,DealerHold,JTDACAAU6R3027847,James Hodge Toyota,OK
 Unknown,2024,LE FWD,Reservoir Blue,27950,30448,1795,29745,Factory to port,True,Available,JTDACAAU6R3027931,Universal Toyota,TX
 Unknown,2024,LE FWD,Cutting Edge,27950,30648,0,27950,Factory to port,False,Available,JTDACAAU6R3027976,Round Rock Toyota,TX
-Unknown,2024,LE FWD,Guardian Gray,27950,29743,0,27950,Port to dealer,True,Available,JTDACAAU6R3028013,Sloane Toyota of Philadelphia,PA
+Unknown,2024,LE FWD,Guardian Gray,27950,29743,0,27950,Port to dealer,False,Available,JTDACAAU6R3028013,Sloane Toyota of Philadelphia,PA
 Unknown,2024,LE FWD,Reservoir Blue,27950,30648,0,27950,Factory to port,False,Available,JTDACAAU6R3028061,Toyota of Cedar Park,TX
 2024-04-06,2024,Limited FWD,Cutting Edge,34965,38298,0,34965,At dealer,False,DealerHold,JTDACAAU6R3028089,Antioch Toyota,CA
 2024-04-08,2024,Limited FWD,Guardian Gray,34965,36359,0,34965,At dealer,False,DealerHold,JTDACAAU6R3028156,Mark Miller Toyota,UT
@@ -388,9 +389,9 @@ Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34799,0,31395,Port to dealer,
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,36853,0,34965,Factory to port,False,DealerHold,JTDACAAU6R3028710,Centennial Toyota,NV
 Unknown,2024,XLE FWD,Guardian Gray,31395,34632,0,31395,Factory to port,True,Available,JTDACAAU6R3028724,Gregg Orr Toyota,AR
 Unknown,2024,XLE FWD,Guardian Gray,31395,34632,2379,33774,Factory to port,False,Available,JTDACAAU6R3028741,Gullo Toyota of Conroe,TX
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34558,0,31395,Factory to port,False,Available,JTDACAAU6R3028805,Toyota of Richardson,TX
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34558,5995,37390,Factory to port,True,Available,JTDACAAU6R3028805,Toyota of Richardson,TX
 Unknown,2024,LE FWD,Supersonic Red,27950,30873,1875,29825,Factory to port,True,DealerHold,JTDACAAU6R3028884,Red McCombs Toyota,TX
-Unknown,2024,XLE FWD,Cutting Edge,31395,33799,0,31395,Factory to port,False,DealerHold,JTDACAAU6R3028903,Heritage Toyota Owings Mills,MD
+Unknown,2024,XLE FWD,Cutting Edge,31395,33799,0,31395,Port to dealer,False,DealerHold,JTDACAAU6R3028903,Heritage Toyota Owings Mills,MD
 Unknown,2024,XLE FWD,Cutting Edge,31395,32789,0,31395,Port to dealer,True,DealerHold,JTDACAAU6R3028917,Watermark Toyota,KY
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,37334,0,34965,Port to dealer,False,DealerHold,JTDACAAU6R3028982,DCH Toyota of Torrance,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,32789,0,31395,Factory to port,True,DealerHold,JTDACAAU6R3029002,Concord Toyota,CA
@@ -400,7 +401,7 @@ Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Factory to port,False,Deale
 Unknown,2024,LE FWD,Guardian Gray,27950,29374,0,27950,Factory to port,False,DealerHold,JTDACAAU6R3029145,West Coast Toyota of Long Beach,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34799,0,31395,Factory to port,False,DealerHold,JTDACAAU6R3029209,Bill Page Toyota,VA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29769,0,27950,Factory to port,False,DealerHold,JTDACAAU6R3029291,Crown Toyota,KS
-Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,1995,29945,Factory to port,False,,JTDACAAU6R3029310,Toyota Marin,CA
+Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,1995,29945,Factory to port,True,,JTDACAAU6R3029310,Toyota Marin,CA
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,30103,0,27950,Factory to port,False,DealerHold,JTDACAAU6R3029324,Toyota of Cool Springs,TN
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35057,0,31395,Factory to port,True,Available,JTDACAAU6R3029341,Don McGill Toyota of Katy,TX
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38092,0,34965,Factory to port,False,,JTDACAAU6R3029355,Toyota of Glendale,CA
@@ -412,14 +413,14 @@ Unknown,2024,XLE FWD,Guardian Gray,31395,35173,0,31395,Factory to port,False,Dea
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,30093,2186,30136,Port to dealer,True,DealerHold,JTDACAAU6R3029663,Toyota of Laredo,TX
 Unknown,2024,LE FWD,Guardian Gray,27950,29967,0,27950,Port to dealer,False,DealerHold,JTDACAAU6R3029730,Toyota Walnut Creek,CA
 Unknown,2024,LE FWD,Reservoir Blue,27950,30039,0,27950,Port to dealer,True,DealerHold,JTDACAAU6R3029775,Millennium Toyota,NY
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35802,0,31395,Factory to port,False,,JTDACAAU6R3029839,Toyota of Muncie,IN
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35802,0,31395,Factory to port,True,,JTDACAAU6R3029839,Toyota of Muncie,IN
 Unknown,2024,Limited FWD,Cutting Edge,34965,38368,0,34965,Factory to port,False,,JTDACAAU6R3029856,Claremont Toyota,CA
-2024-08-19,2024,Limited FWD,Guardian Gray,34965,38823,0,34965,Factory to port,True,DealerHold,JTDACAAU6R3029873,Kerry Toyota,KY
+2024-08-15,2024,Limited FWD,Guardian Gray,34965,38823,0,34965,Factory to port,True,DealerHold,JTDACAAU6R3029873,Kerry Toyota,KY
 2024-07-23T00:00:00.000Z,2024,LE FWD,Midnight Black Metallic,27950,30448,1495,29445,Factory to port,True,DealerHold,JTDACAAU6R3029887,Cavender Toyota,TX
-2024-08-23,2024,Limited FWD,Midnight Black Metallic,34965,38538,0,34965,Factory to port,False,,JTDACAAU6R3029890,Jay Wolfe Toyota of West County,MO
+2024-08-19,2024,Limited FWD,Midnight Black Metallic,34965,38538,0,34965,Factory to port,False,,JTDACAAU6R3029890,Jay Wolfe Toyota of West County,MO
 2024-07-30,2024,LE FWD,Cutting Edge,27950,29853,0,27950,Factory to port,False,,JTDACAAU6R3029906,Santa Margarita Toyota,CA
-2024-07-22,2024,LE FWD,Cutting Edge,27950,29344,1995,29945,Factory to port,True,Available,JTDACAAU6R3029923,Toyota Marin,CA
-2024-07-22,2024,Limited FWD,Wind Chill Pearl,34965,39322,0,34965,Factory to port,False,DealerHold,JTDACAAU6R3029954,Santa Cruz Toyota,CA
+2024-07-24,2024,LE FWD,Cutting Edge,27950,29344,1995,29945,Factory to port,True,Available,JTDACAAU6R3029923,Toyota Marin,CA
+2024-07-25,2024,Limited FWD,Wind Chill Pearl,34965,39322,0,34965,Factory to port,False,DealerHold,JTDACAAU6R3029954,Santa Cruz Toyota,CA
 2024-08-08,2024,LE FWD,Cutting Edge,27950,30362,0,27950,Factory to port,True,DealerHold,JTDACAAU6R3029971,Loyalty Toyota,VA
 Unknown,2024,Limited FWD,Cutting Edge,34965,38688,0,34965,Port to dealer,False,,JTDACAAU7R3025959,Baxter Toyota of Lincoln,NE
 2024-03-18,2024,XLE FWD,Midnight Black Metallic,31395,35434,0,31395,At dealer,False,DealerHold,JTDACAAU7R3026061,Ramey Toyota,WV
@@ -434,7 +435,7 @@ Unknown,2024,LE FWD,Midnight Black Metallic,27950,29688,0,27950,Port to dealer,T
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,33353,0,31395,Port to dealer,True,DealerHold,JTDACAAU7R3027632,Toyota of Louisville,KY
 Unknown,2024,LE FWD,Guardian Gray,27950,30123,0,27950,Port to dealer,False,DealerHold,JTDACAAU7R3027646,Le Mieux & Son Toyota,WI
 Unknown,2024,LE FWD,Guardian Gray,27950,29753,0,27950,Port to dealer,False,DealerHold,JTDACAAU7R3027789,Colonial Toyota,PA
-Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34434,0,31395,Factory to port,True,Available,JTDACAAU7R3027887,Haley Toyota of Richmond,VA
+Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34434,0,31395,Port to dealer,True,Available,JTDACAAU7R3027887,Haley Toyota of Richmond,VA
 2024-04-04,2024,Limited FWD,Cutting Edge,34965,38971,0,34965,At dealer,True,DealerHold,JTDACAAU7R3027890,Kearny Mesa Toyota,CA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,30023,0,27950,Factory to port,True,,JTDACAAU7R3027923,Avondale Toyota,AZ
 Unknown,2024,XLE FWD,Reservoir Blue,31395,35528,0,31395,Factory to port,False,DealerHold,JTDACAAU7R3027971,Sheehy Toyota of Laurel,MD
@@ -443,7 +444,7 @@ Unknown,2024,LE FWD,Midnight Black Metallic,27950,30448,1895,29845,Factory to po
 Unknown,2024,XLE FWD,Supersonic Red,31395,35057,0,31395,Factory to port,True,Available,JTDACAAU7R3028053,Don McGill Toyota of Katy,TX
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35018,0,31395,Port to dealer,False,DealerHold,JTDACAAU7R3028070,Adams Toyota Lee's Summit,MO
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,32938,0,31395,Factory to port,True,,JTDACAAU7R3028098,Avondale Toyota,AZ
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34558,699,32094,Factory to port,False,Available,JTDACAAU7R3028148,Landers Toyota,AR
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34558,699,32094,Factory to port,True,Available,JTDACAAU7R3028148,Landers Toyota,AR
 Unknown,2024,Limited FWD,Reservoir Blue,34965,37927,0,34965,Factory to port,False,Available,JTDACAAU7R3028165,Northshore Toyota,LA
 2024-04-17,2024,Limited FWD,Midnight Black Metallic,34965,38539,0,34965,At dealer,False,DealerHold,JTDACAAU7R3028280,Santa Cruz Toyota,CA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34632,0,31395,Factory to port,False,Available,JTDACAAU7R3028327,Mike Shaw Toyota,TX
@@ -457,10 +458,10 @@ Unknown,2024,XLE FWD,Reservoir Blue,31395,34133,0,31395,Factory to port,True,Ava
 2024-07-10T00:00:00.000Z,2024,Limited FWD,Cutting Edge,34965,37098,0,34965,Factory to port,False,DealerHold,JTDACAAU7R3028666,Toyota of Hollywood,FL
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38888,0,34965,Factory to port,False,,JTDACAAU7R3028814,Oroville Toyota,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,34832,0,31395,Factory to port,True,Available,JTDACAAU7R3028845,Vandergriff Toyota,TX
-Unknown,2024,XLE FWD,Cutting Edge,31395,34354,0,31395,Factory to port,False,DealerHold,JTDACAAU7R3028859,Hertrich Toyota,DE
+Unknown,2024,XLE FWD,Cutting Edge,31395,34354,0,31395,Port to dealer,False,DealerHold,JTDACAAU7R3028859,Hertrich Toyota,DE
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35982,0,31395,Port to dealer,False,Available,JTDACAAU7R3028909,Toyota of Hollywood,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34799,0,31395,Factory to port,True,DealerHold,JTDACAAU7R3028943,Don Moore Toyota,KY
-Unknown,2024,XLE FWD,Guardian Gray,31395,34799,0,31395,Factory to port,False,DealerHold,JTDACAAU7R3028957,AutoNation Toyota Tempe,AZ
+Unknown,2024,XLE FWD,Guardian Gray,31395,34799,1398,32793,Factory to port,False,DealerHold,JTDACAAU7R3028957,AutoNation Toyota Tempe,AZ
 Unknown,2024,Limited FWD,Cutting Edge,34965,37927,0,34965,Factory to port,True,DealerHold,JTDACAAU7R3028960,Family Toyota of Arlington,TX
 Unknown,2024,Limited FWD,Cutting Edge,34965,36762,0,34965,Factory to port,False,DealerHold,JTDACAAU7R3028988,Right Toyota,AZ
 2024-06-12,2024,XLE FWD,Midnight Black Metallic,31395,36567,0,31395,Port to dealer,True,Available,JTDACAAU7R3029011,Shottenkirk Toyota Weatherford,TX
@@ -479,15 +480,12 @@ Unknown,2024,Limited FWD,Cutting Edge,34965,38811,0,34965,Factory to port,False,
 Unknown,2024,LE FWD,Guardian Gray,27950,29948,0,27950,Factory to port,False,DealerHold,JTDACAAU7R3029705,Culver City Toyota,CA
 2024-06-23,2024,Limited FWD,Wind Chill Pearl,34965,40187,0,34965,Factory to port,False,Available,JTDACAAU7R3029798,Toyota of Dallas,TX
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34604,0,31395,Factory to port,False,,JTDACAAU7R3029803,Toyota Santa Monica,CA
-2024-06-13,2024,XLE FWD,Wind Chill Pearl,31395,35257,0,31395,Port to dealer,True,Available,JTDACAAU7R3029820,Sterling McCall Toyota,TX
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38489,0,34965,Factory to port,False,Available,JTDACAAU7R3029879,Wagner Toyota,NE
-2024-07-22T00:00:00.000Z,2024,LE FWD,Supersonic Red,27950,30873,0,27950,Factory to port,False,DealerHold,JTDACAAU7R3029896,Lone Star Toyota of Lewisville,TX
-2024-07-25,2024,LE FWD,Midnight Black Metallic,27950,29379,0,27950,Factory to port,False,,JTDACAAU7R3029932,AutoNation Toyota Cerritos,CA
-2024-07-21T00:00:00.000Z,2024,LE FWD,Supersonic Red,27950,30474,1599,29549,Factory to port,False,Available,JTDACAAU7R3029946,Fowler Toyota,OK
-2024-07-22,2024,Limited FWD,Guardian Gray,34965,37994,0,34965,Factory to port,False,DealerHold,JTDACAAU7R3029977,City Toyota,CA
-2024-08-19,2024,LE FWD,Wind Chill Pearl,27950,29769,0,27950,Factory to port,True,DealerHold,JTDACAAU7R3029980,Don Moore Toyota,KY
-2024-07-27,2024,XLE FWD,Reservoir Blue,31395,35173,0,31395,Factory to port,False,,JTDACAAU8R114AN68,Claremont Toyota,CA
-2024-08-16,2024,XLE FWD,Wind Chill Pearl,31395,35443,0,31395,Factory to port,True,,JTDACAAU8R114CN46,Brian Bemis Toyota of DeKalb,IL
+2024-07-23T00:00:00.000Z,2024,LE FWD,Supersonic Red,27950,30873,0,27950,Factory to port,False,DealerHold,JTDACAAU7R3029896,Lone Star Toyota of Lewisville,TX
+2024-07-23T00:00:00.000Z,2024,LE FWD,Supersonic Red,27950,30474,1599,29549,Factory to port,False,Available,JTDACAAU7R3029946,Fowler Toyota,OK
+2024-07-30,2024,LE FWD,Wind Chill Pearl,27950,29849,0,27950,Factory to port,False,DealerHold,JTDACAAU7R3029963,Lithia Toyota of Redding,CA
+2024-07-25,2024,Limited FWD,Guardian Gray,34965,37994,0,34965,Factory to port,False,DealerHold,JTDACAAU7R3029977,City Toyota,CA
+2024-08-15,2024,LE FWD,Wind Chill Pearl,27950,29769,0,27950,Factory to port,True,DealerHold,JTDACAAU7R3029980,Don Moore Toyota,KY
 Unknown,2024,Limited FWD,Guardian Gray,34965,38688,0,34965,Port to dealer,False,DealerHold,JTDACAAU8R3026019,Village Pointe Toyota,NE
 2024-04-02,2024,XLE FWD,Reservoir Blue,31395,33078,0,31395,At dealer,False,DealerHold,JTDACAAU8R3026327,"Stapp Interstate Toyota, Inc.",CO
 2024-03-26,2024,XLE FWD,Supersonic Red,31395,35257,0,31395,At dealer,True,Available,JTDACAAU8R3026697,Freeman Toyota,TX
@@ -501,10 +499,10 @@ Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34874,0,31395,Port to dealer,
 Unknown,2024,XLE FWD,Supersonic Red,31395,36217,0,31395,Factory to port,False,Available,JTDACAAU8R3027624,Toyota of Anaheim,CA
 Unknown,2024,LE FWD,Guardian Gray,27950,29379,0,27950,Port to dealer,False,DealerHold,JTDACAAU8R3027669,Wyatt Johnson Toyota,TN
 Unknown,2024,LE FWD,Cutting Edge,27950,29344,0,27950,Port to dealer,True,DealerHold,JTDACAAU8R3027672,Kerry Toyota,KY
-Unknown,2024,LE FWD,Wind Chill Pearl,27950,30438,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3027834,South Hills Toyota,PA
+Unknown,2024,LE FWD,Wind Chill Pearl,27950,30438,0,27950,Port to dealer,True,DealerHold,JTDACAAU8R3027834,South Hills Toyota,PA
 Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Port to dealer,False,DealerHold,JTDACAAU8R3027994,Heritage Toyota Catonsville,MD
 Unknown,2024,XLE FWD,Cutting Edge,31395,34632,0,31395,Factory to port,True,Available,JTDACAAU8R3028014,J. Allen Toyota,MS
-Unknown,2024,XLE FWD,Guardian Gray,31395,35433,0,31395,Factory to port,True,DealerHold,JTDACAAU8R3028028,Rohrich Toyota,PA
+Unknown,2024,XLE FWD,Guardian Gray,31395,35433,0,31395,Port to dealer,True,DealerHold,JTDACAAU8R3028028,Rohrich Toyota,PA
 2024-04-15,2024,Limited FWD,Guardian Gray,34965,38468,0,34965,At dealer,False,DealerHold,JTDACAAU8R3028062,Toyota of Riverside,CA
 Unknown,2024,Limited FWD,Reservoir Blue,34965,39163,0,34965,Factory to port,True,Available,JTDACAAU8R3028093,Sterling McCall Toyota Fort Bend,TX
 Unknown,2024,XLE FWD,Cutting Edge,31395,34093,0,31395,Port to dealer,True,DealerHold,JTDACAAU8R3028191,Antwerpen's Toyota,MD
@@ -517,17 +515,16 @@ Unknown,2024,Limited FWD,Guardian Gray,34965,39562,0,34965,Factory to port,False
 Unknown,2024,Limited FWD,Cutting Edge,34965,37994,0,34965,Port to dealer,True,DealerHold,JTDACAAU8R3028613,Swope Toyota,KY
 Unknown,2024,XLE FWD,Reservoir Blue,31395,32858,0,31395,Factory to port,True,DealerHold,JTDACAAU8R3028675,Hiland Toyota,IL
 Unknown,2024,Limited FWD,Supersonic Red,34965,37842,0,34965,Port to dealer,False,Available,JTDACAAU8R3028787,Hamer Toyota,CA
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35873,0,31395,Factory to port,True,DealerHold,JTDACAAU8R3028790,Modesto Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35733,0,31395,Factory to port,False,DealerHold,JTDACAAU8R3028823,Bill Estes Toyota,IN
 2025-04-18,2024,Limited FWD,Cutting Edge,34965,39762,0,34965,Factory to port,False,Available,JTDACAAU8R3028868,Sterling McCall Toyota Fort Bend,TX
 Unknown,2024,XLE FWD,Cutting Edge,31395,34593,0,31395,Port to dealer,False,DealerHold,JTDACAAU8R3028899,Culver City Toyota,CA
 Unknown,2024,Limited FWD,Supersonic Red,34965,37023,0,34965,Port to dealer,False,,JTDACAAU8R3029051,Camelback Toyota,AZ
 Unknown,2024,XLE FWD,Cutting Edge,31395,35118,3129,34524,Port to dealer,False,,JTDACAAU8R3029082,Claremont Toyota,CA
-Unknown,2024,XLE FWD,Cutting Edge,31395,35232,0,31395,Factory to port,False,Available,JTDACAAU8R3029115,AutoNation Toyota Cerritos,CA
 Unknown,2024,XLE FWD,Reservoir Blue,31395,34799,0,31395,Factory to port,False,DealerHold,JTDACAAU8R3029129,Baxter Toyota of Lincoln,NE
 Unknown,2024,LE FWD,Supersonic Red,27950,29804,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029230,Sam Leman Toyota Bloomington,IL
 Unknown,2024,Limited FWD,Cutting Edge,34965,38319,0,34965,Factory to port,False,,JTDACAAU8R3029258,Okoboji Toyota,IA
 Unknown,2024,Limited FWD,Cutting Edge,34965,37243,0,34965,Factory to port,False,DealerHold,JTDACAAU8R3029289,Victory Toyota,CA
-Unknown,2024,XLE FWD,Cutting Edge,31395,35762,0,31395,Factory to port,False,,JTDACAAU8R3029292,AutoNation Toyota Cerritos,CA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34799,0,31395,Factory to port,False,Available,JTDACAAU8R3029342,Lake Country Toyota,MN
 Unknown,2024,LE FWD,Cutting Edge,27950,29948,0,27950,Factory to port,False,Available,JTDACAAU8R3029356,Bell Road Toyota,AZ
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35849,0,31395,Port to dealer,False,,JTDACAAU8R3029373,Casey Toyota,VA
@@ -537,7 +534,7 @@ Unknown,2024,Limited FWD,Cutting Edge,34965,39562,0,34965,Factory to port,False,
 2024-06-13,2024,Limited FWD,Reservoir Blue,34965,39562,0,34965,Factory to port,False,Available,JTDACAAU8R3029504,Classic Toyota,TX
 2024-06-14,2024,Limited FWD,Supersonic Red,34965,39987,0,34965,Factory to port,True,Available,JTDACAAU8R3029552,North Park Toyota of San Antonio,TX
 Unknown,2024,LE FWD,Guardian Gray,27950,29959,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029650,DARCARS Toyota of Frederick,MD
-Unknown,2024,XLE FWD,Cutting Edge,31395,34273,0,31395,Factory to port,True,Available,JTDACAAU8R3029695,McDonough Toyota,VA
+Unknown,2024,XLE FWD,Cutting Edge,31395,34273,0,31395,Port to dealer,True,Available,JTDACAAU8R3029695,McDonough Toyota,VA
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29804,0,27950,Factory to port,True,,JTDACAAU8R3029714,McDonough Toyota,VA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35616,0,31395,Factory to port,False,,JTDACAAU8R3029728,Toyota of Glendale,CA
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,29734,0,27950,Factory to port,False,DealerHold,JTDACAAU8R3029759,Bill Page Toyota,VA
@@ -549,12 +546,16 @@ Unknown,2024,XLE FWD,Supersonic Red,31395,36992,0,31395,Factory to port,True,Dea
 Unknown,2024,LE FWD,Guardian Gray,27950,29448,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029857,Culver City Toyota,CA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,34173,0,31395,Port to dealer,False,,JTDACAAU8R3029874,Performance Motors Toyota,PA
 Unknown,2024,Limited FWD,Cutting Edge,34965,38064,0,34965,Factory to port,True,DealerHold,JTDACAAU8R3029888,Frank Fletcher Toyota,MO
-2024-07-28,2024,XLE FWD,Guardian Gray,31395,35616,2385,33780,Factory to port,False,,JTDACAAU8R3029891,Thousand Oaks Toyota,CA
-2024-07-22,2024,LE FWD,Guardian Gray,27950,30262,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029969,Concord Toyota,CA
-2024-09-06,2024,Limited FWD,Supersonic Red,34965,38120,0,34965,Factory to port,False,,JTDACAAU9R126CD36,"Molle Toyota, Inc.",MO
+2024-07-30,2024,XLE FWD,Guardian Gray,31395,35616,2385,33780,Factory to port,False,,JTDACAAU8R3029891,Thousand Oaks Toyota,CA
+2024-08-10,2024,XLE FWD,Guardian Gray,31395,34799,0,31395,Factory to port,False,DealerHold,JTDACAAU8R3029907,Shelor Toyota,VA
+2024-08-17,2024,LE FWD,Supersonic Red,27950,31377,0,27950,Factory to port,False,DealerHold,JTDACAAU8R3029924,Toyota of Murfreesboro,TN
+2024-07-23T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,36567,0,31395,Factory to port,False,Available,JTDACAAU8R3029938,Shottenkirk Toyota Granbury,TX
+2024-07-28,2024,LE FWD,Wind Chill Pearl,27950,30404,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029955,Freeman Toyota,CA
+2024-07-24,2024,LE FWD,Guardian Gray,27950,30262,0,27950,Factory to port,True,DealerHold,JTDACAAU8R3029969,Concord Toyota,CA
+2024-09-01,2024,Limited FWD,Supersonic Red,34965,38120,0,34965,Factory to port,False,DealerHold,JTDACAAU9R126CD36,"Molle Toyota, Inc.",MO
 2024-04-10,2024,XLE FWD,Reservoir Blue,31395,33508,0,31395,At dealer,False,DealerHold,JTDACAAU9R3026546,Glockner Toyota,OH
 Unknown,2024,LE FWD,Guardian Gray,27950,29684,0,27950,Port to dealer,False,DealerHold,JTDACAAU9R3026708,Jerry Ackerman Toyota,MO
-2024-03-26T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,0,34965,At dealer,False,Available,JTDACAAU9R3027213,J. Allen Toyota,MS
+2024-03-26T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,39987,0,34965,At dealer,True,Available,JTDACAAU9R3027213,J. Allen Toyota,MS
 Unknown,2024,LE FWD,Guardian Gray,27950,30072,295,28245,Port to dealer,True,,JTDACAAU9R3027776,Thayer Toyota,OH
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35224,0,31395,Port to dealer,False,DealerHold,JTDACAAU9R3027793,Adams Toyota Lee's Summit,MO
 Unknown,2024,Limited FWD,Guardian Gray,34965,39097,0,34965,Port to dealer,False,DealerHold,JTDACAAU9R3027826,Olathe Toyota,KS
@@ -562,44 +563,46 @@ Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39987,1999,36964,Factory to port
 2024-04-12,2024,LE FWD,Guardian Gray,27950,30487,0,27950,At dealer,False,DealerHold,JTDACAAU9R3028006,Toyota of Hollywood,CA
 2024-07-10T00:00:00.000Z,2024,XLE FWD,Guardian Gray,31395,34500,0,31395,Factory to port,True,DealerHold,JTDACAAU9R3028085,Toyota of Melbourne,FL
 Unknown,2024,LE FWD,Supersonic Red,27950,29884,0,27950,Port to dealer,True,,JTDACAAU9R3028099,Danville Toyota,VA
-2024-04-09,2024,XLE FWD,Wind Chill Pearl,31395,35671,4485,35880,At dealer,False,DealerHold,JTDACAAU9R3028118,Marina del Rey Toyota,CA
+2024-04-09,2024,XLE FWD,Wind Chill Pearl,31395,35671,0,31395,At dealer,False,DealerHold,JTDACAAU9R3028118,Marina del Rey Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33283,0,31395,Port to dealer,True,Available,JTDACAAU9R3028278,Bredemann Toyota,IL
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39068,0,34965,Port to dealer,True,DealerHold,JTDACAAU9R3028300,Toyota of Vallejo,CA
 Unknown,2024,XLE FWD,Guardian Gray,31395,34799,3994,35389,Port to dealer,False,DealerHold,JTDACAAU9R3028328,Schaumburg Toyota,IL
-Unknown,2024,XLE FWD,Cutting Edge,31395,34024,0,31395,Factory to port,True,,JTDACAAU9R3028412,Performance Motors Toyota,PA
-2024-07-10T00:00:00.000Z,2024,XLE FWD,Guardian Gray,31395,35199,0,31395,Factory to port,False,Available,JTDACAAU9R3028491,Franklin Toyota,GA
+Unknown,2024,XLE FWD,Cutting Edge,31395,34024,0,31395,Port to dealer,True,,JTDACAAU9R3028412,Performance Motors Toyota,PA
+2024-07-13T00:00:00.000Z,2024,XLE FWD,Guardian Gray,31395,35199,0,31395,Factory to port,False,Available,JTDACAAU9R3028491,Franklin Toyota,GA
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,32789,0,31395,Port to dealer,False,DealerHold,JTDACAAU9R3028538,Fox Toyota,MI
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35224,0,31395,Port to dealer,True,Available,JTDACAAU9R3028720,Bredemann Toyota,IL
 Unknown,2024,XLE FWD,Supersonic Red,31395,35248,0,31395,Port to dealer,False,DealerHold,JTDACAAU9R3028779,I-10 Toyota,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,34323,0,31395,Factory to port,True,Available,JTDACAAU9R3028796,J. Allen Toyota,MS
 Unknown,2024,LE FWD,Cutting Edge,27950,29609,0,27950,Port to dealer,True,DealerHold,JTDACAAU9R3029043,I-10 Toyota,CA
 Unknown,2024,XLE FWD,Cutting Edge,31395,35074,0,31395,Port to dealer,True,DealerHold,JTDACAAU9R3029060,Precision Toyota of Tucson,AZ
-Unknown,2024,Limited FWD,Cutting Edge,34965,38019,0,34965,Factory to port,False,,JTDACAAU9R3029088,Corwin Toyota of Bellevue,NE
+Unknown,2024,Limited FWD,Cutting Edge,34965,38019,395,35360,Factory to port,False,,JTDACAAU9R3029088,Corwin Toyota of Bellevue,NE
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,33388,0,31395,Port to dealer,False,DealerHold,JTDACAAU9R3029091,David Wilson's Toyota of Las Vegas,NV
 Unknown,2024,XLE FWD,Midnight Black Metallic,31395,33139,0,31395,Factory to port,True,Available,JTDACAAU9R3029172,Baxter Toyota of La Vista,NE
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,37023,0,34965,Factory to port,False,DealerHold,JTDACAAU9R3029222,North Bakersfield Toyota,CA
 Unknown,2024,LE FWD,Guardian Gray,27950,29973,4079,32029,Factory to port,True,DealerHold,JTDACAAU9R3029317,Toyota of Huntington Beach,CA
 Unknown,2024,Limited FWD,Cutting Edge,34965,38144,0,34965,Factory to port,True,DealerHold,JTDACAAU9R3029320,Beechmont Toyota,OH
-Unknown,2024,LE FWD,Reservoir Blue,27950,29344,0,27950,Factory to port,False,DealerHold,JTDACAAU9R3029379,AutoNation Toyota Tempe,AZ
+Unknown,2024,LE FWD,Reservoir Blue,27950,29344,1398,29348,Factory to port,False,DealerHold,JTDACAAU9R3029379,AutoNation Toyota Tempe,AZ
 Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Factory to port,True,DealerHold,JTDACAAU9R3029382,Victory Toyota of San Bruno,CA
-Unknown,2024,LE FWD,Supersonic Red,27950,30029,0,27950,Factory to port,True,,JTDACAAU9R3029396,Faulkner Toyota,PA
+Unknown,2024,LE FWD,Supersonic Red,27950,30029,0,27950,Port to dealer,True,,JTDACAAU9R3029396,Faulkner Toyota,PA
 Unknown,2024,LE FWD,Cutting Edge,27950,29448,1995,29945,Factory to port,False,DealerHold,JTDACAAU9R3029401,Cabe Toyota Long Beach,CA
 2024-06-11,2024,Limited FWD,Reservoir Blue,34965,38104,897,35862,Factory to port,False,Available,JTDACAAU9R3029429,Toyota of Irving,TX
 Unknown,2024,XLE FWD,Supersonic Red,31395,36792,499,31894,Port to dealer,True,Available,JTDACAAU9R3029463,Caldwell Toyota,AR
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,39562,1495,36460,Port to dealer,True,Available,JTDACAAU9R3029480,Bohn Toyota,LA
-Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35424,0,31395,Factory to port,False,Available,JTDACAAU9R3029494,Pearson Toyota,VA
-Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33214,0,31395,Port to dealer,False,,JTDACAAU9R3029575,Jim Bagan Toyota,CA
+Unknown,2024,XLE FWD,Midnight Black Metallic,31395,35424,0,31395,Port to dealer,False,Available,JTDACAAU9R3029494,Pearson Toyota,VA
+Unknown,2024,XLE FWD,Wind Chill Pearl,31395,33214,0,31395,Port to dealer,True,,JTDACAAU9R3029575,Jim Bagan Toyota,CA
 Unknown,2024,Limited FWD,Guardian Gray,34965,38618,0,34965,Factory to port,False,Available,JTDACAAU9R3029625,Santa Margarita Toyota,CA
-2024-06-12,2024,LE FWD,Cutting Edge,27950,30448,4494,32444,Port to dealer,False,Available,JTDACAAU9R3029642,Vic Vaughan Toyota of Boerne,TX
-Unknown,2024,LE FWD,Wind Chill Pearl,27950,30668,3594,31544,Factory to port,False,Available,JTDACAAU9R3029706,AutoNation Toyota Irvine,CA
+2024-06-12,2024,LE FWD,Cutting Edge,27950,30448,0,27950,Port to dealer,False,Available,JTDACAAU9R3029642,Vic Vaughan Toyota of Boerne,TX
+Unknown,2024,LE FWD,Wind Chill Pearl,27950,30668,3594,31544,Factory to port,False,DealerHold,JTDACAAU9R3029706,AutoNation Toyota Irvine,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Port to dealer,False,DealerHold,JTDACAAU9R3029723,Fremont Toyota,CA
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,30196,0,27950,Factory to port,False,DealerHold,JTDACAAU9R3029740,Keyes Toyota,CA
 Unknown,2024,Limited FWD,Cutting Edge,34965,39762,1495,36460,Factory to port,True,DealerHold,JTDACAAU9R3029754,Sterling McCall Toyota,TX
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29919,0,27950,Port to dealer,True,DealerHold,JTDACAAU9R3029768,Tracy Toyota,CA
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,39987,0,34965,Port to dealer,True,Available,JTDACAAU9R3029771,Kirk Toyota,MS
 Unknown,2024,LE FWD,Midnight Black Metallic,27950,30187,0,27950,Factory to port,True,DealerHold,JTDACAAU9R3029804,Envision Toyota of Norwalk,CA
-2024-07-21T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,34832,648,32043,Factory to port,True,DealerHold,JTDACAAU9R3029897,Don Ringler Toyota,TX
-2024-07-22T00:00:00.000Z,2024,LE FWD,Wind Chill Pearl,27950,30873,1495,29445,Factory to port,True,DealerHold,JTDACAAU9R3029933,Cavender Toyota,TX
+2024-07-23T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,34832,648,32043,Factory to port,True,DealerHold,JTDACAAU9R3029897,Don Ringler Toyota,TX
+2024-08-08,2024,LE FWD,Supersonic Red,27950,30159,0,27950,Factory to port,False,DealerHold,JTDACAAU9R3029916,Bill Page Toyota,VA
+2024-07-23T00:00:00.000Z,2024,LE FWD,Wind Chill Pearl,27950,30873,1495,29445,Factory to port,True,DealerHold,JTDACAAU9R3029933,Cavender Toyota,TX
+2024-09-04,2024,Limited FWD,Cutting Edge,34965,37695,0,34965,Factory to port,True,DealerHold,JTDACAAUXR126CD31,Toyota of Des Moines,IA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31095,33963,0,31095,At dealer,False,DealerHold,JTDACAAUXR3023185,Toyota of Danville,IL
 2024-02-06,2024,Limited FWD,Midnight Black Metallic,34965,36512,0,34965,At dealer,False,,JTDACAAUXR3024630,Mid-City Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,35468,0,31395,Port to dealer,True,DealerHold,JTDACAAUXR3026524,Seeger Toyota of St. Robert,MO
@@ -612,12 +615,11 @@ Unknown,2024,XLE FWD,Reservoir Blue,31395,33147,0,31395,Port to dealer,False,Dea
 Unknown,2024,LE FWD,Guardian Gray,27950,29683,0,27950,Port to dealer,False,DealerHold,JTDACAAUXR3027477,Sloane Toyota of Malvern,PA
 Unknown,2024,LE FWD,Guardian Gray,27950,29718,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3027737,Camelback Toyota,AZ
 2024-07-13T00:00:00.000Z,2024,XLE FWD,Wind Chill Pearl,31395,34291,0,31395,Factory to port,True,DealerHold,JTDACAAUXR3027785,Jim Hudson Toyota,SC
-2024-04-07,2024,Limited FWD,Cutting Edge,34965,39562,2696,37661,At dealer,False,Available,JTDACAAUXR3027821,Alamo Toyota,TX
 2024-07-10T00:00:00.000Z,2024,Limited FWD,Wind Chill Pearl,34965,38448,0,34965,Factory to port,True,DealerHold,JTDACAAUXR3027933,Toyota of Melbourne,FL
 Unknown,2024,Limited FWD,Cutting Edge,34965,39562,4595,39560,Factory to port,True,Available,JTDACAAUXR3027964,Toyota of Pharr,TX
 2024-07-10T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30236,0,27950,Factory to port,True,DealerHold,JTDACAAUXR3027978,Toyota of Greensboro,NC
 Unknown,2024,LE FWD,Wind Chill Pearl,27950,29913,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3028158,Big Two Toyota of Chandler,AZ
-Unknown,2024,LE FWD,Supersonic Red,27950,31073,1495,29445,Factory to port,False,Available,JTDACAAUXR3028192,Sterling McCall Toyota,TX
+Unknown,2024,LE FWD,Supersonic Red,27950,31073,1495,29445,Factory to port,True,DealerHold,JTDACAAUXR3028192,Sterling McCall Toyota,TX
 2024-04-09,2024,LE FWD,Wind Chill Pearl,27950,30179,0,27950,At dealer,False,,JTDACAAUXR3028208,Fallon Ford Toyota,NV
 2024-04-11,2024,LE FWD,Wind Chill Pearl,27950,30892,0,27950,At dealer,False,DealerHold,JTDACAAUXR3028211,Toyota Santa Monica,CA
 Unknown,2024,XLE FWD,Reservoir Blue,31395,34799,0,31395,Port to dealer,False,DealerHold,JTDACAAUXR3028225,"Molle Toyota, Inc.",MO
@@ -638,13 +640,13 @@ Unknown,2024,LE FWD,Cutting Edge,27950,29379,0,27950,Port to dealer,False,Dealer
 Unknown,2024,LE FWD,Cutting Edge,27950,30257,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3029200,Toyota of Escondido,CA
 Unknown,2024,LE FWD,Guardian Gray,27950,30053,0,27950,Factory to port,False,,JTDACAAUXR3029214,Dublin Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34849,0,31395,Port to dealer,False,DealerHold,JTDACAAUXR3029293,Pearson Toyota,VA
-2024-05-28T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30448,3998,31948,Factory to port,True,DealerHold,JTDACAAUXR3029309,Joe Myers Toyota,TX
+2024-06-04T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,30448,3998,31948,Factory to port,True,DealerHold,JTDACAAUXR3029309,Joe Myers Toyota,TX
 Unknown,2024,LE FWD,Cutting Edge,27950,29673,0,27950,Factory to port,False,,JTDACAAUXR3029343,Perry Motors Toyota,CA
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,34086,0,31395,Factory to port,False,DealerHold,JTDACAAUXR3029357,Toyota of North Hollywood,CA
 Unknown,2024,LE FWD,Cutting Edge,27950,30648,0,27950,Factory to port,True,Available,JTDACAAUXR3029410,Family Toyota of Burleson,TX
 Unknown,2024,XLE FWD,Wind Chill Pearl,31395,36003,0,31395,Port to dealer,False,,JTDACAAUXR3029424,Mojave Toyota of Barstow,CA
 Unknown,2024,Limited FWD,Wind Chill Pearl,34965,38808,0,34965,Factory to port,False,DealerHold,JTDACAAUXR3029438,AutoNation Toyota Buena Park,CA
-Unknown,2024,Limited FWD,Guardian Gray,34965,38673,0,34965,Factory to port,False,DealerHold,JTDACAAUXR3029522,Oxmoor Toyota,KY
+Unknown,2024,Limited FWD,Guardian Gray,34965,38673,0,34965,Factory to port,True,DealerHold,JTDACAAUXR3029522,Oxmoor Toyota,KY
 Unknown,2024,LE FWD,Reservoir Blue,27950,29195,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3029617,Fox Toyota,MI
 Unknown,2024,LE FWD,Guardian Gray,27950,29344,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3029634,"Molle Toyota, Inc.",MO
 Unknown,2024,Limited FWD,Midnight Black Metallic,34965,39691,2488,37453,Port to dealer,False,Available,JTDACAAUXR3029679,Toyota of Plano,TX
@@ -655,9 +657,11 @@ Unknown,2024,LE FWD,Reservoir Blue,27950,29853,0,27950,Factory to port,False,,JT
 Unknown,2024,XLE FWD,Cutting Edge,31395,32944,2995,34390,Factory to port,True,DealerHold,JTDACAAUXR3029827,Merced Toyota,CA
 Unknown,2024,LE FWD,Guardian Gray,27950,29344,0,27950,Factory to port,False,DealerHold,JTDACAAUXR3029844,Olathe Toyota,KS
 Unknown,2024,LE FWD,Guardian Gray,27950,29379,0,27950,Factory to port,False,Available,JTDACAAUXR3029861,Peppers Toyota,TN
-2024-07-22T00:00:00.000Z,2024,Limited FWD,Midnight Black Metallic,34965,39562,4595,39560,Factory to port,True,Available,JTDACAAUXR3029925,Toyota of Pharr,TX
-2024-07-21T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,34133,988,32383,Factory to port,True,DealerHold,JTDACAAUXR3029939,Longo Toyota of Prosper,TX
-2024-08-27,2024,Limited FWD,Reservoir Blue,34965,37994,0,34965,Factory to port,False,DealerHold,JTDACAAUXR3029973,Jay Wolfe Toyota of West County,MO
+2024-07-23T00:00:00.000Z,2024,Limited FWD,Midnight Black Metallic,34965,39562,4595,39560,Factory to port,True,Available,JTDACAAUXR3029925,Toyota of Pharr,TX
+2024-07-23T00:00:00.000Z,2024,XLE FWD,Midnight Black Metallic,31395,34133,988,32383,Factory to port,True,DealerHold,JTDACAAUXR3029939,Longo Toyota of Prosper,TX
+2024-07-23T00:00:00.000Z,2024,Limited FWD,Cutting Edge,34965,39762,0,34965,Factory to port,True,Available,JTDACAAUXR3029942,Pat Lobb Toyota of McKinney,TX
+2024-07-23T00:00:00.000Z,2024,LE FWD,Guardian Gray,27950,29814,0,27950,Factory to port,True,Available,JTDACAAUXR3029956,Family Toyota of Burleson,TX
+2024-08-19,2024,Limited FWD,Reservoir Blue,34965,37994,0,34965,Factory to port,False,DealerHold,JTDACAAUXR3029973,Jay Wolfe Toyota of West County,MO
 2024-01-11,2024,XLE AWD AWD,Supersonic Red,32495,36623,1274,33769,At dealer,True,Available,JTDADABU0R3011543,Tom Wood Toyota,IN
 2024-03-25,2024,XLE AWD AWD,Cutting Edge,32795,36354,0,32795,At dealer,False,DealerHold,JTDADABU0R3013602,Herb Chambers Toyota of Boston,MA
 2024-03-26T00:00:00.000Z,2024,Limited AWD AWD,Reservoir Blue,36365,41162,0,36365,At dealer,False,Available,JTDADABU0R3013759,Toyota of Cedar Park,TX
@@ -674,7 +678,7 @@ Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,41002,0,36365,Port to dealer
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36278,0,32795,Port to dealer,False,DealerHold,JTDADABU0R3014247,Landers McLarty Toyota,TN
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,Port to dealer,False,DealerHold,JTDADABU0R3014314,Berglund Toyota,VA
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36574,0,32795,Port to dealer,False,,JTDADABU0R3014331,Lynch Toyota,CT
-Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36199,0,32795,Port to dealer,False,DealerHold,JTDADABU0R3014376,Kenny Kent Toyota,IN
+Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36199,0,32795,Port to dealer,True,DealerHold,JTDADABU0R3014376,Kenny Kent Toyota,IN
 2025-04-18,2024,Limited AWD AWD,Supersonic Red,36365,39929,0,36365,Factory to port,True,Available,JTDADABU0R3014393,Mike Calvert Toyota,TX
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,38762,0,36365,Port to dealer,False,DealerHold,JTDADABU0R3014409,Victory Toyota,MI
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,34939,0,32795,Factory to port,True,DealerHold,JTDADABU0R3014426,Woburn Toyota,MA
@@ -694,7 +698,7 @@ Unknown,2024,LE AWD AWD,Cutting Edge,29350,30918,0,29350,Factory to port,True,,J
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36199,0,32795,Port to dealer,True,,JTDADABU0R3014717,Brian Bemis Toyota of DeKalb,IL
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,37759,0,36365,Port to dealer,True,DealerHold,JTDADABU0R3014720,Toyota of Gladstone,OR
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40319,0,36365,Port to dealer,True,DealerHold,JTDADABU0R3014751,Inver Grove Toyota,MN
-Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39549,0,36365,Factory to port,False,,JTDADABU0R3014765,Dayton Toyota,NJ
+Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39549,0,36365,Port to dealer,False,,JTDADABU0R3014765,Dayton Toyota,NJ
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39819,0,36365,Factory to port,True,DealerHold,JTDADABU0R3014779,Del Toyota,PA
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39833,0,36365,Port to dealer,False,Available,JTDADABU0R3014782,Orland Toyota,IL
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,38392,0,32795,Factory to port,False,Available,JTDADABU0R3014796,Toyota of Cedar Park,TX
@@ -711,12 +715,12 @@ Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34269,0,32795,Factory to port,False,
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34728,0,32795,Factory to port,False,DealerHold,JTDADABU0R3014992,Toyota on Edens,IL
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,37202,0,32795,Factory to port,True,,JTDADABU0R3015009,Mungenast Alton Toyota,IL
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,35824,0,32795,Factory to port,False,DealerHold,JTDADABU0R3015012,Koch 33 Toyota,PA
-2024-07-21T00:00:00.000Z,2024,LE AWD AWD,Midnight Black Metallic,29350,32048,0,29350,Factory to port,True,Available,JTDADABU0R3015088,Lost Pines Toyota,TX
+2024-08-09,2024,LE AWD AWD,Midnight Black Metallic,29350,31164,0,29350,Factory to port,True,DealerHold,JTDADABU0R3015074,Woburn Toyota,MA
+2024-07-23T00:00:00.000Z,2024,LE AWD AWD,Midnight Black Metallic,29350,32048,0,29350,Factory to port,True,DealerHold,JTDADABU0R3015088,Lost Pines Toyota,TX
 2024-08-08,2024,XLE AWD AWD,Cutting Edge,32795,36349,0,32795,Factory to port,True,DealerHold,JTDADABU0R3015091,Route 44 Toyota,MA
 2024-03-13,2024,Limited AWD AWD,Midnight Black Metallic,36365,39863,0,36365,At dealer,False,DealerHold,JTDADABU1R3013124,Oak Lawn Toyota,IL
 2024-03-21,2024,Limited AWD AWD,Midnight Black Metallic,36365,40532,0,36365,At dealer,False,Available,JTDADABU1R3013222,Cochran Toyota,PA
 2024-03-20,2024,Limited AWD AWD,Guardian Gray,36365,39394,0,36365,At dealer,False,DealerHold,JTDADABU1R3013351,Westchester Toyota,NY
-2024-04-10,2024,XLE AWD AWD,Wind Chill Pearl,32795,34844,0,32795,At dealer,False,DealerHold,JTDADABU1R3013821,West Herr Toyota of Williamsville,NY
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39624,0,36365,Port to dealer,False,DealerHold,JTDADABU1R3013981,Penn Toyota,NY
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36488,0,32795,Port to dealer,False,DealerHold,JTDADABU1R3014032,Burnsville Toyota,MN
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36504,0,32795,Port to dealer,True,DealerHold,JTDADABU1R3014130,Woburn Toyota,MA
@@ -725,7 +729,7 @@ Unknown,2024,Limited AWD AWD,Supersonic Red,36365,38912,0,36365,At dealer,False,
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,34753,0,32795,Port to dealer,False,DealerHold,JTDADABU1R3014189,Royal South Toyota,IN
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34972,0,32795,At dealer,False,DealerHold,JTDADABU1R3014192,Fort Wayne Toyota,IN
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40444,0,36365,Port to dealer,False,DealerHold,JTDADABU1R3014239,Motorworld Toyota,PA
-Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37362,0,32795,Port to dealer,True,DealerHold,JTDADABU1R3014287,Toyota of Fox Lake,IL
+Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37362,0,32795,Port to dealer,False,Available,JTDADABU1R3014287,Toyota of Fox Lake,IL
 2024-04-24,2024,LE AWD AWD,Guardian Gray,29350,31359,0,29350,At dealer,False,Available,JTDADABU1R3014290,East Coast Toyota,NJ
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,35573,0,32795,Port to dealer,False,DealerHold,JTDADABU1R3014306,New Holland Toyota,PA
 2024-04-19,2024,XLE AWD AWD,Wind Chill Pearl,32795,36929,0,32795,At dealer,False,Available,JTDADABU1R3014354,Ira Toyota,MA
@@ -750,17 +754,18 @@ Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,38159,0,36365,Port to
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37348,0,32795,Factory to port,False,,JTDADABU1R3014791,Toyota of The Desert,CA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36869,0,32795,Factory to port,False,DealerHold,JTDADABU1R3014807,Sharp Chevrolet-Toyota,SD
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35723,0,32795,Port to dealer,False,DealerHold,JTDADABU1R3014810,Toyota of Vineland,NJ
-Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34339,0,32795,Factory to port,False,Available,JTDADABU1R3014869,Central Maine Toyota,ME
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Factory to port,False,DealerHold,JTDADABU1R3014919,Toyota of Keene,NH
-Unknown,2024,XLE AWD AWD,Guardian Gray,32795,34189,0,32795,Factory to port,False,DealerHold,JTDADABU1R3014953,K-M Toyota,MA
+Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34339,0,32795,Port to dealer,False,Available,JTDADABU1R3014869,Central Maine Toyota,ME
+Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Port to dealer,False,DealerHold,JTDADABU1R3014919,Toyota of Keene,NH
+Unknown,2024,XLE AWD AWD,Guardian Gray,32795,34189,0,32795,Port to dealer,False,DealerHold,JTDADABU1R3014953,K-M Toyota,MA
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36199,0,32795,Factory to port,True,Available,JTDADABU1R3014967,Bredemann Toyota,IL
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36349,0,32795,Factory to port,False,DealerHold,JTDADABU1R3014970,Lexington Toyota,MA
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,40078,895,37260,Factory to port,False,Available,JTDADABU1R3014984,Bennett Toyota,PA
 Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,31213,0,29350,Factory to port,True,DealerHold,JTDADABU1R3015018,Toyota of Puyallup,WA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,34944,0,32795,Port to dealer,False,,JTDADABU1R3015035,Handy Toyota,VT
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39394,0,36365,Factory to port,False,Available,JTDADABU1R3015049,Dan Deery Toyota,IA
-2024-08-21,2024,XLE AWD AWD,Wind Chill Pearl,32795,37998,0,32795,Factory to port,False,,JTDADABU1R3015083,Crown Toyota,IL
-2024-08-12,2024,XLE AWD AWD,Wind Chill Pearl,32795,37693,6383,39178,Factory to port,False,DealerHold,JTDADABU1R3015102,Victory Toyota of Midtown,IL
+2024-08-19,2024,XLE AWD AWD,Wind Chill Pearl,32795,37998,0,32795,Factory to port,False,,JTDADABU1R3015083,Crown Toyota,IL
+2024-08-14,2024,XLE AWD AWD,Wind Chill Pearl,32795,37693,6383,39178,Factory to port,False,DealerHold,JTDADABU1R3015102,Victory Toyota of Midtown,IL
+2024-08-04T00:00:00.000Z,2024,Limited AWD AWD,Guardian Gray,36365,40962,0,36365,Factory to port,False,Available,JTDADABU2R126DK28,Jim Norton Toyota of Oklahoma City,OK
 2024-01-25,2024,Limited AWD AWD,Cutting Edge,36065,39399,0,36065,At dealer,False,Available,JTDADABU2R3011785,Central Maine Toyota,ME
 2024-02-07,2024,XLE AWD AWD,Midnight Black Metallic,32495,36379,0,32495,At dealer,False,DealerHold,JTDADABU2R3012144,Advantage Toyota,WV
 2024-03-21,2024,Limited AWD AWD,Guardian Gray,36365,40357,2494,38859,At dealer,False,DealerHold,JTDADABU2R3013567,Envision Toyota of West Covina,CA
@@ -790,12 +795,12 @@ Unknown,2024,XLE AWD AWD,Supersonic Red,32795,34764,0,32795,Port to dealer,True,
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39719,0,36365,Factory to port,False,DealerHold,JTDADABU2R3014492,McGee Toyota of Claremont,NH
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,37202,0,32795,Factory to port,False,,JTDADABU2R3014542,Allegheny Toyota,PA
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,34189,1098,33893,Port to dealer,True,DealerHold,JTDADABU2R3014556,Toyota of Terre Haute,IN
+Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35803,0,32795,Port to dealer,False,DealerHold,JTDADABU2R3014573,Fred Beans Toyota of Flemington,NJ
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39394,0,36365,Port to dealer,False,,JTDADABU2R3014590,Lithia Toyota of Redding,CA
-Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40324,0,36365,Factory to port,False,DealerHold,JTDADABU2R3014623,Millennium Toyota,NY
+Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40324,0,36365,Port to dealer,False,DealerHold,JTDADABU2R3014623,Millennium Toyota,NY
 Unknown,2024,LE AWD AWD,Reservoir Blue,29350,30779,0,29350,Port to dealer,False,,JTDADABU2R3014640,Ken Ganley Toyota Akron,OH
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,38598,0,36365,Port to dealer,False,DealerHold,JTDADABU2R3014654,Stephen Wade Toyota,UT
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,41512,0,36365,Factory to port,False,Available,JTDADABU2R3014671,Carlock Toyota of Tupelo,MS
-Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34189,0,32795,Factory to port,False,DealerHold,JTDADABU2R3014685,Mark Miller Toyota,UT
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36874,0,32795,Port to dealer,False,DealerHold,JTDADABU2R3014699,Royal Moore Toyota,OR
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36638,0,32795,Port to dealer,False,DealerHold,JTDADABU2R3014704,Iron Trail Toyota,MN
 Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Factory to port,False,DealerHold,JTDADABU2R3014721,Lexington Toyota,MA
@@ -809,14 +814,14 @@ Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36349,0,32795,Factory to 
 Unknown,2024,LE AWD AWD,Cutting Edge,29350,30893,0,29350,Factory to port,False,DealerHold,JTDADABU2R3014976,Toyota of Lake City,WA
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,37909,0,36365,Factory to port,False,DealerHold,JTDADABU2R3014993,Serra Toyota of Traverse City,MI
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37009,0,32795,Port to dealer,False,DealerHold,JTDADABU2R3015013,Toyota of Batavia,NY
-Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36504,0,32795,Factory to port,False,,JTDADABU2R3015027,Thornhill Toyota,WV
+Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36504,0,32795,Port to dealer,False,,JTDADABU2R3015027,Thornhill Toyota,WV
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,37338,6383,39178,Factory to port,False,Available,JTDADABU2R3015030,Victory Toyota of Midtown,IL
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36584,0,32795,Port to dealer,False,DealerHold,JTDADABU2R3015044,Toyota of Nashua,NH
-2024-08-19,2024,Limited AWD AWD,Wind Chill Pearl,36365,40757,0,36365,Factory to port,False,DealerHold,JTDADABU2R3015058,Carver Toyota of Columbus,IN
+2024-08-16,2024,Limited AWD AWD,Wind Chill Pearl,36365,40757,0,36365,Factory to port,False,DealerHold,JTDADABU2R3015058,Carver Toyota of Columbus,IN
 2024-08-09,2024,LE AWD AWD,Guardian Gray,29350,31004,0,29350,Factory to port,False,DealerHold,JTDADABU2R3015061,Toyota of Stamford,CT
 2024-08-07,2024,XLE AWD AWD,Supersonic Red,32795,37329,0,32795,Factory to port,False,,JTDADABU2R3015075,Toyota of Smithfield,RI
 2024-08-03,2024,XLE AWD AWD,Cutting Edge,32795,34574,0,32795,Factory to port,False,,JTDADABU2R3015089,Harr Toyota,MA
-2024-09-03,2024,XLE AWD AWD,Wind Chill Pearl,32795,36325,0,32795,Factory to port,False,,JTDADABU3R126CD44,Wilson Toyota,IA
+2024-09-04,2024,XLE AWD AWD,Wind Chill Pearl,32795,36325,0,32795,Factory to port,True,,JTDADABU3R126CD44,Wilson Toyota,IA
 2024-02-12,2024,XLE AWD AWD,Cutting Edge,32495,36299,0,32495,At dealer,False,DealerHold,JTDADABU3R3012282,Advantage Toyota,WV
 2024-03-07,2024,Limited AWD AWD,Midnight Black Metallic,36365,39833,0,36365,At dealer,False,Available,JTDADABU3R3013027,Team Toyota,IN
 2024-03-29,2024,XLE AWD AWD,Wind Chill Pearl,32795,35144,0,32795,At dealer,False,Available,JTDADABU3R3013559,Balise Toyota of Warwick,RI
@@ -837,8 +842,8 @@ Unknown,2024,LE AWD AWD,Guardian Gray,29350,31413,0,29350,Port to dealer,True,De
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36584,0,32795,Port to dealer,False,DealerHold,JTDADABU3R3014386,Toyota of Greenfield,MA
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40104,0,36365,Factory to port,False,Available,JTDADABU3R3014419,Northway Toyota,NY
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39958,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014422,Wyatt Johnson Toyota,TN
-Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39019,0,36365,Factory to port,False,DealerHold,JTDADABU3R3014436,New Country Toyota of Saratoga Springs,NY
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,31248,0,29350,Factory to port,False,DealerHold,JTDADABU3R3014467,Expressway Toyota,MA
+Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39019,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014436,New Country Toyota of Saratoga Springs,NY
+Unknown,2024,LE AWD AWD,Cutting Edge,29350,31248,0,29350,Port to dealer,False,DealerHold,JTDADABU3R3014467,Expressway Toyota,MA
 2024-04-19,2024,LE AWD AWD,Cutting Edge,29350,30929,0,29350,At dealer,False,DealerHold,JTDADABU3R3014484,Fremont Toyota,WY
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39614,0,36365,Port to dealer,True,DealerHold,JTDADABU3R3014517,Maplewood Toyota,MN
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,40962,0,36365,Factory to port,True,Available,JTDADABU3R3014520,Lakeside Toyota,LA
@@ -846,8 +851,8 @@ Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,40962,0,36365,Factory to port,
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39714,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014551,Toyota of Murfreesboro,TN
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36929,0,32795,Factory to port,False,Available,JTDADABU3R3014582,Heritage Toyota,VT
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40289,0,36365,At dealer,False,DealerHold,JTDADABU3R3014596,I-5 Toyota,WA
-Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39899,0,36365,Factory to port,True,Available,JTDADABU3R3014615,Smithtown Toyota,NY
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40397,0,36365,Factory to port,True,DealerHold,JTDADABU3R3014632,Rohrich Toyota,PA
+Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39899,0,36365,Port to dealer,True,Available,JTDADABU3R3014615,Smithtown Toyota,NY
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40397,0,36365,Port to dealer,True,DealerHold,JTDADABU3R3014632,Rohrich Toyota,PA
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,39819,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014646,Hall Toyota Virginia Beach,VA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36949,0,32795,Port to dealer,False,Available,JTDADABU3R3014663,McGee Toyota of Claremont,NH
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,30744,0,29350,Port to dealer,False,,JTDADABU3R3014694,Edmark Toyota,ID
@@ -856,11 +861,10 @@ Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36199,0,32795,Factory to port,False,
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,38184,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014744,Capitol Toyota of Salem,OR
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31569,0,29350,Port to dealer,False,Available,JTDADABU3R3014761,Parker Toyota,ID
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,30929,0,29350,Port to dealer,False,DealerHold,JTDADABU3R3014775,Bergeron Toyota,MI
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,30744,0,29350,Factory to port,True,DealerHold,JTDADABU3R3014792,Page Toyota,MI
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,40124,0,36365,Port to dealer,False,DealerHold,JTDADABU3R3014811,Ken Ganley Toyota,PA
-Unknown,2024,LE AWD AWD,Guardian Gray,29350,31403,0,29350,Factory to port,False,,JTDADABU3R3014839,Thayer Toyota,OH
+Unknown,2024,LE AWD AWD,Guardian Gray,29350,31403,794,30144,Factory to port,True,,JTDADABU3R3014839,Thayer Toyota,OH
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39394,0,36365,Factory to port,False,DealerHold,JTDADABU3R3014842,Jay Wolfe Toyota,MO
-Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39874,0,36365,Factory to port,False,,JTDADABU3R3014856,Ball Toyota of Charleston,WV
+Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39874,0,36365,Port to dealer,False,,JTDADABU3R3014856,Ball Toyota of Charleston,WV
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,37759,0,36365,Factory to port,False,DealerHold,JTDADABU3R3014887,Grants Pass Toyota,OR
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39544,0,36365,Factory to port,False,DealerHold,JTDADABU3R3014937,Pauly Toyota,IL
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,37909,0,36365,Factory to port,False,,JTDADABU3R3014954,Rogers Toyota,ID
@@ -868,9 +872,9 @@ Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36824,0,32795,Factory to 
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39394,0,36365,Factory to port,False,DealerHold,JTDADABU3R3014999,Adams Toyota Lee's Summit,MO
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,37978,0,36365,Factory to port,True,Available,JTDADABU3R3015022,Rogers Toyota,ID
 Unknown,2024,LE AWD AWD,Supersonic Red,29350,31354,0,29350,Port to dealer,False,DealerHold,JTDADABU3R3015036,Gault Toyota,NY
-2024-07-22,2024,Limited AWD AWD,Midnight Black Metallic,36365,39838,0,36365,Factory to port,False,DealerHold,JTDADABU3R3015084,Antioch Toyota,CA
-2024-08-15,2024,XLE AWD AWD,Guardian Gray,32795,36932,0,32795,Factory to port,True,DealerHold,JTDADABU3R3015098,Mungenast Alton Toyota,IL
-2024-08-21,2024,XLE AWD AWD,Reservoir Blue,32795,36862,0,32795,Factory to port,False,,JTDADABU3R3015103,Bosak Toyota of Chesterton,IN
+2024-07-24,2024,Limited AWD AWD,Midnight Black Metallic,36365,39838,0,36365,Factory to port,False,DealerHold,JTDADABU3R3015084,Antioch Toyota,CA
+2024-08-20,2024,XLE AWD AWD,Guardian Gray,32795,36932,0,32795,Factory to port,True,DealerHold,JTDADABU3R3015098,Mungenast Alton Toyota,IL
+2024-08-18,2024,XLE AWD AWD,Reservoir Blue,32795,36862,0,32795,Factory to port,False,,JTDADABU3R3015103,Bosak Toyota of Chesterton,IN
 2024-01-29,2024,XLE AWD AWD,Guardian Gray,32495,35994,0,32495,At dealer,False,Available,JTDADABU4R3011898,Ball Toyota of Charleston,WV
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39888,0,36365,Port to dealer,True,,JTDADABU4R3013179,TOYOTA OF WOOSTER,OH
 2024-03-18,2024,Limited AWD AWD,Wind Chill Pearl,36365,40124,0,36365,At dealer,False,Available,JTDADABU4R3013229,Thornhill Toyota,WV
@@ -888,16 +892,16 @@ Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39394,0,36365,Port to
 2024-04-18,2024,LE AWD AWD,Reservoir Blue,29350,31088,0,29350,At dealer,False,Available,JTDADABU4R3014168,Golling Toyota of Warren,MI
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,38847,0,36365,At dealer,False,DealerHold,JTDADABU4R3014171,Orland Toyota,IL
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,40123,0,36365,Port to dealer,False,DealerHold,JTDADABU4R3014199,Sheehy Toyota of Laurel,MD
-Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36624,1990,34785,Port to dealer,True,,JTDADABU4R3014266,East Madison Toyota,WI
+Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36624,1990,34785,Port to dealer,False,,JTDADABU4R3014266,East Madison Toyota,WI
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,39949,0,36365,Port to dealer,False,DealerHold,JTDADABU4R3014297,Diehl Toyota of Butler,PA
-2024-04-12,2024,Limited AWD AWD,Cutting Edge,36365,40137,0,36365,At dealer,False,,JTDADABU4R3014302,Toyota of Santa Maria,CA
+2024-04-12,2024,Limited AWD AWD,Cutting Edge,36365,40137,0,36365,At dealer,False,DealerHold,JTDADABU4R3014302,Toyota of Santa Maria,CA
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39664,0,36365,Port to dealer,False,DealerHold,JTDADABU4R3014333,Corwin Toyota,ND
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,31413,0,29350,Port to dealer,True,DealerHold,JTDADABU4R3014350,South Hills Toyota,PA
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34189,0,32795,Factory to port,True,DealerHold,JTDADABU4R3014414,Precision Toyota of Tucson,AZ
 Unknown,2024,LE AWD AWD,Reservoir Blue,29350,32048,0,29350,Factory to port,False,Available,JTDADABU4R3014428,Toyota of Cedar Park,TX
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,40063,0,36365,Port to dealer,False,,JTDADABU4R3014476,Magnussen's Toyota of Palo Alto,CA
 2025-04-17,2024,XLE AWD AWD,Reservoir Blue,32795,37368,0,32795,Factory to port,True,Available,JTDADABU4R3014526,Brownsville Toyota,TX
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39973,0,36365,Factory to port,False,DealerHold,JTDADABU4R3014543,Imperial Toyota,MA
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39973,0,36365,Port to dealer,False,DealerHold,JTDADABU4R3014543,Imperial Toyota,MA
 2024-04-28T00:00:00.000Z,2024,Limited AWD AWD,Wind Chill Pearl,36365,41387,0,36365,Factory to port,False,Available,JTDADABU4R3014557,Toyota of Cedar Park,TX
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,37759,0,36365,Port to dealer,True,Available,JTDADABU4R3014638,Crown Toyota,MI
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36199,0,32795,Port to dealer,False,,JTDADABU4R3014686,Beaverton Toyota,OR
@@ -915,25 +919,26 @@ Unknown,2024,Limited AWD AWD,Guardian Gray,36365,38078,0,36365,Factory to port,F
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31359,0,29350,Port to dealer,True,,JTDADABU4R3015014,Hartford Toyota,CT
 Unknown,2024,LE AWD AWD,Reservoir Blue,29350,30999,0,29350,Factory to port,False,,JTDADABU4R3015028,Don Wood Toyota,OH
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,30744,0,29350,Factory to port,True,DealerHold,JTDADABU4R3015045,I-5 Toyota,WA
-2024-08-15,2024,Limited AWD AWD,Midnight Black Metallic,36365,40363,0,36365,Factory to port,False,DealerHold,JTDADABU4R3015059,Toyota on Edens,IL
+2024-08-14,2024,Limited AWD AWD,Midnight Black Metallic,36365,40363,0,36365,Factory to port,False,DealerHold,JTDADABU4R3015059,Toyota on Edens,IL
 2023-12-22,2024,Limited AWD AWD,Reservoir Blue,36065,39244,0,36065,At dealer,False,DealerHold,JTDADABU5R3009643,Serra Toyota of Saginaw,MI
 Unknown,2024,Limited AWD AWD,Cutting Edge,36065,39094,0,36065,Port to dealer,False,,JTDADABU5R3012736,Gault Toyota,NY
 2024-03-27,2024,XLE AWD AWD,Midnight Black Metallic,32795,37093,0,32795,At dealer,False,Available,JTDADABU5R3013255,Toyota of Brookfield,WI
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40218,0,36365,Port to dealer,True,,JTDADABU5R3013482,Toyota of Des Moines,IA
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40218,0,36365,Port to dealer,False,Available,JTDADABU5R3013482,Toyota of Des Moines,IA
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34283,0,32795,Factory to port,False,,JTDADABU5R3013806,Camelback Toyota,AZ
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,37363,0,32795,Port to dealer,False,Available,JTDADABU5R3013840,Straatmann Toyota,MO
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36913,0,32795,At dealer,True,DealerHold,JTDADABU5R3013868,Inver Grove Toyota,MN
 2024-04-08,2024,XLE AWD AWD,Guardian Gray,32795,36573,1790,34585,At dealer,False,,JTDADABU5R3013899,Shore Toyota,NJ
 2024-03-25,2024,Limited AWD AWD,Cutting Edge,36365,38078,0,36365,At dealer,False,Available,JTDADABU5R3013949,Toyota of Gladstone,OR
 2024-03-26T00:00:00.000Z,2024,LE AWD AWD,Cutting Edge,29350,31233,0,29350,Port to dealer,True,DealerHold,JTDADABU5R3013966,Toyota of Ardmore,OK
-Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,30744,0,29350,Port to dealer,False,Available,JTDADABU5R3014034,Byers Toyota,OH
+Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34189,0,32795,Port to dealer,False,DealerHold,JTDADABU5R3013997,Shelor Toyota,VA
+Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,30744,0,29350,Port to dealer,False,DealerHold,JTDADABU5R3014034,Byers Toyota,OH
 2024-04-20,2024,XLE AWD AWD,Reservoir Blue,32795,34847,0,32795,At dealer,False,DealerHold,JTDADABU5R3014101,Kari Toyota,WI
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35114,0,32795,Port to dealer,False,DealerHold,JTDADABU5R3014146,Hoselton Toyota,NY
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,35573,0,32795,Port to dealer,True,DealerHold,JTDADABU5R3014163,Laurel Toyota,PA
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39699,0,36365,Port to dealer,False,Available,JTDADABU5R3014177,Palmiero Toyota,PA
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39958,0,36365,Port to dealer,False,DealerHold,JTDADABU5R3014258,Burnsville Toyota,MN
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36913,0,32795,Port to dealer,False,DealerHold,JTDADABU5R3014292,Burnsville Toyota,MN
-Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36882,0,32795,Port to dealer,False,,JTDADABU5R3014308,Brewer Airport Toyota,PA
+Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36882,0,32795,Port to dealer,True,DealerHold,JTDADABU5R3014308,Brewer Airport Toyota,PA
 2024-04-15T00:00:00.000Z,2024,Limited AWD AWD,Wind Chill Pearl,36365,41387,648,37013,Factory to port,True,DealerHold,JTDADABU5R3014325,Don Ringler Toyota,TX
 Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,31343,0,29350,Port to dealer,False,DealerHold,JTDADABU5R3014342,Byers Toyota,OH
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,35573,0,32795,Port to dealer,False,DealerHold,JTDADABU5R3014373,Heritage Toyota Harrisburg,PA
@@ -950,18 +955,18 @@ Unknown,2024,XLE AWD AWD,Guardian Gray,32795,34953,0,32795,Factory to port,True,
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,Factory to port,True,Available,JTDADABU5R3014874,Doxon Toyota,WA
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,41387,0,36365,Factory to port,False,Available,JTDADABU5R3014888,Mike Shaw Toyota,TX
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31169,0,29350,Factory to port,False,,JTDADABU5R3014907,Grants Pass Toyota,OR
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40064,0,36365,Factory to port,False,,JTDADABU5R3014924,Toyota of Erie,PA
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40064,0,36365,Port to dealer,False,,JTDADABU5R3014924,Toyota of Erie,PA
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,37353,895,33690,Port to dealer,False,Available,JTDADABU5R3014938,Jim Norton Toyota of Oklahoma City,OK
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36924,6383,39178,Factory to port,False,DealerHold,JTDADABU5R3014941,Victory Toyota of Midtown,IL
-Unknown,2024,LE AWD AWD,Reservoir Blue,29350,31153,0,29350,Factory to port,True,,JTDADABU5R3014972,Performance Motors Toyota,PA
+Unknown,2024,LE AWD AWD,Reservoir Blue,29350,31153,0,29350,Port to dealer,True,,JTDADABU5R3014972,Performance Motors Toyota,PA
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39779,0,36365,Factory to port,False,Available,JTDADABU5R3015006,"Gale Toyota, Inc.",CT
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,39543,0,36365,Factory to port,False,DealerHold,JTDADABU5R3015023,O'Brien Toyota,IN
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36418,0,32795,Factory to port,False,DealerHold,JTDADABU5R3015037,Ruda Chevrolet/Toyota,WI
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39779,0,36365,Port to dealer,False,DealerHold,JTDADABU5R3015040,Hoselton Toyota,NY
-2024-08-16,2024,LE AWD AWD,Wind Chill Pearl,29350,31204,0,29350,Factory to port,False,Available,JTDADABU5R3015054,Signature Toyota,MI
-2024-08-19,2024,XLE AWD AWD,Cutting Edge,32795,36862,0,32795,Factory to port,False,DealerHold,JTDADABU5R3015085,Fort Wayne Toyota,IN
-2024-08-15,2024,Limited AWD AWD,Reservoir Blue,36365,40057,0,36365,Factory to port,False,,JTDADABU5R3015099,Toyota of Fox Lake,IL
-2024-08-09,2024,Limited AWD AWD,Wind Chill Pearl,36365,40469,0,36365,Factory to port,True,DealerHold,JTDADABU6R114CA67,Toyota World of Newton,NJ
+2024-08-20,2024,LE AWD AWD,Wind Chill Pearl,29350,31204,0,29350,Factory to port,False,Available,JTDADABU5R3015054,Signature Toyota,MI
+2024-08-09,2024,XLE AWD AWD,Midnight Black Metallic,32795,35199,0,32795,Factory to port,True,DealerHold,JTDADABU5R3015071,Shelor Toyota,VA
+2024-08-16,2024,XLE AWD AWD,Cutting Edge,32795,36862,0,32795,Factory to port,False,DealerHold,JTDADABU5R3015085,Fort Wayne Toyota,IN
+2024-08-20,2024,Limited AWD AWD,Reservoir Blue,36365,40057,0,36365,Factory to port,False,,JTDADABU5R3015099,Toyota of Fox Lake,IL
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40258,0,36365,Port to dealer,False,DealerHold,JTDADABU6R3013149,Crown Toyota,KS
 2024-03-15,2024,Limited AWD AWD,Midnight Black Metallic,36365,40063,0,36365,At dealer,False,Available,JTDADABU6R3013202,Toyota of Morristown,NJ
 2024-03-13,2024,XLE AWD AWD,Midnight Black Metallic,32795,36677,0,32795,At dealer,False,DealerHold,JTDADABU6R3013281,Toyota of Lake City,WA
@@ -986,8 +991,9 @@ Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,40024,0,36365,Port to
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,34519,0,32795,Port to dealer,False,DealerHold,JTDADABU6R3014348,Girard Toyota-BMW,CT
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34258,400,33195,Port to dealer,False,DealerHold,JTDADABU6R3014351,Anderson Toyota,IL
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,39899,0,36365,Port to dealer,False,DealerHold,JTDADABU6R3014365,Lombard Toyota,IL
-Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36929,0,32795,Factory to port,False,DealerHold,JTDADABU6R3014396,Thompson Toyota,PA
-Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36434,0,32795,Factory to port,False,DealerHold,JTDADABU6R3014429,Route 44 Toyota,MA
+Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36929,0,32795,Port to dealer,False,DealerHold,JTDADABU6R3014396,Thompson Toyota,PA
+Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36574,0,32795,Factory to port,False,DealerHold,JTDADABU6R3014415,Middletown Toyota,CT
+Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36434,0,32795,Port to dealer,False,DealerHold,JTDADABU6R3014429,Route 44 Toyota,MA
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36624,1098,33893,Port to dealer,True,DealerHold,JTDADABU6R3014446,Toyota of Terre Haute,IN
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36774,0,32795,Factory to port,True,DealerHold,JTDADABU6R3014463,Romano Toyota,NY
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,30905,0,29350,Port to dealer,False,DealerHold,JTDADABU6R3014480,Marysville Toyota,WA
@@ -995,6 +1001,7 @@ Unknown,2024,Limited AWD AWD,Cutting Edge,36365,40173,0,36365,Factory to port,Fa
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,39819,0,36365,Port to dealer,False,DealerHold,JTDADABU6R3014558,Toyota Direct,OH
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,39889,400,36765,Port to dealer,False,DealerHold,JTDADABU6R3014575,Anderson Toyota,IL
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36199,0,32795,Port to dealer,False,,JTDADABU6R3014608,Tony Divino Toyota,UT
+Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36504,0,32795,Port to dealer,False,,JTDADABU6R3014611,L & S Toyota of Beckley,WV
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36349,0,32795,Port to dealer,True,DealerHold,JTDADABU6R3014642,Kalispell Toyota,MT
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36849,0,32795,Port to dealer,False,DealerHold,JTDADABU6R3014656,Towne Toyota,NJ
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36374,0,32795,Port to dealer,False,DealerHold,JTDADABU6R3014673,Toyota of Stamford,CT
@@ -1017,14 +1024,16 @@ Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,37898,0,36365,Factory to port,
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40397,1495,37860,Factory to port,False,Available,JTDADABU6R3014978,Kokomo Toyota,IN
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,30894,0,29350,Factory to port,False,DealerHold,JTDADABU6R3014981,Victory Toyota,MI
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,39974,0,36365,Factory to port,False,,JTDADABU6R3014995,Bill Kidd's Timonium Toyota,MD
-Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,34189,0,32795,Factory to port,True,DealerHold,JTDADABU6R3015001,Ed Martin Toyota,IN
+Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,34189,0,32795,Factory to port,False,DealerHold,JTDADABU6R3015001,Ed Martin Toyota,IN
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,38428,0,36365,Factory to port,True,DealerHold,JTDADABU6R3015015,Beechmont Toyota,OH
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,38184,0,36365,Factory to port,False,DealerHold,JTDADABU6R3015029,Peterson Toyota,ID
-2024-07-29,2024,XLE AWD AWD,Wind Chill Pearl,32795,36693,0,32795,Factory to port,False,DealerHold,JTDADABU6R3015063,Edmark Toyota,ID
+2024-07-27,2024,XLE AWD AWD,Wind Chill Pearl,32795,36693,0,32795,Factory to port,False,DealerHold,JTDADABU6R3015063,Edmark Toyota,ID
+2024-08-18,2024,XLE AWD AWD,Midnight Black Metallic,32795,36199,0,32795,Factory to port,False,,JTDADABU6R3015077,Toyota of Brookfield,WI
 2024-08-04,2024,LE AWD AWD,Wind Chill Pearl,29350,31204,0,29350,Factory to port,True,DealerHold,JTDADABU6R3015080,Toyota of Watertown,MA
-2024-08-07,2024,XLE AWD AWD,Wind Chill Pearl,32795,34683,0,32795,Factory to port,False,,JTDADABU6R3015094,Camelback Toyota,AZ
+2024-08-13,2024,XLE AWD AWD,Wind Chill Pearl,32795,34683,0,32795,Factory to port,False,,JTDADABU6R3015094,Camelback Toyota,AZ
+2024-08-30,2024,Limited AWD AWD,Wind Chill Pearl,36365,39520,899,37264,Factory to port,True,,JTDADABU7R126CD46,Billion Toyota,SD
 2024-01-08,2024,XLE AWD AWD,Midnight Black Metallic,32495,36118,0,32495,At dealer,False,DealerHold,JTDADABU7R3011300,Toyota of Warren,OH
-Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,38184,0,36365,Port to dealer,False,DealerHold,JTDADABU7R3013872,Corwin Toyota of Bellevue,NE
+Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,38184,395,36760,Port to dealer,False,DealerHold,JTDADABU7R3013872,Corwin Toyota of Bellevue,NE
 2024-03-26,2024,LE AWD AWD,Wind Chill Pearl,29350,32473,0,29350,At dealer,True,Available,JTDADABU7R3013905,Street Toyota,TX
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,34614,0,32795,Port to dealer,False,DealerHold,JTDADABU7R3014004,"Molle Toyota, Inc.",MO
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39394,0,36365,Port to dealer,True,DealerHold,JTDADABU7R3014021,Hiland Toyota,IL
@@ -1036,40 +1045,38 @@ Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37249,0,32795,Port to dealer,Fal
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,31144,0,29350,At dealer,False,DealerHold,JTDADABU7R3014391,Parker Toyota,ID
 2024-04-14,2024,LE AWD AWD,Wind Chill Pearl,29350,31204,0,29350,At dealer,False,DealerHold,JTDADABU7R3014410,Tony Divino Toyota,UT
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,38046,799,33594,Factory to port,True,Available,JTDADABU7R3014424,Landers Toyota NWA,AR
-Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31429,0,29350,Factory to port,False,,JTDADABU7R3014455,Lynch Toyota,CT
+Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31429,0,29350,Port to dealer,False,,JTDADABU7R3014455,Lynch Toyota,CT
 2024-04-17,2024,XLE AWD AWD,Wind Chill Pearl,32795,34315,0,32795,At dealer,False,DealerHold,JTDADABU7R3014486,Marysville Toyota,WA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37009,0,32795,Factory to port,False,DealerHold,JTDADABU7R3014505,New Country Toyota of Westport,CT
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34189,0,32795,Factory to port,False,Available,JTDADABU7R3014570,Lynch Toyota,CT
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,37268,0,32795,Factory to port,True,DealerHold,JTDADABU7R3014598,Toyota of Richardson,TX
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36338,0,32795,Port to dealer,True,DealerHold,JTDADABU7R3014620,Culver City Toyota,CA
 Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Port to dealer,False,DealerHold,JTDADABU7R3014648,Peterson Toyota,ID
-Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39779,399,36764,Port to dealer,False,,JTDADABU7R3014696,Toyota of Tacoma,WA
+Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39779,399,36764,Port to dealer,False,DealerHold,JTDADABU7R3014696,Toyota of Tacoma,WA
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40743,0,36365,Factory to port,False,DealerHold,JTDADABU7R3014715,Superior Toyota,WV
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37746,0,32795,Factory to port,False,DealerHold,JTDADABU7R3014746,Toyota of Scranton,PA
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,31009,0,29350,Factory to port,True,,JTDADABU7R3014777,Smithtown Toyota,NY
+Unknown,2024,LE AWD AWD,Cutting Edge,29350,31009,0,29350,Port to dealer,True,,JTDADABU7R3014777,Smithtown Toyota,NY
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35764,0,32795,Factory to port,True,,JTDADABU7R3014827,Toyota of Murray,KY
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39918,599,36964,Port to dealer,False,DealerHold,JTDADABU7R3014830,Hudson Toyota,NJ
 Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,30914,0,29350,Factory to port,False,Available,JTDADABU7R3014861,Golling Toyota of Warren,MI
-Unknown,2024,LE AWD AWD,Guardian Gray,29350,30954,0,29350,Factory to port,False,DealerHold,JTDADABU7R3014875,Lia Toyota of Northampton,MA
+Unknown,2024,LE AWD AWD,Guardian Gray,29350,30954,0,29350,Port to dealer,False,DealerHold,JTDADABU7R3014875,Lia Toyota of Northampton,MA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,Factory to port,False,DealerHold,JTDADABU7R3014908,A-1 Toyota,CT
-Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,39739,6383,42748,Factory to port,False,,JTDADABU7R3014911,Victory Toyota of Midtown,IL
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36418,0,32795,Factory to port,False,DealerHold,JTDADABU7R3014925,DCH Freehold Toyota,NJ
-Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,31164,0,29350,Factory to port,False,DealerHold,JTDADABU7R3014942,Hoselton Toyota,NY
+Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,31164,0,29350,Port to dealer,False,DealerHold,JTDADABU7R3014942,Hoselton Toyota,NY
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36418,0,32795,Factory to port,False,DealerHold,JTDADABU7R3014990,Island Toyota,NY
 Unknown,2024,LE AWD AWD,Guardian Gray,29350,30998,0,29350,Factory to port,False,DealerHold,JTDADABU7R3015007,Damian Lillard Toyota,OR
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39973,0,36365,Factory to port,False,DealerHold,JTDADABU7R3015010,Ardmore Toyota,PA
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39719,0,36365,Factory to port,False,,JTDADABU7R3015038,Hosmer Toyota,IA
-2024-07-29,2024,XLE AWD AWD,Reservoir Blue,32795,36199,1999,34794,Factory to port,True,,JTDADABU7R3015072,Foothills Toyota,WA
-2024-08-14,2024,XLE AWD AWD,Guardian Gray,32795,35403,0,32795,Factory to port,False,DealerHold,JTDADABU8R114CN74,Oakbrook Toyota in Westmont,IL
+2024-07-25,2024,XLE AWD AWD,Reservoir Blue,32795,36199,1999,34794,Factory to port,True,,JTDADABU7R3015072,Foothills Toyota,WA
+2024-08-15,2024,XLE AWD AWD,Guardian Gray,32795,35403,0,32795,Factory to port,False,DealerHold,JTDADABU7R3015105,Oakbrook Toyota in Westmont,IL
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39464,0,36365,Port to dealer,False,DealerHold,JTDADABU8R3013105,Jay Wolfe Toyota of West County,MO
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,34339,0,32795,Port to dealer,False,,JTDADABU8R3013508,York Toyota,ME
-2024-03-22,2024,XLE AWD AWD,Midnight Black Metallic,32795,36643,0,32795,At dealer,False,DealerHold,JTDADABU8R3013511,Newburgh Toyota,NY
 2024-04-04,2024,XLE AWD AWD,Reservoir Blue,32795,37524,0,32795,At dealer,False,DealerHold,JTDADABU8R3013573,Koch 33 Toyota,PA
 2024-03-25,2024,XLE AWD AWD,Guardian Gray,32795,34259,0,32795,At dealer,False,Available,JTDADABU8R3013587,Fremont Toyota of Sheridan,WY
 2024-04-01,2024,XLE AWD AWD,Midnight Black Metallic,32795,36504,0,32795,At dealer,False,DealerHold,JTDADABU8R3013590,Toyota of Batavia,NY
 2024-04-01,2024,XLE AWD AWD,Supersonic Red,32795,36624,0,32795,At dealer,False,Available,JTDADABU8R3013623,Toyota of Hackensack,NJ
 2024-03-29,2024,XLE AWD AWD,Midnight Black Metallic,32795,36429,0,32795,At dealer,False,DealerHold,JTDADABU8R3013637,Bill Page Toyota,VA
-2024-04-09,2024,Limited AWD AWD,Wind Chill Pearl,36365,40482,0,36365,At dealer,False,DealerHold,JTDADABU8R3013699,Bob Rohrman Toyota,IN
+2024-04-09,2024,Limited AWD AWD,Wind Chill Pearl,36365,40482,0,36365,At dealer,True,DealerHold,JTDADABU8R3013699,Bob Rohrman Toyota,IN
 2024-03-28,2024,XLE AWD AWD,Midnight Black Metallic,32795,36903,0,32795,At dealer,False,DealerHold,JTDADABU8R3013721,Grieco Toyota,RI
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36913,0,32795,At dealer,True,DealerHold,JTDADABU8R3013881,Inver Grove Toyota,MN
 2024-04-08,2024,XLE AWD AWD,Cutting Edge,32795,34494,0,32795,At dealer,True,Available,JTDADABU8R3013914,Ourisman Chantilly Toyota,VA
@@ -1083,33 +1090,33 @@ Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,34614,0,32795,Port to dealer,Tru
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,37254,0,32795,Port to dealer,False,Available,JTDADABU8R3014349,Toyota of Wellesley,MA
 Unknown,2024,Limited AWD AWD,Guardian Gray,36365,40024,0,36365,Port to dealer,False,DealerHold,JTDADABU8R3014352,Toyota of Wellesley,MA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,34844,0,32795,Port to dealer,False,Available,JTDADABU8R3014366,Smithtown Toyota,NY
-Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36429,0,32795,Factory to port,False,DealerHold,JTDADABU8R3014433,Penn Toyota,NY
+Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36429,0,32795,Port to dealer,False,DealerHold,JTDADABU8R3014433,Penn Toyota,NY
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,38614,0,36365,Factory to port,True,DealerHold,JTDADABU8R3014447,DCH Brunswick Toyota,NJ
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31734,0,29350,Factory to port,False,DealerHold,JTDADABU8R3014450,Charlie's Toyota,ME
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,34613,0,32795,Factory to port,True,,JTDADABU8R3014514,Star Toyota of Bayside,NY
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,38159,0,36365,At dealer,False,DealerHold,JTDADABU8R3014545,Parker Toyota,ID
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31874,1599,30949,Factory to port,True,DealerHold,JTDADABU8R3014805,Fowler Toyota,OK
 Unknown,2024,LE AWD AWD,Midnight Black Metallic,29350,30799,0,29350,Factory to port,False,DealerHold,JTDADABU8R3014822,Victory Toyota,MI
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,38719,0,36365,Factory to port,False,DealerHold,JTDADABU8R3014867,Northtown Toyota,NY
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,38719,0,36365,Port to dealer,False,DealerHold,JTDADABU8R3014867,Northtown Toyota,NY
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,39819,0,36365,Factory to port,False,DealerHold,JTDADABU8R3014903,Anderson-Weber Toyota,IA
-Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34189,0,32795,Factory to port,True,Available,JTDADABU8R3014920,Kinderhook Toyota,NY
+Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34189,0,32795,Port to dealer,True,Available,JTDADABU8R3014920,Kinderhook Toyota,NY
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39998,2199,38564,Factory to port,True,DealerHold,JTDADABU8R3014934,Rudy Luther Toyota,MN
 Unknown,2024,LE AWD AWD,Supersonic Red,29350,31354,0,29350,Factory to port,False,DealerHold,JTDADABU8R3014948,Bergeron Toyota,MI
 Unknown,2024,LE AWD AWD,Cutting Edge,29350,30848,0,29350,Factory to port,False,DealerHold,JTDADABU8R3014965,Edmark Toyota,ID
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,39699,0,36365,Factory to port,False,DealerHold,JTDADABU8R3014979,Toyota of York,PA
-Unknown,2024,LE AWD AWD,Guardian Gray,29350,30779,0,29350,Factory to port,False,DealerHold,JTDADABU8R3014982,Lexington Toyota,MA
+Unknown,2024,LE AWD AWD,Guardian Gray,29350,30779,0,29350,Port to dealer,False,DealerHold,JTDADABU8R3014982,Lexington Toyota,MA
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,41137,0,36365,Port to dealer,True,DealerHold,JTDADABU8R3015002,Toyota of Plano,TX
-2024-08-16,2024,XLE AWD AWD,Supersonic Red,32795,37287,0,32795,Factory to port,False,,JTDADABU8R3015047,Evans Toyota,IN
+2024-08-15,2024,XLE AWD AWD,Supersonic Red,32795,37287,0,32795,Factory to port,False,,JTDADABU8R3015047,Evans Toyota,IN
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36199,0,32795,Factory to port,False,DealerHold,JTDADABU8R3015050,Lithia Toyota of Springfield,OR
-2024-08-02,2024,Limited AWD AWD,Supersonic Red,36365,40318,0,36365,Factory to port,False,Available,JTDADABU8R3015078,Phil Meador Toyota,ID
+2024-07-29,2024,Limited AWD AWD,Supersonic Red,36365,40318,0,36365,Factory to port,False,Available,JTDADABU8R3015078,Phil Meador Toyota,ID
 2024-08-08,2024,Limited AWD AWD,Reservoir Blue,36365,38998,0,36365,Factory to port,False,Available,JTDADABU8R3015081,New Country Toyota of Clifton Park,NY
-2024-08-02,2024,LE AWD AWD,Wind Chill Pearl,29350,31712,0,29350,Factory to port,False,DealerHold,JTDADABU8R3015100,Stone's Town and Country Toyota,ID
+2024-07-29,2024,LE AWD AWD,Wind Chill Pearl,29350,31712,0,29350,Factory to port,False,DealerHold,JTDADABU8R3015100,Stone's Town and Country Toyota,ID
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36065,40332,0,36065,Port to dealer,True,DealerHold,JTDADABU9R3012710,Rochester Toyota,MN
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37188,0,32795,Port to dealer,True,Available,JTDADABU9R3013095,Walser Bloomington Toyota,MN
 2024-03-25,2024,XLE AWD AWD,Cutting Edge,32795,36349,0,32795,At dealer,True,Available,JTDADABU9R3013159,Bredemann Toyota,IL
 2024-03-21,2024,Limited AWD AWD,Midnight Black Metallic,36365,40468,0,36365,At dealer,False,Available,JTDADABU9R3013422,Ball Toyota of Charleston,WV
 2024-03-21,2024,Limited AWD AWD,Supersonic Red,36365,38184,0,36365,At dealer,False,DealerHold,JTDADABU9R3013498,Peterson Toyota,ID
-2024-04-20,2024,XLE AWD AWD,Wind Chill Pearl,32795,37069,0,32795,At dealer,False,DealerHold,JTDADABU9R3013579,Corwin Toyota of Bellevue,NE
+2024-04-20,2024,XLE AWD AWD,Wind Chill Pearl,32795,37069,395,33190,At dealer,False,DealerHold,JTDADABU9R3013579,Corwin Toyota of Bellevue,NE
 2024-04-16,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,At dealer,False,DealerHold,JTDADABU9R3013646,Seeger Toyota,MO
 2024-03-28,2024,XLE AWD AWD,Midnight Black Metallic,32795,36443,0,32795,At dealer,True,Available,JTDADABU9R3013727,802 Toyota,VT
 2024-04-12,2024,LE AWD AWD,Midnight Black Metallic,29350,31498,0,29350,At dealer,False,DealerHold,JTDADABU9R3013789,Matick Toyota,MI
@@ -1122,12 +1129,12 @@ Unknown,2024,XLE AWD AWD,Supersonic Red,32795,35114,0,32795,Port to dealer,True,
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36763,0,32795,Port to dealer,True,DealerHold,JTDADABU9R3014277,Maplewood Toyota,MN
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,34999,0,32795,Port to dealer,False,DealerHold,JTDADABU9R3014280,Toyota of Greenwich,CT
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,39819,0,36365,Port to dealer,False,DealerHold,JTDADABU9R3014294,"Cedar Rapids Toyota, Inc.",IA
-2024-04-13T00:00:00.000Z,2024,LE AWD AWD,Guardian Gray,29350,31449,0,29350,At dealer,False,Available,JTDADABU9R3014330,Toyota of Cedar Park,TX
+2024-04-13T00:00:00.000Z,2024,LE AWD AWD,Guardian Gray,29350,31449,0,29350,At dealer,False,DealerHold,JTDADABU9R3014330,Toyota of Cedar Park,TX
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,40194,0,36365,Port to dealer,False,DealerHold,JTDADABU9R3014344,Le Mieux & Son Toyota,WI
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,39888,1274,37639,Port to dealer,False,,JTDADABU9R3014358,Tom Wood Toyota,IN
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39394,1990,38355,Port to dealer,True,,JTDADABU9R3014375,East Madison Toyota,WI
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36688,0,32795,Port to dealer,False,DealerHold,JTDADABU9R3014425,Baxter Toyota of Lincoln,NE
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Factory to port,False,DealerHold,JTDADABU9R3014439,Toyota of Nashua,NH
+Unknown,2024,LE AWD AWD,Cutting Edge,29350,30779,0,29350,Port to dealer,False,DealerHold,JTDADABU9R3014439,Toyota of Nashua,NH
 Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,39394,0,36365,Port to dealer,False,DealerHold,JTDADABU9R3014487,Town Toyota,WA
 Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,Port to dealer,False,Available,JTDADABU9R3014490,Cedric Theel Toyota,ND
 Unknown,2024,XLE AWD AWD,Cutting Edge,32795,36418,0,32795,Port to dealer,False,DealerHold,JTDADABU9R3014554,Stephen Wade Toyota,UT
@@ -1146,11 +1153,12 @@ Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34848,0,32795,Factory to port,False,
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,34339,0,32795,Factory to port,False,,JTDADABU9R3014909,Ken Nelson Toyota,IL
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,37133,0,32795,Port to dealer,False,DealerHold,JTDADABU9R3014957,Andy Mohr Toyota,IN
 Unknown,2024,LE AWD AWD,Cutting Edge,29350,30834,0,29350,Factory to port,False,Available,JTDADABU9R3014960,Golling Toyota of Warren,MI
-Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37379,0,32795,Factory to port,False,,JTDADABU9R3014991,Ourisman Fairfax Toyota,VA
+Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,37054,0,32795,Factory to port,False,,JTDADABU9R3014991,Ourisman Fairfax Toyota,VA
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39128,0,36365,Factory to port,False,Available,JTDADABU9R3015008,Toyota of Manhattan,NY
-Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36879,0,32795,Factory to port,False,,JTDADABU9R3015025,Haddad Toyota,MA
+Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36879,0,32795,Port to dealer,False,,JTDADABU9R3015025,Haddad Toyota,MA
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36518,0,32795,Factory to port,False,DealerHold,JTDADABU9R3015042,Lithia Toyota,OR
-2024-08-12,2024,XLE AWD AWD,Cutting Edge,32795,34189,0,32795,Factory to port,True,DealerHold,JTDADABU9R3015056,Mountain States Toyota,CO
+2024-08-11,2024,XLE AWD AWD,Cutting Edge,32795,34189,0,32795,Factory to port,True,DealerHold,JTDADABU9R3015056,Mountain States Toyota,CO
+2024-08-09,2024,Limited AWD AWD,Wind Chill Pearl,36365,40469,0,36365,Factory to port,True,DealerHold,JTDADABU9R3015073,Toyota World of Newton,NJ
 2024-02-12,2024,Limited AWD AWD,Midnight Black Metallic,36065,39424,0,36065,At dealer,False,,JTDADABUXR3012392,Handy Toyota,VT
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,38573,0,36365,Port to dealer,False,Available,JTDADABUXR3013154,AutoNation Toyota Libertyville,IL
 2024-03-12,2024,XLE AWD AWD,Wind Chill Pearl,32795,36624,0,32795,At dealer,False,Available,JTDADABUXR3013266,Toyota of Keene,NH
@@ -1170,11 +1178,10 @@ Unknown,2024,Limited AWD AWD,Reservoir Blue,36365,37759,1299,37664,Port to deale
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31439,0,29350,Port to dealer,False,DealerHold,JTDADABUXR3014305,Gateway Toyota,NJ
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36584,0,32795,Factory to port,False,DealerHold,JTDADABUXR3014398,Empire Toyota of Huntington,NY
 Unknown,2024,LE AWD AWD,Wind Chill Pearl,29350,31204,0,29350,Factory to port,False,DealerHold,JTDADABUXR3014417,Heritage Toyota Harrisburg,PA
-2024-04-18,2024,Limited AWD AWD,Midnight Black Metallic,36365,37759,0,36365,At dealer,False,DealerHold,JTDADABUXR3014420,Mark Miller Toyota,UT
-Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36754,0,32795,Factory to port,True,DealerHold,JTDADABUXR3014451,Rohrich Toyota,PA
-Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34424,0,32795,Factory to port,False,DealerHold,JTDADABUXR3014465,Herb Chambers Toyota of Boston,MA
+Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36754,0,32795,Port to dealer,True,DealerHold,JTDADABUXR3014451,Rohrich Toyota,PA
+Unknown,2024,XLE AWD AWD,Cutting Edge,32795,34424,0,32795,Port to dealer,False,DealerHold,JTDADABUXR3014465,Herb Chambers Toyota of Boston,MA
 Unknown,2024,Limited AWD AWD,Cutting Edge,36365,39394,0,36365,Port to dealer,False,DealerHold,JTDADABUXR3014479,Don Jacobs Toyota,WI
-Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35058,0,32795,Factory to port,False,Available,JTDADABUXR3014482,Lia Toyota of Colonie,NY
+Unknown,2024,XLE AWD AWD,Wind Chill Pearl,32795,35058,0,32795,Port to dealer,False,Available,JTDADABUXR3014482,Lia Toyota of Colonie,NY
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,40258,0,36365,Port to dealer,False,Available,JTDADABUXR3014501,Lithia Toyota of Missoula,MT
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,35614,0,32795,Port to dealer,False,DealerHold,JTDADABUXR3014515,Victory Toyota,MI
 Unknown,2024,XLE AWD AWD,Supersonic Red,32795,36644,0,32795,Port to dealer,False,DealerHold,JTDADABUXR3014529,Seeger Toyota,MO
@@ -1192,14 +1199,14 @@ Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,41387,2895,39260,Port to dea
 Unknown,2024,Limited AWD AWD,Midnight Black Metallic,36365,39699,0,36365,Factory to port,False,DealerHold,JTDADABUXR3014854,Herb Chambers Toyota of Boston,MA
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,35354,0,32795,Factory to port,False,DealerHold,JTDADABUXR3014904,Ardmore Toyota,PA
 Unknown,2024,XLE AWD AWD,Midnight Black Metallic,32795,36419,0,32795,Factory to port,False,,JTDADABUXR3014918,Chicago Northside Toyota,IL
-Unknown,2024,LE AWD AWD,Cutting Edge,29350,31164,0,29350,Factory to port,False,DealerHold,JTDADABUXR3014935,Copeland Toyota,MA
+Unknown,2024,LE AWD AWD,Cutting Edge,29350,31164,0,29350,Port to dealer,False,DealerHold,JTDADABUXR3014935,Copeland Toyota,MA
 Unknown,2024,XLE AWD AWD,Guardian Gray,32795,36504,0,32795,Factory to port,False,,JTDADABUXR3014949,Ken Ganley Toyota,PA
-Unknown,2024,Limited AWD AWD,Supersonic Red,36365,38184,0,36365,Factory to port,False,,JTDADABUXR3014952,Lithia Toyota of Springfield,OR
+Unknown,2024,Limited AWD AWD,Supersonic Red,36365,38184,0,36365,Factory to port,False,DealerHold,JTDADABUXR3014952,Lithia Toyota of Springfield,OR
 Unknown,2024,Limited AWD AWD,Supersonic Red,36365,39969,0,36365,Factory to port,True,Available,JTDADABUXR3014983,Bredemann Toyota,IL
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36738,0,32795,Factory to port,False,,JTDADABUXR3014997,Toyota of Lincolnwood,IL
 Unknown,2024,XLE AWD AWD,Reservoir Blue,32795,36584,0,32795,Port to dealer,True,DealerHold,JTDADABUXR3015003,Ira Toyota of Manchester,NH
-Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39818,0,36365,Factory to port,False,,JTDADABUXR3015020,Hillside Toyota,NY
+Unknown,2024,Limited AWD AWD,Guardian Gray,36365,39818,0,36365,Port to dealer,False,,JTDADABUXR3015020,Hillside Toyota,NY
 Unknown,2024,Limited AWD AWD,Wind Chill Pearl,36365,39819,0,36365,Factory to port,False,DealerHold,JTDADABUXR3015034,Ed Martin Toyota,IN
 Unknown,2024,LE AWD AWD,Reservoir Blue,29350,31084,0,29350,Port to dealer,True,DealerHold,JTDADABUXR3015048,Atlantic Toyota,MA
 2024-08-07,2024,XLE AWD AWD,Cutting Edge,32795,36594,0,32795,Factory to port,False,DealerHold,JTDADABUXR3015065,Cochran Toyota,PA
-2024-08-15,2024,LE AWD AWD,Midnight Black Metallic,29350,32187,0,29350,Factory to port,False,DealerHold,JTDADABUXR3015082,Toyota of Muskegon,MI
+2024-08-16,2024,LE AWD AWD,Midnight Black Metallic,29350,32187,0,29350,Factory to port,False,DealerHold,JTDADABUXR3015082,Toyota of Muskegon,MI
