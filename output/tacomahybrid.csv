@@ -1,303 +1,1066 @@
 ETA,Year,Model,Color,Base MSRP,TSRP MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66185,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT18C665,Jim Coleman Toyota,MD
-Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66129,3085,66985,Factory to port,False,,3TYLC5LN0RT18D511,Toyota of Glendale,CA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,55612,0,46300,Factory to port,False,Available,3TYLC5LN0RT000295,Yokem Toyota,LA
+2024-06-21,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66624,0,63900,Factory to port,True,DealerHold,3TYLC5LN0RT000345,Mountain States Toyota,CO
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66280,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT000359,Stone's Town and Country Toyota,ID
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66574,0,63900,Factory to port,True,DealerHold,3TYLC5LN0RT000362,Toyota of Puyallup,WA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67248,0,63900,Factory to port,False,,3TYLC5LN0RT000507,Hillside Toyota,NY
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66129,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT000586,Marysville Toyota,WA
+2024-07-01,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65835,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT000670,Toyota Direct,OH
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65610,495,64395,Factory to port,False,,3TYLC5LN0RT000748,Waldorf Toyota,MD
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,49284,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT000863,Family Toyota of Burleson,TX
+2024-06-30,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65799,0,63900,Factory to port,True,,3TYLC5LN0RT000927,Toyota of Boardman,OH
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,50736,0,46600,Factory to port,True,DealerHold,3TYLC5LN0RT000958,Sterling McCall Toyota Fort Bend,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,55224,0,46300,Factory to port,True,DealerHold,3TYLC5LN0RT000992,Toyota of Glendora,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66574,0,63900,Factory to port,True,Available,3TYLC5LN0RT001009,Doxon Toyota,WA
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58417,0,55800,Factory to port,False,Available,3TYLC5LN0RT001012,Don McGill Toyota of Katy,TX
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58384,0,55800,Factory to port,False,DealerHold,3TYLC5LN0RT001026,Jimmy Vasser Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54055,0,46600,Factory to port,False,,3TYLC5LN0RT001060,Downtown Toyota of Oakland,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT001107,Gresham Toyota,OR
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58139,0,46300,Factory to port,False,Available,3TYLC5LN0RT001141,Romeo Toyota of Glens Falls,NY
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66005,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT001267,Expressway Toyota,MA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53160,0,46300,Factory to port,False,Available,3TYLC5LN0RT001303,Magnussen's Toyota of Palo Alto,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68627,0,63900,Factory to port,True,DealerHold,3TYLC5LN0RT001379,Hamer Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67839,0,63900,Factory to port,True,,3TYLC5LN0RT001382,Rogers Toyota,ID
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54972,0,46300,Factory to port,False,Available,3TYLC5LN0RT001396,Fowler Toyota,OK
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,57995,0,46600,Factory to port,True,DealerHold,3TYLC5LN0RT001432,Performance Toyota Bountiful,UT
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,55714,0,46300,Factory to port,False,Available,3TYLC5LN0RT001480,Krause Toyota,PA
+2024-07-12,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58819,0,46600,Factory to port,False,,3TYLC5LN0RT001558,Walser Bloomington Toyota,MN
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,50936,0,46600,Factory to port,False,Available,3TYLC5LN0RT001589,Round Rock Toyota,TX
+2024-06-30,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56875,0,46300,Factory to port,False,Available,3TYLC5LN0RT001608,Beaman Toyota,TN
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,53215,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT001723,Kings Toyota,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,57820,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT001771,Berlin City Toyota,NH
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50244,0,46600,Factory to port,True,DealerHold,3TYLC5LN0RT001821,Rogers Toyota of Hermiston,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55039,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT001849,Parker Toyota,ID
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58560,0,55800,Factory to port,False,DealerHold,3TYLC5LN0RT001883,Spitzer Toyota,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58369,1443,48043,Factory to port,False,,3TYLC5LN0RT001902,Toyota of Lancaster,CA
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,55571,0,46300,Factory to port,False,DealerHold,3TYLC5LN0RT001933,Fred Haas Toyota World,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53979,0,46300,Factory to port,False,DealerHold,3TYLC5LN0RT001950,Bill Page Toyota,VA
+2024-06-14T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58417,0,55800,Factory to port,False,DealerHold,3TYLC5LN0RT001995,North Park Toyota of San Antonio,TX
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,51371,0,46300,Factory to port,True,DealerHold,3TYLC5LN0RT002029,Toyota of Cedar Park,TX
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52525,1495,48095,Factory to port,False,Available,3TYLC5LN0RT002032,Price LeBlanc Toyota,LA
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53000,0,46600,Factory to port,True,DealerHold,3TYLC5LN0RT002077,Hansel Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,51415,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT002189,Hometown Toyota,OR
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,56304,0,46300,Factory to port,False,,3TYLC5LN0RT002192,Lia Toyota,MA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,59184,0,46300,Factory to port,False,,3TYLC5LN0RT002323,Della Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55089,1595,48195,Factory to port,False,,3TYLC5LN0RT002337,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,58830,5095,51695,Factory to port,False,,3TYLC5LN0RT002340,Toyota of Redlands,CA
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,59835,0,55800,Factory to port,False,,3TYLC5LN0RT002354,Fitzgerald Toyota Gaithersburg,MD
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,59932,0,55800,Factory to port,False,Available,3TYLC5LN0RT002418,Don McGill Toyota of Katy,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56190,5783,52383,Factory to port,False,,3TYLC5LN0RT002435,Toyota of Renton,WA
+2024-06-28,2024,Tacoma TRD Pro 4x4,Black,63900,68114,0,63900,Factory to port,False,,3TYLC5LN0RT002452,AutoNation Toyota Libertyville,IL
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,57848,0,46600,Factory to port,False,,3TYLC5LN0RT002516,Hamer Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57519,0,46300,Factory to port,False,Available,3TYLC5LN0RT002533,Keyes Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,54739,0,46300,Factory to port,False,,3TYLC5LN0RT002614,Berglund Toyota,VA
+2024-07-10,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58959,0,46600,Factory to port,False,,3TYLC5LN0RT002676,Golling Toyota of Warren,MI
 Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,56635,0,46600,Factory to port,False,,3TYLC5LN0RT19A345,Maita's Toyota of Sacramento,CA
-2024-06-14,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,52935,0,46600,Factory to port,False,,3TYLC5LN0RT19A359,Tansky Sawmill Toyota,OH
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57255,0,46600,Factory to port,False,,3TYLC5LN0RT19A569,Madera Toyota,CA
-2024-06-30,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58570,1274,47874,Factory to port,False,,3TYLC5LN0RT19A572,Tom Wood Toyota,IN
-2024-06-17,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53434,999,47599,Factory to port,False,DealerHold,3TYLC5LN0RT19B477,Toyota of Warren,OH
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59673,0,46600,Factory to port,True,DealerHold,3TYLC5LN0RT19B480,One Toyota of Oakland,CA
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60588,888,47488,Factory to port,False,,3TYLC5LN0RT20A016,Romeoville Toyota,IL
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50145,399,46999,Factory to port,False,,3TYLC5LN0RT20A985,Toyota of Tacoma,WA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60488,0,46600,Factory to port,False,,3TYLC5LN0RT20B909,Toyota of Glendale,CA
-2024-07-08,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53610,0,46600,Factory to port,False,,3TYLC5LN0RT20B926,Toyota South,KY
-2024-07-12,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,58505,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT21A612,Roberts Toyota,TN
-Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,56848,2899,49499,Factory to port,False,,3TYLC5LN0RT21B372,AutoNation Toyota Cerritos,CA
+2024-06-24,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58570,1274,47874,Factory to port,False,,3TYLC5LN0RT19A572,Tom Wood Toyota,IN
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59673,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT19B480,One Toyota of Oakland,CA
+2024-07-01,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66240,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT20A999,Pauly Toyota,IL
+2024-07-02,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53610,0,46600,Factory to port,False,,3TYLC5LN0RT20B926,Toyota South,KY
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,55285,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT22A007,Battlefield Toyota,VA
 Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,60505,0,46300,Factory to port,False,Available,3TYLC5LN0RT22A542,Prestige Toyota of Ramsey,NJ
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,61060,0,46600,Factory to port,False,,3TYLC5LN0RT22A993,DCH Brunswick Toyota,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,61060,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT22A993,DCH Brunswick Toyota,NJ
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57919,0,46300,Factory to port,False,Available,3TYLC5LN0RT22B495,Bell Road Toyota,AZ
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67479,3165,67065,Factory to port,False,DealerHold,3TYLC5LN0RT22B867,Mechanicsville Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58275,0,46300,Factory to port,True,,3TYLC5LN0RT22B948,"Glen Motors, Inc.",NJ
 Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,52550,0,46300,Factory to port,False,Available,3TYLC5LN0RT22B982,Jim Bagan Toyota,CA
-Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,59513,0,46300,Factory to port,False,Available,3TYLC5LN0RT22C064,Sunrise Toyota,NY
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,69558,1595,65495,Factory to port,True,,3TYLC5LN0RT24A144,Findlay Toyota,NV
-2024-08-08,2024,Tacoma TRD Sport 4WD,BLACK,46300,55423,0,46300,Factory to port,False,Available,3TYLC5LN0RT24A998,Ken Ganley Toyota Akron,OH
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,59513,0,46300,Factory to port,False,DealerHold,3TYLC5LN0RT22C064,Sunrise Toyota,NY
+2024-07-26,2024,Tacoma TRD Pro 4x4,Black,63900,66030,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT22C176,Joseph Toyota of Cincinnati,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57824,0,46600,Factory to port,False,DealerHold,3TYLC5LN0RT23B105,Hometown Toyota,OR
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,69203,1595,65495,Factory to port,True,,3TYLC5LN0RT24A144,Findlay Toyota,NV
+2024-07-29,2024,Tacoma TRD Sport 4WD,BLACK,46300,55423,0,46300,Factory to port,False,Available,3TYLC5LN0RT24A998,Ken Ganley Toyota Akron,OH
 Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65395,2990,66890,Factory to port,True,,3TYLC5LN0RT24B424,Toyota Marin,CA
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66814,1397,65297,Factory to port,False,DealerHold,3TYLC5LN1RT16C523,DCH Wappingers Falls Toyota,NY
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66624,0,63900,Factory to port,False,Available,3TYLC5LN1RT17D389,"Stapp Interstate Toyota, Inc.",CO
-Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,59259,0,55800,Factory to port,False,,3TYLC5LN1RT18C562,Romano Toyota,NY
-2024-06-25,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54639,899,47499,Factory to port,False,,3TYLC5LN1RT19A564,Billion Toyota,SD
-2024-07-05,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67373,0,63900,Factory to port,True,,3TYLC5LN1RT19B228,Toyota of Des Moines,IA
-2024-06-29,2024,Tacoma TRD Pro 4x4,Black,63900,68741,1899,65799,Factory to port,False,DealerHold,3TYLC5LN1RT19B231,Wolfchase Toyota,TN
-2024-06-18,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66998,0,63900,Factory to port,True,DealerHold,3TYLC5LN1RT19C170,Ken Ganley Toyota Akron,OH
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56080,0,46300,Factory to port,True,Available,3TYLC5LN1RT19C248,Antwerpen's Toyota,MD
-Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,55714,0,46300,Factory to port,False,Available,3TYLC5LN1RT20A462,Krause Toyota,PA
-Unknown,2024,Tacoma Limited 4WD,BLACK,55800,57355,0,55800,Factory to port,False,DealerHold,3TYLC5LN1RT20A946,Greentree Toyota,CT
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54110,0,46600,Factory to port,False,,3TYLC5LN1RT20A963,Capitol Toyota of Salem,OR
-Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58155,1999,57799,Factory to port,False,Available,3TYLC5LN1RT20B675,Foothills Toyota,WA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60394,0,46600,Factory to port,False,,3TYLC5LN1RT21A375,Lia Toyota of Colonie,NY
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54300,0,46300,Factory to port,False,,3TYLC5LN1RT21A585,Ourisman Fairfax Toyota,VA
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55089,1595,48195,Factory to port,False,,3TYLC5LN1RT21A604,Findlay Toyota,NV
-2024-07-11,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN1RT21A635,Peppers Toyota,TN
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54779,0,46600,Factory to port,False,,3TYLC5LN1RT21C353,AutoNation Toyota Spokane Valley,WA
-2024-07-24,2024,Tacoma Limited 4WD,BLACK,55800,59514,0,55800,Factory to port,False,DealerHold,3TYLC5LN1RT22A260,Joe Machens Toyota,MO
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54974,0,46600,Factory to port,False,DealerHold,3TYLC5LN1RT22B005,Findlay Toyota Prescott,AZ
-2024-07-27,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58959,0,46600,Factory to port,False,,3TYLC5LN1RT22B022,Golling Toyota of Warren,MI
-2024-08-05,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67248,0,63900,Factory to port,False,,3TYLC5LN1RT23B145,Evans Toyota,IN
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58179,0,46300,Factory to port,False,Available,3TYLC5LN1RT24A282,Haley Toyota of Richmond,VA
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67013,0,63900,Factory to port,False,Available,3TYLC5LN1RT24A489,Manhattan Beach Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,57609,0,46300,Factory to port,True,Available,3TYLC5LN0RT25A561,Lia Toyota,MA
+2024-08-09,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,52340,0,46300,Factory to port,False,,3TYLC5LN0RT25A589,Fox Toyota,TN
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66030,0,63900,Factory to port,False,DealerHold,3TYLC5LN0RT25A835,AutoNation Toyota Leesburg,VA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,68178,0,63900,Factory to port,False,,3TYLC5LN0RT25B113,Hoffman Toyota,CT
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,60238,0,46300,Factory to port,False,,3TYLC5LN0RT26A040,Island Toyota,NY
+2024-08-19,2024,Tacoma TRD Pro 4x4,Black,63900,72917,1978,65878,Factory to port,False,,3TYLC5LN0RT26A457,Chuck Hutton Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54999,2899,49199,Factory to port,False,,3TYLC5LN0RT26A619,AutoNation Toyota Cerritos,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56350,0,46300,Factory to port,False,,3TYLC5LN0RT26B267,AutoNation Toyota Tempe,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57748,0,46300,Factory to port,False,,3TYLC5LN0RT26B270,Kearny Mesa Toyota,CA
+2024-08-21,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,55858,0,46300,Factory to port,False,DealerHold,3TYLC5LN0RT26B334,Toyota of Warren,OH
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,61174,1298,57098,Factory to port,True,,3TYLC5LN0RT27A793,Lithia Toyota of Billings,MT
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65680,1995,65895,Factory to port,False,,3TYLC5LN0RT27B085,Cabe Toyota Long Beach,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,54864,1595,48195,Factory to port,False,,3TYLC5LN0RT27B118,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,50800,0,46600,Factory to port,False,,3TYLC5LN0RT28A093,Capitol Toyota of Salem,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55583,0,46600,Factory to port,False,,3TYLC5LN0RT28A112,Findlay Toyota Prescott,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56590,0,46300,Factory to port,False,DealerHold,3TYLC5LN0RT28A126,Middletown Toyota,CT
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53825,0,46300,Factory to port,True,,3TYLC5LN0RT28B762,Toyota of Huntington Beach,CA
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,55630,0,46300,Factory to port,False,,3TYLC5LN0RT28B812,Ourisman Fairfax Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56999,1997,48297,Factory to port,False,,3TYLC5LN0RT28C085,Valley Hi Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56215,0,46300,Factory to port,False,Available,3TYLC5LN1RT000208,Beach Cities Toyota Westminster,CA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,51082,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT000340,Family Toyota of Burleson,TX
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66189,0,63900,Factory to port,False,DealerHold,3TYLC5LN1RT000435,Big Two Toyota of Chandler,AZ
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67292,0,63900,Factory to port,True,Available,3TYLC5LN1RT000550,Family Toyota of Burleson,TX
+2024-06-29,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66828,0,63900,Factory to port,False,DealerHold,3TYLC5LN1RT000564,Wyatt Johnson Toyota,TN
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67203,599,64499,Factory to port,True,DealerHold,3TYLC5LN1RT000743,Landers Toyota,AR
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66604,0,63900,Factory to port,True,DealerHold,3TYLC5LN1RT000810,Roswell Toyota,NM
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,57724,0,46600,Factory to port,False,DealerHold,3TYLC5LN1RT000872,Big Two Toyota of Chandler,AZ
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54153,0,46600,Factory to port,True,DealerHold,3TYLC5LN1RT000886,Fowler Toyota,OK
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,51707,0,46300,Factory to port,False,Available,3TYLC5LN1RT000905,Huntsville Toyota,TX
+2024-07-01,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,52935,0,46600,Factory to port,True,DealerHold,3TYLC5LN1RT000967,Tansky Sawmill Toyota,OH
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57365,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT001021,DCH Freehold Toyota,NJ
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52584,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT001164,Diehl Toyota of Butler,PA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56080,0,46300,Factory to port,True,DealerHold,3TYLC5LN1RT001195,Antwerpen's Toyota,MD
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56165,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT001214,Riverhead Toyota,NY
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,50952,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT001293,Toyota of Brookhaven,MS
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57589,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT001326,Toyota of Pasadena,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66284,0,63900,Factory to port,False,DealerHold,3TYLC5LN1RT001603,Hatch Toyota Stateline,NM
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58050,6275,52875,Factory to port,False,,3TYLC5LN1RT001777,Toyota of San Bernardino,CA
+2024-06-26,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65655,0,63900,Port to dealer,False,DealerHold,3TYLC5LN1RT001794,Toyota Direct,OH
+2024-06-26,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52710,0,46600,Port to dealer,False,Available,3TYLC5LN1RT001844,Toyota of Murfreesboro,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60488,0,46600,Factory to port,False,,3TYLC5LN1RT001892,Toyota of Glendale,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,57954,0,46600,Factory to port,True,DealerHold,3TYLC5LN1RT001939,Toyota of Corvallis,OR
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,61178,0,46300,Factory to port,False,Available,3TYLC5LN1RT001990,Balise Toyota of Warwick,RI
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51856,0,46300,Factory to port,False,Available,3TYLC5LN1RT002041,Bruner Toyota,TX
+2024-07-06,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,53384,0,46600,Factory to port,False,,3TYLC5LN1RT002069,Toyota of Boardman,OH
+2024-06-27,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53755,0,46300,Factory to port,False,,3TYLC5LN1RT002086,Victory Toyota,MI
+Unknown,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,58274,0,55800,Factory to port,False,DealerHold,3TYLC5LN1RT002119,Toyota of Greenfield,MA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54739,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT002198,Haley Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52260,0,46300,Factory to port,False,,3TYLC5LN1RT002296,Bill Kidd's Timonium Toyota,MD
+2024-06-19T00:00:00.000Z,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,60132,1495,57295,Factory to port,False,DealerHold,3TYLC5LN1RT002346,Sterling McCall Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54354,0,46300,Factory to port,False,,3TYLC5LN1RT002430,Toyota of Santa Maria,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59723,0,46600,Factory to port,False,,3TYLC5LN1RT002444,DCH Toyota of Oxnard,CA
+2024-06-29,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56715,0,46600,Factory to port,False,,3TYLC5LN1RT002458,Joseph Airport Toyota,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,54769,0,46600,Factory to port,False,,3TYLC5LN1RT002511,Ken Ganley Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54564,0,46300,Factory to port,False,,3TYLC5LN1RT002525,First Team Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,56814,0,46300,Factory to port,False,DealerHold,3TYLC5LN1RT002542,Faith's Toyota Ford,VT
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50679,0,46600,Factory to port,False,,3TYLC5LN1RT002623,Parker Toyota,ID
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56855,0,46600,Factory to port,False,Available,3TYLC5LN1RT002640,Vandergriff Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,50311,1495,48095,Factory to port,True,DealerHold,3TYLC5LN1RT18D484,Cavender Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56775,0,46600,Factory to port,True,DealerHold,3TYLC5LN1RT19A337,Falmouth Toyota,MA
+2024-06-24,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54639,899,47499,Factory to port,False,,3TYLC5LN1RT19A564,Billion Toyota,SD
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58704,0,46600,Factory to port,True,DealerHold,3TYLC5LN1RT19C198,Copeland Toyota,MA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54110,0,46600,Factory to port,False,DealerHold,3TYLC5LN1RT20A963,Capitol Toyota of Salem,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57233,1295,47895,Factory to port,False,Available,3TYLC5LN1RT22C140,Auburn Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54880,0,46300,Factory to port,False,Available,3TYLC5LN1RT23A920,Preston Toyota,PA
+2024-07-23,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67248,0,63900,Factory to port,False,,3TYLC5LN1RT23B145,Evans Toyota,IN
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65884,0,63900,Factory to port,False,DealerHold,3TYLC5LN1RT24A136,Sunrise Toyota North,NY
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56874,0,46300,Factory to port,False,,3TYLC5LN1RT24A265,Capitol Toyota of Salem,OR
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58179,0,46300,Factory to port,True,DealerHold,3TYLC5LN1RT24A282,Haley Toyota of Richmond,VA
 Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66943,0,63900,Factory to port,False,,3TYLC5LN1RT24B142,South Bay Toyota,CA
-Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66604,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT18C862,Roswell Toyota,NM
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55244,1997,48597,Factory to port,False,,3TYLC5LN2RT19B268,AutoNation Toyota Las Vegas,NV
-Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,53584,0,46300,Factory to port,False,Available,3TYLC5LN2RT19B349,Allegheny Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,59969,0,46300,Factory to port,False,,3TYLC5LN1RT25B363,South Bay Toyota,CA
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57425,0,55800,Factory to port,True,,3TYLC5LN1RT26A631,802 Toyota,VT
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,60413,0,46300,Factory to port,False,,3TYLC5LN1RT27A866,Santa Margarita Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,54764,0,46600,Factory to port,True,,3TYLC5LN1RT27B130,Avondale Toyota,AZ
+2024-09-06,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66129,1495,65395,Factory to port,False,,3TYLC5LN1RT28A068,Kolar Toyota,MN
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,72295,4485,68385,Factory to port,False,,3TYLC5LN1RT28A071,Marina del Rey Toyota,CA
+2024-09-01,2024,Tacoma Limited 4WD,UNDERGROUND,55800,60048,0,55800,Factory to port,False,DealerHold,3TYLC5LN1RT28A183,Lou Fusz Toyota,MO
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58880,1744,48044,Factory to port,False,,3TYLC5LN1RT28B107,Simi Valley Toyota,CA
+2024-07-02,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67628,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000248,Rudy Luther Toyota,MN
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66069,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000251,Temecula Valley Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66255,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000265,Tri County Toyota,PA
+2024-07-12,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66454,0,63900,Factory to port,False,,3TYLC5LN2RT000315,Walser Bloomington Toyota,MN
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66199,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000329,Right Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,53900,0,46300,Factory to port,False,Available,3TYLC5LN2RT000332,Toyota of Poway,CA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,BLACK,63900,67777,0,63900,Factory to port,False,Available,3TYLC5LN2RT000380,Mike Calvert Toyota,TX
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66320,0,63900,Factory to port,True,,3TYLC5LN2RT000394,Hartford Toyota,CT
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67128,0,63900,Factory to port,False,,3TYLC5LN2RT000427,Hansel Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55985,2494,49094,Factory to port,False,DealerHold,3TYLC5LN2RT000430,Envision Toyota of West Covina,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66535,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT000475,Ira Toyota,MA
+2024-06-06,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58000,0,55800,At dealer,False,Available,3TYLC5LN2RT000590,"Pedersen Toyota, Ltd.",CO
+2024-06-27,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66934,0,63900,Factory to port,False,Available,3TYLC5LN2RT000640,St. Charles Toyota,IL
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67694,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT000847,Sheehy Toyota of Fredericksburg,VA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66313,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000878,Toyota of Downtown LA,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52415,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT000959,Colonial Toyota,PA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67615,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT000962,Hall Toyota Virginia Beach,VA
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,50877,799,47099,Factory to port,False,Available,3TYLC5LN2RT001058,Landers Toyota NWA,AR
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58155,0,55800,Factory to port,False,DealerHold,3TYLC5LN2RT001092,Sloane Toyota of Glenside,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58219,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001223,Gault Toyota,NY
+2024-06-21T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,57929,0,55800,Factory to port,True,DealerHold,3TYLC5LN2RT001237,Fowler Toyota,OK
+2024-07-05,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,60103,395,56195,Factory to port,False,DealerHold,3TYLC5LN2RT001304,Corwin Toyota of Bellevue,NE
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,54635,0,46300,Factory to port,False,Available,3TYLC5LN2RT001318,Perry Motors Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,59959,0,46600,Factory to port,False,Available,3TYLC5LN2RT001321,Hartford Toyota,CT
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58038,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001352,Toyota of Stamford,CT
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,52415,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001383,Fitzgerald Toyota Chambersburg,PA
+2024-07-07,2024,Tacoma TRD Pro 4x4,Black,63900,67248,395,64295,Factory to port,False,DealerHold,3TYLC5LN2RT001500,Corwin Toyota of Bellevue,NE
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66030,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT001528,Sierra Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,59060,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001531,Charlie's Toyota,ME
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56155,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001562,Interstate Toyota,NY
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56450,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001674,Acton Toyota of Littleton,MA
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,50952,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001707,Magness Toyota,AR
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59910,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT001786,Bill Dube Toyota,NH
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59514,2495,49095,Factory to port,True,,3TYLC5LN2RT001805,Toyota of Orange,CA
+Unknown,2024,Tacoma Limited 4WD,SUPERSONIC RED*,55800,60729,0,55800,Factory to port,True,DealerHold,3TYLC5LN2RT001819,"Bristol Toyota, Inc.",MA
+2024-07-01,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60588,888,47488,Factory to port,False,,3TYLC5LN2RT001836,Romeoville Toyota,IL
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,57840,0,46300,Factory to port,False,Available,3TYLC5LN2RT001884,Sunrise Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59134,0,46600,Factory to port,False,,3TYLC5LN2RT001898,Hatch Toyota Stateline,NM
+2024-07-01,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57175,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT001979,Andrew Toyota,WI
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,60488,0,46600,Factory to port,False,,3TYLC5LN2RT001982,Toyota of North Hollywood,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56085,0,46300,Factory to port,False,Available,3TYLC5LN2RT002016,Future Toyota of Yuba City,CA
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,53915,0,46600,Factory to port,False,,3TYLC5LN2RT002047,Jeff Wyler Toyota of Springfield,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54974,0,46600,Factory to port,False,,3TYLC5LN2RT002064,Findlay Toyota Flagstaff,AZ
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68176,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT002078,Sterling McCall Toyota Fort Bend,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55325,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT002159,Laurel Toyota,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55355,0,46600,Factory to port,False,,3TYLC5LN2RT002162,Toyota of Escondido,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55509,1997,48597,Factory to port,False,DealerHold,3TYLC5LN2RT002307,AutoNation Toyota Las Vegas,NV
+Unknown,2024,Tacoma Limited 4WD,BLACK,55800,59104,0,55800,Factory to port,False,Available,3TYLC5LN2RT002324,Toyota of Olympia,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55884,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT002338,Bill Wright Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57925,0,46600,Factory to port,False,Available,3TYLC5LN2RT002341,South Coast Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,60209,8495,55095,Factory to port,False,DealerHold,3TYLC5LN2RT002369,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58559,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT002405,Brent Brown Toyota,UT
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,60557,0,55800,Factory to port,True,DealerHold,3TYLC5LN2RT002453,Family Toyota of Burleson,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56759,995,47295,Factory to port,False,,3TYLC5LN2RT002470,Toyota of Berkeley,CA
+2024-07-05,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,53915,0,46600,Factory to port,False,,3TYLC5LN2RT002498,Marshall Dry Ridge Toyota,KY
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,59305,0,46600,Factory to port,False,,3TYLC5LN2RT002517,AutoNation Toyota Buena Park,CA
+2024-07-06,2024,Tacoma TRD Sport 4WD,BLACK,46300,53755,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT002534,Toyota Direct,OH
+2024-06-23T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,52136,0,46300,Factory to port,False,Available,3TYLC5LN2RT002601,Red McCombs Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54255,0,46300,Factory to port,False,Available,3TYLC5LN2RT002632,Brewer Airport Toyota,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54974,0,46600,Factory to port,True,DealerHold,3TYLC5LN2RT002646,Findlay Toyota Prescott,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53019,1298,47898,Factory to port,False,,3TYLC5LN2RT19A332,Lithia Toyota of Billings,MT
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58415,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT19B481,AutoNation Toyota Hayward,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58424,998,47598,Factory to port,False,DealerHold,3TYLC5LN2RT20A017,Webb Toyota,NM
-2024-07-05,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,53755,0,46300,Factory to port,False,Available,3TYLC5LN2RT20A485,Johnson City Toyota,TN
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59389,4079,50679,Factory to port,True,,3TYLC5LN2RT20A941,Toyota of Huntington Beach,CA
+2024-06-06T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,51540,1795,48395,Factory to port,True,Available,3TYLC5LN2RT19B495,Universal Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58424,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT20A017,Webb Toyota,NM
 Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,52470,995,47595,Factory to port,False,,3TYLC5LN2RT20A969,Toyota Town,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54164,0,46600,Factory to port,False,,3TYLC5LN2RT20B930,Sierra Toyota,AZ
-2024-07-08,2024,Tacoma TRD Pro 4x4,Black,63900,68114,0,63900,Factory to port,False,,3TYLC5LN2RT21A353,AutoNation Toyota Libertyville,IL
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59723,0,46600,Factory to port,False,,3TYLC5LN2RT21A370,DCH Toyota of Oxnard,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58654,0,46600,Factory to port,False,,3TYLC5LN2RT21A613,Ventura Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58164,2295,48895,Factory to port,True,,3TYLC5LN2RT21B597,Desert Toyota of Tucson,AZ
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,55420,0,46600,Factory to port,False,,3TYLC5LN2RT21B602,Toyota of Erie,PA
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65970,0,63900,Factory to port,False,,3TYLC5LN2RT21C345,Stevens Creek Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58694,1790,48390,Factory to port,False,,3TYLC5LN2RT21C362,Liberty Toyota,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,55420,0,46600,Factory to port,True,,3TYLC5LN2RT21B602,Toyota of Erie,PA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65970,0,63900,Factory to port,True,,3TYLC5LN2RT21C345,Stevens Creek Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,59083,0,46300,Factory to port,False,Available,3TYLC5LN2RT22A428,Basil Toyota,NY
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55265,1595,48195,Factory to port,False,,3TYLC5LN2RT22A994,Findlay Toyota,NV
-2024-08-05,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65944,0,63900,Factory to port,False,Available,3TYLC5LN2RT23A764,Newbold Toyota,IL
-2024-08-01,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65525,1274,65174,Factory to port,False,,3TYLC5LN2RT23B140,Tom Wood Toyota,IN
-2024-08-09,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58348,1899,48499,Factory to port,False,,3TYLC5LN2RT24B442,Wolfchase Toyota,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54879,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT22B899,Baierl Toyota,PA
+2024-07-20,2024,Tacoma TRD Sport 4WD,BLACK,46300,53980,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT22C034,Serra Toyota of Saginaw,MI
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66334,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT22C177,AutoNation Toyota Buena Park,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,55574,2899,49199,Factory to port,False,Available,3TYLC5LN2RT23A327,AutoNation Toyota Cerritos,CA
+2024-07-28,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65944,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT23A764,Newbold Toyota,IL
+2024-07-26,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65525,1274,65174,Factory to port,False,,3TYLC5LN2RT23B140,Tom Wood Toyota,IN
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66869,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT23B400,Newburgh Toyota,NY
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53250,0,46300,Factory to port,False,DealerHold,3TYLC5LN2RT24A341,Baierl Toyota,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59014,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT24A470,Berlin City Toyota of Portland,ME
+Unknown,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,60749,1298,57098,Factory to port,False,Available,3TYLC5LN2RT24B294,Lithia Toyota of Billings,MT
+2024-07-30,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58348,1899,48499,Factory to port,False,Available,3TYLC5LN2RT24B442,Wolfchase Toyota,TN
 Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54674,0,46300,Factory to port,False,,3TYLC5LN2RT24B568,Rohrich Toyota,PA
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54404,0,46300,Factory to port,False,,3TYLC5LN2RT24B571,Rohrich Toyota,PA
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67128,0,63900,Factory to port,False,,3TYLC5LN3RT17C678,Hansel Toyota,CA
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66435,0,63900,Factory to port,False,,3TYLC5LN3RT18C854,Maita's Toyota of Sacramento,CA
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65680,0,63900,Factory to port,True,DealerHold,3TYLC5LN3RT18D504,Toyota of Santa Maria,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56089,1495,48095,Factory to port,False,,3TYLC5LN3RT19A355,Simi Valley Toyota,CA
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56165,0,46300,Factory to port,False,Available,3TYLC5LN3RT19A369,Riverhead Toyota,NY
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58095,0,46300,Factory to port,False,Available,3TYLC5LN3RT19A470,"Glen Motors, Inc.",NJ
-2024-06-30,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58510,0,55800,Factory to port,False,Available,3TYLC5LN3RT19B036,Toyota of Bowling Green,KY
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54689,0,46300,Factory to port,False,,3TYLC5LN2RT24B571,Rohrich Toyota,PA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68203,0,63900,Factory to port,False,DealerHold,3TYLC5LN2RT25A433,Antwerpen's Toyota,MD
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56574,1999,48299,Factory to port,False,,3TYLC5LN2RT25A707,Foothills Toyota,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58514,0,46600,Factory to port,False,,3TYLC5LN2RT25A819,Bell Road Toyota,AZ
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67718,0,63900,Factory to port,False,,3TYLC5LN2RT25B484,Empire Toyota,NY
+2024-08-13,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,53930,0,46600,Factory to port,False,,3TYLC5LN2RT25B694,Joseph Toyota of Cincinnati,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,61932,0,46600,Factory to port,False,,3TYLC5LN2RT26A024,AutoNation Toyota Buena Park,CA
+2024-08-13,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN2RT26B139,Groove Toyota,CO
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55484,399,46999,Factory to port,False,,3TYLC5LN2RT27A911,Toyota of Tacoma,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54479,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT27C156,Karl Malone Toyota,UT
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,59650,0,55800,Factory to port,False,,3TYLC5LN2RT27C223,Waldorf Toyota,MD
+2024-08-29,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56123,0,46600,Factory to port,False,,3TYLC5LN2RT28A550,Wilson Toyota,IA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67008,1995,65895,Factory to port,False,,3TYLC5LN2RT28B049,Danville Toyota,VA
+2024-09-03,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57503,0,46300,Factory to port,False,,3TYLC5LN2RT28B794,Toyota of Kingsport,TN
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56510,0,46300,Factory to port,False,,3TYLC5LN2RT28B827,Northtown Toyota,NY
+2024-08-23,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58753,0,46600,Factory to port,False,DealerHold,3TYLC5LN2RT28B858,Fox Toyota,TN
+2024-09-07,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67093,899,64799,Factory to port,False,Available,3TYLC5LN2RT28C024,Billion Toyota,SD
+2024-08-28,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,53060,0,46600,Factory to port,False,Available,3TYLC5LN2RT28C055,Toyota of Grand Rapids,MI
+2024-07-01,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67628,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT000260,Burnsville Toyota,MN
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67203,3495,67395,Factory to port,False,DealerHold,3TYLC5LN3RT000517,Fred Haas Toyota World,TX
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67292,0,63900,Factory to port,True,DealerHold,3TYLC5LN3RT000551,Pat Lobb Toyota of McKinney,TX
+2024-07-01,2024,Tacoma TRD Pro 4x4,Black,63900,66514,0,63900,Factory to port,True,Available,3TYLC5LN3RT000582,Bredemann Toyota,IL
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66129,3085,66985,Factory to port,False,,3TYLC5LN3RT000694,Toyota of Glendale,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66129,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT000727,Toyota of Lake City,WA
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,51796,1995,48295,Factory to port,False,DealerHold,3TYLC5LN3RT000758,Toyota of Midland,TX
+2024-06-29,2024,Tacoma TRD Pro 4x4,Black,63900,67089,888,64788,Factory to port,False,,3TYLC5LN3RT000789,Romeoville Toyota,IL
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67292,1495,65395,Factory to port,False,DealerHold,3TYLC5LN3RT000825,Cavender Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59787,0,46600,Factory to port,True,DealerHold,3TYLC5LN3RT000856,North Bakersfield Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66435,0,63900,Factory to port,False,,3TYLC5LN3RT000890,Maita's Toyota of Sacramento,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65844,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT000940,Heritage Toyota,VT
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57089,195,46495,Factory to port,False,Available,3TYLC5LN3RT000968,Cabe Toyota Long Beach,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66030,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT000971,Edmark Toyota,ID
+2024-06-23,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,60483,0,55800,Port to dealer,False,DealerHold,3TYLC5LN3RT001120,Burnsville Toyota,MN
+2024-06-26,2024,Tacoma TRD Pro 4x4,Black,63900,66274,0,63900,Factory to port,True,,3TYLC5LN3RT001182,Walker Toyota,OH
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,59680,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT001196,Jones Toyota,MD
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57510,0,55800,Factory to port,False,Available,3TYLC5LN3RT001344,Toyota of Southern Maryland,MD
+2024-07-07,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67373,0,63900,Factory to port,True,,3TYLC5LN3RT001408,Toyota of Des Moines,IA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56089,1495,48095,Factory to port,False,,3TYLC5LN3RT001425,Simi Valley Toyota,CA
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58244,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT001439,Casey Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52415,0,46300,Factory to port,False,Available,3TYLC5LN3RT001487,McDonough Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58139,0,46300,Factory to port,False,DealerHold,3TYLC5LN3RT001554,New Country Toyota of Saratoga Springs,NY
+2024-07-10,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT001652,"Molle Toyota, Inc.",MO
+2024-07-08,2024,Tacoma Limited 4WD,SUPERSONIC RED*,55800,59409,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT001666,Olathe Toyota,KS
+Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,52725,0,46300,Factory to port,False,Available,3TYLC5LN3RT001716,Victory Toyota of San Bruno,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,56155,0,46300,Factory to port,False,Available,3TYLC5LN3RT001876,Towne Toyota,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50145,399,46999,Factory to port,False,,3TYLC5LN3RT001957,Toyota of Tacoma,WA
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58970,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT002008,Toyota of York,PA
+2024-07-01,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,58415,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT002011,Le Mieux & Son Toyota,WI
+2024-06-23T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,51837,0,46600,Factory to port,False,Available,3TYLC5LN3RT002154,Jim Norton Toyota,OK
+2024-06-17T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLACK,46300,51856,0,46300,Factory to port,False,Available,3TYLC5LN3RT002168,Community Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60314,0,46600,Factory to port,False,Available,3TYLC5LN3RT002171,Down East Toyota,ME
+2024-06-30,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57780,0,55800,Factory to port,True,DealerHold,3TYLC5LN3RT002218,Jeff Wyler Toyota of Clarksville,IN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53995,0,46600,Factory to port,False,DealerHold,3TYLC5LN3RT002235,Damian Lillard Toyota,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50430,0,46600,Factory to port,False,,3TYLC5LN3RT002283,Burien Toyota,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60913,0,46600,Factory to port,False,,3TYLC5LN3RT002316,Toyota of The Desert,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66814,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT002431,Preston Toyota,PA
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57510,0,55800,Factory to port,False,Available,3TYLC5LN3RT002459,Harr Toyota,MA
+Unknown,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,60215,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT002493,Heritage Toyota Catonsville,MD
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66773,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT002509,Toyota of North Hollywood,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,57120,0,46600,Factory to port,False,,3TYLC5LN3RT002557,K-M Toyota,MA
+2024-06-23T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51737,0,46300,Factory to port,False,Available,3TYLC5LN3RT002607,Bert Ogden Toyota of Harlingen,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,55624,0,46600,Factory to port,False,DealerHold,3TYLC5LN3RT002624,Performance Toyota Bountiful,UT
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,57839,0,55800,Factory to port,False,DealerHold,3TYLC5LN3RT002638,Herb Chambers Toyota of Auburn,MA
+2024-06-16,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57925,0,46600,Factory to port,False,,3TYLC5LN3RT19A341,Kolosso Toyota,WI
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56074,2490,49090,Factory to port,False,,3TYLC5LN3RT19A551,Envision Toyota of Norwalk,CA
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,51335,0,46600,Factory to port,False,DealerHold,3TYLC5LN3RT19A582,Bryan College Station Toyota,TX
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50430,0,46600,Factory to port,False,,3TYLC5LN3RT20A026,I-5 Toyota,WA
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55510,0,46600,Factory to port,False,DealerHold,3TYLC5LN3RT20B919,John Roberts Toyota,TN
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52505,2290,48890,Factory to port,False,,3TYLC5LN3RT20B936,Toyota of Clovis,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56190,5783,52383,Factory to port,False,,3TYLC5LN3RT21A006,Toyota of Renton,WA
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56785,0,46300,Factory to port,False,Available,3TYLC5LN3RT21A507,Route 22 Toyota,NJ
-2024-07-05,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67558,3498,67398,Factory to port,False,Available,3TYLC5LN3RT21C340,Continental Toyota,IL
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55928,0,46600,Factory to port,True,,3TYLC5LN3RT21C371,Avondale Toyota,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52505,3490,50090,Factory to port,False,,3TYLC5LN3RT20B936,Toyota of Clovis,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,56353,6995,53595,Factory to port,False,,3TYLC5LN3RT22A003,Berge Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,56828,0,46300,Factory to port,False,,3TYLC5LN3RT22A499,"Westboro Toyota, Inc.",MA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55728,1595,48195,Factory to port,False,,3TYLC5LN3RT22B006,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57149,5095,51395,Factory to port,False,,3TYLC5LN3RT22B443,Toyota of Redlands,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56389,0,46300,Factory to port,True,DealerHold,3TYLC5LN3RT22C074,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58694,0,46600,Factory to port,False,,3TYLC5LN3RT22C141,Toyota of Vineland,NJ
 Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56085,0,46300,Factory to port,False,DealerHold,3TYLC5LN3RT23A904,A-1 Toyota,CT
 Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67734,0,63900,Factory to port,True,,3TYLC5LN3RT24B143,Future Toyota of Yuba City,CA
-Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66274,2495,66395,Factory to port,True,,3TYLC5LN4RT18C085,Toyota of Orange,CA
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65989,0,63900,Factory to port,False,,3TYLC5LN4RT18C720,Dublin Toyota,CA
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67653,0,63900,Factory to port,False,DealerHold,3TYLC5LN4RT19A316,Haddad Toyota,MA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50430,0,46600,Factory to port,True,DealerHold,3TYLC5LN4RT19B241,Toyota of Puyallup,WA
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,54169,0,46600,Factory to port,False,,3TYLC5LN4RT20B928,Firelands Toyota,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58514,0,46600,Factory to port,True,,3TYLC5LN3RT25A814,Avondale Toyota,AZ
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67509,0,63900,Factory to port,False,,3TYLC5LN3RT25B493,Foothills Toyota,WA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66284,499,64399,Factory to port,False,,3TYLC5LN3RT27A075,Toyota San Luis Obispo,CA
+2024-08-19,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52485,0,46600,Factory to port,False,,3TYLC5LN3RT27B114,Toyota of Hopkinsville,KY
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67074,0,63900,Factory to port,False,,3TYLC5LN3RT27B954,Hartford Toyota,CT
+2024-08-26,2024,Tacoma TRD Pro 4x4,Black,63900,66629,0,63900,Factory to port,False,DealerHold,3TYLC5LN3RT28A069,Joseph Toyota of Cincinnati,OH
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68877,0,63900,Factory to port,False,,3TYLC5LN3RT28A072,University Toyota,WV
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,59750,0,46300,Factory to port,False,,3TYLC5LN3RT28A847,Paul Miller Toyota of West Caldwell,NJ
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56640,195,46495,Factory to port,False,,3TYLC5LN3RT28A850,Cabe Toyota Long Beach,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54689,2295,48895,Factory to port,False,,3TYLC5LN3RT28A864,Desert Toyota of Tucson,AZ
+2024-08-26,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53919,0,46600,Factory to port,False,,3TYLC5LN3RT28A878,Toyota of Gallatin,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54339,0,46600,Factory to port,True,,3TYLC5LN3RT28B092,Avondale Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,61024,1390,47690,Factory to port,False,,3TYLC5LN3RT28B108,Toyota of Redlands,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56695,0,46600,Factory to port,False,DealerHold,3TYLC5LN3RT28C050,Handy Toyota,VT
+2024-07-08,2024,Tacoma TRD Pro 4x4,Black,63900,66814,0,63900,Factory to port,True,DealerHold,3TYLC5LN4RT000347,Luther Brookdale Toyota,MN
+2024-06-07,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58444,0,55800,At dealer,False,DealerHold,3TYLC5LN4RT000350,Toyota of Hackensack,NJ
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66305,0,63900,Factory to port,False,DealerHold,3TYLC5LN4RT000378,Toyota of Nashua,NH
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66658,0,63900,Factory to port,True,,3TYLC5LN4RT000459,Butte Toyota,MT
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57724,0,46600,Factory to port,False,Available,3TYLC5LN4RT000588,Bell Road Toyota,AZ
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67003,6795,70695,Factory to port,False,DealerHold,3TYLC5LN4RT000624,Principle Toyota of Hernando,MS
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,50852,0,46600,Factory to port,False,Available,3TYLC5LN4RT000638,Toyota of Plano,TX
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66069,0,63900,Factory to port,False,,3TYLC5LN4RT000798,Toyota of Riverside,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66435,0,63900,Factory to port,False,,3TYLC5LN4RT000882,Oroville Toyota,CA
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,50952,0,46300,Factory to port,True,Available,3TYLC5LN4RT000963,Family Toyota of Burleson,TX
+2024-07-05,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53149,0,46600,Factory to port,False,,3TYLC5LN4RT001059,Ken Ganley Toyota Akron,OH
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52280,0,46300,Factory to port,False,Available,3TYLC5LN4RT001076,Thornhill Toyota,WV
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN4RT001093,Bobby Rahal Toyota,PA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,51335,0,46600,Factory to port,False,Available,3TYLC5LN4RT001160,Vic Vaughan Toyota of Boerne,TX
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58328,0,55800,Factory to port,False,Available,3TYLC5LN4RT001269,Walker Toyota,LA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,54880,0,46600,Factory to port,False,,3TYLC5LN4RT001272,Price Toyota,DE
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56795,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT001305,Steet Toyota,NY
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58617,7500,63300,Factory to port,True,Available,3TYLC5LN4RT001319,Texas Toyota of Grapevine,TX
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,51241,0,46300,Factory to port,False,Available,3TYLC5LN4RT001367,AutoNation Toyota Gulf Freeway,TX
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52125,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT001370,DARCARS Toyota of Frederick,MD
+Unknown,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,58950,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT001398,Superior Toyota,WV
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58235,0,55800,Factory to port,False,DealerHold,3TYLC5LN4RT001501,Mike Kelly Toyota of Uniontown,PA
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50647,0,46600,Factory to port,False,Available,3TYLC5LN4RT001594,Natchez Toyota,MS
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58235,0,55800,Factory to port,False,Available,3TYLC5LN4RT001627,University Toyota,WV
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57965,0,46300,Factory to port,False,Available,3TYLC5LN4RT001689,Gateway Toyota,NJ
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57915,0,55800,Factory to port,False,Available,3TYLC5LN4RT001711,Lee Toyota,ME
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,56123,0,46600,Factory to port,False,,3TYLC5LN4RT001756,Dan Deery Toyota,IA
+2024-07-10,2024,Tacoma Limited 4WD,BLACK,55800,59988,0,55800,Factory to port,False,Available,3TYLC5LN4RT001787,Luther Brookdale Toyota,MN
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58155,0,55800,Factory to port,False,DealerHold,3TYLC5LN4RT001790,Town Toyota,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55885,0,46600,Factory to port,False,DealerHold,3TYLC5LN4RT001837,Hertrich Toyota,DE
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54164,0,46600,Factory to port,False,,3TYLC5LN4RT001840,Sierra Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54355,0,46300,Factory to port,False,Available,3TYLC5LN4RT001952,Gloucester Toyota,VA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLACK,46300,50683,0,46300,Factory to port,False,Available,3TYLC5LN4RT002034,Toyota of Victoria,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,60573,2098,48698,Factory to port,True,DealerHold,3TYLC5LN4RT002048,Toyota of Surprise,AZ
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58260,0,55800,Factory to port,False,,3TYLC5LN4RT002065,Jerry's Toyota,MD
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,53130,0,46600,Factory to port,False,,3TYLC5LN4RT002146,Toyota of Cool Springs,TN
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52640,0,46600,Factory to port,False,,3TYLC5LN4RT002163,Beaman Toyota,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,60549,0,46600,Factory to port,False,DealerHold,3TYLC5LN4RT002194,Camelback Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54300,0,46300,Factory to port,False,,3TYLC5LN4RT002311,Ourisman Fairfax Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,56205,0,46300,Factory to port,False,Available,3TYLC5LN4RT002423,Toyota of Anaheim,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57634,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT002437,Toyota of Massapequa,NY
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52934,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT002485,Hall Toyota Virginia Beach,VA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51576,799,47099,Factory to port,False,Available,3TYLC5LN4RT002499,Landers Toyota NWA,AR
+2024-06-22T00:00:00.000Z,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,59843,0,55800,Factory to port,False,Available,3TYLC5LN4RT002504,Fowler Toyota,OK
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58737,0,46600,Factory to port,False,,3TYLC5LN4RT002650,Toyota of North Hollywood,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56984,0,46600,Factory to port,False,,3TYLC5LN4RT002681,Imperial Toyota,MA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50430,0,46600,Factory to port,False,DealerHold,3TYLC5LN4RT19B241,Toyota of Puyallup,WA
+2024-07-01,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,54169,0,46600,Factory to port,False,,3TYLC5LN4RT20B928,Firelands Toyota,OH
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,54154,0,46600,Factory to port,False,,3TYLC5LN4RT20B931,Findlay Toyota Prescott,AZ
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66814,0,63900,Factory to port,False,DealerHold,3TYLC5LN4RT21A354,Preston Toyota,PA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,58830,1390,47990,Factory to port,False,,3TYLC5LN4RT21A614,Toyota of Redlands,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55084,0,46600,Factory to port,True,,3TYLC5LN4RT21B603,Avondale Toyota,AZ
-2024-07-30,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,54379,0,46600,Factory to port,False,,3TYLC5LN4RT22B905,Summit Toyota of Akron,OH
-2024-07-28,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57194,0,46300,Factory to port,False,Available,3TYLC5LN4RT22C035,Johnson City Toyota,TN
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65589,1997,65897,Factory to port,False,,3TYLC5LN4RT23A135,Valley Hi Toyota,CA
-2024-07-30,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55649,0,46600,Factory to port,False,Available,3TYLC5LN4RT23A457,Toyota of Bowling Green,KY
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58044,0,46600,Factory to port,False,Available,3TYLC5LN4RT23B124,Northway Toyota,NY
-2024-08-05,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54672,0,46600,Factory to port,False,Available,3TYLC5LN4RT24A471,Jim White Toyota,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54484,0,46600,Factory to port,False,,3TYLC5LN4RT22B516,Toyota of Olympia,WA
+2024-07-21,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,53060,0,46600,Factory to port,False,,3TYLC5LN4RT22B905,Summit Toyota of Akron,OH
+2024-07-26,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57194,0,46300,Factory to port,False,Available,3TYLC5LN4RT22C035,Johnson City Toyota,TN
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65589,1997,65897,Factory to port,True,DealerHold,3TYLC5LN4RT23A135,Valley Hi Toyota,CA
+2024-07-24,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55649,0,46600,Factory to port,False,Available,3TYLC5LN4RT23A457,Toyota of Bowling Green,KY
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58044,0,46600,Factory to port,True,DealerHold,3TYLC5LN4RT23B124,Northway Toyota,NY
+2024-07-31,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54672,0,46600,Factory to port,False,Available,3TYLC5LN4RT24A471,Jim White Toyota,OH
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56859,0,46600,Factory to port,False,,3TYLC5LN4RT24B443,Ventura Toyota,CA
-2024-06-12,2024,Tacoma TRD Pro 4x4,Black,63900,67089,888,64788,Factory to port,False,,3TYLC5LN5RT18C726,Romeoville Toyota,IL
+2024-08-09,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57074,0,46300,Factory to port,False,,3TYLC5LN4RT25A160,Beechmont Toyota,OH
+2024-07-25,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53755,0,46300,Factory to port,False,,3TYLC5LN4RT25A692,Johnson City Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57004,0,46300,Factory to port,False,,3TYLC5LN4RT25A708,Alderman's Toyota,VT
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,53880,6275,52575,Factory to port,False,,3TYLC5LN4RT25B339,Toyota of San Bernardino,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,53508,0,46300,Factory to port,False,DealerHold,3TYLC5LN4RT26A669,Dan Cava's Toyota World,WV
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,59954,0,46300,Factory to port,False,,3TYLC5LN4RT27A862,Queensboro Toyota,NY
+2024-08-19,2024,Tacoma Limited 4WD,BLUE CRUSH METALLIC,55800,59109,0,55800,Factory to port,False,,3TYLC5LN4RT27B204,Legends Toyota,KS
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,61844,0,46300,Factory to port,False,,3TYLC5LN4RT28A128,I-5 Toyota,WA
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,61214,0,55800,Factory to port,True,DealerHold,3TYLC5LN4RT28A176,Bennett Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57165,0,46300,Factory to port,False,,3TYLC5LN4RT28B828,Burdick Toyota,NY
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58842,2595,58395,Factory to port,True,DealerHold,3TYLC5LN5RT000177,Cowboy Toyota,TX
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68174,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT000230,Toyota Universe,NJ
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT000308,Columbia Gorge Toyota,OR
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67043,10995,74895,Factory to port,True,DealerHold,3TYLC5LN5RT000325,Toyota Carlsbad,CA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50222,0,46600,Factory to port,False,Available,3TYLC5LN5RT000387,Gene Messer Toyota,TX
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,50847,0,46600,Factory to port,False,Available,3TYLC5LN5RT000714,Yokem Toyota,LA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66574,4398,68298,Factory to port,False,,3TYLC5LN5RT000924,Toyota of Tacoma,WA
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51740,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT000955,Sterling McCall Toyota Fort Bend,TX
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51371,1995,48295,Factory to port,False,DealerHold,3TYLC5LN5RT001071,Toyota of Midland,TX
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,55214,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT001118,Cochran Toyota,PA
+2024-07-05,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51049,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT001197,"Molle Toyota, Inc.",MO
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,50952,0,46300,Factory to port,False,Available,3TYLC5LN5RT001362,Kirk Toyota,MS
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52700,0,46300,Factory to port,False,,3TYLC5LN5RT001393,Hertrich Toyota of Pocomoke,MD
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54929,0,46300,Factory to port,False,Available,3TYLC5LN5RT001443,West Coast Toyota of Long Beach,CA
+2024-07-10,2024,Tacoma TRD Pro 4x4,Black,63900,66863,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT001538,Olathe Toyota,KS
+2024-07-01,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,54725,0,46300,Factory to port,True,DealerHold,3TYLC5LN5RT001541,Byers Toyota,OH
+2024-07-01,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56395,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT001569,Serra Toyota of Traverse City,MI
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,59534,0,46300,Factory to port,False,Available,3TYLC5LN5RT001572,Toyota Universe,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59389,4079,50679,Factory to port,True,,3TYLC5LN5RT001586,Toyota of Huntington Beach,CA
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,55571,4595,50895,Factory to port,True,Available,3TYLC5LN5RT001622,Toyota of Pharr,TX
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,55564,1443,47743,Factory to port,False,Available,3TYLC5LN5RT001653,Toyota of Lancaster,CA
+Unknown,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,53430,0,46300,Factory to port,False,Available,3TYLC5LN5RT001717,Newark Toyotaworld,DE
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54110,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT001720,Team Toyota of Glen Mills,PA
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,57850,0,55800,Factory to port,True,DealerHold,3TYLC5LN5RT001748,Karl Malone Toyota,UT
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,58370,0,46600,Factory to port,False,,3TYLC5LN5RT001779,Burdick Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57270,0,46600,Factory to port,True,Available,3TYLC5LN5RT001782,Durango Toyota,CO
+2024-06-12T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,51335,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT001829,Mike Calvert Toyota,TX
+2024-06-26,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66998,1990,65890,Port to dealer,True,,3TYLC5LN5RT001832,East Madison Toyota,WI
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,50348,0,46600,Factory to port,False,Available,3TYLC5LN5RT001930,Family Toyota of Arlington,TX
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,55282,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT001944,Fred Haas Toyota Country,TX
+2024-06-28,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66030,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT001961,Joseph Toyota of Cincinnati,OH
+2024-07-13,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54509,0,46600,Factory to port,False,Available,3TYLC5LN5RT001975,Little Apple Toyota,KS
+2024-07-06,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,53705,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT002057,Coughlin Toyota,OH
+2024-06-29,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66918,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT002088,Brunswick Toyota,OH
+2024-07-05,2024,Tacoma Limited 4WD,SUPERSONIC RED*,55800,59303,0,55800,Factory to port,False,DealerHold,3TYLC5LN5RT002107,John Weiss' Toyota of South County,MO
+2024-06-27,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56300,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT002110,Fox Toyota,MI
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67543,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT002186,West Herr Toyota of Canandaigua,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58654,0,46600,Factory to port,False,,3TYLC5LN5RT002205,Ventura Toyota,CA
+2024-07-01,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN5RT002219,Peppers Toyota,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54985,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT002253,Camelback Toyota,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56635,0,46600,Factory to port,True,DealerHold,3TYLC5LN5RT002267,Right Toyota,AZ
+2024-06-19T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLACK,46300,51656,0,46300,Factory to port,False,Available,3TYLC5LN5RT002270,J. Allen Toyota,MS
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54985,0,46300,Factory to port,False,,3TYLC5LN5RT002298,Heritage Toyota Owings Mills,MD
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60394,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT002365,Lia Toyota of Colonie,NY
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,68376,0,63900,Factory to port,True,Available,3TYLC5LN5RT002379,Freeman Toyota,TX
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,67345,0,63900,Factory to port,True,DealerHold,3TYLC5LN5RT002415,Rohrich Toyota,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,57130,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT002463,Royal Moore Toyota,OR
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,60505,0,46300,Factory to port,False,Available,3TYLC5LN5RT002494,Towne Toyota,NJ
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,52551,0,46600,Factory to port,False,Available,3TYLC5LN5RT002513,Vandergriff Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57028,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT002530,Toyota of Nashua,NH
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56854,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT002611,White River Toyota,VT
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,49659,0,46600,Factory to port,False,,3TYLC5LN5RT002625,Rodland Toyota,WA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57523,0,46300,Factory to port,False,Available,3TYLC5LN5RT002639,Fremont Toyota,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56789,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT19A356,Thousand Oaks Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,56325,0,46600,Factory to port,False,,3TYLC5LN5RT19A552,Bayside Toyota,MD
-2024-07-01,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54787,0,46600,Factory to port,False,,3TYLC5LN5RT19A566,Robinson Toyota,TN
-Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57690,0,46300,Factory to port,False,Available,3TYLC5LN5RT19B278,Modesto Toyota,CA
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53159,0,46300,Factory to port,True,Available,3TYLC5LN5RT19B328,Toyota of Greensburg,PA
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56155,0,46300,Factory to port,False,,3TYLC5LN5RT20A545,Prestige Toyota of Ramsey,NJ
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,55554,0,46600,Factory to port,True,DealerHold,3TYLC5LN5RT20A951,Roswell Toyota,NM
-Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58235,0,55800,Factory to port,False,Available,3TYLC5LN5RT20B212,University Toyota,WV
-Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,56085,1798,48098,Factory to port,False,DealerHold,3TYLC5LN5RT20B453,Toyota of Portland on Broadway,OR
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53000,0,46600,Factory to port,True,DealerHold,3TYLC5LN5RT21A380,Hansel Toyota,CA
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66905,599,64499,Factory to port,False,,3TYLC5LN5RT21A637,Hudson Toyota,NJ
-2024-07-09,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56715,0,46600,Factory to port,False,,3TYLC5LN5RT21C369,Joseph Airport Toyota,OH
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67119,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT22A035,One Toyota of Oakland,CA
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,60505,0,46300,Factory to port,False,Available,3TYLC5LN5RT22A536,Toyota World of Newton,NJ
-2024-07-21,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,54934,0,46300,Factory to port,False,Available,3TYLC5LN5RT22B413,Kool Toyota,MI
+2024-07-03,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59184,0,46600,Factory to port,True,DealerHold,3TYLC5LN5RT20B906,Rudy Luther Toyota,MN
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67119,0,63900,Factory to port,True,DealerHold,3TYLC5LN5RT22A035,One Toyota of Oakland,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,60505,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT22A536,Toyota World of Newton,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56939,0,46600,Factory to port,False,DealerHold,3TYLC5LN5RT22A987,Berlin City Toyota,NH
 Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56148,0,46300,Factory to port,False,Available,3TYLC5LN5RT23A922,Thousand Oaks Toyota,CA
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67248,0,63900,Factory to port,False,,3TYLC5LN6RT15C506,Hillside Toyota,NY
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67043,10995,74895,Factory to port,True,DealerHold,3TYLC5LN6RT16D358,Toyota Carlsbad,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55985,2494,49094,Factory to port,False,DealerHold,3TYLC5LN6RT17D968,Envision Toyota of West Covina,CA
-Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58384,0,55800,Factory to port,False,Available,3TYLC5LN6RT19A124,Jimmy Vasser Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66344,2490,66390,Factory to port,False,DealerHold,3TYLC5LN5RT24A785,Envision Toyota of Norwalk,CA
+2024-07-29,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,53085,0,46600,Factory to port,False,,3TYLC5LN5RT24A799,Toyota of Gallatin,TN
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66829,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT24B421,Sunrise Toyota North,NY
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,55358,4990,51290,Factory to port,False,DealerHold,3TYLC5LN5RT24B564,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,67184,7282,71182,Factory to port,False,DealerHold,3TYLC5LN5RT25B494,Toyota of Kirkland,WA
+2024-08-19,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,61200,0,55800,Factory to port,False,,3TYLC5LN5RT26A664,Robinson Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54839,2799,49099,Factory to port,False,,3TYLC5LN5RT26A678,Wondries Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,59004,0,46600,Factory to port,True,DealerHold,3TYLC5LN5RT26A809,Kalispell Toyota,MT
+2024-08-20,2024,Tacoma Limited 4WD,SUPERSONIC RED*,55800,62139,0,55800,Factory to port,True,,3TYLC5LN5RT26B314,Toyota of Des Moines,IA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66937,0,63900,Factory to port,False,,3TYLC5LN5RT27A076,Kearny Mesa Toyota,CA
+2024-08-13,2024,Tacoma TRD Pro 4x4,Black,63900,67358,0,63900,Factory to port,False,,3TYLC5LN5RT27B079,Gates Toyota,IN
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,51255,1798,48398,Factory to port,False,,3TYLC5LN5RT27B101,Toyota of Portland on Broadway,OR
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,52550,0,46300,Factory to port,False,,3TYLC5LN5RT27B163,Miller Toyota,VA
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,59595,0,55800,Factory to port,False,,3TYLC5LN5RT27B843,Haley Toyota of Richmond,VA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66654,0,63900,Factory to port,False,DealerHold,3TYLC5LN5RT27C118,Northway Toyota,NY
+2024-08-21,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53919,0,46600,Factory to port,False,,3TYLC5LN5RT27C149,Toyota of Bowling Green,KY
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56035,0,46300,Factory to port,False,,3TYLC5LN5RT27C197,Dan Cava's Toyota World,WV
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60399,0,46600,Factory to port,False,,3TYLC5LN5RT27C703,Doxon Toyota,WA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56510,0,46300,Factory to port,False,DealerHold,3TYLC5LN5RT28A123,West Herr Toyota of Orchard Park,NY
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,59979,0,46300,Factory to port,False,,3TYLC5LN5RT28B112,Capitol Toyota of Salem,OR
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,59015,0,46300,Factory to port,False,,3TYLC5LN5RT28B823,Ventura Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,55314,2098,48398,Factory to port,False,,3TYLC5LN5RT28C101,Toyota of Surprise,AZ
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66634,0,63900,Factory to port,True,DealerHold,3TYLC5LN6RT000284,Toyota of Corvallis,OR
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66199,0,63900,Factory to port,False,Available,3TYLC5LN6RT000351,Bell Road Toyota,AZ
+2024-06-29,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66185,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT000365,Kings Toyota,OH
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67839,5000,68900,Factory to port,False,,3TYLC5LN6RT000513,AutoNation Toyota Spokane Valley,WA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65544,0,63900,Factory to port,False,Available,3TYLC5LN6RT000527,Centennial Toyota,NV
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66783,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT000544,Greentree Toyota,CT
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67092,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT000673,Toyota of Escondido,CA
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67292,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT000754,Toyota of Cedar Park,TX
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67128,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT000804,Jimmy Vasser Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,54659,2098,48698,Factory to port,False,DealerHold,3TYLC5LN6RT000883,Toyota of Surprise,AZ
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55177,0,46600,Factory to port,False,Available,3TYLC5LN6RT000978,Yokem Toyota,LA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56486,1498,48098,Factory to port,True,DealerHold,3TYLC5LN6RT000995,Bob Howard Toyota,OK
+2024-06-28,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58510,0,55800,Factory to port,True,DealerHold,3TYLC5LN6RT001175,Toyota of Bowling Green,KY
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58859,0,46300,Factory to port,False,Available,3TYLC5LN6RT001211,Toyota of Hollywood,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53159,0,46300,Factory to port,True,Available,3TYLC5LN6RT001273,Toyota of Greensburg,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55244,1997,48597,Factory to port,False,,3TYLC5LN6RT001290,AutoNation Toyota Las Vegas,NV
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54787,0,46600,Factory to port,False,,3TYLC5LN6RT001399,Robinson Toyota,TN
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,51610,1495,47795,Factory to port,False,Available,3TYLC5LN6RT001497,Cavender Toyota,TX
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58155,1999,57799,Factory to port,False,DealerHold,3TYLC5LN6RT001645,Foothills Toyota,WA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51721,0,46300,Factory to port,False,Available,3TYLC5LN6RT001807,Toyota of Fort Worth,TX
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53780,0,46300,Factory to port,False,,3TYLC5LN6RT001841,Danville Toyota,VA
+2024-07-01,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55510,0,46600,Factory to port,False,Available,3TYLC5LN6RT001872,John Roberts Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57224,0,46300,Factory to port,False,DealerHold,3TYLC5LN6RT001905,Grants Pass Toyota,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58374,3117,49717,Factory to port,False,,3TYLC5LN6RT002021,Norm Reeves Toyota San Diego,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66905,599,64499,Factory to port,False,,3TYLC5LN6RT002052,Hudson Toyota,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56074,0,46600,Factory to port,False,,3TYLC5LN6RT002083,Precision Toyota of Tucson,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,56848,2899,49499,Factory to port,False,,3TYLC5LN6RT002200,AutoNation Toyota Cerritos,CA
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,58505,0,46600,Factory to port,False,DealerHold,3TYLC5LN6RT002245,Roberts Toyota,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50905,0,46600,Factory to port,False,DealerHold,3TYLC5LN6RT002293,Toyota of Lake City,WA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,59083,0,46300,Factory to port,False,DealerHold,3TYLC5LN6RT002357,Toyota of Batavia,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54234,0,46600,Factory to port,True,,3TYLC5LN6RT002519,Avondale Toyota,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58579,0,46600,Factory to port,False,DealerHold,3TYLC5LN6RT002603,Dolan Toyota,NV
+2024-07-06,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52340,0,46300,Factory to port,False,Available,3TYLC5LN6RT002617,Beaman Toyota,TN
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60263,0,46600,Factory to port,False,,3TYLC5LN6RT19A348,Johnstons Toyota,NY
-2024-06-27,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56695,0,46600,Factory to port,False,DealerHold,3TYLC5LN6RT19A575,Groove Toyota,CO
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,54554,4485,50785,Factory to port,False,Available,3TYLC5LN6RT19B421,Marina del Rey Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55177,599,47199,Factory to port,False,DealerHold,3TYLC5LN6RT19A558,Landers Toyota,AR
+2024-06-17,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56695,0,46600,Factory to port,True,DealerHold,3TYLC5LN6RT19A575,Groove Toyota,CO
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,51540,1495,48095,Factory to port,False,Available,3TYLC5LN6RT19B242,Cavender Toyota,TX
 Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,60129,0,46600,Factory to port,True,DealerHold,3TYLC5LN6RT19B483,Kalispell Toyota,MT
-Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,61178,0,46300,Factory to port,False,Available,3TYLC5LN6RT20A442,Balise Toyota of Warwick,RI
-2024-07-08,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58819,0,46600,Factory to port,False,,3TYLC5LN6RT20A943,Walser Bloomington Toyota,MN
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53215,0,46600,Factory to port,False,,3TYLC5LN6RT20A960,Beechmont Toyota,OH
-2024-07-10,2024,Tacoma Limited 4WD,BLACK,55800,59988,0,55800,Factory to port,False,Available,3TYLC5LN6RT20B672,Luther Brookdale Toyota,MN
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58374,3117,49717,Factory to port,False,,3TYLC5LN6RT20B946,Norm Reeves Toyota San Diego,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54974,0,46600,Factory to port,False,,3TYLC5LN6RT21A386,Findlay Toyota Flagstaff,AZ
-Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53775,0,46300,Factory to port,False,,3TYLC5LN6RT21A517,Concord Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55509,1997,48597,Factory to port,False,,3TYLC5LN6RT21C364,AutoNation Toyota Las Vegas,NV
+2024-06-30,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,53215,0,46600,Factory to port,False,,3TYLC5LN6RT20A960,Beechmont Toyota,OH
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67008,0,63900,Factory to port,False,Available,3TYLC5LN6RT22A044,Santa Margarita Toyota,CA
 Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57355,0,55800,Factory to port,False,Available,3TYLC5LN6RT22A271,Miller Toyota,VA
 Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54300,0,46300,Factory to port,False,Available,3TYLC5LN6RT22A481,Malloy Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,56945,0,46300,Factory to port,False,Available,3TYLC5LN6RT22A545,Rodland Toyota,WA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54710,0,46600,Factory to port,False,,3TYLC5LN6RT22A996,Waldorf Toyota,MD
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58050,6275,52875,Factory to port,False,,3TYLC5LN6RT22B890,Toyota of San Bernardino,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59899,2495,49095,Factory to port,True,,3TYLC5LN6RT22C151,Toyota of Orange,CA
-2024-08-01,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57022,0,46300,Factory to port,False,Available,3TYLC5LN6RT23A928,Firelands Toyota,OH
-2024-07-29,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66453,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT23B139,Labadie Toyota,MI
-2024-07-30,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66783,0,63900,Factory to port,False,Available,3TYLC5LN6RT23B397,Toyota South,KY
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58875,2494,48794,Factory to port,False,,3TYLC5LN6RT24A908,Envision Toyota of West Covina,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,67129,0,63900,Factory to port,False,,3TYLC5LN6RT23A136,Balise Toyota of Warwick,RI
+2024-07-26,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66453,0,63900,Factory to port,True,DealerHold,3TYLC5LN6RT23B139,Labadie Toyota,MI
+2024-07-27,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66783,0,63900,Factory to port,True,Available,3TYLC5LN6RT23B397,Toyota South,KY
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56720,2494,48794,Factory to port,False,DealerHold,3TYLC5LN6RT24A908,Envision Toyota of West Covina,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57863,5783,52383,Factory to port,False,,3TYLC5LN6RT24B444,Toyota of Renton,WA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56085,0,46300,Factory to port,True,,3TYLC5LN6RT25A564,Middletown Toyota,CT
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57389,2490,48790,Factory to port,False,,3TYLC5LN6RT25A709,Envision Toyota of Norwalk,CA
+2024-08-25,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67302,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT26A172,Coad Toyota,MO
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68623,0,63900,Factory to port,False,DealerHold,3TYLC5LN6RT26A463,New Rochelle Toyota,NY
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57504,4079,50379,Factory to port,True,,3TYLC5LN6RT26B354,Toyota of Huntington Beach,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53080,0,46300,Factory to port,False,,3TYLC5LN6RT27A846,Team Toyota of Glen Mills,PA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,70297,0,63900,Factory to port,False,,3TYLC5LN6RT27A930,Bayside Toyota,MD
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57339,0,46300,Factory to port,False,,3TYLC5LN6RT27B897,Johnstons Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56695,0,46600,Factory to port,False,,3TYLC5LN6RT28B071,Balise Toyota of Warwick,RI
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,54864,1595,48195,Factory to port,True,,3TYLC5LN6RT28B085,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54339,0,46600,Factory to port,False,,3TYLC5LN6RT28B099,Bell Road Toyota,AZ
+2024-08-28,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,53795,0,46600,Factory to port,False,,3TYLC5LN6RT28B538,Ken Ganley Toyota Akron,OH
+2024-08-28,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,56720,0,46300,Factory to port,False,DealerHold,3TYLC5LN6RT28B829,Groove Toyota,CO
+2024-09-03,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,66632,1899,57699,Factory to port,False,,3TYLC5LN6RT28C141,Wolfchase Toyota,TN
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51226,0,46300,Factory to port,True,Available,3TYLC5LN7RT000228,Freeman Toyota,TX
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66195,0,63900,Factory to port,False,DealerHold,3TYLC5LN7RT000245,Team Toyota of Glen Mills,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,54135,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT000343,Camelback Toyota,AZ
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67292,0,63900,Factory to port,False,DealerHold,3TYLC5LN7RT000472,AutoNation Toyota Gulf Freeway,TX
+2024-07-09,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67628,0,63900,Factory to port,True,DealerHold,3TYLC5LN7RT000584,Carlson Toyota,MN
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66274,2495,66395,Factory to port,True,,3TYLC5LN7RT000598,Toyota of Orange,CA
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,53584,0,46300,Factory to port,False,Available,3TYLC5LN7RT000973,Allegheny Toyota,PA
+2024-07-01,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53434,999,47599,Factory to port,False,DealerHold,3TYLC5LN7RT000987,Toyota of Warren,OH
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,52415,0,46300,Factory to port,False,Available,3TYLC5LN7RT000990,Fiore Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,58154,0,46300,Factory to port,False,Available,3TYLC5LN7RT001153,Imperial Toyota,MA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66140,0,63900,Factory to port,False,DealerHold,3TYLC5LN7RT001251,New Holland Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,61103,0,46300,Factory to port,False,DealerHold,3TYLC5LN7RT001461,Grieco Toyota,RI
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58649,0,55800,Factory to port,False,DealerHold,3TYLC5LN7RT001489,Heartland Toyota,WA
+2024-07-01,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,53059,0,46300,Factory to port,False,Available,3TYLC5LN7RT001492,Nashville Toyota North,TN
+2024-07-29,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66185,0,63900,Factory to port,False,DealerHold,3TYLC5LN7RT001637,Beaman Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,55313,0,46300,Factory to port,False,,3TYLC5LN7RT001704,Haley Toyota of Farmville,VA
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,56085,1798,48098,Factory to port,False,DealerHold,3TYLC5LN7RT001749,Toyota of Portland on Broadway,OR
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57964,2495,48795,Factory to port,True,,3TYLC5LN7RT001766,Toyota of Orange,CA
+Unknown,2024,Tacoma Limited 4WD,BLACK,55800,57355,0,55800,Factory to port,False,DealerHold,3TYLC5LN7RT001797,Greentree Toyota,CT
+2024-06-12T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,54977,0,46600,Factory to port,False,Available,3TYLC5LN7RT001816,Toyota of Rockwall,TX
+2024-06-12T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,55482,0,46300,Factory to port,False,Available,3TYLC5LN7RT001833,Bryan College Station Toyota,TX
+2024-06-28,2024,Tacoma TRD Sport 4WD,BLACK,46300,52259,0,46300,Factory to port,False,Available,3TYLC5LN7RT001928,Toyota of Gallatin,TN
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,51926,0,46600,Factory to port,False,Available,3TYLC5LN7RT002030,Red McCombs Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60390,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT002092,Waite Toyota,NY
+Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,57224,0,46300,Factory to port,False,,3TYLC5LN7RT002187,Lithia Toyota of Klamath Falls,OR
+2024-06-19T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68287,0,63900,Factory to port,True,DealerHold,3TYLC5LN7RT002240,Toyota of Ardmore,OK
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54160,0,46600,Factory to port,False,Available,3TYLC5LN7RT002254,Stevens Creek Toyota,CA
+2024-07-05,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57684,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT002285,Toyota of Laramie,WY
+Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,56085,0,46300,Factory to port,False,,3TYLC5LN7RT002304,Wills Toyota,ID
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,52081,799,47399,Factory to port,False,Available,3TYLC5LN7RT002366,Landers Toyota NWA,AR
+2024-06-29,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,54355,0,46300,Factory to port,False,DealerHold,3TYLC5LN7RT002514,Graham Toyota,OH
+2024-06-22T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,59932,0,55800,Factory to port,False,Available,3TYLC5LN7RT002545,Don McGill Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,53380,0,46300,Factory to port,False,DealerHold,3TYLC5LN7RT002612,Toyota of York,PA
+2024-07-07,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,57925,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT002657,Toyota Direct,OH
+2024-07-16,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56725,0,46300,Factory to port,True,DealerHold,3TYLC5LN7RT002674,Newbold Toyota,IL
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58954,0,46600,Factory to port,False,,3TYLC5LN7RT16C705,AutoNation Toyota Tempe,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,50311,1495,48095,Factory to port,False,Available,3TYLC5LN7RT18C887,Cavender Toyota,TX
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58699,0,46600,Factory to port,True,Available,3TYLC5LN7RT18D487,Toyota Chula Vista,CA
-2024-06-14,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66604,0,63900,Factory to port,True,DealerHold,3TYLC5LN7RT18D506,"Stapp Interstate Toyota, Inc.",CO
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57995,0,46600,Factory to port,False,,3TYLC5LN7RT19A343,Manhattan Beach Toyota,CA
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57089,195,46495,Factory to port,False,Available,3TYLC5LN7RT19A407,Cabe Toyota Long Beach,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58369,0,46600,Factory to port,False,,3TYLC5LN7RT19A570,South Bay Toyota,CA
-2024-06-28,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59329,0,46600,Factory to port,False,,3TYLC5LN7RT19C190,Elgin Toyota,IL
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57964,2495,48795,Factory to port,True,,3TYLC5LN7RT20A420,Toyota of Orange,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57995,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT19A343,Manhattan Beach Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58369,0,46600,Factory to port,True,,3TYLC5LN7RT19A570,South Bay Toyota,CA
+2024-06-20,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59329,0,46600,Factory to port,False,,3TYLC5LN7RT19C190,Elgin Toyota,IL
 Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,53099,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT20A949,City Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59514,2495,49095,Factory to port,True,,3TYLC5LN7RT20A952,Toyota of Orange,CA
-Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58394,0,55800,Factory to port,False,Available,3TYLC5LN7RT20B678,Coggins Toyota of Bennington,VT
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58480,0,46600,Factory to port,False,,3TYLC5LN7RT20B907,Toyota of Santa Maria,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54414,2295,48895,Factory to port,False,,3TYLC5LN7RT20B924,Desert Toyota of Tucson,AZ
-Unknown,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,58948,0,55800,Factory to port,False,Available,3TYLC5LN7RT21B109,AutoNation Toyota Tempe,AZ
-Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57519,0,46300,Factory to port,False,,3TYLC5LN7RT21B451,Toyota of Glendale,CA
+2024-07-11,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58625,0,46600,Factory to port,True,DealerHold,3TYLC5LN7RT22A019,Toyota Knoxville,TN
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,61377,0,46600,Factory to port,False,,3TYLC5LN7RT22A022,Toyota of Glendale,CA
 Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,71001,0,63900,Factory to port,False,,3TYLC5LN7RT22A036,San Francisco Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,49769,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT22A974,Doxon Toyota,WA
 Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57080,0,46600,Factory to port,False,,3TYLC5LN7RT22B008,Warrenton Toyota,VA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59239,1443,48043,Factory to port,False,,3TYLC5LN7RT22B025,Toyota of Lancaster,CA
+2024-06-24T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,52525,1495,48095,Factory to port,False,Available,3TYLC5LN7RT22B039,Cavender Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,49814,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT22B882,Toyota of Puyallup,WA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,57315,895,47495,Factory to port,False,,3TYLC5LN7RT22B896,Merced Toyota,CA
 Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58314,0,46300,Factory to port,False,Available,3TYLC5LN7RT22C045,Westbury Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,49769,1299,47899,Factory to port,False,,3TYLC5LN7RT22C157,Toyota of Portland on Broadway,OR
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,57429,4079,50379,Factory to port,True,Available,3TYLC5LN7RT23A999,Toyota of Huntington Beach,CA
+2024-07-25,2024,Tacoma TRD Pro 4x4,Black,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN7RT23B392,Classic Toyota,IL
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58524,0,46600,Factory to port,True,Available,3TYLC5LN7RT24B436,Avondale Toyota,AZ
-2024-06-11,2024,Tacoma TRD Pro 4x4,Black,63900,66514,0,63900,Factory to port,True,Available,3TYLC5LN8RT18C073,Bredemann Toyota,IL
-Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67128,0,63900,Factory to port,False,,3TYLC5LN8RT18C719,Jimmy Vasser Toyota,CA
-2024-06-24,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58210,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT19A335,"Stapp Interstate Toyota, Inc.",CO
+2024-08-11,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,57023,0,46300,Factory to port,False,,3TYLC5LN7RT25A041,Tansky Sawmill Toyota,OH
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65455,1798,65698,Factory to port,False,Available,3TYLC5LN7RT25A184,Toyota of Portland on Broadway,OR
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57555,0,46300,Factory to port,False,,3TYLC5LN7RT25B237,Toyota of Colchester,CT
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,55358,4990,51290,Factory to port,False,DealerHold,3TYLC5LN7RT25B254,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66928,0,63900,Factory to port,False,DealerHold,3TYLC5LN7RT25B478,Toyota Place,CA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57044,0,46300,Factory to port,False,,3TYLC5LN7RT26A598,Westchester Toyota,NY
+2024-08-19,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58549,0,55800,Factory to port,False,DealerHold,3TYLC5LN7RT26A665,Szott M-59 Toyota,MI
+2024-08-13,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56695,0,46600,Factory to port,False,DealerHold,3TYLC5LN7RT26B153,Groove Toyota,CO
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,59058,0,55800,Factory to port,False,,3TYLC5LN7RT27A810,Toyota of Erie,PA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,56580,0,46300,Factory to port,False,,3TYLC5LN7RT28A849,A-1 Toyota,CT
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,60208,0,46600,Factory to port,False,Available,3TYLC5LN7RT28A866,Rogers Toyota,ID
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,53825,2899,49199,Factory to port,False,,3TYLC5LN7RT28B175,AutoNation Toyota Cerritos,CA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57653,4990,51290,Factory to port,False,DealerHold,3TYLC5LN7RT28C150,Toyota Carlsbad,CA
+2024-06-13T00:00:00.000Z,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,58842,0,55800,Factory to port,False,DealerHold,3TYLC5LN8RT000206,Sterling McCall Toyota Fort Bend,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,55084,6995,53595,Factory to port,False,DealerHold,3TYLC5LN8RT000366,Berge Toyota,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54234,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT000447,Right Toyota,AZ
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66280,0,63900,Factory to port,False,DealerHold,3TYLC5LN8RT000464,Phil Meador Toyota,ID
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66305,0,63900,Factory to port,True,DealerHold,3TYLC5LN8RT000545,Woburn Toyota,MA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68378,0,63900,Factory to port,False,DealerHold,3TYLC5LN8RT000738,Heritage Toyota Owings Mills,MD
+2024-06-30,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67103,1978,65878,Factory to port,False,DealerHold,3TYLC5LN8RT000786,Chuck Hutton Toyota,TN
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,59259,0,55800,Factory to port,False,,3TYLC5LN8RT000903,Romano Toyota,NY
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66485,0,63900,Factory to port,True,DealerHold,3TYLC5LN8RT000920,Down East Toyota,ME
+2024-06-16T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67488,0,63900,Factory to port,False,Available,3TYLC5LN8RT000948,Toyota of New Orleans,LA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,50936,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT000951,Fred Haas Toyota World,TX
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,55266,0,46600,Factory to port,False,Available,3TYLC5LN8RT000965,Round Rock Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56340,2799,49399,Factory to port,False,,3TYLC5LN8RT000982,Wondries Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66658,0,63900,Factory to port,False,DealerHold,3TYLC5LN8RT000996,City Toyota,MT
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57530,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT001047,Temecula Valley Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50260,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT001078,Edmark Toyota,ID
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55244,0,46600,Factory to port,False,,3TYLC5LN8RT001095,Centennial Toyota,NV
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58328,1495,57295,Factory to port,True,DealerHold,3TYLC5LN8RT001128,Cavender Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53049,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT001209,Younger Toyota,MD
+Unknown,2024,Tacoma Limited 4WD,BLACK,55800,57975,2098,57898,Factory to port,False,Available,3TYLC5LN8RT001257,Toyota of Surprise,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,54554,4485,50785,Factory to port,False,Available,3TYLC5LN8RT001369,Marina del Rey Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56875,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT001467,Toyota of Keene,NH
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57939,0,46300,Factory to port,False,Available,3TYLC5LN8RT001470,Atlantic Toyota,NY
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLUE CRUSH METALLIC,46300,52006,0,46300,Factory to port,False,Available,3TYLC5LN8RT001503,AutoNation Toyota Corpus Christi,TX
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,51535,0,46600,Factory to port,False,Available,3TYLC5LN8RT001730,Poe Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53210,0,46300,Factory to port,False,,3TYLC5LN8RT001744,Sloane Toyota of Philadelphia,PA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59659,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT001758,Toyota Walnut Creek,CA
+2024-06-28,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67272,0,63900,Factory to port,True,DealerHold,3TYLC5LN8RT001775,"Hellman Toyota, Inc.",CO
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58139,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT001789,New Country Toyota of Clifton Park,NY
+2024-07-03,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,50889,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT001825,Toyota of Des Moines,IA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,67874,0,63900,Factory to port,False,,3TYLC5LN8RT001839,Loyalty Toyota,VA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60908,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT001842,Toyota of Downtown LA,CA
+2024-06-17T00:00:00.000Z,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58617,3495,59295,Factory to port,False,Available,3TYLC5LN8RT001887,Fred Haas Toyota World,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58574,8495,55095,Factory to port,False,DealerHold,3TYLC5LN8RT001923,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66773,0,63900,Factory to port,False,,3TYLC5LN8RT002067,Keyes Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56854,0,46600,Factory to port,False,,3TYLC5LN8RT002103,Haddad Toyota,MA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65769,1443,65343,Factory to port,True,DealerHold,3TYLC5LN8RT002148,Toyota of Lancaster,CA
+2024-06-17T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,51856,0,46300,Factory to port,False,Available,3TYLC5LN8RT002151,Bruner Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,56415,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT002182,Temecula Valley Toyota,CA
+2024-07-01,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,59409,0,55800,Factory to port,False,DealerHold,3TYLC5LN8RT002201,Adams Toyota Lee's Summit,MO
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,57519,0,46300,Factory to port,False,,3TYLC5LN8RT002232,Toyota of Glendale,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54769,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT002313,355 Toyota,MD
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54279,0,46600,Factory to port,False,,3TYLC5LN8RT002330,Big Two Toyota of Chandler,AZ
+Unknown,2024,Tacoma Limited 4WD,BLACK,55800,58155,0,55800,Factory to port,False,DealerHold,3TYLC5LN8RT002425,Faulkner Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,58839,0,46300,Factory to port,False,Available,3TYLC5LN8RT002439,Toyota of Downtown LA,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,55469,0,46600,Factory to port,False,,3TYLC5LN8RT002442,Centennial Toyota,NV
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,BLACK,46300,52136,0,46300,Factory to port,False,Available,3TYLC5LN8RT002487,Four Stars Toyota,OK
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57104,499,46799,Factory to port,False,DealerHold,3TYLC5LN8RT002537,Luv Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54298,0,46600,Factory to port,False,,3TYLC5LN8RT002618,Toyota Marin,CA
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66189,0,63900,Factory to port,False,DealerHold,3TYLC5LN8RT002621,Camelback Toyota,AZ
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57510,0,55800,Factory to port,False,Available,3TYLC5LN8RT002666,Buckhannon Toyota,WV
+2024-06-17,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58210,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT19A335,"Stapp Interstate Toyota, Inc.",CO
+2024-06-10T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,51446,599,47199,Factory to port,False,DealerHold,3TYLC5LN8RT19B243,Landers Toyota,AR
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60623,0,46600,Factory to port,False,,3TYLC5LN8RT19B260,Toyota of Turnersville,NJ
-Unknown,2024,Tacoma Limited 4WD,BLACK,55800,57975,2098,57898,Factory to port,False,Available,3TYLC5LN8RT19B968,Toyota of Surprise,AZ
-2024-06-18,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,53149,0,46600,Factory to port,False,,3TYLC5LN8RT19C196,Ken Ganley Toyota Akron,OH
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57939,0,46300,Factory to port,False,Available,3TYLC5LN8RT19C215,Westbury Toyota,NY
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54215,0,46600,Factory to port,False,,3TYLC5LN8RT20A958,Szott M-59 Toyota,MI
-2024-07-05,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,56123,0,46600,Factory to port,False,,3TYLC5LN8RT20A975,Dan Deery Toyota,IA
-Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,59239,0,46300,Factory to port,False,Available,3TYLC5LN8RT20B415,West Herr Toyota of Orchard Park,NY
-Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,58370,0,46600,Factory to port,False,,3TYLC5LN8RT20B916,Burdick Toyota,NY
-Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,57840,0,46300,Factory to port,False,Available,3TYLC5LN8RT20C371,Sunrise Toyota,NY
-2024-07-08,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,53705,0,46600,Factory to port,False,,3TYLC5LN8RT21A597,Coughlin Toyota,OH
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57925,0,46600,Factory to port,False,Available,3TYLC5LN8RT21B359,South Coast Toyota,CA
-2024-07-08,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,53384,0,46600,Factory to port,False,,3TYLC5LN8RT21B376,Toyota of Boardman,OH
-Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,57224,0,46300,Factory to port,False,,3TYLC5LN8RT21B524,Lithia Toyota of Klamath Falls,OR
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54160,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT21B605,Stevens Creek Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56224,0,46600,Factory to port,False,,3TYLC5LN8RT22B017,Bennett Toyota of Lebanon,PA
-Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59744,0,46600,Factory to port,False,,3TYLC5LN8RT22B891,South Coast Toyota,CA
-2024-07-24,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58449,0,46600,Factory to port,True,DealerHold,3TYLC5LN8RT22B907,"Stapp Interstate Toyota, Inc.",CO
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,61078,0,46600,Factory to port,False,DealerHold,3TYLC5LN8RT19B484,Kearny Mesa Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57939,0,46300,Factory to port,False,DealerHold,3TYLC5LN8RT19C215,Westbury Toyota,NY
+2024-06-27,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54215,0,46600,Factory to port,False,,3TYLC5LN8RT20A958,Szott M-59 Toyota,MI
+2024-06-11T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,50847,1895,48495,Factory to port,False,DealerHold,3TYLC5LN8RT20A989,Jim Norton Toyota of Oklahoma City,OK
+Unknown,2024,Tacoma Limited 4WD,BLACK,55800,59695,399,56199,Factory to port,False,,3TYLC5LN8RT22A269,Toyota of Tacoma,WA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56234,0,46300,Factory to port,False,,3TYLC5LN8RT22A580,Route 44 Toyota,MA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54875,0,46600,Factory to port,False,,3TYLC5LN8RT22B017,Bennett Toyota of Lebanon,PA
+2024-07-20,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,59544,0,55800,Factory to port,False,DealerHold,3TYLC5LN8RT22B650,Marion Toyota,IL
+2024-07-08,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,58449,0,46600,Factory to port,True,DealerHold,3TYLC5LN8RT22B907,"Stapp Interstate Toyota, Inc.",CO
 Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,61483,0,46300,Factory to port,False,Available,3TYLC5LN8RT22B910,Dublin Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56114,0,46300,Factory to port,True,DealerHold,3TYLC5LN8RT22C068,Rohrich Toyota,PA
 Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,56599,0,46600,Factory to port,False,,3TYLC5LN8RT22C135,Toyota of Santa Maria,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,59453,0,46600,Factory to port,False,,3TYLC5LN8RT22C152,Toyota Chula Vista,CA
 Unknown,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,57580,0,55800,Factory to port,False,,3TYLC5LN8RT22C393,Palmiero Toyota,PA
+2024-07-29,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,60345,0,46600,Factory to port,True,DealerHold,3TYLC5LN8RT23B420,Carlson Toyota,MN
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,55069,0,46300,Factory to port,False,Available,3TYLC5LN8RT24A277,DCH Toyota of Oxnard,CA
 Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54639,0,46300,Factory to port,False,Available,3TYLC5LN8RT24A280,Bennett Toyota,PA
+2024-08-11,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56322,0,46300,Factory to port,False,,3TYLC5LN8RT25B263,Voss Toyota,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,57124,0,46600,Factory to port,True,DealerHold,3TYLC5LN8RT26A142,I-5 Toyota,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,56483,0,46600,Factory to port,False,,3TYLC5LN8RT26A481,Malloy Toyota,VA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68806,1398,65298,Factory to port,False,DealerHold,3TYLC5LN8RT26A822,AutoNation Toyota Tempe,AZ
+2024-08-15,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65525,0,63900,Factory to port,True,,3TYLC5LN8RT26A836,Beck Toyota,IN
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56869,0,46600,Factory to port,False,,3TYLC5LN8RT26B162,Kendall Toyota,OR
+2024-08-15,2024,Tacoma TRD Pro 4x4,Black,63900,67229,0,63900,Factory to port,False,,3TYLC5LN8RT27A931,Labadie Toyota,MI
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68999,0,63900,Factory to port,False,,3TYLC5LN8RT27B089,Rivera Toyota of Mt. Kisco,NY
+2024-08-21,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,55075,0,46600,Factory to port,False,,3TYLC5LN8RT27B125,"Stapp Interstate Toyota, Inc.",CO
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57653,4990,51290,Factory to port,False,DealerHold,3TYLC5LN8RT27B836,Toyota Carlsbad,CA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,59923,0,46300,Factory to port,False,,3TYLC5LN8RT27B898,Interstate Toyota,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54339,0,46600,Factory to port,False,,3TYLC5LN8RT27B917,Berge Toyota,AZ
+2024-08-14,2024,Tacoma TRD Pro 4x4,Black,63900,71966,0,63900,Factory to port,True,DealerHold,3TYLC5LN8RT27B965,Toyota of Murray,KY
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66628,0,63900,Factory to port,False,DealerHold,3TYLC5LN8RT27C114,Carson City Toyota,NV
+2024-08-21,2024,Tacoma Limited 4WD,SUPERSONIC RED*,55800,58810,0,55800,Factory to port,False,,3TYLC5LN8RT27C226,Toyota South,KY
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,61119,0,55800,Factory to port,False,,3TYLC5LN8RT27C677,Mechanicsville Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,WIND CHILL PEARL*,46300,58052,0,46300,Factory to port,False,,3TYLC5LN8RT28A827,Toyota Chula Vista,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,55929,0,46600,Factory to port,False,Available,3TYLC5LN8RT28A889,Toyota of Puyallup,WA
+2024-06-28,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,54934,0,46300,Factory to port,False,Available,3TYLC5LN9RT000232,"Hellman Toyota, Inc.",CO
+2024-06-29,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66918,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000389,Serra Toyota of Traverse City,MI
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,BLACK,63900,67777,0,63900,Factory to port,False,Available,3TYLC5LN9RT000554,Toyota of Hattiesburg,MS
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65970,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000599,Fremont Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67274,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000621,Irwin Toyota,NH
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66185,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000747,Jim Coleman Toyota,MD
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,65989,0,63900,Factory to port,False,,3TYLC5LN9RT000781,Dublin Toyota,CA
+2024-06-24,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66604,0,63900,Factory to port,False,Available,3TYLC5LN9RT000795,"Stapp Interstate Toyota, Inc.",CO
+2024-06-27,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT000814,Toyota West,OH
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,50553,0,46300,Factory to port,False,Available,3TYLC5LN9RT000957,Toyota of Victoria,TX
+2024-06-29,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54778,0,46600,Factory to port,True,DealerHold,3TYLC5LN9RT000960,Labadie Toyota,MI
+2024-07-05,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68592,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000974,Baxter Toyota of Lincoln,NE
+2024-06-27,2024,Tacoma TRD Pro 4x4,Black,63900,66784,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT000988,Toyota of Cool Springs,TN
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66284,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT001073,Harr Toyota,MA
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,50572,799,47399,Factory to port,False,Available,3TYLC5LN9RT001087,Landers Toyota NWA,AR
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,56325,0,46600,Factory to port,False,,3TYLC5LN9RT001106,Bayside Toyota,MD
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54705,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT001123,Toyota of Lompoc,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52929,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT001185,Toyota of Selma,CA
+2024-07-01,2024,Tacoma TRD Pro 4x4,Black,63900,68741,1899,65799,Factory to port,False,DealerHold,3TYLC5LN9RT001297,Wolfchase Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54555,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT001588,Sloane Toyota of Malvern,PA
+2024-06-30,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,53755,0,46300,Factory to port,True,Available,3TYLC5LN9RT001607,Johnson City Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57569,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT001641,Rogers Toyota,ID
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,57790,0,55800,Factory to port,False,Available,3TYLC5LN9RT001672,Columbia Gorge Toyota,OR
+2024-07-03,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56875,0,46300,Factory to port,False,Available,3TYLC5LN9RT001705,Performance Toyota,OH
+2024-06-18T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,50952,0,46300,Factory to port,False,Available,3TYLC5LN9RT001719,Lakeside Toyota,LA
+2024-07-06,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54787,0,46600,Factory to port,False,,3TYLC5LN9RT001736,Principle Toyota,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,51540,1695,48295,Factory to port,False,DealerHold,3TYLC5LN9RT001820,Keating Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,59534,0,46600,Factory to port,False,DealerHold,3TYLC5LN9RT001834,Valenti Toyota,RI
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,54815,0,46300,Factory to port,False,Available,3TYLC5LN9RT001865,Toyota of Riverside,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56155,0,46300,Factory to port,False,,3TYLC5LN9RT001915,Prestige Toyota of Ramsey,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58704,0,46600,Factory to port,True,,3TYLC5LN9RT001929,McGee Toyota of Dudley,MA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67295,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT002028,Santa Cruz Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54630,0,46600,Factory to port,True,Available,3TYLC5LN9RT002093,Durango Toyota,CO
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66344,0,63900,Factory to port,False,,3TYLC5LN9RT002109,Toyota of Anaheim,CA
+2024-06-14T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,51856,0,46300,Factory to port,False,Available,3TYLC5LN9RT002143,Mitchell Toyota,TX
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58164,2295,48895,Factory to port,True,,3TYLC5LN9RT002241,Desert Toyota of Tucson,AZ
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,51837,999,47599,Factory to port,False,DealerHold,3TYLC5LN9RT002255,Janzen Toyota,OK
+2024-06-29,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56145,1299,47599,Factory to port,False,DealerHold,3TYLC5LN9RT002286,Sunshine Toyota,MI
+2024-07-01,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67582,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT002322,Wyatt Johnson Toyota,TN
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56785,0,46300,Factory to port,False,Available,3TYLC5LN9RT002465,Route 22 Toyota,NJ
+2024-06-30,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,52675,0,46300,Factory to port,False,,3TYLC5LN9RT002496,Toyota of Bedford,OH
+2024-07-06,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56145,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT002501,"Cedar Rapids Toyota, Inc.",IA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65814,6112,70012,Factory to port,True,DealerHold,3TYLC5LN9RT002529,Norm Reeves Toyota San Diego,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,69274,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT002532,Toyota of Selma,CA
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,57985,0,55800,Factory to port,False,DealerHold,3TYLC5LN9RT002563,Charlie's Toyota,ME
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,59744,0,46600,Factory to port,False,,3TYLC5LN9RT002613,South Coast Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57390,0,46600,Factory to port,False,,3TYLC5LN9RT002658,Ourisman Chantilly Toyota,VA
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58290,0,55800,Factory to port,False,Available,3TYLC5LN9RT002661,Performance Motors Toyota,PA
+2024-07-16,2024,Tacoma Limited 4WD,BLACK,55800,59589,0,55800,Factory to port,False,Available,3TYLC5LN9RT002675,Joe Machens Toyota,MO
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,50647,0,46600,Factory to port,False,DealerHold,3TYLC5LN9RT16D368,Caldwell Toyota,AR
 Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55084,0,46600,Factory to port,True,,3TYLC5LN9RT16D371,Avondale Toyota,AZ
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,55084,9790,56390,Factory to port,False,DealerHold,3TYLC5LN9RT17C698,Berge Toyota,AZ
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,57724,0,46600,Factory to port,False,DealerHold,3TYLC5LN9RT18C115,Bell Road Toyota,AZ
-2024-06-13,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66934,0,63900,Factory to port,False,Available,3TYLC5LN9RT18C843,St. Charles Toyota,IL
-2024-06-17,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66049,0,63900,Factory to port,True,,3TYLC5LN9RT18D510,Toyota of Boardman,OH
-2024-06-13,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66799,0,63900,Factory to port,False,,3TYLC5LN9RT18D524,Elgin Toyota,IL
-2024-06-13,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54778,0,46600,Factory to port,False,DealerHold,3TYLC5LN9RT19C207,Labadie Toyota,MI
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54355,0,46300,Factory to port,False,Available,3TYLC5LN9RT20A533,Gloucester Toyota,VA
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66030,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT20A919,Sierra Toyota,AZ
-2024-07-05,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66998,0,63900,Factory to port,True,,3TYLC5LN9RT20A922,East Madison Toyota,WI
+2024-06-13,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66799,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT18D524,Elgin Toyota,IL
+2024-06-26,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,59534,0,46600,Factory to port,True,DealerHold,3TYLC5LN9RT19A571,Frank Fletcher Toyota,MO
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58829,4990,51290,Factory to port,False,DealerHold,3TYLC5LN9RT19C269,Toyota Carlsbad,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,56813,2899,49499,Factory to port,False,,3TYLC5LN9RT20A967,AutoNation Toyota Cerritos,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58704,0,46600,Factory to port,False,,3TYLC5LN9RT20B942,McGee Toyota of Dudley,MA
-Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,57915,0,55800,Factory to port,False,Available,3TYLC5LN9RT20C170,Lee Toyota,ME
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,56155,0,46300,Factory to port,False,Available,3TYLC5LN9RT20C332,Interstate Toyota,NY
-Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60394,1397,47997,Factory to port,False,,3TYLC5LN9RT21A608,DCH Wappingers Falls Toyota,NY
-Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,59305,0,46600,Factory to port,False,,3TYLC5LN9RT21B354,AutoNation Toyota Buena Park,CA
-Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57104,0,46300,Factory to port,False,Available,3TYLC5LN9RT21B399,Luv Toyota,NY
-Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,67700,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT21B631,Rohrich Toyota,PA
 Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,53800,1997,48297,Factory to port,False,,3TYLC5LN9RT22A460,Valley Hi Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,57390,0,46600,Factory to port,False,,3TYLC5LN9RT22B009,Ourisman Chantilly Toyota,VA
 Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67828,995,64895,Factory to port,False,,3TYLC5LN9RT22B043,Toyota of Berkeley,CA
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66678,5970,69870,Factory to port,True,DealerHold,3TYLC5LN9RT22B866,Toyota of Redlands,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,62403,0,46600,Factory to port,False,,3TYLC5LN9RT22B897,Team Toyota of Princeton,NJ
-Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,54464,0,46600,Factory to port,False,,3TYLC5LN9RT22C130,Findlay Toyota Flagstaff,AZ
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66119,0,63900,Factory to port,False,,3TYLC5LN9RT23A485,South Coast Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66678,5970,69870,Factory to port,False,DealerHold,3TYLC5LN9RT22B866,Toyota of Redlands,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58694,0,46600,Factory to port,False,,3TYLC5LN9RT22B897,Team Toyota of Princeton,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,54464,0,46600,Factory to port,True,,3TYLC5LN9RT22C130,Findlay Toyota Flagstaff,AZ
+2024-06-27T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,52641,1895,48495,Factory to port,False,Available,3TYLC5LN9RT22C161,Jim Norton Toyota of Oklahoma City,OK
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,60689,0,46600,Factory to port,False,,3TYLC5LN9RT23B653,AutoNation Toyota Spokane Valley,WA
 Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,65748,0,63900,Factory to port,True,,3TYLC5LN9RT24A143,Toyota Chula Vista,CA
-2024-08-05,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,62276,0,46600,Factory to port,False,,3TYLC5LN9RT24A157,Marion Toyota,IL
-2024-08-19,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68018,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT26B493,Toyota of Fox Lake,IL
-2024-06-11,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66454,0,63900,Factory to port,False,,3TYLC5LNXRT16C522,Walser Bloomington Toyota,MN
-Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66195,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT16D167,Team Toyota of Glen Mills,PA
-Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66320,0,63900,Factory to port,True,,3TYLC5LNXRT17D259,Hartford Toyota,CT
-Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65969,0,63900,Factory to port,False,,3TYLC5LNXRT18C852,AutoNation Toyota Cerritos,CA
+2024-07-29,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,62276,0,46600,Factory to port,False,,3TYLC5LN9RT24A157,Marion Toyota,IL
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,57955,0,46300,Factory to port,False,,3TYLC5LN9RT25A705,Steet Toyota of Johnstown-Gloversville,NY
+Unknown,2024,Tacoma TRD Off-Road 4WD,SOLAR OCTANE*,46600,65058,1595,48195,Factory to port,False,,3TYLC5LN9RT26A151,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,56784,0,46600,Factory to port,False,DealerHold,3TYLC5LN9RT26A814,Handy Toyota,VT
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58119,2495,48795,Factory to port,True,,3TYLC5LN9RT26B266,Toyota of Orange,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,55259,0,46300,Factory to port,False,,3TYLC5LN9RT26B297,Ourisman Chantilly Toyota,VA
+2024-08-19,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,68018,0,63900,Factory to port,True,DealerHold,3TYLC5LN9RT26B493,Toyota of Fox Lake,IL
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,67718,0,63900,Factory to port,False,,3TYLC5LN9RT27A078,Stephen Wade Toyota,UT
+Unknown,2024,Tacoma TRD Sport 4WD,SUPERSONIC RED*,46300,57524,2494,48794,Factory to port,False,,3TYLC5LN9RT27A131,Envision Toyota of West Covina,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,53469,0,46600,Factory to port,False,,3TYLC5LN9RT27A887,AutoNation Toyota Tempe,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,SUPERSONIC RED*,46600,55289,1595,48195,Factory to port,False,,3TYLC5LN9RT27A890,Findlay Toyota,NV
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,54615,0,46300,Factory to port,False,,3TYLC5LN9RT27B179,Bennett Toyota of Lebanon,PA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57000,2495,48795,Factory to port,False,,3TYLC5LN9RT27C168,Toyota of Orange,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,59565,0,46300,Factory to port,False,,3TYLC5LN9RT27C235,Manhattan Beach Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,55840,0,46300,Factory to port,False,,3TYLC5LN9RT27C669,Toyota of Santa Maria,CA
+Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,53125,0,46300,Factory to port,False,,3TYLC5LN9RT28A142,Toyota of Greensburg,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,56490,0,46300,Factory to port,False,,3TYLC5LN9RT28B761,Thousand Oaks Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66953,0,63900,Factory to port,False,DealerHold,3TYLC5LN9RT28B890,Ciocca Toyota of Williamsport,PA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,53080,0,46300,Factory to port,False,,3TYLC5LN9RT28C103,Malloy Toyota,VA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58844,0,46300,Factory to port,False,DealerHold,3TYLC5LN9RT28C120,Jones Toyota,MD
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,51315,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT000269,Joe Myers Toyota,TX
+Unknown,2024,Tacoma TRD Pro 4x4,Black,63900,66658,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT000319,Toyota of Bozeman,MT
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66814,1397,65297,Factory to port,False,DealerHold,3TYLC5LNXRT000322,DCH Wappingers Falls Toyota,NY
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66255,0,63900,Factory to port,True,DealerHold,3TYLC5LNXRT000370,Faulkner Toyota,PA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65969,0,63900,Factory to port,False,,3TYLC5LNXRT000594,AutoNation Toyota Cerritos,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,68378,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT000613,Sheehy Toyota of Laurel,MD
+2024-07-02,2024,Tacoma TRD Pro 4x4,Black,63900,66030,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT000644,Joseph Toyota of Cincinnati,OH
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Pro 4x4,BLACK,63900,67003,0,63900,Factory to port,False,Available,3TYLC5LNXRT000708,Northshore Toyota,LA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66435,0,63900,Factory to port,False,,3TYLC5LNXRT000711,Hanlees Toyota,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT000823,Dick Hannah Toyota,WA
+Unknown,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65500,4280,68180,Factory to port,True,DealerHold,3TYLC5LNXRT000837,Toyota of San Bernardino,CA
+2024-06-27,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65455,0,63900,Factory to port,True,DealerHold,3TYLC5LNXRT000854,Ed Martin Toyota,IN
+2024-06-29,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,66185,0,63900,Factory to port,False,,3TYLC5LNXRT000885,Performance Toyota,OH
+2024-06-20T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,55066,7979,54579,Factory to port,False,DealerHold,3TYLC5LNXRT000997,Joe Myers Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57415,0,46300,Factory to port,True,DealerHold,3TYLC5LNXRT001017,Toyota of Vallejo,CA
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,58840,0,55800,Factory to port,False,DealerHold,3TYLC5LNXRT001020,Stone's Town and Country Toyota,ID
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52925,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT001079,Thompson Toyota,PA
+2024-06-28,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,66998,0,63900,Factory to port,True,DealerHold,3TYLC5LNXRT001082,Ken Ganley Toyota Akron,OH
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,55140,0,46300,Factory to port,False,Available,3TYLC5LNXRT001115,Mojave Toyota of Barstow,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,67653,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT001180,Haddad Toyota,MA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,55355,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT001230,Toyota Santa Monica,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58864,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT001308,Galaxy Toyota,NJ
+Unknown,2024,Tacoma Limited 4WD,CELESTIAL SILVER METALLIC,55800,59719,0,55800,Factory to port,False,DealerHold,3TYLC5LNXRT001311,Lithia Toyota of Springfield,OR
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54840,0,46300,Factory to port,False,Available,3TYLC5LNXRT001356,Ciocca Toyota of Williamsport,PA
+2024-06-20T00:00:00.000Z,2024,Tacoma Limited 4WD,UNDERGROUND,55800,59447,0,55800,Factory to port,True,Available,3TYLC5LNXRT001437,Freeman Toyota,TX
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,57690,0,46300,Factory to port,False,Available,3TYLC5LNXRT001454,Modesto Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,BLACK,46300,58095,0,46300,Factory to port,False,Available,3TYLC5LNXRT001471,"Glen Motors, Inc.",NJ
+2024-07-06,2024,Tacoma TRD Pro 4x4,ICE CAP W/ BLACK ROOF*,63900,65969,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT001535,Wyatt Johnson Toyota,TN
+2024-07-05,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,66629,0,63900,Factory to port,False,DealerHold,3TYLC5LNXRT001762,Eddy's Toyota of Wichita,KS
+2024-07-03,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58233,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT001776,Inver Grove Toyota,MN
+2024-06-13T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,50736,1495,48095,Factory to port,False,Available,3TYLC5LNXRT001809,Price LeBlanc Toyota,LA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,49624,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT001812,Toyota of Bozeman,MT
+Unknown,2024,Tacoma TRD Pro 4x4,UNDERGROUND W/ BLACK ROOF*,63900,67979,0,63900,Factory to port,False,,3TYLC5LNXRT001857,Buckhannon Toyota,WV
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58394,0,55800,Factory to port,False,Available,3TYLC5LNXRT001860,Coggins Toyota of Bennington,VT
+Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,58480,0,46600,Factory to port,False,,3TYLC5LNXRT001888,Toyota of Santa Maria,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52855,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT001924,Tri County Toyota,PA
+2024-06-12T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,50936,0,46600,Factory to port,False,Available,3TYLC5LNXRT001941,Toyota of Brookhaven,MS
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55084,0,46600,Factory to port,True,,3TYLC5LNXRT002099,Avondale Toyota,AZ
+Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,53775,0,46300,Factory to port,False,,3TYLC5LNXRT002197,Concord Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,ICE CAP,46300,56174,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT002202,Putnam Toyota,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,58694,1790,48390,Factory to port,False,DealerHold,3TYLC5LNXRT002233,Liberty Toyota,NJ
+Unknown,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,60394,1397,47997,Factory to port,False,,3TYLC5LNXRT002250,DCH Wappingers Falls Toyota,NY
+2024-07-06,2024,Tacoma TRD Off-Road 4WD,BRONZE OXIDE,46600,53935,0,46600,Factory to port,False,Available,3TYLC5LNXRT002295,Fernelius Toyota,MI
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54349,0,46600,Factory to port,False,,3TYLC5LNXRT002314,Anderson Toyota,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58505,6275,52875,Factory to port,True,DealerHold,3TYLC5LNXRT002457,Toyota of San Bernardino,CA
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,57239,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT002460,Berlin City Toyota of Portland,ME
+Unknown,2024,Tacoma Limited 4WD,BRONZE OXIDE,55800,58948,0,55800,Factory to port,False,Available,3TYLC5LNXRT002488,AutoNation Toyota Tempe,AZ
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54424,0,46600,Factory to port,False,,3TYLC5LNXRT002507,AutoNation Toyota Spokane Valley,WA
+Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,54065,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT002541,Gresham Toyota,OR
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,58985,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT002619,Temecula Valley Toyota,CA
+2024-06-22T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,51926,0,46600,Factory to port,False,Available,3TYLC5LNXRT002622,Don McGill Toyota,TX
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58734,1595,48195,Factory to port,False,,3TYLC5LNXRT19B244,Findlay Toyota,NV
 Unknown,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,59820,0,46600,Factory to port,False,,3TYLC5LNXRT19B258,Hoselton Toyota,NY
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54705,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT19B325,Toyota of Lompoc,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,58174,0,46600,Factory to port,False,,3TYLC5LNXRT19B468,Toyota Place,CA
-2024-07-01,2024,Tacoma TRD Pro 4x4,Black,63900,66274,0,63900,Factory to port,False,,3TYLC5LNXRT19B504,Walker Toyota,OH
-Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,59959,0,46600,Factory to port,False,,3TYLC5LNXRT19C197,Hartford Toyota,CT
-2024-07-03,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,54725,0,46300,Factory to port,True,Available,3TYLC5LNXRT20C338,Byers Toyota,OH
-Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,54354,0,46300,Factory to port,False,,3TYLC5LNXRT21C433,Toyota of Santa Maria,CA
-2024-07-22,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,52485,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT22A001,Toyota Knoxville,TN
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,54298,0,46600,Factory to port,False,,3TYLC5LNXRT22A998,Toyota Marin,CA
+2024-06-10T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,50936,0,46600,Factory to port,False,Available,3TYLC5LNXRT20B903,Lone Star Toyota of Lewisville,TX
+2024-07-20,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,52485,0,46600,Factory to port,False,Available,3TYLC5LNXRT22A001,Toyota of Gallatin,TN
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLACK,46600,59664,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT22A015,Hoselton Toyota,NY
+2024-06-24T00:00:00.000Z,2024,Tacoma TRD Off-Road 4WD,CELESTIAL SILVER METALLIC,46600,52730,1495,48095,Factory to port,False,Available,3TYLC5LNXRT22A032,Cavender Toyota,TX
+2024-07-22,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,56720,0,46300,Factory to port,False,,3TYLC5LNXRT22A421,Zanesville Toyota,OH
 Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,56159,0,46600,Factory to port,False,DealerHold,3TYLC5LNXRT22B018,Dan Cava's Toyota World,WV
-2024-07-23,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,54180,0,46300,Factory to port,False,Available,3TYLC5LNXRT22B407,Fox Toyota,TN
+2024-07-22,2024,Tacoma TRD Sport 4WD,SOLAR OCTANE*,46300,54180,0,46300,Factory to port,False,Available,3TYLC5LNXRT22B407,Fox Toyota,TN
 Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59464,0,46600,Factory to port,False,,3TYLC5LNXRT22B889,Santa Margarita Toyota,CA
 Unknown,2024,Tacoma TRD Off-Road 4WD,ICE CAP,46600,58737,1495,48095,Factory to port,False,,3TYLC5LNXRT22C136,Simi Valley Toyota,CA
-Unknown,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,59239,0,46600,Factory to port,False,,3TYLC5LNXRT22C153,Manhattan Beach Toyota,CA
-2024-07-31,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55483,0,46600,Factory to port,False,,3TYLC5LNXRT23B421,Toyota of Boardman,OH
+2024-07-26,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,55483,0,46600,Factory to port,False,,3TYLC5LNXRT23B421,Toyota of Boardman,OH
+Unknown,2024,Tacoma TRD Off-Road 4WD,BLUE CRUSH METALLIC,46600,56775,0,46600,Factory to port,True,DealerHold,3TYLC5LNXRT24A152,Falmouth Toyota,MA
 Unknown,2024,Tacoma TRD Sport 4WD,CELESTIAL SILVER METALLIC,46300,60137,0,46300,Factory to port,False,Available,3TYLC5LNXRT24A362,Rivera Toyota of Mt. Kisco,NY
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64970,0,62900,Factory to port,False,,3TYLF5LN0RT16C701,Concord Toyota,CA
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65419,0,62900,Factory to port,False,,3TYLF5LN0RT18C866,Westbury Toyota,NY
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65400,5970,68870,Factory to port,False,,3TYLF5LN0RT18C883,Toyota of Redlands,CA
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66318,0,62900,Factory to port,False,,3TYLF5LN0RT18D502,Toyota of Manhattan,NY
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66139,1790,64690,Factory to port,False,DealerHold,3TYLF5LN0RT20B948,Shore Toyota,NJ
-2024-07-08,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66870,1978,64878,Factory to port,False,,3TYLF5LN0RT21A942,Chuck Hutton Toyota,TN
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66034,0,63400,Factory to port,False,Available,3TYLF5LN0RT22B553,Stephen Wade Toyota,UT
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,52925,0,46300,Factory to port,False,DealerHold,3TYLC5LNXRT24A927,Faulkner Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57975,0,46300,Factory to port,False,,3TYLC5LNXRT24B012,Prestige Toyota,NY
+Unknown,2024,Tacoma Limited 4WD,WIND CHILL PEARL*,55800,59470,0,55800,Factory to port,False,Available,3TYLC5LNXRT25A003,Charles Toyota,CT
+Unknown,2024,Tacoma TRD Sport 4WD,BRONZE OXIDE,46300,58784,499,46799,Factory to port,False,,3TYLC5LNXRT25A051,Toyota San Luis Obispo,CA
+Unknown,2024,Tacoma TRD Pro 4x4,TERRA W/ BLACK ROOF*,63900,71202,0,63900,Factory to port,False,Available,3TYLC5LNXRT25B118,Simi Valley Toyota,CA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,57964,0,46300,Factory to port,False,,3TYLC5LNXRT25B233,Toyota Place,CA
+2024-08-16,2024,Tacoma TRD Off-Road 4WD,UNDERGROUND,46600,60474,0,46600,Factory to port,False,,3TYLC5LNXRT27A901,Toyota of Boardman,OH
+Unknown,2024,Tacoma Limited 4WD,UNDERGROUND,55800,58220,0,55800,Factory to port,False,,3TYLC5LNXRT27B207,Lancaster Toyota,PA
+Unknown,2024,Tacoma TRD Sport 4WD,UNDERGROUND,46300,58880,3085,49385,Factory to port,False,,3TYLC5LNXRT27C700,Toyota of Glendale,CA
+2024-07-08,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65814,0,62900,Factory to port,True,DealerHold,3TYLF5LN0RT000305,Maplewood Toyota,MN
+2024-06-28,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66648,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT000353,Oxmoor Toyota,KY
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,66489,0,63400,Factory to port,True,DealerHold,3TYLF5LN0RT000398,Brewer Airport Toyota,PA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65354,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT000451,Brent Brown Toyota,UT
+2024-06-29,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66983,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT000479,Brunswick Toyota,OH
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66059,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT000630,Faith's Toyota Ford,VT
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65771,0,62900,Factory to port,True,,3TYLF5LN0RT000756,Performance Motors Toyota,PA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65764,8112,71512,Factory to port,True,DealerHold,3TYLF5LN0RT000952,Norm Reeves Toyota San Diego,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,65454,0,63400,Factory to port,True,DealerHold,3TYLF5LN0RT002068,Fitzgerald Toyota Gaithersburg,MD
+2024-07-07,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,64455,0,62900,Factory to port,True,DealerHold,3TYLF5LN0RT002085,Kenny Kent Toyota,IN
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64680,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT002152,Bernardi Toyota,MA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65509,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT002491,Shelor Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65030,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT002524,Peterson Toyota,ID
 Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66259,0,62900,Factory to port,False,,3TYLF5LN0RT23B130,Curry Toyota,NY
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,64895,0,63400,Factory to port,True,DealerHold,3TYLF5LN1RT16D369,AutoNation Toyota Hayward,CA
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64680,0,62900,Factory to port,True,DealerHold,3TYLF5LN1RT17D254,Ardmore Toyota,PA
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65589,3570,66470,Factory to port,False,DealerHold,3TYLF5LN1RT17D397,Gateway Toyota,NJ
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65628,0,62900,Factory to port,False,Available,3TYLF5LN1RT18C097,AutoNation Toyota Tempe,AZ
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64455,0,62900,Factory to port,False,Available,3TYLF5LN1RT18D489,South Coast Toyota,CA
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,65935,1295,64695,Factory to port,False,,3TYLF5LN1RT21B341,Auburn Toyota,CA
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66929,0,63400,Factory to port,False,,3TYLF5LN1RT21B937,Toyota of Morristown,NJ
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65354,0,62900,Factory to port,False,Available,3TYLF5LN1RT21C022,Bennett Toyota,PA
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,64550,5485,68385,Factory to port,False,,3TYLF5LN1RT22B352,Toyota of Clovis,CA
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65529,998,63898,Factory to port,False,DealerHold,3TYLF5LN1RT23A777,Webb Toyota,NM
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64610,0,62900,Factory to port,False,,3TYLF5LN2RT16D364,Towne Toyota,NJ
+2024-08-26,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65624,0,62900,Factory to port,False,,3TYLF5LN0RT28A893,Walker Toyota,OH
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,67949,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT28B879,Battlefield Toyota,VA
+2024-09-12,2024,Tacoma Trailhunter 4WD,BLACK,62900,65443,0,62900,Factory to port,False,DealerHold,3TYLF5LN0RT31B978,Oak Lawn Toyota,IL
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65354,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT000393,Tony Divino Toyota,UT
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65666,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT000667,Mike Calvert Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65184,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT001513,Fallon Ford Toyota,NV
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65709,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT001642,Heartland Toyota,WA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64500,4280,67180,Factory to port,True,DealerHold,3TYLF5LN1RT001818,Toyota of San Bernardino,CA
+2024-07-05,2024,Tacoma Trailhunter 4WD,BLACK,62900,65284,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT002483,Le Mieux & Son Toyota,WI
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65529,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT23A777,Webb Toyota,NM
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66908,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT24A807,Toyota of Olympia,WA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,66143,0,63400,Factory to port,False,,3TYLF5LN1RT25A821,Dayton Toyota,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,67792,0,62900,Factory to port,False,DealerHold,3TYLF5LN1RT25B483,"Bristol Toyota, Inc.",MA
+2024-08-17,2024,Tacoma Trailhunter 4WD,BLACK,62900,65454,0,62900,Factory to port,True,DealerHold,3TYLF5LN1RT26A801,Frank Fletcher Toyota,MO
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,68773,0,62900,Factory to port,False,,3TYLF5LN1RT27B099,Kearny Mesa Toyota,CA
+2024-08-30,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,67543,0,62900,Factory to port,False,,3TYLF5LN1RT28C037,Team Toyota,IN
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,68294,0,62900,Factory to port,False,DealerHold,3TYLF5LN2RT000693,Toyota of Bozeman,MT
+2024-07-08,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,65920,0,63400,Factory to port,False,DealerHold,3TYLF5LN2RT000824,Bill Estes Toyota,IN
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,66166,0,63400,Factory to port,True,Available,3TYLF5LN2RT000838,Don McGill Toyota of Katy,TX
+2024-06-22T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,66166,0,63400,Factory to port,True,Available,3TYLF5LN2RT001276,Universal Toyota,TX
+2024-06-28,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,64655,0,62900,Factory to port,False,DealerHold,3TYLF5LN2RT001360,Toyota on Nicholasville,KY
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64659,4079,66979,Factory to port,True,,3TYLF5LN2RT001522,Toyota of Huntington Beach,CA
+2024-07-08,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65110,0,63400,Factory to port,False,DealerHold,3TYLF5LN2RT001617,Andrew Toyota,WI
+2024-07-05,2024,Tacoma Trailhunter 4WD,BLACK,62900,67047,0,62900,Factory to port,False,DealerHold,3TYLF5LN2RT001701,Kerry Toyota,KY
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66139,1790,64690,Factory to port,False,DealerHold,3TYLF5LN2RT001987,Shore Toyota,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,65809,0,63400,Factory to port,False,DealerHold,3TYLF5LN2RT002170,Grants Pass Toyota,OR
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,65935,1295,64695,Factory to port,False,DealerHold,3TYLF5LN2RT002380,Auburn Toyota,CA
 2024-08-20,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65138,0,62900,Factory to port,True,,3TYLF5LN2RT25A164,Mungenast Alton Toyota,IL
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65119,2098,64998,Factory to port,False,Available,3TYLF5LN3RT17C686,Toyota of Surprise,AZ
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65628,9790,72690,Factory to port,False,DealerHold,3TYLF5LN3RT17D398,Berge Toyota,AZ
-2024-06-10,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66648,0,62900,Factory to port,True,DealerHold,3TYLF5LN3RT17D403,Toyota South,KY
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65489,0,62900,Factory to port,False,,3TYLF5LN3RT18C098,Lynch Toyota,CT
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65749,2495,65395,Factory to port,True,,3TYLF5LN3RT21A031,Toyota of Orange,CA
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65180,0,63400,Factory to port,False,DealerHold,3TYLF5LN3RT21A045,East Coast Toyota,NJ
-2024-07-10,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65857,0,62900,Factory to port,False,DealerHold,3TYLF5LN3RT21B020,Cumberland Toyota,TN
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64699,2899,65799,Factory to port,False,,3TYLF5LN3RT21C023,AutoNation Toyota Cerritos,CA
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,68093,0,62900,Factory to port,False,,3TYLF5LN3RT22A977,West Herr Toyota of Orchard Park,NY
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65400,1997,64897,Factory to port,False,,3TYLF5LN4RT18C885,Valley Hi Toyota,CA
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65254,0,62900,Factory to port,False,,3TYLF5LN4RT18D521,802 Toyota,VT
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65898,0,62900,Factory to port,False,DealerHold,3TYLF5LN2RT25A827,Toyota of Smithfield,RI
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66888,2490,65390,Factory to port,False,DealerHold,3TYLF5LN2RT25B136,Envision Toyota of Norwalk,CA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65309,0,62900,Factory to port,False,,3TYLF5LN2RT25B461,Lithia Toyota of Klamath Falls,OR
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65685,0,63400,Factory to port,False,,3TYLF5LN2RT26A158,Fordham Toyota,NY
+2024-08-20,2024,Tacoma Trailhunter 4WD,BLACK,62900,65419,0,62900,Factory to port,False,,3TYLF5LN2RT26A161,Toyota on Nicholasville,KY
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,66954,0,63400,Factory to port,True,DealerHold,3TYLF5LN2RT26A810,Faulkner Toyota,PA
+2024-08-14,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65329,0,62900,Factory to port,False,DealerHold,3TYLF5LN2RT27A916,Toyota of Gallatin,TN
+2024-08-30,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65443,0,62900,Factory to port,False,,3TYLF5LN2RT30A285,Toyota on Edens,IL
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,67934,0,62900,Factory to port,False,DealerHold,3TYLF5LN3RT000444,Colonial Toyota,CT
+2024-06-28T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66865,9999,72899,Factory to port,False,DealerHold,3TYLF5LN3RT000458,Joe Myers Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,68859,599,63499,Factory to port,False,,3TYLF5LN3RT000637,Hudson Toyota,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66209,0,63400,Factory to port,False,DealerHold,3TYLF5LN3RT000699,Burien Toyota,WA
+2024-06-18T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65866,0,62900,Factory to port,False,Available,3TYLF5LN3RT000704,AutoNation Toyota Gulf Freeway,TX
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65400,1997,64897,Factory to port,True,DealerHold,3TYLF5LN3RT000721,Valley Hi Toyota,CA
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65502,799,63699,Factory to port,True,Available,3TYLF5LN3RT000833,Landers Toyota NWA,AR
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66059,0,62900,Factory to port,True,DealerHold,3TYLF5LN3RT000881,Ira Toyota of Manchester,NH
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65389,1443,64843,Factory to port,True,DealerHold,3TYLF5LN3RT001075,Toyota of Lancaster,CA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64455,0,62900,Factory to port,False,DealerHold,3TYLF5LN3RT001397,Capitol Toyota of Salem,OR
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66319,0,62900,Factory to port,False,DealerHold,3TYLF5LN3RT001741,Dan Cava's Toyota World,WV
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66098,0,62900,Factory to port,False,DealerHold,3TYLF5LN3RT001920,Handy Toyota,VT
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66082,10995,74395,Factory to port,True,DealerHold,3TYLF5LN3RT002209,Toyota Carlsbad,CA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,66128,0,63400,Factory to port,False,Available,3TYLF5LN3RT002212,Camelback Toyota,AZ
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,64455,0,62900,Factory to port,True,DealerHold,3TYLF5LN3RT002274,Coggins Toyota of Bennington,VT
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64699,2899,65799,Factory to port,False,,3TYLF5LN3RT002422,AutoNation Toyota Cerritos,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,67877,0,63400,Factory to port,False,DealerHold,3TYLF5LN3RT25A447,Toyota World of Clinton,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65503,0,62900,Factory to port,False,Available,3TYLF5LN3RT28B875,Toyota of Poway,CA
+2024-06-30,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66033,0,62900,Factory to port,False,DealerHold,3TYLF5LN4RT000226,Toyota of Murfreesboro,TN
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65854,0,63400,Factory to port,False,DealerHold,3TYLF5LN4RT000307,Toyota of Scranton,PA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65744,0,62900,Factory to port,False,DealerHold,3TYLF5LN4RT000341,Bill Wright Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65589,3570,66470,Factory to port,False,DealerHold,3TYLF5LN4RT000369,Gateway Toyota,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65354,0,62900,Factory to port,False,Available,3TYLF5LN4RT000503,Elko Toyota,NV
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,64955,0,63400,Factory to port,False,DealerHold,3TYLF5LN4RT000744,Damian Lillard Toyota,OR
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65400,5990,68890,Factory to port,False,,3TYLF5LN4RT000906,Toyota of Redlands,CA
+2024-06-28T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65866,0,62900,Factory to port,True,Available,3TYLF5LN4RT001084,Vandergriff Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65919,0,63400,Factory to port,False,,3TYLF5LN4RT001215,Toyota of Anaheim,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65255,0,62900,Factory to port,False,DealerHold,3TYLF5LN4RT001831,Baierl Toyota,PA
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,66776,2895,65795,Factory to port,True,Available,3TYLF5LN4RT001960,Jim Norton Toyota,OK
+2024-06-16T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BLACK,62900,67065,6495,69395,Factory to port,False,DealerHold,3TYLF5LN4RT001974,Sterling McCall Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65749,2495,65395,Factory to port,True,,3TYLF5LN4RT002042,Toyota of Orange,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66929,0,63400,Factory to port,False,,3TYLF5LN4RT002073,Toyota of Morristown,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,65735,0,63400,Factory to port,False,DealerHold,3TYLF5LN4RT002087,355 Toyota,MD
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65329,0,62900,Factory to port,False,DealerHold,3TYLF5LN4RT002185,Toyota of Riverside,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65104,0,62900,Factory to port,False,DealerHold,3TYLF5LN4RT002543,Freeway Toyota of Hanford,CA
 Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65899,0,62900,Factory to port,False,,3TYLF5LN4RT23B132,Paul Miller Toyota of West Caldwell,NJ
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66453,0,62900,Factory to port,False,,3TYLF5LN5RT20A021,Alderman's Toyota,VT
-2024-07-08,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65685,0,63400,Factory to port,False,DealerHold,3TYLF5LN5RT20A312,Roberts Toyota,TN
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66098,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT20A939,Handy Toyota,VT
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65119,0,62900,Factory to port,True,,3TYLF5LN4RT25A828,Avondale Toyota,AZ
+2024-08-13,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65233,0,62900,Factory to port,True,DealerHold,3TYLF5LN4RT25B476,Ferris Toyota,OH
+2024-08-19,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,67043,0,62900,Factory to port,True,,3TYLF5LN4RT27A920,Toyota of Des Moines,IA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,69078,0,62900,Factory to port,False,,3TYLF5LN4RT28A086,Allegheny Toyota,PA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64970,0,62900,Factory to port,False,,3TYLF5LN5RT000249,Concord Toyota,CA
+2024-06-29,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66883,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT000252,Kerry Toyota,KY
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,68194,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT000414,Hoselton Toyota,NY
+2024-06-28T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,66366,0,63400,Factory to port,True,DealerHold,3TYLF5LN5RT000462,Freeman Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,65809,0,63400,Factory to port,False,,3TYLF5LN5RT000509,Lithia Toyota of Springfield,OR
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65544,0,62900,Factory to port,False,Available,3TYLF5LN5RT000705,Rogers Toyota of Hermiston,OR
+2024-07-05,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66033,1899,64799,Factory to port,False,DealerHold,3TYLF5LN5RT000820,Wolfchase Toyota,TN
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65349,0,62900,Factory to port,False,,3TYLF5LN5RT002079,Toyota of Escondido,CA
+2024-07-03,2024,Tacoma Trailhunter 4WD,BLACK,62900,65494,6383,69283,Factory to port,False,DealerHold,3TYLF5LN5RT002177,Victory Toyota of Midtown,IL
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66453,0,62900,Factory to port,True,,3TYLF5LN5RT20A021,Alderman's Toyota,VT
 Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,67822,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT22B368,Haley Toyota of Richmond,VA
 Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65909,0,63400,Factory to port,False,,3TYLF5LN5RT23A779,Empire Toyota,NY
 Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65255,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT23A782,Sloane Toyota of Glenside,PA
-2024-08-08,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65164,0,62900,Factory to port,True,DealerHold,3TYLF5LN5RT24A146,Byers Toyota,OH
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,67459,0,62900,Factory to port,False,Available,3TYLF5LN6RT16C699,Romano Toyota,NY
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64455,0,62900,Factory to port,False,,3TYLF5LN6RT18C077,Miller Toyota,VA
-2024-07-10,2024,Tacoma Trailhunter 4WD,BLACK,62900,65494,6383,69283,Factory to port,False,DealerHold,3TYLF5LN6RT21A945,Victory Toyota of Midtown,IL
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,67123,0,63400,Factory to port,False,,3TYLF5LN6RT22A360,Ourisman Chantilly Toyota,VA
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,67193,0,63400,Factory to port,False,,3TYLF5LN6RT22A651,Malloy Toyota,VA
+2024-07-30,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65164,0,62900,Factory to port,True,DealerHold,3TYLF5LN5RT24A146,Byers Toyota,OH
+2024-07-30,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65514,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT24B118,Lou Fusz Toyota,MO
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64804,1595,64495,Factory to port,False,,3TYLF5LN5RT25B115,Findlay Toyota,NV
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65255,0,62900,Factory to port,False,DealerHold,3TYLF5LN5RT26B143,Lia Toyota of Rockland,NY
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65284,0,62900,Factory to port,False,,3TYLF5LN5RT26B465,Toyota Place,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65089,1744,65144,Factory to port,False,DealerHold,3TYLF5LN5RT26B479,Simi Valley Toyota,CA
+2024-08-20,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65208,0,62900,Factory to port,False,,3TYLF5LN5RT27A084,Page Toyota,MI
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66068,0,62900,Factory to port,False,,3TYLF5LN5RT28C039,Bell Road Toyota,AZ
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,64895,0,63400,Factory to port,True,DealerHold,3TYLF5LN6RT000292,AutoNation Toyota Hayward,CA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,66059,0,63400,Factory to port,True,DealerHold,3TYLF5LN6RT000311,Kalispell Toyota,MT
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64680,0,62900,Factory to port,False,,3TYLF5LN6RT000437,Sloane Toyota of Philadelphia,PA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65254,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT000440,White River Toyota,VT
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65320,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT000664,Warrenton Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65629,0,63400,Factory to port,False,DealerHold,3TYLF5LN6RT000745,Toyota of North Hollywood,CA
+2024-06-18T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65666,6995,69895,Factory to port,False,DealerHold,3TYLF5LN6RT000793,Don McGill Toyota,TX
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65419,0,62900,Factory to port,False,,3TYLF5LN6RT000809,Westbury Toyota,NY
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65829,0,62900,Factory to port,True,DealerHold,3TYLF5LN6RT000812,Victory Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65390,0,62900,Factory to port,False,,3TYLF5LN6RT000874,First Team Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65400,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT001183,Nucar Toyota of North Attleboro,MA
+2024-06-28,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,69622,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT001295,Chicago Northside Toyota,IL
+2024-06-28,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65685,0,63400,Factory to port,False,DealerHold,3TYLF5LN6RT001863,Roberts Toyota,TN
+2024-07-06,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65857,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT002401,Cumberland Toyota,TN
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,65854,0,63400,Factory to port,False,Available,3TYLF5LN6RT002432,Lynch Toyota,CT
+2024-07-13,2024,Tacoma Trailhunter 4WD,BLACK,63400,67627,0,63400,Factory to port,False,DealerHold,3TYLF5LN6RT002608,Jerry Ackerman Toyota,MO
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,67358,0,62900,Factory to port,False,DealerHold,3TYLF5LN6RT002642,Hamer Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,67123,0,63400,Factory to port,True,,3TYLF5LN6RT22A360,Ourisman Chantilly Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,67193,0,63400,Factory to port,True,,3TYLF5LN6RT22A651,Malloy Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,65774,0,63400,Factory to port,False,,3TYLF5LN6RT22B363,Penn Toyota,NY
+2024-07-19,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66653,0,62900,Factory to port,False,Available,3TYLF5LN6RT22C464,Dan Deery Toyota,IA
 Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,67858,3085,66485,Factory to port,False,,3TYLF5LN6RT23B407,Toyota of Glendale,CA
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65494,0,62900,Factory to port,False,,3TYLF5LN7RT18C847,Ourisman Fairfax Toyota,VA
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66319,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT20A635,Dan Cava's Toyota World,WV
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64879,995,63895,Factory to port,True,,3TYLF5LN6RT24A155,Toyota Town,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66602,0,63400,Factory to port,True,,3TYLF5LN6RT25B690,Toyota Chula Vista,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64530,0,62900,Factory to port,False,,3TYLF5LN6RT28A901,Riverhead Toyota,NY
+2024-06-18T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65866,9988,72888,Factory to port,True,DealerHold,3TYLF5LN7RT000219,Toyota of Plano,TX
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65185,0,62900,Factory to port,False,,3TYLF5LN7RT000415,Santa Margarita Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,66083,0,62900,Factory to port,False,,3TYLF5LN7RT000432,Heritage Toyota Catonsville,MD
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64680,0,62900,Factory to port,True,DealerHold,3TYLF5LN7RT000530,Ardmore Toyota,PA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,64610,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT000642,Herb Chambers Toyota of Auburn,MA
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,67065,0,62900,Factory to port,True,DealerHold,3TYLF5LN7RT000768,Toyota of Denton,TX
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,65619,0,63400,Factory to port,False,DealerHold,3TYLF5LN7RT000821,Town Toyota,WA
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64455,0,62900,Factory to port,False,Available,3TYLF5LN7RT000897,South Coast Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,68294,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT000916,Toyota of Bozeman,MT
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65404,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT001726,Temecula Valley Toyota,CA
+2024-06-27,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65723,0,62900,Factory to port,True,DealerHold,3TYLF5LN7RT001810,Kolosso Toyota,WI
+2024-06-27,2024,Tacoma Trailhunter 4WD,BLACK,63400,66239,0,63400,Factory to port,False,,3TYLF5LN7RT001984,Germain Toyota of Columbus,OH
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65590,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT002195,City Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64455,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT002259,Langway Toyota of Newport,RI
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,68093,0,62900,Factory to port,False,DealerHold,3TYLF5LN7RT002598,West Herr Toyota of Orchard Park,NY
+2024-07-15,2024,Tacoma Trailhunter 4WD,BLACK,62900,66712,899,63799,Factory to port,True,,3TYLF5LN7RT002634,Billion Toyota,SD
+2024-06-22T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66637,1895,64795,Factory to port,True,DealerHold,3TYLF5LN7RT002651,Jim Norton Toyota of Oklahoma City,OK
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,66329,0,63400,Factory to port,False,,3TYLF5LN7RT24A147,Magnussen's Toyota of Palo Alto,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,64955,0,63400,Factory to port,False,DealerHold,3TYLF5LN7RT24A150,Falmouth Toyota,MA
 Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65655,0,62900,Factory to port,True,,3TYLF5LN7RT24A486,Toyota of Greensburg,PA
-2024-07-08,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65110,0,63400,Factory to port,False,DealerHold,3TYLF5LN8RT20A031,Andrew Toyota,WI
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65590,570,63470,Factory to port,False,DealerHold,3TYLF5LN8RT21C034,Hanlees Hilltop Toyota,CA
-2024-06-13,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66033,1899,64799,Factory to port,False,DealerHold,3TYLF5LN9RT18C686,Wolfchase Toyota,TN
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,68859,599,63499,Factory to port,False,,3TYLF5LN9RT18C705,Hudson Toyota,NJ
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65320,0,62900,Factory to port,False,DealerHold,3TYLF5LN9RT18C722,Warrenton Toyota,VA
-Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64659,4079,66979,Factory to port,True,,3TYLF5LN9RT20B558,Toyota of Huntington Beach,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,69637,0,62900,Factory to port,True,,3TYLF5LN7RT25B696,South Bay Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65284,499,63399,Factory to port,False,,3TYLF5LN7RT27A913,Toyota San Luis Obispo,CA
+2024-08-16,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66618,0,62900,Factory to port,False,,3TYLF5LN7RT27B950,Toyota of Boardman,OH
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,65859,0,63400,Factory to port,False,,3TYLF5LN7RT28B880,Toyota of Runnemede,NJ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65255,0,62900,Factory to port,False,DealerHold,3TYLF5LN8RT000388,Sloane Toyota of Malvern,PA
+2024-07-01,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66648,0,62900,Factory to port,True,DealerHold,3TYLF5LN8RT000455,Toyota South,KY
+2024-06-18T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BLACK,62900,65577,0,62900,Factory to port,True,Available,3TYLF5LN8RT000522,Northshore Toyota,LA
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65628,2195,65095,Factory to port,True,DealerHold,3TYLF5LN8RT000536,Berge Toyota,AZ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65628,0,62900,Factory to port,False,Available,3TYLF5LN8RT000701,AutoNation Toyota Tempe,AZ
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65188,0,62900,Factory to port,False,DealerHold,3TYLF5LN8RT000763,Central Maine Toyota,ME
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65254,0,62900,Factory to port,False,DealerHold,3TYLF5LN8RT000777,802 Toyota,VT
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65555,0,62900,Factory to port,True,DealerHold,3TYLF5LN8RT000780,Toyota of The Desert,CA
+2024-06-22T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66466,0,62900,Factory to port,False,DealerHold,3TYLF5LN8RT000858,Oakes Toyota,MS
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65494,0,62900,Factory to port,False,,3TYLF5LN8RT000861,Ourisman Fairfax Toyota,VA
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BLACK,62900,65866,1495,64395,Factory to port,False,DealerHold,3TYLF5LN8RT000925,Cavender Toyota,TX
+2024-07-07,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,64955,0,63400,Factory to port,True,DealerHold,3TYLF5LN8RT000939,Toyota Knoxville,TN
+2024-07-05,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,64955,0,63400,Factory to port,False,DealerHold,3TYLF5LN8RT001105,Toyota West,OH
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,64455,0,62900,Factory to port,False,DealerHold,3TYLF5LN8RT001590,Toyota of Dartmouth,MA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65354,0,62900,Factory to port,True,DealerHold,3TYLF5LN8RT002089,Bennett Toyota,PA
+2024-07-01,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,64955,0,63400,Factory to port,False,DealerHold,3TYLF5LN8RT002142,Toyota of Brookfield,WI
+2024-06-30,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,66870,1978,64878,Factory to port,False,DealerHold,3TYLF5LN8RT002321,Chuck Hutton Toyota,TN
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65590,570,63470,Factory to port,False,DealerHold,3TYLF5LN8RT002416,Hanlees Hilltop Toyota,CA
+2024-07-29,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65713,0,62900,Factory to port,False,,3TYLF5LN8RT24A464,Legends Toyota,KS
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,67450,0,62900,Factory to port,False,,3TYLF5LN8RT28C035,Berlin City Toyota of Portland,ME
+2024-09-06,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,67543,0,62900,Factory to port,False,,3TYLF5LN8RT30B683,Orland Toyota,IL
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,64610,0,62900,Factory to port,False,,3TYLF5LN9RT000285,Towne Toyota,NJ
+2024-07-12,2024,Tacoma Trailhunter 4WD,BLACK,62900,65814,0,62900,Factory to port,True,DealerHold,3TYLF5LN9RT000349,Inver Grove Toyota,MN
+Unknown,2024,Tacoma Trailhunter 4WD,BLACK,62900,65119,2098,64998,Factory to port,False,Available,3TYLF5LN9RT000495,Toyota of Surprise,AZ
+2024-07-01,2024,Tacoma Trailhunter 4WD,BLACK,63400,65758,0,63400,Factory to port,False,DealerHold,3TYLF5LN9RT000514,Toyota of Laramie,WY
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64455,0,62900,Factory to port,False,,3TYLF5LN9RT000688,Miller Toyota,VA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65629,0,63400,Factory to port,False,DealerHold,3TYLF5LN9RT000755,Keyes Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,65489,0,62900,Factory to port,False,,3TYLF5LN9RT000836,Lynch Toyota,CT
+2024-06-22T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,67065,0,62900,Factory to port,False,DealerHold,3TYLF5LN9RT001002,North Park Toyota of San Antonio,TX
+2024-06-29,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,67513,0,62900,Factory to port,True,,3TYLF5LN9RT001159,Toyota of Boardman,OH
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,BLACK,62900,65866,0,62900,Factory to port,False,DealerHold,3TYLF5LN9RT001520,Toyota of Richardson,TX
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65804,0,62900,Factory to port,True,DealerHold,3TYLF5LN9RT002411,Freeman Toyota,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65180,0,63400,Factory to port,False,DealerHold,3TYLF5LN9RT002568,East Coast Toyota,NJ
 Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,67238,0,63400,Factory to port,False,,3TYLF5LN9RT24B428,Toyota of Erie,PA
-2024-06-12,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,64955,0,63400,Factory to port,True,DealerHold,3TYLF5LNXRT18C101,Toyota Knoxville,TN
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66166,0,62900,Factory to port,False,DealerHold,3TYLF5LNXRT19A862,Faulkner Toyota,PA
-2024-06-25,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,69622,0,62900,Factory to port,False,Available,3TYLF5LNXRT19B784,Chicago Northside Toyota,IL
-Unknown,2024,Tacoma Trailhunter 4WD,BLACK,63400,65854,0,63400,Factory to port,False,Available,3TYLF5LNXRT21A933,Lynch Toyota,CT
-Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65590,0,62900,Factory to port,False,DealerHold,3TYLF5LNXRT21C035,City Toyota,CA
-2024-08-01,2024,Tacoma Trailhunter 4WD,BLACK,62900,66712,899,63799,Factory to port,True,,3TYLF5LNXRT22B561,Billion Toyota,SD
-Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,62900,65001,1997,64897,Factory to port,False,DealerHold,3TYLF5LNXRT22C483,AutoNation Toyota Las Vegas,NV
-Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65755,0,63400,Factory to port,False,DealerHold,3TYLF5LNXRT24A790,Bill Page Toyota,VA
-2024-08-12,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65199,0,62900,Factory to port,True,Available,3TYLF5LNXRT24A806,Wilson Toyota,IA
-2024-08-05,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,64455,0,62900,Factory to port,False,,3TYLF5LNXRT24B129,Toyota of Muncie,IN
+Unknown,2024,Tacoma Trailhunter 4WD,CELESTIAL SILVER METALLIC,63400,65180,2190,65590,Factory to port,False,,3TYLF5LN9RT27B948,Cabe Toyota Long Beach,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,69888,0,62900,Factory to port,True,DealerHold,3TYLF5LN9RT28B881,Kalispell Toyota,MT
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65685,0,63400,Factory to port,False,,3TYLF5LNXRT000229,Wills Toyota,ID
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,67459,0,62900,Factory to port,False,Available,3TYLF5LNXRT000263,Romano Toyota,NY
+2024-07-03,2024,Tacoma Trailhunter 4WD,BLACK,62900,66983,0,62900,Factory to port,False,DealerHold,3TYLF5LNXRT000277,Classic Toyota,OH
+2024-06-29,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,67148,0,63400,Factory to port,False,DealerHold,3TYLF5LNXRT000375,Jeff Wyler Toyota of Clarksville,IN
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,64680,0,62900,Factory to port,True,DealerHold,3TYLF5LNXRT000537,Del Toyota,PA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,65165,0,62900,Factory to port,False,,3TYLF5LNXRT000666,DARCARS Toyota,MD
+2024-06-20T00:00:00.000Z,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65666,0,62900,Factory to port,False,Available,3TYLF5LNXRT000697,Vic Vaughan Toyota of Boerne,TX
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66318,0,62900,Factory to port,True,,3TYLF5LNXRT000733,Toyota of Manhattan,NY
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,63400,66090,0,63400,Factory to port,True,DealerHold,3TYLF5LNXRT000893,Toyota of Vallejo,CA
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65559,1298,64198,Factory to port,False,Available,3TYLF5LNXRT002062,Lithia Toyota of Billings,MT
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65619,5248,68648,Factory to port,True,,3TYLF5LNXRT002594,Foothills Toyota,WA
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,63400,65114,0,63400,Factory to port,True,DealerHold,3TYLF5LNXRT23A468,Toyota of Santa Maria,CA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,63400,65755,0,63400,Factory to port,True,DealerHold,3TYLF5LNXRT24A790,Bill Page Toyota,VA
+2024-08-04,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,65199,0,62900,Factory to port,True,Available,3TYLF5LNXRT24A806,Wilson Toyota,IA
+2024-07-24,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,64455,0,62900,Factory to port,True,,3TYLF5LNXRT24B129,Toyota of Muncie,IN
+Unknown,2024,Tacoma Trailhunter 4WD,UNDERGROUND,62900,66229,0,62900,Factory to port,False,Available,3TYLF5LNXRT24B423,Findlay Toyota Prescott,AZ
+Unknown,2024,Tacoma Trailhunter 4WD,ICE CAP,62900,64699,0,62900,Factory to port,False,,3TYLF5LNXRT26A165,McGee Toyota of Dudley,MA
+Unknown,2024,Tacoma Trailhunter 4WD,BRONZE OXIDE,62900,66443,0,62900,Factory to port,False,,3TYLF5LNXRT28C036,Curry Toyota,NY
