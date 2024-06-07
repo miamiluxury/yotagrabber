@@ -9,7 +9,7 @@
     ],
     "families":[
       {
-        "seqNo":9,
+        "seqNo":10,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -42,7 +42,7 @@
     ],
     "families":[
       {
-        "seqNo":2,
+        "seqNo":3,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -184,7 +184,7 @@
     ],
     "families":[
       {
-        "seqNo":12,
+        "seqNo":13,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -217,7 +217,7 @@
     ],
     "families":[
       {
-        "seqNo":13,
+        "seqNo":14,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -354,7 +354,7 @@
     ],
     "families":[
       {
-        "seqNo":7,
+        "seqNo":8,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -387,7 +387,7 @@
     ],
     "families":[
       {
-        "seqNo":11,
+        "seqNo":12,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -487,7 +487,7 @@
     ],
     "families":[
       {
-        "seqNo":1,
+        "seqNo":2,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -520,7 +520,7 @@
     ],
     "families":[
       {
-        "seqNo":6,
+        "seqNo":7,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -557,7 +557,7 @@
     ],
     "families":[
       {
-        "seqNo":3,
+        "seqNo":4,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -598,7 +598,7 @@
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":18,
+        "seqNo":19,
         "familiyType":"Electrified"
       }
     ],
@@ -704,7 +704,7 @@
     ],
     "families":[
       {
-        "seqNo":4,
+        "seqNo":5,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -737,7 +737,7 @@
     ],
     "families":[
       {
-        "seqNo":5,
+        "seqNo":6,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -774,7 +774,7 @@
     ],
     "families":[
       {
-        "seqNo":10,
+        "seqNo":11,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -811,11 +811,11 @@
     ],
     "families":[
       {
-        "seqNo":8,
+        "seqNo":9,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":16,
+        "seqNo":17,
         "familiyType":"Electrified"
       }
     ],
@@ -852,7 +852,7 @@
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":17,
+        "seqNo":18,
         "familiyType":"Electrified"
       }
     ],
@@ -921,7 +921,7 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":14,
+        "seqNo":15,
         "familiyType":"Electrified"
       }
     ],
@@ -982,6 +982,43 @@
   },
   {
     "asShownDisclaimer":null,
+    "asShown":"$47,990 as shown [global_msrp_as_shown_disclaimer]",
+    "cityMPG":"39",
+    "disclaimer":"[global_epa_2025_crown_signia_disclaimer]",
+    "family":[
+      "Crossovers &amp; SUVs",
+      "Electrified"
+    ],
+    "families":[
+      {
+        "seqNo":1,
+        "familiyType":"Crossovers &amp; SUVs"
+      },
+      {
+        "seqNo":14,
+        "familiyType":"Electrified"
+      }
+    ],
+    "hoverImage":null,
+    "hwyMPG":"37",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/toyotacrownsignia\/base.png",
+    "modelCode":"toyotacrownsignia",
+    "msrp":"43590",
+    "series":"Toyota Crown Signia",
+    "shortDescription":null,
+    "title":"Toyota Crown Signia",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_crown_signia_disclaimer]",
+    "mpgeDisclaimerCode":"",
+    "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
+    "mpge":null,
+    "range":null,
+    "topLabel.iconField":null,
+    "topLabel.textField":"Hybrid",
+    "bottomLabel.textField":""
+  },
+  {
+    "asShownDisclaimer":null,
     "asShown":"$56,905 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"18",
     "disclaimer":"[global_epa_2024_tundra_disclaimer]",
@@ -1027,7 +1064,7 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":15,
+        "seqNo":16,
         "familiyType":"Electrified"
       }
     ],
@@ -1060,11 +1097,11 @@
     ],
     "families":[
       {
-        "seqNo":14,
+        "seqNo":15,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":19,
+        "seqNo":20,
         "familiyType":"Electrified"
       }
     ],
