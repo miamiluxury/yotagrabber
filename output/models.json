@@ -44,14 +44,6 @@
     "title":"GR86"
   },
   {
-    "modelCode":"grandhighlander",
-    "title":"Grand Highlander"
-  },
-  {
-    "modelCode":"grandhighlanderhybrid",
-    "title":"Grand Highlander Hybrid"
-  },
-  {
     "modelCode":"highlander",
     "title":"Highlander"
   },
@@ -106,10 +98,6 @@
   {
     "modelCode":"toyotacrown",
     "title":"Toyota Crown"
-  },
-  {
-    "modelCode":"toyotacrownsignia",
-    "title":"Toyota Crown Signia"
   },
   {
     "modelCode":"tundra",
