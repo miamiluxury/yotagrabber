@@ -9,7 +9,7 @@
     ],
     "families":[
       {
-        "seqNo":10,
+        "seqNo":14,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -107,46 +107,9 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$35,220 as shown [global_msrp_as_shown_disclaimer]",
-    "cityMPG":"51",
-    "disclaimer":"[global_prelim_mpg_2024_camry_disclaimer]",
-    "family":[
-      "Cars &amp; Minivan",
-      "Electrified"
-    ],
-    "families":[
-      {
-        "seqNo":9,
-        "familiyType":"Cars &amp; Minivan"
-      },
-      {
-        "seqNo":11,
-        "familiyType":"Electrified"
-      }
-    ],
-    "hoverImage":null,
-    "hwyMPG":"53",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/camryhybrid\/base.png",
-    "modelCode":"camryhybrid",
-    "msrp":"28855",
-    "series":"Camry Hybrid",
-    "shortDescription":null,
-    "title":"Camry Hybrid",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_camry_disclaimer]",
-    "mpgeDisclaimerCode":"",
-    "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
-    "mpge":null,
-    "range":null,
-    "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
-    "bottomLabel.textField":""
-  },
-  {
-    "asShownDisclaimer":null,
     "asShown":"$25,490 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"32",
-    "disclaimer":"[global_prelim_mpg_2024_corolla_disclaimer]",
+    "disclaimer":"[global_epa_2024_corolla_disclaimer]",
     "family":[
       "Cars &amp; Minivan"
     ],
@@ -165,7 +128,7 @@
     "shortDescription":null,
     "title":"Corolla",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_corolla_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_corolla_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -178,13 +141,13 @@
     "asShownDisclaimer":null,
     "asShown":"$29,385 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"31",
-    "disclaimer":"[global_prelim_mpg_2024_disclaimer]",
+    "disclaimer":"[global_epa_2024_corolla_cross_disclaimer]",
     "family":[
       "Crossovers &amp; SUVs"
     ],
     "families":[
       {
-        "seqNo":13,
+        "seqNo":12,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -197,7 +160,7 @@
     "shortDescription":null,
     "title":"Corolla Cross",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_corolla_cross_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -210,18 +173,18 @@
     "asShownDisclaimer":null,
     "asShown":"$30,965 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"45",
-    "disclaimer":"[global_prelim_mpg_2024_disclaimer]",
+    "disclaimer":"[global_epa_2024_corolla_cross_disclaimer]",
     "family":[
       "Crossovers &amp; SUVs",
       "Electrified"
     ],
     "families":[
       {
-        "seqNo":14,
+        "seqNo":13,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":12,
+        "seqNo":11,
         "familiyType":"Electrified"
       }
     ],
@@ -234,7 +197,7 @@
     "shortDescription":null,
     "title":"Corolla Cross Hybrid",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_corolla_cross_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -245,9 +208,9 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$26,805 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$26,930 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"32",
-    "disclaimer":"[global_prelim_mpg_2025_disclaimer]",
+    "disclaimer":"[global_epa_2025_corollahb_disclaimer]",
     "family":[
       "Cars &amp; Minivan"
     ],
@@ -266,7 +229,7 @@
     "shortDescription":null,
     "title":"Corolla Hatchback",
     "year":"2025",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2025_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2025_corollahb_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -279,7 +242,7 @@
     "asShownDisclaimer":null,
     "asShown":"$28,340 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"53",
-    "disclaimer":"[global_prelim_mpg_2024_corolla_disclaimer]",
+    "disclaimer":"[global_epa_2024_corolla_disclaimer]",
     "family":[
       "Cars &amp; Minivan",
       "Electrified"
@@ -303,7 +266,7 @@
     "shortDescription":null,
     "title":"Corolla Hybrid",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_corolla_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_corolla_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -316,13 +279,13 @@
     "asShownDisclaimer":null,
     "asShown":"$34,720 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"20",
-    "disclaimer":"[global_epa_2023_gr86_disclaimer]",
+    "disclaimer":"[global_epa_2024_gr86_disclaimer]",
     "family":[
       "Cars &amp; Minivan"
     ],
     "families":[
       {
-        "seqNo":11,
+        "seqNo":10,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -335,7 +298,7 @@
     "shortDescription":null,
     "title":"GR86",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_epa_2023_gr86_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_gr86_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -386,7 +349,7 @@
     ],
     "families":[
       {
-        "seqNo":12,
+        "seqNo":11,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -412,7 +375,7 @@
     "asShownDisclaimer":null,
     "asShown":"$46,390 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"22",
-    "disclaimer":"[global_prelim_mpg_2024_disclaimer]",
+    "disclaimer":"[global_epa_2024_highlander_disclaimer]",
     "family":[
       "Crossovers &amp; SUVs"
     ],
@@ -431,7 +394,7 @@
     "shortDescription":null,
     "title":"Highlander",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_highlander_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -444,7 +407,7 @@
     "asShownDisclaimer":null,
     "asShown":"$46,720 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"36",
-    "disclaimer":"[global_prelim_mpg_2024_disclaimer]",
+    "disclaimer":"[global_epa_2024_highlander_disclaimer]",
     "family":[
       "Crossovers &amp; SUVs",
       "Electrified"
@@ -468,7 +431,7 @@
     "shortDescription":null,
     "title":"Highlander Hybrid",
     "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_disclaimer]",
+    "mpgDisclaimerCode":"[global_epa_2024_highlander_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -525,11 +488,11 @@
     ],
     "families":[
       {
-        "seqNo":10,
+        "seqNo":9,
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":19,
+        "seqNo":18,
         "familiyType":"Electrified"
       }
     ],
@@ -705,7 +668,7 @@
     ],
     "families":[
       {
-        "seqNo":11,
+        "seqNo":10,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -733,9 +696,9 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$73,865 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$80,610 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"21",
-    "disclaimer":"[global_epa_2024_sequoia_disclaimer]",
+    "disclaimer":"[global_epa_2025_sequoia_disclaimer]",
     "family":[
       "Crossovers &amp; SUVs",
       "Electrified"
@@ -746,20 +709,20 @@
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":17,
+        "seqNo":16,
         "familiyType":"Electrified"
       }
     ],
     "hoverImage":null,
     "hwyMPG":"24",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/sequoia\/base.png",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/sequoia\/base.png",
     "modelCode":"sequoia",
-    "msrp":"61275",
+    "msrp":"62175",
     "series":"Sequoia",
     "shortDescription":null,
     "title":"Sequoia",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_epa_2024_sequoia_disclaimer]",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_sequoia_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -779,11 +742,11 @@
     ],
     "families":[
       {
-        "seqNo":13,
+        "seqNo":12,
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":18,
+        "seqNo":17,
         "familiyType":"Electrified"
       }
     ],
@@ -852,7 +815,7 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":15,
+        "seqNo":14,
         "familiyType":"Electrified"
       }
     ],
@@ -889,7 +852,7 @@
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":13,
+        "seqNo":12,
         "familiyType":"Electrified"
       }
     ],
@@ -913,9 +876,46 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$56,905 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$47,990 as shown [global_msrp_as_shown_disclaimer]",
+    "cityMPG":"39",
+    "disclaimer":"[global_epa_2025_crown_signia_disclaimer]",
+    "family":[
+      "Crossovers &amp; SUVs",
+      "Electrified"
+    ],
+    "families":[
+      {
+        "seqNo":1,
+        "familiyType":"Crossovers &amp; SUVs"
+      },
+      {
+        "seqNo":13,
+        "familiyType":"Electrified"
+      }
+    ],
+    "hoverImage":null,
+    "hwyMPG":"37",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/toyotacrownsignia\/base.png",
+    "modelCode":"toyotacrownsignia",
+    "msrp":"43590",
+    "series":"Toyota Crown Signia",
+    "shortDescription":null,
+    "title":"Toyota Crown Signia",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_crown_signia_disclaimer]",
+    "mpgeDisclaimerCode":"",
+    "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
+    "mpge":null,
+    "range":null,
+    "topLabel.iconField":null,
+    "topLabel.textField":"Hybrid",
+    "bottomLabel.textField":""
+  },
+  {
+    "asShownDisclaimer":null,
+    "asShown":"$48,010 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"18",
-    "disclaimer":"[global_epa_2024_tundra_disclaimer]",
+    "disclaimer":"[global_epa_2025_tundra_disclaimer]",
     "family":[
       "Trucks"
     ],
@@ -927,14 +927,14 @@
     ],
     "hoverImage":null,
     "hwyMPG":"23",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/tundra\/base.png",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/tundra\/base.png",
     "modelCode":"tundra",
-    "msrp":"39965",
+    "msrp":"40090",
     "series":"Tundra",
     "shortDescription":null,
     "title":"Tundra",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_epa_2024_tundra_disclaimer]",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_tundra_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
@@ -945,9 +945,9 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$79,270 as shown [global_msrp_as_shown_disclaimer]",
+    "asShown":"$72,510 as shown [global_msrp_a_shown_disclaimer]",
     "cityMPG":"20",
-    "disclaimer":"[global_epa_2024_tundra_disclaimer]",
+    "disclaimer":"[global_epa_2025_tundra_disclaimer]",
     "family":[
       "Trucks",
       "Electrified"
@@ -958,26 +958,26 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":16,
+        "seqNo":15,
         "familiyType":"Electrified"
       }
     ],
     "hoverImage":null,
     "hwyMPG":"24",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/tundrahybrid\/base.png",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/tundrahybrid\/base.png",
     "modelCode":"tundrahybrid",
-    "msrp":"57625",
+    "msrp":"58005",
     "series":"Tundra i-FORCE MAX",
     "shortDescription":null,
     "title":"Tundra i-FORCE MAX",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_epa_2024_tundra_disclaimer]",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_tundra_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -995,7 +995,7 @@
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":20,
+        "seqNo":19,
         "familiyType":"Electrified"
       }
     ],

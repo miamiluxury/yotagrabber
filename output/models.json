@@ -8,10 +8,6 @@
     "title":"Camry"
   },
   {
-    "modelCode":"camryhybrid",
-    "title":"Camry Hybrid"
-  },
-  {
     "modelCode":"corolla",
     "title":"Corolla"
   },
@@ -98,6 +94,10 @@
   {
     "modelCode":"toyotacrown",
     "title":"Toyota Crown"
+  },
+  {
+    "modelCode":"toyotacrownsignia",
+    "title":"Toyota Crown Signia"
   },
   {
     "modelCode":"tundra",
