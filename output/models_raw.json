@@ -9,7 +9,7 @@
     ],
     "families":[
       {
-        "seqNo":14,
+        "seqNo":15,
         "familiyType":"Crossovers &amp; SUVs"
       }
     ],
@@ -65,7 +65,7 @@
     "mpge":null,
     "range":"252",
     "topLabel.iconField":null,
-    "topLabel.textField":"All-Electric",
+    "topLabel.textField":"Battery EV",
     "bottomLabel.textField":""
   },
   {
@@ -102,7 +102,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -134,7 +134,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -166,7 +166,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -203,7 +203,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -242,7 +242,7 @@
     "asShownDisclaimer":null,
     "asShown":"$28,340 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"53",
-    "disclaimer":"[global_epa_2024_corolla_disclaimer]",
+    "disclaimer":"[global_epa_2025_corolla_disclaimer]",
     "family":[
       "Cars &amp; Minivan",
       "Electrified"
@@ -259,20 +259,20 @@
     ],
     "hoverImage":null,
     "hwyMPG":"46",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/corollahybrid\/base.png",
+    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2025\/corollahybrid\/base.png",
     "modelCode":"corollahybrid",
-    "msrp":"23500",
+    "msrp":"23625",
     "series":"Corolla Hybrid",
     "shortDescription":null,
     "title":"Corolla Hybrid",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_epa_2024_corolla_disclaimer]",
+    "year":"2025",
+    "mpgDisclaimerCode":"[global_epa_2025_corolla_disclaimer]",
     "mpgeDisclaimerCode":"",
     "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -400,7 +400,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -437,7 +437,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -474,7 +474,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -511,7 +511,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Fuel Cell Electric Vehicle",
+    "topLabel.textField":"Fuel Cell EV",
     "bottomLabel.textField":""
   },
   {
@@ -548,7 +548,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -585,7 +585,7 @@
     "mpge":"114",
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Plug-in Hybrid",
+    "topLabel.textField":"Plug-In Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -617,7 +617,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -654,7 +654,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -691,7 +691,7 @@
     "mpge":"94",
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Plug-in Hybrid",
+    "topLabel.textField":"Plug-In Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -728,7 +728,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -765,7 +765,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -797,7 +797,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -834,7 +834,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -871,7 +871,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -908,7 +908,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   },
   {
@@ -940,7 +940,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid Available",
+    "topLabel.textField":"",
     "bottomLabel.textField":""
   },
   {
@@ -991,7 +991,7 @@
     ],
     "families":[
       {
-        "seqNo":15,
+        "seqNo":14,
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
@@ -1014,7 +1014,7 @@
     "mpge":null,
     "range":null,
     "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
+    "topLabel.textField":"Hybrid EV",
     "bottomLabel.textField":""
   }
 ]
